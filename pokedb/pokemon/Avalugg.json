@@ -1,0 +1,99 @@
+{
+    "name": "Avalugg",
+    "national_no": "0713",
+    "type": [
+        "Ice",
+        "Ice",
+        "Rock"
+    ],
+    "species": "Iceberg Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "505.0\u00a0kg (1113.3\u00a0lbs)",
+    "abilities": [
+        "Own Tempo",
+        "Ice Body",
+        "Sturdy",
+        "Strong Jaw",
+        "Ice Body",
+        "Sturdy"
+    ],
+    "ev_yield": "\n2 Defense ",
+    "catch_rate": "\n55 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "180",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Mineral",
+        "Monster",
+        "Mineral",
+        "Monster"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female",
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "95",
+        "attack": "117",
+        "defense": "184",
+        "sp. atk": "44",
+        "sp. def": "46",
+        "speed": "28",
+        "total": "514"
+    },
+    "evolution_chain": [
+        "Bergmite",
+        "Avalugg",
+        "Avalugg"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [
+        {
+            "move": "Aurora Veil",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Mirror Coat",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Mist",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "X / Y": "Bergmite",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Frigid Sea",
+        "Brilliant Diamond / Shining Pearl": "Not available in this game",
+        "Legends: Arceus": "Avalugg's Legacy",
+        "Scarlet / Violet": "Casseroya Lake"
+    },
+    "other_languages": {
+        "English": "Avalugg",
+        "Japanese": "\u30af\u30ec\u30d9\u30fc\u30b9 (Crebase)",
+        "German": "Arktilas",
+        "French": "S\u00e9racrawl",
+        "Italian": "Avalugg",
+        "Spanish": "Avalugg",
+        "Korean": "\ud06c\ub808\ubca0\uc774\uc2a4 (keurebeiseu)",
+        "Chinese (Simplified)": "\u51b0\u5ca9\u602a",
+        "Chinese (Traditional)": "\u51b0\u5ca9\u602a"
+    }
+}

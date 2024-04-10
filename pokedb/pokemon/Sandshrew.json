@@ -1,0 +1,568 @@
+{
+    "name": "Sandshrew",
+    "national_no": "0027",
+    "type": [
+        "Ground",
+        "Ice",
+        "Steel"
+    ],
+    "species": "Mouse Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "12.0\u00a0kg (26.5\u00a0lbs)",
+    "abilities": [
+        "Sand Veil",
+        "Sand Rush",
+        "Snow Cloak",
+        "Slush Rush"
+    ],
+    "ev_yield": "\n1 Defense ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "60",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Field",
+        "Field"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female",
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "75",
+        "defense": "85",
+        "sp. atk": "20",
+        "sp. def": "30",
+        "speed": "40",
+        "total": "300"
+    },
+    "evolution_chain": [
+        "Sandshrew",
+        "Sandslash",
+        "Sandshrew",
+        "Sandslash"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Defense Curl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Scratch",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "3",
+            "move": "Poison Sting",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Sand Attack",
+            "type": "Ground",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "level": "12",
+            "move": "Fury Cutter",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "95"
+        },
+        {
+            "level": "15",
+            "move": "Rapid Spin",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "21",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "24",
+            "move": "Fury Swipes",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "18",
+            "accuracy": "80"
+        },
+        {
+            "level": "27",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Slash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "33",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "36",
+            "move": "Gyro Ball",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "39",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "42",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "45",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Focus Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM10",
+            "move": "Work Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM20",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM23",
+            "move": "Iron Tail",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "75"
+        },
+        {
+            "tm": "TM26",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM31",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM37",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM39",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM56",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM65",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM74",
+            "move": "Gyro Ball",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM75",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM80",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM81",
+            "move": "X-Scissor",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM83",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM84",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM93",
+            "move": "Cut",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM96",
+            "move": "Strength",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM98",
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM100",
+            "move": "Rock Climb",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Counter",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Crush Claw",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Hone Claws",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Metal Claw",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        },
+        {
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "move": "Night Slash",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "move": "Rapid Spin",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Red": "Trade/migrate from another game",
+        "Blue": "Route 4",
+        "Yellow": "Route 3",
+        "Gold": "Mt. Moon",
+        "Silver": "Goldenrod City",
+        "Crystal": "Route 3",
+        "Ruby / Sapphire": "Route 111",
+        "FireRed": "Trade/migrate from another game",
+        "LeafGreen": "Route 4",
+        "Emerald": "Route 111",
+        "Diamond / Pearl / Platinum": "Wayward Cave",
+        "HeartGold": "Mt. Moon",
+        "SoulSilver": "Goldenrod City",
+        "Black / White": "Sandslash",
+        "Black 2 / White 2": "Relic Castle",
+        "X / Y": "Sandslash",
+        "Omega Ruby / Alpha Sapphire": "Route 111",
+        "Sun": "Trade/migrate from another game",
+        "Moon": "Route 14",
+        "Ultra Sun": "Trade/migrate from another game",
+        "Ultra Moon": "Route 14",
+        "Let's Go Pikachu": "Route 3",
+        "Let's Go Eevee": "Trade/migrate from another game",
+        "Sword / Shield": "Warm-Up Tunnel",
+        "Brilliant Diamond": "Trade/migrate from another game",
+        "Shining Pearl": "Spacious Cave",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Sandshrew",
+        "Japanese": "\u30b5\u30f3\u30c9 (Sand)",
+        "German": "Sandan",
+        "French": "Sabelette",
+        "Italian": "Sandshrew",
+        "Spanish": "Sandshrew",
+        "Korean": "\ubaa8\ub798\ub450\uc9c0 (moraeduji)",
+        "Chinese (Simplified)": "\u7a7f\u5c71\u9f20",
+        "Chinese (Traditional)": "\u7a7f\u5c71\u9f20"
+    }
+}

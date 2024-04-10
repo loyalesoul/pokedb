@@ -1,0 +1,1269 @@
+{
+    "name": "Swampert",
+    "national_no": "0260",
+    "type": [
+        "Water",
+        "Ground",
+        "Water",
+        "Ground"
+    ],
+    "species": "Mud Fish Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "81.9\u00a0kg (180.6\u00a0lbs)",
+    "abilities": [
+        "Torrent",
+        "Damp",
+        "Swift Swim"
+    ],
+    "ev_yield": "\n3 Attack ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "241",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Monster",
+        "Water 1",
+        "Monster",
+        "Water 1"
+    ],
+    "gender_ratio": [
+        "87.5% male",
+        "12.5% female",
+        "87.5% male",
+        "12.5% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "100",
+        "attack": "110",
+        "defense": "90",
+        "sp. atk": "85",
+        "sp. def": "90",
+        "speed": "60",
+        "total": "535"
+    },
+    "evolution_chain": [
+        "Mudkip",
+        "Marshtomp",
+        "Swampert"
+    ],
+    "pokedex_entries": {
+        "Ruby": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POK\u00e9MON also has powerful vision that lets it see even in murky water.",
+        "Sapphire": "SWAMPERT predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+        "FireRed / LeafGreen": "Its arms are rock-hard. With one swing, they can batter down its foe. It makes its nest on beautiful beaches.",
+        "Emerald": "If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.",
+        "Diamond / Pearl / Platinum": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+        "HeartGold / SoulSilver": "Its arms are hard as rock. With one swing, it can break a boulder into pieces.",
+        "Black / White / Black 2 / White 2": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+        "X": "Its arms are hard as rock. With one swing, it can break a boulder into pieces.",
+        "Y": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+        "Omega Ruby": "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pok\u00e9mon also has powerful vision that lets it see even in murky water.",
+        "Alpha Sapphire": "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+        "Brilliant Diamond / Shining Pearl": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Rock Throw",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "level": "12",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "15",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "20",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "level": "30",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "35",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "42",
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "49",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "56",
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "63",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Hammer Arm",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "90"
+        },
+        {
+            "level": "1",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Rock Throw",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "level": "12",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "15",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "20",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "level": "30",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "35",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "42",
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "49",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "56",
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "63",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM05",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM06",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM12",
+            "move": "Low Kick",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM36",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM43",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Avalanche",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM55",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM64",
+            "move": "Bulk Up",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM69",
+            "move": "Ice Punch",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM77",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM83",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM84",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM89",
+            "move": "Body Press",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM110",
+            "move": "Liquidation",
+            "type": "Water",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM116",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM128",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM133",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM142",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM145",
+            "move": "Water Pledge",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM149",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM150",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM154",
+            "move": "Hydro Cannon",
+            "type": "Water",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM156",
+            "move": "Outrage",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM158",
+            "move": "Focus Blast",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM172",
+            "move": "Roar",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM176",
+            "move": "Sand Tomb",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM179",
+            "move": "Smack Down",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM181",
+            "move": "Knock Off",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM186",
+            "move": "High Horsepower",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "95",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM191",
+            "move": "Uproar",
+            "type": "Normal",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM192",
+            "move": "Focus Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM193",
+            "move": "Weather Ball",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM196",
+            "move": "Flip Turn",
+            "type": "Water",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM204",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM205",
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM208",
+            "move": "Whirlpool",
+            "type": "Water",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM209",
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM214",
+            "move": "Sludge Wave",
+            "type": "Poison",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM224",
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM225",
+            "move": "Hard Press",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM01",
+            "move": "Focus Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM03",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM05",
+            "move": "Roar",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM07",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM08",
+            "move": "Bulk Up",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM10",
+            "move": "Work Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM23",
+            "move": "Iron Tail",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "75"
+        },
+        {
+            "tm": "TM26",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM31",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM39",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM49",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM52",
+            "move": "Focus Blast",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM56",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM71",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM72",
+            "move": "Avalanche",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM76",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM80",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM83",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM95",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM96",
+            "move": "Strength",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM98",
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM100",
+            "move": "Rock Climb",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Counter",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "move": "Mirror Coat",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "move": "Sludge",
+            "type": "Poison",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Stomp",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Uproar",
+            "type": "Normal",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "move": "Whirlpool",
+            "type": "Water",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "move": "Wide Guard",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Yawn",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Ruby / Sapphire": "Mudkip",
+        "FireRed / LeafGreen": "Trade/migrate from another game",
+        "Emerald": "Mudkip",
+        "Diamond / Pearl / Platinum": "Trade/migrate from another game",
+        "HeartGold / SoulSilver": "Mudkip",
+        "Black / White / Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Mudkip",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Mudkip",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Trade/migrate from another game",
+        "Brilliant Diamond / Shining Pearl": "Mudkip",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Swampert",
+        "Japanese": "\u30e9\u30b0\u30e9\u30fc\u30b8 (Laglarge)",
+        "German": "Sumpex",
+        "French": "Laggron",
+        "Italian": "Swampert",
+        "Spanish": "Swampert",
+        "Korean": "\ub300\uc9f1\uc774 (daejjangi)",
+        "Chinese (Simplified)": "\u5de8\u6cbc\u602a",
+        "Chinese (Traditional)": "\u5de8\u6cbc\u602a"
+    }
+}

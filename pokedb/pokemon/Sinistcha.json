@@ -1,0 +1,377 @@
+{
+    "name": "Sinistcha",
+    "national_no": "1013",
+    "type": [
+        "Grass",
+        "Ghost"
+    ],
+    "species": "Matcha Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "2.2\u00a0kg (4.9\u00a0lbs)",
+    "abilities": [
+        "Hospitality",
+        "Heatproof"
+    ],
+    "ev_yield": "\n2 Sp. Atk ",
+    "catch_rate": "\n60 ",
+    "base_happiness": "\n\u2014\n",
+    "base_exp": "\u2014",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Amorphous",
+        "Mineral"
+    ],
+    "gender_ratio": [],
+    "egg_cycle": null,
+    "stats": {
+        "hp": "71",
+        "attack": "60",
+        "defense": "106",
+        "sp. atk": "121",
+        "sp. def": "80",
+        "speed": "70",
+        "total": "508"
+    },
+    "evolution_chain": [
+        "Poltchageist",
+        "Sinistcha"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Stun Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "1",
+            "move": "Withdraw",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "6",
+            "move": "Absorb",
+            "type": "Grass",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Life Dew",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "18",
+            "move": "Foul Play",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "95",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Mega Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "30",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "36",
+            "move": "Rage Powder",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "42",
+            "move": "Strength Sap",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "54",
+            "move": "Memento",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "60",
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM29",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM33",
+            "move": "Magical Leaf",
+            "type": "Grass",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Night Shade",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM62",
+            "move": "Foul Play",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "95",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM74",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM92",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM104",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM111",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM114",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM119",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM129",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM137",
+            "move": "Grassy Terrain",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM140",
+            "move": "Nasty Plot",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM151",
+            "move": "Phantom Force",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM159",
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM161",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM168",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM177",
+            "move": "Spite",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM188",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM191",
+            "move": "Uproar",
+            "type": "Normal",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM198",
+            "move": "Poltergeist",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "110",
+            "accuracy": "90"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {}
+}

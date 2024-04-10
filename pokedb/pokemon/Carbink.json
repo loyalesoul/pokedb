@@ -1,0 +1,744 @@
+{
+    "name": "Carbink",
+    "national_no": "0703",
+    "type": [
+        "Rock",
+        "Fairy"
+    ],
+    "species": "Jewel Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "5.7\u00a0kg (12.6\u00a0lbs)",
+    "abilities": [
+        "Clear Body",
+        "Sturdy"
+    ],
+    "ev_yield": "\n1 Defense, 1 Sp. Def ",
+    "catch_rate": "\n60 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "100",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Fairy",
+        "Mineral"
+    ],
+    "gender_ratio": [],
+    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "50",
+        "defense": "150",
+        "sp. atk": "50",
+        "sp. def": "150",
+        "speed": "50",
+        "total": "500"
+    },
+    "evolution_chain": [],
+    "pokedex_entries": {
+        "X / Omega Ruby": "Born from the temperatures and pressures deep underground, it fires beams from the stone in its head.",
+        "Y / Alpha Sapphire": "It has slept underground for hundreds of millions of years since its birth. It\u2019s occasionally found during the excavation of caves.",
+        "Sun": "Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.",
+        "Moon": "Although this Pok\u00e9mon is not especially rare, its glittering, jewel-draped body draws attention from people.",
+        "Ultra Sun": "Some say that deep beneath the surface of the world, a pack of Carbink live with their queen in a kingdom of jewels.",
+        "Ultra Moon": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another\u2019s jewels.",
+        "Sword": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",
+        "Shield": "It\u2019s said that somewhere in the world, there\u2019s a mineral vein housing a large pack of slumbering Carbink. It\u2019s also said that this pack has a queen."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Harden",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Guard Split",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "10",
+            "move": "Smack Down",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Rock Polish",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "35",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "level": "40",
+            "move": "Skill Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "45",
+            "move": "Power Gem",
+            "type": "Rock",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "55",
+            "move": "Moonblast",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "100"
+        },
+        {
+            "level": "60",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Harden",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Guard Split",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "10",
+            "move": "Smack Down",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Rock Polish",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "35",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "level": "40",
+            "move": "Skill Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "45",
+            "move": "Power Gem",
+            "type": "Rock",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "55",
+            "move": "Moonblast",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "100"
+        },
+        {
+            "level": "60",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM02",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM36",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM51",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM74",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM75",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Rock Blast",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM79",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM84",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM89",
+            "move": "Body Press",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM90",
+            "move": "Spikes",
+            "type": "Ground",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM93",
+            "move": "Flash Cannon",
+            "type": "Steel",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM98",
+            "move": "Skill Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM99",
+            "move": "Iron Head",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM101",
+            "move": "Power Gem",
+            "type": "Rock",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM104",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM116",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM120",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM121",
+            "move": "Heavy Slam",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM129",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM133",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM139",
+            "move": "Misty Terrain",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM150",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM161",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM17",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM22",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM29",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM34",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM35",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM48",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sand Tomb",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM61",
+            "move": "Guard Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM71",
+            "move": "Wonder Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM98",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "X / Y": "Reflection Cave",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon": "Ten Carat Hill",
+        "Ultra Sun / Ultra Moon": "Ten Carat Hill",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Tunnel to the Top",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Carbink",
+        "Japanese": "\u30e1\u30ec\u30b7\u30fc (Melecie)",
+        "German": "Rocara",
+        "French": "Strassie",
+        "Italian": "Carbink",
+        "Spanish": "Carbink",
+        "Korean": "\uba5c\ub9ac\uc2dc (mellisi)",
+        "Chinese (Simplified)": "\u5c0f\u788e\u94bb",
+        "Chinese (Traditional)": "\u5c0f\u788e\u947d"
+    }
+}

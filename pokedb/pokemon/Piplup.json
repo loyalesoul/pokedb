@@ -1,0 +1,559 @@
+{
+    "name": "Piplup",
+    "national_no": "0393",
+    "type": [
+        "Water"
+    ],
+    "species": "Penguin Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "5.2\u00a0kg (11.5\u00a0lbs)",
+    "abilities": [
+        "Torrent",
+        "Defiant"
+    ],
+    "ev_yield": "\n1 Sp. Atk ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "63",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Field",
+        "Water 1"
+    ],
+    "gender_ratio": [
+        "87.5% male",
+        "12.5% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "53",
+        "attack": "51",
+        "defense": "53",
+        "sp. atk": "61",
+        "sp. def": "56",
+        "speed": "40",
+        "total": "314"
+    },
+    "evolution_chain": [
+        "Piplup",
+        "Prinplup",
+        "Empoleon"
+    ],
+    "pokedex_entries": {
+        "Diamond": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+        "Pearl": "It lives along shores in northern countries. A skilled swimmer, it dives for over 10 minutes to hunt.",
+        "Platinum": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+        "HeartGold / SoulSilver": "It doesn\u2019t like to be taken care of. It\u2019s difficult to bond with since it won\u2019t listen to its Trainer.",
+        "Black / White / Black 2 / White 2": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+        "X / Omega Ruby": "It doesn\u2019t like to be taken care of. It\u2019s difficult to bond with since it won\u2019t listen to its Trainer.",
+        "Y / Alpha Sapphire": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+        "Brilliant Diamond": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+        "Shining Pearl": "It lives along the shore in northern countries. A skilled swimmer, it dives for over 10 minutes while hunting.",
+        "Legends: Arceus": "Prefers cold climes and appears along coasts. It\u2019s an adorable little thing\u2014as cute as any child\u2014but it\u2019s also prideful, unwilling to accept handouts from people."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Pound",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "22",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "25",
+            "move": "Fury Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "85"
+        },
+        {
+            "level": "29",
+            "move": "Brine",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Whirlpool",
+            "type": "Water",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "level": "36",
+            "move": "Mist",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "39",
+            "move": "Drill Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "43",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Bubble",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "18",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "34",
+            "move": "Liquidation",
+            "type": "Water",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "43",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM02",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM04",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM19",
+            "move": "Disarming Voice",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM36",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM43",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM52",
+            "move": "Snowscape",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM58",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM77",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM81",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM110",
+            "move": "Liquidation",
+            "type": "Water",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM124",
+            "move": "Ice Spinner",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM142",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM145",
+            "move": "Water Pledge",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM174",
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM193",
+            "move": "Weather Ball",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM196",
+            "move": "Flip Turn",
+            "type": "Water",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Aqua Ring",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Feather Dance",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Power Trip",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "move": "Yawn",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Diamond / Pearl": "Lake Verity",
+        "Platinum": "Route 201",
+        "HeartGold / SoulSilver": "Trade/migrate from another game",
+        "Black / White / Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Route 101",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Prinplup",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond / Shining Pearl": "Fountainspring Cave",
+        "Legends: Arceus": "Spring Path",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Piplup",
+        "Japanese": "\u30dd\u30c3\u30c1\u30e3\u30de (Pochama)",
+        "German": "Plinfa",
+        "French": "Tiplouf",
+        "Italian": "Piplup",
+        "Spanish": "Piplup",
+        "Korean": "\ud33d\ub3c4\ub9ac (paengdori)",
+        "Chinese (Simplified)": "\u6ce2\u52a0\u66fc",
+        "Chinese (Traditional)": "\u6ce2\u52a0\u66fc"
+    }
+}

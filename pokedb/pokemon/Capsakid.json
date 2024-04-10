@@ -1,0 +1,396 @@
+{
+    "name": "Capsakid",
+    "national_no": "0951",
+    "type": [
+        "Grass"
+    ],
+    "species": "Spicy Pepper Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "3.0\u00a0kg (6.6\u00a0lbs)",
+    "abilities": [
+        "Chlorophyll",
+        "Insomnia",
+        "Klutz"
+    ],
+    "ev_yield": "\n1 Attack ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "61",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Grass"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "62",
+        "defense": "40",
+        "sp. atk": "62",
+        "sp. def": "40",
+        "speed": "50",
+        "total": "304"
+    },
+    "evolution_chain": [
+        "Capsakid",
+        "Scovillain"
+    ],
+    "pokedex_entries": {
+        "Scarlet": "The more sunlight this Pok\u00e9mon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+        "Violet": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Leafage",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Growth",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "13",
+            "move": "Razor Leaf",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "17",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "21",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Headbutt",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "level": "38",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Seed Bomb",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM33",
+            "move": "Magical Leaf",
+            "type": "Grass",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM51",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM56",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM71",
+            "move": "Seed Bomb",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM81",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM84",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM108",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM111",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM119",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM137",
+            "move": "Grassy Terrain",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM159",
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM168",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Ingrain",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Leech Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "move": "Rage Powder",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "move": "Worry Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Scarlet / Violet": "Asado Desert"
+    },
+    "other_languages": {
+        "English": "Capsakid",
+        "Japanese": "\u30ab\u30d7\u30b5\u30a4\u30b8",
+        "German": "Chilingel",
+        "French": "Pimito",
+        "Italian": "Capsakid",
+        "Spanish": "Capsakid",
+        "Korean": "\ucea1\uc2f8\uc774",
+        "Chinese (Simplified)": "\u70ed\u8fa3\u5a03",
+        "Chinese (Traditional)": "\u71b1\u8fa3\u5a03"
+    }
+}

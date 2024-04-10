@@ -1,0 +1,568 @@
+{
+    "name": "Terapagos",
+    "national_no": "1024",
+    "type": [
+        "Normal",
+        "Normal",
+        "Normal"
+    ],
+    "species": "Tera Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "6.5\u00a0kg (14.3\u00a0lbs)",
+    "abilities": [
+        "Tera Shift",
+        "Tera Shell",
+        "Teraform Zero"
+    ],
+    "ev_yield": "\n1 Defense ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n\u2014\n",
+    "base_exp": "\u2014",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Undiscovered",
+        "Undiscovered",
+        "Undiscovered"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female",
+        "50% male",
+        "50% female",
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": null,
+    "stats": {
+        "hp": "90",
+        "attack": "65",
+        "defense": "85",
+        "sp. atk": "65",
+        "sp. def": "85",
+        "speed": "60",
+        "total": "450"
+    },
+    "evolution_chain": [],
+    "pokedex_entries": {},
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Rapid Spin",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tri Attack",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Withdraw",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "10",
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Headbutt",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "30",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "40",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Heavy Slam",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "60",
+            "move": "Tera Starstorm",
+            "type": "Normal",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "70",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "80",
+            "move": "Rock Polish",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "90",
+            "move": "Gyro Ball",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM41",
+            "move": "Stored Power",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM79",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM89",
+            "move": "Body Press",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM93",
+            "move": "Flash Cannon",
+            "type": "Steel",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM94",
+            "move": "Dark Pulse",
+            "type": "Dark",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Iron Head",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM101",
+            "move": "Power Gem",
+            "type": "Rock",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM108",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM112",
+            "move": "Aura Sphere",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM115",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM116",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM119",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM121",
+            "move": "Heavy Slam",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM124",
+            "move": "Ice Spinner",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM125",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM126",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM129",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM133",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM147",
+            "move": "Wild Charge",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM149",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM150",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM162",
+            "move": "Bug Buzz",
+            "type": "Bug",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM165",
+            "move": "Flare Blitz",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM166",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM168",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM172",
+            "move": "Roar",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM175",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM178",
+            "move": "Gravity",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM180",
+            "move": "Gyro Ball",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM189",
+            "move": "Heat Crash",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM193",
+            "move": "Weather Ball",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM204",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM210",
+            "move": "Supercell Slam",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM215",
+            "move": "Scorching Sands",
+            "type": "Ground",
+            "category": "Special",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM220",
+            "move": "Meteor Beam",
+            "type": "Rock",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "90"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {}
+}

@@ -1,0 +1,704 @@
+{
+    "name": "Seaking",
+    "national_no": "0119",
+    "type": [
+        "Water"
+    ],
+    "species": "Goldfish Pok\u00e9mon",
+    "height": "1.3\u00a0m (4\u203203\u2033)",
+    "weight": "39.0\u00a0kg (86.0\u00a0lbs)",
+    "abilities": [
+        "Swift Swim",
+        "Water Veil",
+        "Lightning Rod"
+    ],
+    "ev_yield": "\n2 Attack ",
+    "catch_rate": "\n60 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "158",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Water 2"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "80",
+        "attack": "92",
+        "defense": "65",
+        "sp. atk": "65",
+        "sp. def": "80",
+        "speed": "68",
+        "total": "450"
+    },
+    "evolution_chain": [
+        "Goldeen",
+        "Seaking"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+        "Yellow": "It is the male\u2019s job to make a nest by carving out boulders in a stream using the horn on its head.",
+        "Gold": "During spawning season, SEAKING gather from all over, coloring the rivers a brilliant red.",
+        "Silver": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+        "Crystal": "When autumn comes, the males patrol the area around their nests in order to protect their offspring.",
+        "Ruby": "In the autumn, SEAKING males can be seen performing courtship dances in riverbeds to woo females. During this season, this POK\u00e9MON\u2019s body coloration is at its most beautiful.",
+        "Sapphire": "SEAKING is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these POK\u00e9MON goes on for over a month.",
+        "FireRed": "The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest.",
+        "LeafGreen": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+        "Emerald": "It punches holes in boulders on streambeds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.",
+        "Diamond": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+        "Pearl": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams.",
+        "Platinum": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+        "HeartGold": "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red.",
+        "SoulSilver": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+        "Black / White / Black 2 / White 2": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+        "X": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+        "Y": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+        "Omega Ruby": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pok\u00e9mon\u2019s body coloration is at its most beautiful.",
+        "Alpha Sapphire": "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pok\u00e9mon goes on for over a month.",
+        "Sun": "When the weather grows cold, its whole body flushes a deep red. This sight serves as a poetic reminder that autumn has arrived.",
+        "Moon": "Trainers who are crazy for Seaking are divided into horn enthusiasts and fin enthusiasts. The two groups do not get along well.",
+        "Ultra Sun": "Its horn spins like a drill to steadily hollow out rocks\u2014even harder ones. The coloration of the male is more vivid.",
+        "Ultra Moon": "To attract females, males dance on the river\u2019s floor. The females gather around the male that dances most gracefully.",
+        "Let's Go Pikachu / Let's Go Eevee": "It is the male\u2019s job to make a nest by carving out boulders in a stream using the horn on its head.",
+        "Sword": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+        "Shield": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+        "Brilliant Diamond": "It makes its nest by hollowing out boulders in streams with its horn. The Pok\u00e9mon defends its eggs with its life.",
+        "Shining Pearl": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "1",
+            "move": "Tail Whip",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Horn Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "25",
+            "move": "Aqua Ring",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "37",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Soak",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "51",
+            "move": "Megahorn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "85"
+        },
+        {
+            "level": "58",
+            "move": "Horn Drill",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "30"
+        },
+        {
+            "level": "1",
+            "move": "Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "1",
+            "move": "Tail Whip",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Horn Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "25",
+            "move": "Aqua Ring",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "37",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Soak",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "51",
+            "move": "Megahorn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "85"
+        },
+        {
+            "level": "58",
+            "move": "Horn Drill",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "30"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM03",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM49",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM75",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM84",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM95",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM08",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM09",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM27",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM31",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM33",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM35",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM36",
+            "move": "Whirlpool",
+            "type": "Water",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM45",
+            "move": "Dive",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM52",
+            "move": "Bounce",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM53",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM96",
+            "move": "Smart Strike",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Acupressure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Aqua Tail",
+            "type": "Water",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Skull Bash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "130",
+            "accuracy": "100"
+        },
+        {
+            "move": "Acupressure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Aqua Tail",
+            "type": "Water",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Red / Blue": "Route 23",
+        "Yellow": "Route 24",
+        "Gold / Silver / Crystal": "Route 4",
+        "Ruby / Sapphire": "Safari Zone",
+        "FireRed / LeafGreen": "Berry Forest",
+        "Emerald": "Safari Zone",
+        "Diamond / Pearl": "Route 203",
+        "Platinum": "Route 202",
+        "HeartGold / SoulSilver": "Route 9",
+        "Black / White": "Route 3",
+        "Black 2 / White 2": "Route 3",
+        "X / Y": "Route 3",
+        "Omega Ruby / Alpha Sapphire": "Safari Zone",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Brooklet Hill",
+        "Let's Go Pikachu / Let's Go Eevee": "Route 6",
+        "Sword / Shield": "Goldeen",
+        "Brilliant Diamond / Shining Pearl": "Route 203",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Seaking",
+        "Japanese": "\u30a2\u30ba\u30de\u30aa\u30a6 (Azumao)",
+        "German": "Golking",
+        "French": "Poissoroy",
+        "Italian": "Seaking",
+        "Spanish": "Seaking",
+        "Korean": "\uc655\ucf58\uce58 (wangkonchi)",
+        "Chinese (Simplified)": "\u91d1\u9c7c\u738b",
+        "Chinese (Traditional)": "\u91d1\u9b5a\u738b"
+    }
+}

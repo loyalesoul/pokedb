@@ -1,0 +1,1048 @@
+{
+    "name": "Tropius",
+    "national_no": "0357",
+    "type": [
+        "Grass",
+        "Flying"
+    ],
+    "species": "Fruit Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "100.0\u00a0kg (220.5\u00a0lbs)",
+    "abilities": [
+        "Chlorophyll",
+        "Solar Power",
+        "Harvest"
+    ],
+    "ev_yield": "\n2 HP ",
+    "catch_rate": "\n200 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "161",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Grass",
+        "Monster"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "stats": {
+        "hp": "99",
+        "attack": "68",
+        "defense": "83",
+        "sp. atk": "72",
+        "sp. def": "87",
+        "speed": "51",
+        "total": "460"
+    },
+    "evolution_chain": [],
+    "pokedex_entries": {
+        "Ruby": "The bunches of fruit around TROPIUS\u2019s neck are very popular with children. This POK\u00e9MON loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
+        "Sapphire": "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of TROPIUS. This POK\u00e9MON flies by flapping the leaves on its back as if they were wings.",
+        "FireRed / LeafGreen": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+        "Emerald": "It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.",
+        "Diamond / Pearl": "Because it continually ate only its favorite fruit, the fruit started growing around its neck.",
+        "Platinum": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+        "HeartGold / SoulSilver": "The bunch of fruit around its neck ripens twice a year and is delicious. It\u2019s a highly favored tropical snack.",
+        "Black / White": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+        "Black 2 / White 2": "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.",
+        "X": "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.",
+        "Y": "The bunch of fruit around its neck ripens twice a year and is delicious. It\u2019s a highly favored tropical snack.",
+        "Omega Ruby": "The bunches of fruit around Tropius\u2019s neck are very popular with children. This Pok\u00e9mon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
+        "Alpha Sapphire": "Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of Tropius. This Pok\u00e9mon flies by flapping the leaves on its back as if they were wings.",
+        "Ultra Sun": "The bunches of fruit growing around the necks of Tropius in Alola are especially sweet compared to those in other regions.",
+        "Ultra Moon": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+        "Brilliant Diamond / Shining Pearl": "Because it continually ate only its favorite fruit, the fruit started growing around its neck.",
+        "Scarlet": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+        "Violet": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Growth",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Gust",
+            "type": "Flying",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "level": "1",
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Razor Leaf",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "6",
+            "move": "Sweet Scent",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Stomp",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Magical Leaf",
+            "type": "Grass",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "21",
+            "move": "Whirlwind",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Wide Guard",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "41",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "46",
+            "move": "Outrage",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Synthesis",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "56",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Growth",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Gust",
+            "type": "Flying",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "level": "1",
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Razor Leaf",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "6",
+            "move": "Sweet Scent",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Stomp",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Magical Leaf",
+            "type": "Grass",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "21",
+            "move": "Whirlwind",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "26",
+            "move": "Leaf Tornado",
+            "type": "Grass",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "90"
+        },
+        {
+            "level": "30",
+            "move": "Dragon Dance",
+            "type": "Dragon",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "41",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "46",
+            "move": "Dragon Hammer",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Synthesis",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "56",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "61",
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM28",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM33",
+            "move": "Magical Leaf",
+            "type": "Grass",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM40",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM44",
+            "move": "Dragon Tail",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM56",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM60",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM65",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM71",
+            "move": "Seed Bomb",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM81",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM84",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM88",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM89",
+            "move": "Body Press",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM97",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM100",
+            "move": "Dragon Dance",
+            "type": "Dragon",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM111",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM113",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM115",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM119",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM137",
+            "move": "Grassy Terrain",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM149",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM156",
+            "move": "Outrage",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM159",
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM160",
+            "move": "Hurricane",
+            "type": "Flying",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM168",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM05",
+            "move": "Roar",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM09",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM20",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM22",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM26",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM51",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM53",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM59",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM70",
+            "move": "Flash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM75",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM83",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM86",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM93",
+            "move": "Cut",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM94",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM96",
+            "move": "Strength",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM97",
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM98",
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Dragon Dance",
+            "type": "Dragon",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Headbutt",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "move": "Leaf Blade",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "move": "Leech Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "move": "Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "75"
+        },
+        {
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Dragon Dance",
+            "type": "Dragon",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Dragon Hammer",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "move": "Headbutt",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "move": "Leaf Blade",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "move": "Leech Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "move": "Nature Power",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "75"
+        },
+        {
+            "move": "Synthesis",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Ruby / Sapphire": "Route 119",
+        "FireRed / LeafGreen": "Trade/migrate from another game",
+        "Emerald": "Route 119",
+        "Diamond / Pearl": "Trade/migrate from another game",
+        "Platinum": "Great Marsh",
+        "HeartGold / SoulSilver": "Trade/migrate from another game",
+        "Black / White": "Route 14",
+        "Black 2 / White 2": "Route 18",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Route 119",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Exeggutor Island",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond / Shining Pearl": "Grassland Cave",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Casseroya Lake"
+    },
+    "other_languages": {
+        "English": "Tropius",
+        "Japanese": "\u30c8\u30ed\u30d4\u30a6\u30b9 (Tropius)",
+        "German": "Tropius",
+        "French": "Tropius",
+        "Italian": "Tropius",
+        "Spanish": "Tropius",
+        "Korean": "\ud2b8\ub85c\ud53c\uc6b0\uc2a4 (teuropiuseu)",
+        "Chinese (Simplified)": "\u70ed\u5e26\u9f99",
+        "Chinese (Traditional)": "\u71b1\u5e36\u9f8d"
+    }
+}

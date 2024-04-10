@@ -1,0 +1,543 @@
+{
+    "name": "Bidoof",
+    "national_no": "0399",
+    "type": [
+        "Normal"
+    ],
+    "species": "Plump Mouse Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "20.0\u00a0kg (44.1\u00a0lbs)",
+    "abilities": [
+        "Simple",
+        "Unaware",
+        "Moody"
+    ],
+    "ev_yield": "\n1 HP ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "50",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Field",
+        "Water 1"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "59",
+        "attack": "45",
+        "defense": "40",
+        "sp. atk": "35",
+        "sp. def": "40",
+        "speed": "31",
+        "total": "250"
+    },
+    "evolution_chain": [
+        "Bidoof",
+        "Bibarel"
+    ],
+    "pokedex_entries": {
+        "Diamond": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+        "Pearl": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+        "Platinum": "A comparison revealed that BIDOOF\u2019s front teeth grow at the same rate as RATTATA\u2019s.",
+        "HeartGold / SoulSilver": "It lives in groups by the water. It chews up boulders and trees around its nest with its incisors.",
+        "Black / White / Black 2 / White 2": "A comparison revealed that Bidoof\u2019s front teeth grow at the same rate as Rattata\u2019s.",
+        "X / Omega Ruby": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+        "Y / Alpha Sapphire": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+        "Brilliant Diamond": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+        "Shining Pearl": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+        "Legends: Arceus": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Defense Curl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "9",
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "level": "13",
+            "move": "Headbutt",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "17",
+            "move": "Taunt",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "21",
+            "move": "Yawn",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "25",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "33",
+            "move": "Super Fang",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "37",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "41",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "45",
+            "move": "Superpower",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "49",
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "level": "5",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "23",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "31",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "40",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM10",
+            "move": "Work Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM12",
+            "move": "Taunt",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM23",
+            "move": "Iron Tail",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "75"
+        },
+        {
+            "tm": "TM24",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM28",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM30",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM34",
+            "move": "Shock Wave",
+            "type": "Electric",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM57",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM73",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM75",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM88",
+            "move": "Pluck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM93",
+            "move": "Cut",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM98",
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Aqua Tail",
+            "type": "Water",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "move": "Defense Curl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "move": "Fury Swipes",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "18",
+            "accuracy": "80"
+        },
+        {
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "move": "Skull Bash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "130",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Diamond / Pearl": "Route 201",
+        "Platinum": "Route 201",
+        "HeartGold / SoulSilver": "Route 4",
+        "Black / White": "Bibarel",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Route 3",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond / Shining Pearl": "Route 201",
+        "Legends: Arceus": "Aspiration Hill",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Bidoof",
+        "Japanese": "\u30d3\u30c3\u30d1 (Bippa)",
+        "German": "Bidiza",
+        "French": "Keunotor",
+        "Italian": "Bidoof",
+        "Spanish": "Bidoof",
+        "Korean": "\ube44\ubc84\ub2c8 (bibeoni)",
+        "Chinese (Simplified)": "\u5927\u7259\u72f8",
+        "Chinese (Traditional)": "\u5927\u7259\u72f8"
+    }
+}

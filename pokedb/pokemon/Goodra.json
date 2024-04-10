@@ -1,0 +1,93 @@
+{
+    "name": "Goodra",
+    "national_no": "0706",
+    "type": [
+        "Dragon",
+        "Steel",
+        "Dragon"
+    ],
+    "species": "Dragon Pok\u00e9mon",
+    "height": "2.0\u00a0m (6\u203207\u2033)",
+    "weight": "150.5\u00a0kg (331.8\u00a0lbs)",
+    "abilities": [
+        "Sap Sipper",
+        "Hydration",
+        "Gooey",
+        "Sap Sipper",
+        "Shell Armor",
+        "Gooey"
+    ],
+    "ev_yield": "\n3 Sp. Def ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n35 ",
+    "base_exp": "300",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Dragon",
+        "Dragon"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female",
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "stats": {
+        "hp": "90",
+        "attack": "100",
+        "defense": "70",
+        "sp. atk": "110",
+        "sp. def": "150",
+        "speed": "80",
+        "total": "600"
+    },
+    "evolution_chain": [
+        "Goomy",
+        "Sliggoo",
+        "Goodra",
+        "Sliggoo",
+        "Goodra"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [
+        {
+            "move": "Counter",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Life Dew",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "X / Y": "Goomy",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Goomy",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword": "Trade/migrate from another game",
+        "Shield": "Goomy",
+        "Brilliant Diamond / Shining Pearl": "Not available in this game",
+        "Legends: Arceus": "Ancient Quarry",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Goodra",
+        "Japanese": "\u30cc\u30e1\u30eb\u30b4\u30f3 (Numelgon)",
+        "German": "Viscogon",
+        "French": "Muplodocus",
+        "Italian": "Goodra",
+        "Spanish": "Goodra",
+        "Korean": "\ubbf8\ub044\ub798\uace4 (mikkeuraegon)",
+        "Chinese (Simplified)": "\u9ecf\u7f8e\u9f99",
+        "Chinese (Traditional)": "\u9ecf\u7f8e\u9f8d"
+    }
+}

@@ -1,0 +1,996 @@
+{
+    "name": "Hoppip",
+    "national_no": "0187",
+    "type": [
+        "Grass",
+        "Flying"
+    ],
+    "species": "Cottonweed Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "0.5\u00a0kg (1.1\u00a0lbs)",
+    "abilities": [
+        "Chlorophyll",
+        "Leaf Guard",
+        "Infiltrator"
+    ],
+    "ev_yield": "\n1 Sp. Def ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "50",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Fairy",
+        "Grass"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "35",
+        "attack": "35",
+        "defense": "40",
+        "sp. atk": "35",
+        "sp. def": "55",
+        "speed": "50",
+        "total": "250"
+    },
+    "evolution_chain": [
+        "Hoppip",
+        "Skiploom",
+        "Jumpluff"
+    ],
+    "pokedex_entries": {
+        "Gold": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+        "Silver": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+        "Crystal": "It can be carried away on even the gentlest breeze. It may even float all the way to the next town.",
+        "Ruby / Sapphire": "This POK\u00e9MON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
+        "FireRed": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+        "LeafGreen": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+        "Emerald": "This POK\u00e9MON drifts and floats with the wind. If it senses the approach of strong winds, a HOPPIP links leaves with others to prepare against being blown away.",
+        "Diamond / Pearl / Platinum": "It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.",
+        "HeartGold": "To keep from being blown away by the wind, they gather in clusters. But they do enjoy gentle breezes.",
+        "SoulSilver": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+        "Black / White / Black 2 / White 2": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+        "X": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+        "Y": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+        "Omega Ruby / Alpha Sapphire": "This Pok\u00e9mon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+        "Brilliant Diamond / Shining Pearl": "They are blown adrift by winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+        "Scarlet": "This Pok\u00e9mon is blown across vast distances by the wind. It is unclear where the Hoppip of Paldea originally came from.",
+        "Violet": "Outside of cold regions, Hoppip can be found practically everywhere. This is because the wind carries this species all over the world."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Splash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Tail Whip",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Absorb",
+            "type": "Grass",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "Fairy Wind",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Poison Powder",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "10",
+            "move": "Sleep Powder",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "10",
+            "move": "Stun Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "12",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Synthesis",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "19",
+            "move": "Leech Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "22",
+            "move": "Mega Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "level": "27",
+            "move": "Cotton Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "level": "35",
+            "move": "Bounce",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "85"
+        },
+        {
+            "level": "38",
+            "move": "Memento",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Absorb",
+            "type": "Grass",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Splash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "4",
+            "move": "Synthesis",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "6",
+            "move": "Tail Whip",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Fairy Wind",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Poison Powder",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "14",
+            "move": "Stun Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "16",
+            "move": "Sleep Powder",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "19",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "level": "22",
+            "move": "Leech Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "25",
+            "move": "Mega Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "level": "31",
+            "move": "Rage Powder",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "34",
+            "move": "Cotton Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "37",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Worry Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "43",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "level": "46",
+            "move": "Bounce",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "85"
+        },
+        {
+            "level": "49",
+            "move": "Memento",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM02",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM14",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM33",
+            "move": "Magical Leaf",
+            "type": "Grass",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM43",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM56",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM60",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM71",
+            "move": "Seed Bomb",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM74",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM75",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM79",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM81",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM88",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM111",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM113",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM119",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM122",
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM131",
+            "move": "Pollen Puff",
+            "type": "Bug",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM132",
+            "move": "Baton Pass",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM137",
+            "move": "Grassy Terrain",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM159",
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM168",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM09",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM21",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM33",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM53",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Flash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM75",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM77",
+            "move": "Psych Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM89",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Cotton Guard",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Grassy Terrain",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Rage Powder",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Seed Bomb",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "move": "Strength Sap",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Switcheroo",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Worry Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Aromatherapy",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Confusion",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "move": "Cotton Guard",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Grassy Terrain",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Seed Bomb",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "move": "Strength Sap",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Worry Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Gold / Silver": "Route 13",
+        "Crystal": "Route 11",
+        "Ruby / Sapphire": "Trade/migrate from another game",
+        "FireRed / LeafGreen": "Five Island",
+        "Emerald": "Trade/migrate from another game",
+        "Diamond": "Route 205",
+        "Pearl": "Route 205",
+        "Platinum": "Route 205",
+        "HeartGold / SoulSilver": "Route 13",
+        "Black": "Trade/migrate from another game",
+        "White": "White Forest",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Route 7",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond": "Route 205",
+        "Shining Pearl": "Route 205",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Tagtree Thicket"
+    },
+    "other_languages": {
+        "English": "Hoppip",
+        "Japanese": "\u30cf\u30cd\u30c3\u30b3 (Hanecco)",
+        "German": "Hoppspross",
+        "French": "Granivol",
+        "Italian": "Hoppip",
+        "Spanish": "Hoppip",
+        "Korean": "\ud1b5\ud1b5\ucf54 (tongtongko)",
+        "Chinese (Simplified)": "\u6bfd\u5b50\u8349",
+        "Chinese (Traditional)": "\u6bfd\u5b50\u8349"
+    }
+}

@@ -1,0 +1,659 @@
+{
+    "name": "Alakazam",
+    "national_no": "0065",
+    "type": [
+        "Psychic",
+        "Psychic"
+    ],
+    "species": "Psi Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "48.0\u00a0kg (105.8\u00a0lbs)",
+    "abilities": [
+        "Synchronize",
+        "Inner Focus",
+        "Magic Guard",
+        "Trace"
+    ],
+    "ev_yield": "\n3 Sp. Atk ",
+    "catch_rate": "\n50 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "225",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Human-Like",
+        "Human-Like"
+    ],
+    "gender_ratio": [
+        "75% male",
+        "25% female",
+        "75% male",
+        "25% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "55",
+        "attack": "50",
+        "defense": "45",
+        "sp. atk": "135",
+        "sp. def": "95",
+        "speed": "120",
+        "total": "500"
+    },
+    "evolution_chain": [
+        "Abra",
+        "Kadabra",
+        "Alakazam"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Confusion",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Disable",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Kinesis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Teleport",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "5",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "15",
+            "move": "Ally Switch",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "20",
+            "move": "Psycho Cut",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Recover",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Psyshock",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "35",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Role Play",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "45",
+            "move": "Future Sight",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Teleport",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "6",
+            "move": "Confusion",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "level": "11",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "18",
+            "move": "Psycho Cut",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "level": "34",
+            "move": "Recover",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "43",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Focus Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM04",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM12",
+            "move": "Taunt",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM16",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM20",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM23",
+            "move": "Iron Tail",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "75"
+        },
+        {
+            "tm": "TM29",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM30",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM33",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM34",
+            "move": "Shock Wave",
+            "type": "Electric",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM41",
+            "move": "Torment",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM48",
+            "move": "Skill Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM52",
+            "move": "Focus Blast",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM53",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM56",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM57",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM60",
+            "move": "Drain Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM63",
+            "move": "Nasty Plot",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM67",
+            "move": "Recycle",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM70",
+            "move": "Flash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM73",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM77",
+            "move": "Psych Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Dream Eater",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM86",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM92",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Ally Switch",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Confusion",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Fire Punch",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "move": "Guard Split",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Guard Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Ice Punch",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "move": "Knock Off",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Magic Coat",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Power Trick",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Psycho Shift",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Thunder Punch",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Red / Blue / Yellow": "Abra",
+        "Gold / Silver / Crystal": "Abra",
+        "Ruby / Sapphire / FireRed / LeafGreen / Emerald": "Abra",
+        "Diamond / Pearl / Platinum / HeartGold / SoulSilver": "Abra",
+        "Black": "Trade/migrate from another game",
+        "White": "Abra",
+        "Black 2 / White 2": "Accumula Town",
+        "X / Y / Omega Ruby / Alpha Sapphire": "Abra",
+        "Sun / Moon / Ultra Sun / Ultra Moon / Let's Go Pikachu / Let's Go Eevee": "Abra",
+        "Sword / Shield / Brilliant Diamond / Shining Pearl": "Abra",
+        "Legends: Arceus": "Sandgem Flats",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Alakazam",
+        "Japanese": "\u30d5\u30fc\u30c7\u30a3\u30f3 (Foodin)",
+        "German": "Simsala",
+        "French": "Alakazam",
+        "Italian": "Alakazam",
+        "Spanish": "Alakazam",
+        "Korean": "\ud6c4\ub518 (hudin)",
+        "Chinese (Simplified)": "\u80e1\u5730",
+        "Chinese (Traditional)": "\u80e1\u5730"
+    }
+}

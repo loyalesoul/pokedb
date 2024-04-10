@@ -1,0 +1,930 @@
+{
+    "name": "Sigilyph",
+    "national_no": "0561",
+    "type": [
+        "Psychic",
+        "Flying"
+    ],
+    "species": "Avianoid Pok\u00e9mon",
+    "height": "1.4\u00a0m (4\u203207\u2033)",
+    "weight": "14.0\u00a0kg (30.9\u00a0lbs)",
+    "abilities": [
+        "Wonder Skin",
+        "Magic Guard",
+        "Tinted Lens"
+    ],
+    "ev_yield": "\n2 Sp. Atk ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "172",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Flying"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "72",
+        "attack": "58",
+        "defense": "80",
+        "sp. atk": "103",
+        "sp. def": "80",
+        "speed": "97",
+        "total": "490"
+    },
+    "evolution_chain": [],
+    "pokedex_entries": {
+        "Black": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
+        "White": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+        "Black 2 / White 2": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+        "X / Omega Ruby": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+        "Y / Alpha Sapphire": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+        "Sword": "Psychic power allows these Pok\u00e9mon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians\u2019 emissaries.",
+        "Shield": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Confusion",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Gust",
+            "type": "Flying",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Gravity",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "10",
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "level": "15",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "level": "20",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Whirlwind",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Cosmic Power",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "35",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "40",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "45",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "50",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "50",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "55",
+            "move": "Sky Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "140",
+            "accuracy": "90"
+        },
+        {
+            "level": "60",
+            "move": "Skill Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Gust",
+            "type": "Flying",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Miracle Eye",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "4",
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "level": "8",
+            "move": "Psywave",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "14",
+            "move": "Whirlwind",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "18",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "21",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "level": "24",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "28",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "31",
+            "move": "Synchronoise",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "34",
+            "move": "Mirror Move",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "38",
+            "move": "Gravity",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "41",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "44",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Cosmic Power",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "50",
+            "move": "Sky Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "140",
+            "accuracy": "90"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM06",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM08",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM09",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM11",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM23",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM27",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM30",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM31",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM33",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM44",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM60",
+            "move": "Power Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM62",
+            "move": "Speed Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM69",
+            "move": "Psycho Cut",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM72",
+            "move": "Magic Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM95",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM03",
+            "move": "Psyshock",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM04",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM06",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM10",
+            "move": "Hidden Power",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM16",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM20",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Frustration",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM23",
+            "move": "Smack Down",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Return",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM29",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM30",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM33",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM48",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM51",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM53",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM57",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM73",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM76",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM77",
+            "move": "Psych Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Dream Eater",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM88",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM91",
+            "move": "Flash Cannon",
+            "type": "Steel",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM92",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM97",
+            "move": "Dark Pulse",
+            "type": "Dark",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM100",
+            "move": "Confide",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Psycho Shift",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Future Sight",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "move": "Psycho Shift",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Skill Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "move": "Stored Power",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Black / White / Black 2 / White 2": "Desert Resort",
+        "X / Y": "Route 10",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Ultra Space Wilds",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Lake of Outrage",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Sigilyph",
+        "Japanese": "\u30b7\u30f3\u30dc\u30e9\u30fc (Symboler)",
+        "German": "Symvolara",
+        "French": "Crypt\u00e9ro",
+        "Italian": "Sigilyph",
+        "Spanish": "Sigilyph",
+        "Korean": "\uc2ec\ubcf4\ub7ec (simboreo)",
+        "Chinese (Simplified)": "\u8c61\u5f81\u9e1f",
+        "Chinese (Traditional)": "\u8c61\u5fb5\u9ce5"
+    }
+}

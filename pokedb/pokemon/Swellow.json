@@ -1,0 +1,894 @@
+{
+    "name": "Swellow",
+    "national_no": "0277",
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "species": "Swallow Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "19.8\u00a0kg (43.7\u00a0lbs)",
+    "abilities": [
+        "Guts",
+        "Scrappy"
+    ],
+    "ev_yield": "\n2 Speed ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "159",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Flying"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "60",
+        "attack": "85",
+        "defense": "60",
+        "sp. atk": "75",
+        "sp. def": "50",
+        "speed": "125",
+        "total": "455"
+    },
+    "evolution_chain": [
+        "Taillow",
+        "Swellow"
+    ],
+    "pokedex_entries": {
+        "Ruby": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POK\u00e9MON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW\u2019s clawed feet, preventing escape.",
+        "Sapphire": "SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other\u2019s wings.",
+        "FireRed / LeafGreen": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+        "Emerald": "A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.",
+        "Diamond / Pearl / Platinum": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+        "HeartGold / SoulSilver": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+        "Black / White / Black 2 / White 2": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+        "X": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+        "Y": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+        "Omega Ruby": "Swellow flies high above our heads, making graceful arcs in the sky. This Pok\u00e9mon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow\u2019s clawed feet, preventing escape.",
+        "Alpha Sapphire": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other\u2019s wings.",
+        "Brilliant Diamond / Shining Pearl": "It circles the sky in search of prey and dives sharply to catch its target."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Pluck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "9",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "13",
+            "move": "Wing Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "17",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "21",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "27",
+            "move": "Quick Guard",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "33",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "39",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "45",
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "51",
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "57",
+            "move": "Reversal",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Pluck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "9",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "13",
+            "move": "Wing Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "17",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "21",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "27",
+            "move": "Quick Guard",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "33",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "39",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "45",
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "51",
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "57",
+            "move": "Reversal",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM10",
+            "move": "Work Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM51",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM88",
+            "move": "Pluck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM89",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM94",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM97",
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM01",
+            "move": "Work Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM06",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM10",
+            "move": "Hidden Power",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Frustration",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Return",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM48",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM49",
+            "move": "Echoed Voice",
+            "type": "Normal",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM51",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM76",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM88",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM89",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM100",
+            "move": "Confide",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Boomburst",
+            "type": "Normal",
+            "category": "Special",
+            "power": "140",
+            "accuracy": "100"
+        },
+        {
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "move": "Hurricane",
+            "type": "Flying",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "move": "Sky Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "140",
+            "accuracy": "90"
+        },
+        {
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "move": "Whirlwind",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Boomburst",
+            "type": "Normal",
+            "category": "Special",
+            "power": "140",
+            "accuracy": "100"
+        },
+        {
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Hurricane",
+            "type": "Flying",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "move": "Mirror Move",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Pursuit",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Rage",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "move": "Refresh",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Sky Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "140",
+            "accuracy": "90"
+        },
+        {
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "move": "Whirlwind",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Ruby / Sapphire": "Route 115",
+        "FireRed / LeafGreen": "Trade/migrate from another game",
+        "Emerald": "Route 115",
+        "Diamond / Pearl / Platinum": "Route 213",
+        "HeartGold / SoulSilver": "Taillow",
+        "Black / White": "Route 13",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y / Omega Ruby / Alpha Sapphire": "Taillow",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Ultra Space Wilds",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond / Shining Pearl": "Route 213",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Swellow",
+        "Japanese": "\u30aa\u30aa\u30b9\u30d0\u30e1 (Ohsubame)",
+        "German": "Schwalboss",
+        "French": "H\u00e9l\u00e9delle",
+        "Italian": "Swellow",
+        "Spanish": "Swellow",
+        "Korean": "\uc2a4\uc648\ub85c (seuwallo)",
+        "Chinese (Simplified)": "\u5927\u738b\u71d5",
+        "Chinese (Traditional)": "\u5927\u738b\u71d5"
+    }
+}

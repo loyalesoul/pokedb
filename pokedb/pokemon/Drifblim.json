@@ -1,0 +1,666 @@
+{
+    "name": "Drifblim",
+    "national_no": "0426",
+    "type": [
+        "Ghost",
+        "Flying"
+    ],
+    "species": "Blimp Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "15.0\u00a0kg (33.1\u00a0lbs)",
+    "abilities": [
+        "Aftermath",
+        "Unburden",
+        "Flare Boost"
+    ],
+    "ev_yield": "\n2 HP ",
+    "catch_rate": "\n60 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "174",
+    "growth_rate": "Fluctuating",
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "stats": {
+        "hp": "150",
+        "attack": "80",
+        "defense": "44",
+        "sp. atk": "90",
+        "sp. def": "54",
+        "speed": "80",
+        "total": "498"
+    },
+    "evolution_chain": [
+        "Drifloon",
+        "Drifblim"
+    ],
+    "pokedex_entries": {
+        "Diamond": "It\u2019s drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+        "Pearl": "It carries people and Pok\u00e9mon when it flies. But since it only drifts, it can end up anywhere.",
+        "Platinum": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+        "HeartGold / SoulSilver": "It can generate and release gas within its body. That\u2019s how it can control the altitude of its drift.",
+        "Black / White": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+        "Black 2 / White 2": "They carry people and Pok\u00e9mon, but the wind can catch them, so there can\u2019t be a fixed destination.",
+        "X / Omega Ruby": "It carries people and Pok\u00e9mon when it flies. But since it only drifts, it can end up anywhere.",
+        "Y / Alpha Sapphire": "It\u2019s drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+        "Sun": "There was once an incident in which a man took a trip riding a Drifblim, only to go missing.",
+        "Moon": "Even while under careful observation, large flocks of Drifblim flying at dusk will inexplicably disappear from view.",
+        "Ultra Sun": "There\u2019s a rumor that if you catch a Drifblim floating on the wind at dusk, you\u2019ll be carried away to the afterlife.",
+        "Ultra Moon": "The raw material for the gas inside its body is souls. When its body starts to deflate, it\u2019s thought to carry away people and Pok\u00e9mon.",
+        "Sword": "Some say this Pok\u00e9mon is a collection of souls burdened with regrets, silently drifting through the dusk.",
+        "Shield": "It grabs people and Pok\u00e9mon and carries them off somewhere. Where do they go? Nobody knows.",
+        "Brilliant Diamond": "They\u2019re drowsy in daytime but fly off in the evening in big groups. No one knows where they go.",
+        "Shining Pearl": "It carries people and Pok\u00e9mon when it flies. But since it only drifts, it can end up anywhere.",
+        "Legends: Arceus": "It drifts along at dusk, perfectly silent. Its transient, melancholy aspect touches some people deeply\u2014every so often, one will come upon a song or poem devoted to Drifblim.",
+        "Scarlet": "It can generate and release gas within its body. That\u2019s how it can control the altitude of its drift.",
+        "Violet": "They carry people and Pok\u00e9mon, but the wind can catch them, so there can\u2019t be a fixed destination."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Gust",
+            "type": "Flying",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Minimize",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Strength Sap",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Payback",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Spit Up",
+            "type": "Normal",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Stockpile",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "24",
+            "move": "Swallow",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "31",
+            "move": "Self-Destruct",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "200",
+            "accuracy": "100"
+        },
+        {
+            "level": "36",
+            "move": "Destiny Bond",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "42",
+            "move": "Baton Pass",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "48",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "54",
+            "move": "Explosion",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "250",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Confusion",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "level": "9",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "21",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Mystical Fire",
+            "type": "Fire",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "Extrasensory",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "37",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "47",
+            "move": "Self-Destruct",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "200",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM14",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM16",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM29",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM40",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM41",
+            "move": "Stored Power",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM42",
+            "move": "Night Shade",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM43",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM65",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM92",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM97",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM98",
+            "move": "Skill Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM107",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM109",
+            "move": "Trick",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM113",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM114",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM120",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM126",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM128",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM129",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM132",
+            "move": "Baton Pass",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM151",
+            "move": "Phantom Force",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM161",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM166",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Clear Smog",
+            "type": "Poison",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Disable",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "move": "Memento",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Diamond / Pearl / Platinum": "Drifloon",
+        "HeartGold / SoulSilver": "Trade/migrate from another game",
+        "Black / White": "Route 13",
+        "Black 2 / White 2": "Route 13",
+        "X / Y": "Drifloon",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon": "Pok\u00e9 Pelago",
+        "Ultra Sun / Ultra Moon": "Drifloon",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Axew's Eye",
+        "Brilliant Diamond / Shining Pearl": "Trade/migrate from another game",
+        "Legends: Arceus": "Sandgem Flats",
+        "Scarlet": "North Province (Area One)",
+        "Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Drifblim",
+        "Japanese": "\u30d5\u30ef\u30e9\u30a4\u30c9 (Fuwaride)",
+        "German": "Drifzepeli",
+        "French": "Grodrive",
+        "Italian": "Drifblim",
+        "Spanish": "Drifblim",
+        "Korean": "\ub465\uc2e4\ub77c\uc774\ub4dc (dungsillaideu)",
+        "Chinese (Simplified)": "\u968f\u98ce\u7403",
+        "Chinese (Traditional)": "\u96a8\u98a8\u7403"
+    }
+}

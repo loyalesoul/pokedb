@@ -1,0 +1,842 @@
+{
+    "name": "Lucario",
+    "national_no": "0448",
+    "type": [
+        "Fighting",
+        "Steel",
+        "Fighting",
+        "Steel"
+    ],
+    "species": "Aura Pok\u00e9mon",
+    "height": "1.2\u00a0m (3\u203211\u2033)",
+    "weight": "54.0\u00a0kg (119.0\u00a0lbs)",
+    "abilities": [
+        "Steadfast",
+        "Inner Focus",
+        "Justified",
+        "Adaptability"
+    ],
+    "ev_yield": "\n1 Attack, 1 Sp. Atk ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "184",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Field",
+        "Human-Like",
+        "Field",
+        "Human-Like"
+    ],
+    "gender_ratio": [
+        "87.5% male",
+        "12.5% female",
+        "87.5% male",
+        "12.5% female"
+    ],
+    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "stats": {
+        "hp": "70",
+        "attack": "110",
+        "defense": "70",
+        "sp. atk": "115",
+        "sp. def": "70",
+        "speed": "90",
+        "total": "525"
+    },
+    "evolution_chain": [
+        "Riolu",
+        "Lucario"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Copycat",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Detect",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Feint",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Final Gambit",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Life Dew",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Metal Claw",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Reversal",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Vacuum Wave",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Counter",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Work Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "20",
+            "move": "Force Palm",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "28",
+            "move": "Metal Sound",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "32",
+            "move": "Quick Guard",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Bone Rush",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "90"
+        },
+        {
+            "level": "40",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "44",
+            "move": "Heal Pulse",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "48",
+            "move": "Meteor Mash",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "level": "52",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "56",
+            "move": "Extreme Speed",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "60",
+            "move": "Close Combat",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Bullet Punch",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "19",
+            "move": "Mach Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "21",
+            "move": "Aura Sphere",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "29",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "37",
+            "move": "Bulk Up",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "40",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "47",
+            "move": "Close Combat",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM04",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM06",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM12",
+            "move": "Low Kick",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM28",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM31",
+            "move": "Metal Claw",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM36",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM39",
+            "move": "Low Sweep",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM43",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM55",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM61",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM64",
+            "move": "Bulk Up",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM68",
+            "move": "Thunder Punch",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM69",
+            "move": "Ice Punch",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM73",
+            "move": "Drain Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM80",
+            "move": "Metronome",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM83",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM88",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM93",
+            "move": "Flash Cannon",
+            "type": "Steel",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM94",
+            "move": "Dark Pulse",
+            "type": "Dark",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM104",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM108",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM112",
+            "move": "Aura Sphere",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM114",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM115",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM120",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM129",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM134",
+            "move": "Reversal",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM140",
+            "move": "Nasty Plot",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM149",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM150",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM158",
+            "move": "Focus Blast",
+            "type": "Fighting",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM167",
+            "move": "Close Combat",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM170",
+            "move": "Steel Beam",
+            "type": "Steel",
+            "category": "Special",
+            "power": "140",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Bullet Punch",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Circle Throw",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "90"
+        },
+        {
+            "move": "Cross Chop",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "move": "Detect",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "High Jump Kick",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "move": "Howl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Diamond / Pearl / Platinum": "Riolu",
+        "HeartGold / SoulSilver": "Trade/migrate from another game",
+        "Black / White / Black 2 / White 2": "Riolu",
+        "X / Y": "Tower of Mastery",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Poni Grove",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Riolu",
+        "Brilliant Diamond / Shining Pearl": "Trade/migrate from another game",
+        "Legends: Arceus": "Icebound Falls",
+        "Scarlet / Violet": "North Province (Area One)"
+    },
+    "other_languages": {
+        "English": "Lucario",
+        "Japanese": "\u30eb\u30ab\u30ea\u30aa (Lucario)",
+        "German": "Lucario",
+        "French": "Lucario",
+        "Italian": "Lucario",
+        "Spanish": "Lucario",
+        "Korean": "\ub8e8\uce74\ub9ac\uc624 (rukario)",
+        "Chinese (Simplified)": "\u8def\u5361\u5229\u6b27",
+        "Chinese (Traditional)": "\u8def\u5361\u5229\u6b50"
+    }
+}

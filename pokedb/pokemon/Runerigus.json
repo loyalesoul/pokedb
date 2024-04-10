@@ -1,0 +1,468 @@
+{
+    "name": "Runerigus",
+    "national_no": "0867",
+    "type": [
+        "Ground",
+        "Ghost"
+    ],
+    "species": "Grudge Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "66.6\u00a0kg (146.8\u00a0lbs)",
+    "abilities": [
+        "Wandering Spirit"
+    ],
+    "ev_yield": "\n2 Defense ",
+    "catch_rate": "\n90 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "169",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Amorphous",
+        "Mineral"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "stats": {
+        "hp": "58",
+        "attack": "95",
+        "defense": "145",
+        "sp. atk": "50",
+        "sp. def": "105",
+        "speed": "30",
+        "total": "483"
+    },
+    "evolution_chain": [
+        "Yamask",
+        "Cofagrigus",
+        "Yamask",
+        "Runerigus"
+    ],
+    "pokedex_entries": {
+        "Sword": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",
+        "Shield": "Never touch its shadowlike body, or you\u2019ll be shown the horrific memories behind the picture carved into it."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Night Shade",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Disable",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Brutal Swing",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Crafty Shield",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "24",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Mean Look",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "32",
+            "move": "Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "75"
+        },
+        {
+            "level": "38",
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "44",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "level": "56",
+            "move": "Guard Split",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "56",
+            "move": "Power Split",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "62",
+            "move": "Destiny Bond",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM08",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM09",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM19",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM22",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM23",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM26",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM31",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM33",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM38",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM42",
+            "move": "Revenge",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM47",
+            "move": "Fake Tears",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM48",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sand Tomb",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM54",
+            "move": "Rock Blast",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM57",
+            "move": "Payback",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM60",
+            "move": "Power Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM61",
+            "move": "Guard Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM65",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM71",
+            "move": "Wonder Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM77",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM81",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM86",
+            "move": "Phantom Force",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM97",
+            "move": "Brutal Swing",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Memento",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Sword / Shield": "Yamask",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Runerigus",
+        "Japanese": "\u30c7\u30b9\u30d0\u30fc\u30f3 (Desub\u0101n)",
+        "German": "Oghnatoll",
+        "French": "Tut\u00e9t\u00e9kri",
+        "Italian": "Runerigus",
+        "Spanish": "Runerigus",
+        "Korean": "\ub370\uc2a4\ud310 (deseupan)",
+        "Chinese (Simplified)": "\u8fed\u5931\u677f",
+        "Chinese (Traditional)": "\u6b7b\u795e\u677f"
+    }
+}

@@ -1,0 +1,587 @@
+{
+    "name": "Roselia",
+    "national_no": "0315",
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "species": "Thorn Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "2.0\u00a0kg (4.4\u00a0lbs)",
+    "abilities": [
+        "Natural Cure",
+        "Poison Point",
+        "Leaf Guard"
+    ],
+    "ev_yield": "\n2 Sp. Atk ",
+    "catch_rate": "\n150 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "140",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Fairy",
+        "Grass"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "60",
+        "defense": "45",
+        "sp. atk": "100",
+        "sp. def": "80",
+        "speed": "65",
+        "total": "400"
+    },
+    "evolution_chain": [
+        "Budew",
+        "Roselia",
+        "Roserade"
+    ],
+    "pokedex_entries": {
+        "Ruby": "ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this POK\u00e9MON brings serenity to living things.",
+        "Sapphire": "On extremely rare occasions, a ROSELIA is said to appear with its flowers in unusual colors. The thorns on this POK\u00e9MON\u2019s head contain a vicious poison.",
+        "FireRed / LeafGreen": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the ROSELIA is.",
+        "Emerald": "A ROSELIA that drinks nutritionally rich springwater blooms with lovely flowers. The fragrance of its flowers has the effect of making its foes careless.",
+        "Diamond": "ROSELIA raised on clean drinking water are known to grow vividly colored flowers.",
+        "Pearl": "The beautiful flowers on its arms have toxic thorns. Don\u2019t even think about picking those flowers.",
+        "Platinum": "The more healthy the ROSELIA, the more pleasant its flowers\u2019 aroma. Its scent deeply relaxes people.",
+        "HeartGold / SoulSilver": "ROSELIA that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
+        "Black / White": "The more healthy the Roselia, the more pleasant its flowers\u2019 aroma. Its scent deeply relaxes people.",
+        "Black 2 / White 2": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+        "X": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+        "Y": "Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.",
+        "Omega Ruby": "Roselia shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this Pok\u00e9mon brings serenity to living things.",
+        "Alpha Sapphire": "On extremely rare occasions, a Roselia is said to appear with its flowers in unusual colors. The thorns on this Pok\u00e9mon\u2019s head contain a vicious poison.",
+        "Sword": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.",
+        "Shield": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+        "Brilliant Diamond": "Roselia raised on clean drinking water are known to grow vividly colored flowers.",
+        "Shining Pearl": "The beautiful flowers on its arms have toxic thorns. Don\u2019t even think about picking those flowers.",
+        "Legends: Arceus": "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Absorb",
+            "type": "Grass",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Growth",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Poison Sting",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Stun Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "1",
+            "move": "Worry Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Mega Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Leech Seed",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "15",
+            "move": "Magical Leaf",
+            "type": "Grass",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "20",
+            "move": "Toxic Spikes",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "25",
+            "move": "Sweet Scent",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "30",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "level": "35",
+            "move": "Synthesis",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "40",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "45",
+            "move": "Petal Blizzard",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Aromatherapy",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "55",
+            "move": "Ingrain",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "60",
+            "move": "Petal Dance",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Poison Sting",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Absorb",
+            "type": "Grass",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Poison Powder",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "18",
+            "move": "Stun Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "25",
+            "move": "Venoshock",
+            "type": "Poison",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "34",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "43",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "52",
+            "move": "Petal Dance",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM06",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM09",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM21",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM30",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM36",
+            "move": "Sludge Bomb",
+            "type": "Poison",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM53",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Flash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM75",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM77",
+            "move": "Psych Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM84",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM86",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM93",
+            "move": "Cut",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Cotton Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Extrasensory",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "move": "Leaf Storm",
+            "type": "Grass",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "move": "Life Dew",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Mind Reader",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Pin Missile",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "95"
+        },
+        {
+            "move": "Power Whip",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "85"
+        },
+        {
+            "move": "Razor Leaf",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "move": "Seed Bomb",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "move": "Sleep Powder",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "move": "Spikes",
+            "type": "Ground",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Synthesis",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Ruby / Sapphire": "Route 117",
+        "FireRed / LeafGreen / Emerald": "Trade/migrate from another game",
+        "Diamond": "Route 212",
+        "Pearl": "Route 212",
+        "Platinum": "Route 208",
+        "HeartGold / SoulSilver": "Budew",
+        "Black": "Trade/migrate from another game",
+        "White": "Budew",
+        "Black 2 / White 2": "Route 12",
+        "X / Y": "Route 7",
+        "Omega Ruby / Alpha Sapphire": "Route 117",
+        "Sun / Moon": "Ula'ula Meadow",
+        "Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "South Lake Miloch",
+        "Brilliant Diamond": "Route 212",
+        "Shining Pearl": "Route 212",
+        "Legends: Arceus": "Cloudpool Ridge",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Roselia",
+        "Japanese": "\u30ed\u30bc\u30ea\u30a2 (Roselia)",
+        "German": "Roselia",
+        "French": "Ros\u00e9lia",
+        "Italian": "Roselia",
+        "Spanish": "Roselia",
+        "Korean": "\ub85c\uc824\ub9ac\uc544 (rojellia)",
+        "Chinese (Simplified)": "\u6bd2\u8537\u8587",
+        "Chinese (Traditional)": "\u6bd2\u8594\u8587"
+    }
+}

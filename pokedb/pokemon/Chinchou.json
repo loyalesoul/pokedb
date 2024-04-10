@@ -1,0 +1,931 @@
+{
+    "name": "Chinchou",
+    "national_no": "0170",
+    "type": [
+        "Water",
+        "Electric"
+    ],
+    "species": "Angler Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "12.0\u00a0kg (26.5\u00a0lbs)",
+    "abilities": [
+        "Volt Absorb",
+        "Illuminate",
+        "Water Absorb"
+    ],
+    "ev_yield": "\n1 HP ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "66",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Water 2"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "75",
+        "attack": "38",
+        "defense": "38",
+        "sp. atk": "56",
+        "sp. def": "56",
+        "speed": "67",
+        "total": "330"
+    },
+    "evolution_chain": [
+        "Chinchou",
+        "Lanturn"
+    ],
+    "pokedex_entries": {
+        "Gold": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+        "Silver": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+        "Crystal": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+        "Ruby": "CHINCHOU lets loose positive and negative electrical charges from its two antennas to make its prey faint. This POK\u00e9MON flashes its electric lights to exchange signals with others.",
+        "Sapphire": "CHINCHOU\u2019s two antennas are filled with cells that generate strong electricity. This POK\u00e9MON\u2019s cells create so much electrical power, it even makes itself tingle slightly.",
+        "FireRed": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+        "LeafGreen": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+        "Emerald": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight\u2019s reach.",
+        "Diamond / Pearl / Platinum": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+        "HeartGold": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+        "SoulSilver": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+        "Black / White / Black 2 / White 2": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+        "X": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+        "Y": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.",
+        "Omega Ruby": "Chinchou lets loose positive and negative electrical charges from its two antennas to make its prey faint. This Pok\u00e9mon flashes its electric lights to exchange signals with others.",
+        "Alpha Sapphire": "Chinchou\u2019s two antennas are filled with cells that generate strong electricity. This Pok\u00e9mon\u2019s cells create so much electrical power, it even makes itself tingle slightly.",
+        "Sun": "Its two antennae were originally fins. It discharges electricity to stun its prey before attacking.",
+        "Moon": "It lives in the depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
+        "Ultra Sun": "Its two antennae glow softly to lure in prey, making it a useful Pok\u00e9mon for night fishing.",
+        "Ultra Moon": "Chinchou blink their shining antennae at one another to claim their respective turf.",
+        "Sword": "Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",
+        "Shield": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+        "Brilliant Diamond / Shining Pearl": "It discharges positive and negative electricity from the tips of its antennae to shock its foes."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Electro Ball",
+            "type": "Electric",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "12",
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Spark",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Charge",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "28",
+            "move": "Discharge",
+            "type": "Electric",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Aqua Ring",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "44",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Electro Ball",
+            "type": "Electric",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "12",
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Spark",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Charge",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "28",
+            "move": "Discharge",
+            "type": "Electric",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Aqua Ring",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "44",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM04",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM16",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM17",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM23",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM48",
+            "move": "Volt Switch",
+            "type": "Electric",
+            "category": "Special",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM72",
+            "move": "Electro Ball",
+            "type": "Electric",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM77",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM79",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM82",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM96",
+            "move": "Eerie Impulse",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM110",
+            "move": "Liquidation",
+            "type": "Water",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM126",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM128",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM136",
+            "move": "Electric Terrain",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM142",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM147",
+            "move": "Wild Charge",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM166",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM173",
+            "move": "Charge",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM188",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM196",
+            "move": "Flip Turn",
+            "type": "Water",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM204",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM208",
+            "move": "Whirlpool",
+            "type": "Water",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM209",
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM211",
+            "move": "Electroweb",
+            "type": "Electric",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM224",
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM03",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM34",
+            "move": "Shock Wave",
+            "type": "Electric",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM43",
+            "move": "Volt Switch",
+            "type": "Electric",
+            "category": "Special",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM49",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM55",
+            "move": "Brine",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM57",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Flash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM73",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM95",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Mist",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Soak",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Sucker Punch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Mist",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "move": "Soak",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Whirlpool",
+            "type": "Water",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        }
+    ],
+    "location": {
+        "Gold / Silver": "Route 26",
+        "Crystal": "Route 26",
+        "Ruby / Sapphire": "Route 124",
+        "FireRed / LeafGreen": "Trade/migrate from another game",
+        "Emerald": "Route 124",
+        "Diamond / Pearl / Platinum": "Route 220",
+        "HeartGold / SoulSilver": "Route 20",
+        "Black / White": "Route 18",
+        "Black 2 / White 2": "Undella Bay",
+        "X / Y": "Shalour City",
+        "Omega Ruby / Alpha Sapphire": "Route 107",
+        "Sun / Moon": "Route 8",
+        "Ultra Sun / Ultra Moon": "Route 8",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "East Lake Axewell",
+        "Brilliant Diamond / Shining Pearl": "Route 220",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Chinchou",
+        "Japanese": "\u30c1\u30e7\u30f3\u30c1\u30fc (Chonchie)",
+        "German": "Lampi",
+        "French": "Loupio",
+        "Italian": "Chinchou",
+        "Spanish": "Chinchou",
+        "Korean": "\ucd08\ub77c\uae30 (choragi)",
+        "Chinese (Simplified)": "\u706f\u7b3c\u9c7c",
+        "Chinese (Traditional)": "\u71c8\u7c60\u9b5a"
+    }
+}

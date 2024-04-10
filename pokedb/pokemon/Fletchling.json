@@ -1,0 +1,651 @@
+{
+    "name": "Fletchling",
+    "national_no": "0661",
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "species": "Tiny Robin Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "1.7\u00a0kg (3.7\u00a0lbs)",
+    "abilities": [
+        "Big Pecks",
+        "Gale Wings"
+    ],
+    "ev_yield": "\n1 Speed ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "56",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Flying"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "45",
+        "attack": "50",
+        "defense": "43",
+        "sp. atk": "40",
+        "sp. def": "38",
+        "speed": "62",
+        "total": "278"
+    },
+    "evolution_chain": [
+        "Fletchling",
+        "Fletchinder",
+        "Talonflame"
+    ],
+    "pokedex_entries": {
+        "X / Omega Ruby": "These friendly Pok\u00e9mon send signals to one another with beautiful chirps and tail-feather movements.",
+        "Y / Alpha Sapphire": "Despite the beauty of its lilting voice, it\u2019s merciless to intruders that enter its territory.",
+        "Sun": "This amiable Pok\u00e9mon is easy to train. But when battle is joined, it shows its ferocious side.",
+        "Moon": "When it\u2019s excited, its temperature can double, spiking hormone production in its body.",
+        "Ultra Sun": "While it\u2019s an amiable Pok\u00e9mon, if you touch it unexpectedly, it will heat up its body in an instant, and you\u2019ll be burned.",
+        "Ultra Moon": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
+        "Sword": "Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.",
+        "Shield": "When this Pok\u00e9mon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned.",
+        "Scarlet": "This Pok\u00e9mon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.",
+        "Violet": "Fletchling can be found in both rural and urban areas. They once had a huge territorial dispute with Squawkabilly. Fights broke out all over town."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Ember",
+            "type": "Fire",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "35",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "40",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "level": "45",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "50",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Ember",
+            "type": "Fire",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "35",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "40",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "level": "45",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "50",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM04",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM14",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM38",
+            "move": "Flame Charge",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM60",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM65",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM87",
+            "move": "Taunt",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM88",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM97",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM113",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM118",
+            "move": "Heat Wave",
+            "type": "Fire",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM157",
+            "move": "Overheat",
+            "type": "Fire",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM160",
+            "move": "Hurricane",
+            "type": "Flying",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM164",
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM165",
+            "move": "Flare Blitz",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM06",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM23",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM30",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM31",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM34",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM38",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM56",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM78",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Flame Charge",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "move": "Quick Guard",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Flame Charge",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "move": "Quick Guard",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "X / Y": "Route 2",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon": "Wela Volcano Park",
+        "Ultra Sun / Ultra Moon": "Route 8",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Challenge Road",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "South Province (Area One)"
+    },
+    "other_languages": {
+        "English": "Fletchling",
+        "Japanese": "\u30e4\u30e4\u30b3\u30de (Yayakoma)",
+        "German": "Dartiri",
+        "French": "Passerouge",
+        "Italian": "Fletchling",
+        "Spanish": "Fletchling",
+        "Korean": "\ud654\uc0b4\uaf2c\ube48 (hwasalkkobin)",
+        "Chinese (Simplified)": "\u5c0f\u7bad\u96c0",
+        "Chinese (Traditional)": "\u5c0f\u7bad\u96c0"
+    }
+}

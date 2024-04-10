@@ -1,0 +1,810 @@
+{
+    "name": "Genesect",
+    "national_no": "0649",
+    "type": [
+        "Bug",
+        "Steel"
+    ],
+    "species": "Paleozoic Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "82.5\u00a0kg (181.9\u00a0lbs)",
+    "abilities": [
+        "Download"
+    ],
+    "ev_yield": "\n1 Attack, 1 Sp. Atk, 1 Speed ",
+    "catch_rate": "\n3 ",
+    "base_happiness": "\n0 ",
+    "base_exp": "270",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "gender_ratio": [],
+    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "stats": {
+        "hp": "71",
+        "attack": "120",
+        "defense": "95",
+        "sp. atk": "120",
+        "sp. def": "95",
+        "speed": "99",
+        "total": "600"
+    },
+    "evolution_chain": [],
+    "pokedex_entries": {
+        "Black": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
+        "White": "This ancient bug Pok\u00e9mon was altered by Team Plasma. They upgraded the cannon on its back.",
+        "Black 2 / White 2": "This Pok\u00e9mon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+        "X / Omega Ruby": "This ancient bug Pok\u00e9mon was altered by Team Plasma. They upgraded the cannon on its back.",
+        "Y / Alpha Sapphire": "This Pok\u00e9mon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Fury Cutter",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "7",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "14",
+            "move": "Metal Claw",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        },
+        {
+            "level": "21",
+            "move": "Fell Stinger",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Flame Charge",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "35",
+            "move": "Metal Sound",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "42",
+            "move": "X-Scissor",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "49",
+            "move": "Magnet Rise",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "56",
+            "move": "Bug Buzz",
+            "type": "Bug",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "63",
+            "move": "Simple Beam",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "70",
+            "move": "Zap Cannon",
+            "type": "Electric",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "50"
+        },
+        {
+            "level": "77",
+            "move": "Lock-On",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "84",
+            "move": "Techno Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "91",
+            "move": "Self-Destruct",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "200",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Fell Stinger",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Magnet Rise",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Metal Claw",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Techno Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "7",
+            "move": "Fury Cutter",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "95"
+        },
+        {
+            "level": "11",
+            "move": "Lock-On",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "18",
+            "move": "Flame Charge",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "22",
+            "move": "Magnet Bomb",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "29",
+            "move": "Slash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "33",
+            "move": "Metal Sound",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "40",
+            "move": "Signal Beam",
+            "type": "Bug",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Tri Attack",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "51",
+            "move": "X-Scissor",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "55",
+            "move": "Bug Buzz",
+            "type": "Bug",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "62",
+            "move": "Simple Beam",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "66",
+            "move": "Zap Cannon",
+            "type": "Electric",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "50"
+        },
+        {
+            "level": "73",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "level": "77",
+            "move": "Self-Destruct",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "200",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM06",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM08",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM09",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM11",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM16",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM17",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM20",
+            "move": "Self-Destruct",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "200",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM28",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM56",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Assurance",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM65",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM82",
+            "move": "Electroweb",
+            "type": "Electric",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM06",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM10",
+            "move": "Hidden Power",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM16",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Frustration",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM27",
+            "move": "Return",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM29",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM33",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM35",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM43",
+            "move": "Flame Charge",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM48",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM53",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM57",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM64",
+            "move": "Explosion",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "250",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM65",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM69",
+            "move": "Rock Polish",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM73",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM76",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM81",
+            "move": "X-Scissor",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM83",
+            "move": "Infestation",
+            "type": "Bug",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM88",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM89",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM91",
+            "move": "Flash Cannon",
+            "type": "Steel",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM97",
+            "move": "Dark Pulse",
+            "type": "Dark",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM100",
+            "move": "Confide",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "Black / White / Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y / Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Trade/migrate from another game",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Genesect",
+        "Japanese": "\u30b2\u30ce\u30bb\u30af\u30c8 (Genesect)",
+        "German": "Genesect",
+        "French": "Genesect",
+        "Italian": "Genesect",
+        "Spanish": "Genesect",
+        "Korean": "\uac8c\ub178\uc138\ud06c\ud2b8 (genosekeuteu)",
+        "Chinese (Simplified)": "\u76d6\u8bfa\u8d5b\u514b\u7279",
+        "Chinese (Traditional)": "\u84cb\u8afe\u8cfd\u514b\u7279"
+    }
+}

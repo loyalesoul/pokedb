@@ -1,0 +1,885 @@
+{
+    "name": "Igglybuff",
+    "national_no": "0174",
+    "type": [
+        "Normal",
+        "Fairy"
+    ],
+    "species": "Balloon Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "1.0\u00a0kg (2.2\u00a0lbs)",
+    "abilities": [
+        "Cute Charm",
+        "Competitive",
+        "Friend Guard"
+    ],
+    "ev_yield": "\n1 HP ",
+    "catch_rate": "\n170 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "42",
+    "growth_rate": "Fast",
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "gender_ratio": [
+        "25% male",
+        "75% female"
+    ],
+    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "stats": {
+        "hp": "90",
+        "attack": "30",
+        "defense": "15",
+        "sp. atk": "40",
+        "sp. def": "20",
+        "speed": "15",
+        "total": "210"
+    },
+    "evolution_chain": [
+        "Igglybuff",
+        "Jigglypuff",
+        "Wigglytuff"
+    ],
+    "pokedex_entries": {
+        "Gold": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+        "Silver": "Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere.",
+        "Crystal": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.",
+        "Ruby": "IGGLYBUFF\u2019s vocal chords are not sufficiently developed. It would hurt its throat if it were to sing too much. This POK\u00e9MON gargles with freshwater from a clean stream.",
+        "Sapphire": "IGGLYBUFF has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
+        "FireRed": "Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere.",
+        "LeafGreen": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+        "Emerald": "Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.",
+        "Diamond / Pearl / Platinum": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+        "HeartGold": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+        "SoulSilver": "Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere.",
+        "Black / White": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+        "Black 2 / White 2": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.",
+        "X": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.",
+        "Y": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+        "Omega Ruby": "Igglybuff\u2019s vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pok\u00e9mon gargles with freshwater from a clean stream.",
+        "Alpha Sapphire": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
+        "Sun": "It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little.",
+        "Moon": "It moves by bouncing along. As it moves a lot, it sweats, and its body gives off a sweet aroma.",
+        "Ultra Sun": "It\u2019s always practicing its singing because it wants to improve. Even when it\u2019s asleep, it keeps singing in its dreams!",
+        "Ultra Moon": "Left to its own devices, it will constantly practice singing. You should make it take a break so it doesn\u2019t hurt its throat.",
+        "Sword": "Igglybuff loves to sing. Its marshmallow-like body gives off a faint sweet smell.",
+        "Shield": "Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises.",
+        "Brilliant Diamond / Shining Pearl": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+        "Scarlet": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.",
+        "Violet": "It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Copycat",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Pound",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Sing",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "4",
+            "move": "Defense Curl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "8",
+            "move": "Sweet Kiss",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "12",
+            "move": "Disarming Voice",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "16",
+            "move": "Disable",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Copycat",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Pound",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Sing",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "4",
+            "move": "Defense Curl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "8",
+            "move": "Sweet Kiss",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "12",
+            "move": "Disarming Voice",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "16",
+            "move": "Disable",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM02",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM03",
+            "move": "Fake Tears",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Disarming Voice",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM37",
+            "move": "Draining Kiss",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM43",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM55",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM74",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM75",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM79",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM81",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM82",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM114",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM117",
+            "move": "Hyper Voice",
+            "type": "Normal",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM120",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM122",
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM125",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM127",
+            "move": "Play Rough",
+            "type": "Fairy",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM139",
+            "move": "Misty Terrain",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM141",
+            "move": "Fire Blast",
+            "type": "Fire",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM147",
+            "move": "Wild Charge",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM168",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM03",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM10",
+            "move": "Work Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM16",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM20",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM22",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM29",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM30",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM33",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM34",
+            "move": "Shock Wave",
+            "type": "Electric",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM35",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM38",
+            "move": "Fire Blast",
+            "type": "Fire",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM56",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM67",
+            "move": "Recycle",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Flash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM73",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM77",
+            "move": "Psych Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Dream Eater",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM86",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Covet",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Gravity",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Heal Pulse",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Last Resort",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "140",
+            "accuracy": "100"
+        },
+        {
+            "move": "Perish Song",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Present",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "move": "Wish",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Covet",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Fake Tears",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Gravity",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Heal Pulse",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Last Resort",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "140",
+            "accuracy": "100"
+        },
+        {
+            "move": "Misty Terrain",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Perish Song",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Present",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "move": "Wish",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Gold / Silver": "Jigglypuff",
+        "Crystal": "Route 34",
+        "Ruby / Sapphire / FireRed / LeafGreen / Emerald": "Jigglypuff",
+        "Diamond / Pearl / Platinum": "Trophy Garden",
+        "HeartGold / SoulSilver": "Jigglypuff",
+        "Black / White / Black 2 / White 2": "Jigglypuff",
+        "X / Y / Omega Ruby / Alpha Sapphire": "Jigglypuff",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Route 4",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Jigglypuff",
+        "Brilliant Diamond / Shining Pearl": "Trade/migrate from another game",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "East Province (Area One)"
+    },
+    "other_languages": {
+        "English": "Igglybuff",
+        "Japanese": "\u30d7\u30d7\u30ea\u30f3 (Pupurin)",
+        "German": "Fluffeluff",
+        "French": "Toudoudou",
+        "Italian": "Igglybuff",
+        "Spanish": "Igglybuff",
+        "Korean": "\ud478\ud478\ub9b0 (pupurin)",
+        "Chinese (Simplified)": "\u5b9d\u5b9d\u4e01",
+        "Chinese (Traditional)": "\u5bf6\u5bf6\u4e01"
+    }
+}

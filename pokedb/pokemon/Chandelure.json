@@ -1,0 +1,819 @@
+{
+    "name": "Chandelure",
+    "national_no": "0609",
+    "type": [
+        "Ghost",
+        "Fire"
+    ],
+    "species": "Luring Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "34.3\u00a0kg (75.6\u00a0lbs)",
+    "abilities": [
+        "Flash Fire",
+        "Flame Body",
+        "Infiltrator"
+    ],
+    "ev_yield": "\n3 Sp. Atk ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "234",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Amorphous"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "60",
+        "attack": "55",
+        "defense": "90",
+        "sp. atk": "145",
+        "sp. def": "90",
+        "speed": "80",
+        "total": "520"
+    },
+    "evolution_chain": [
+        "Litwick",
+        "Lampent",
+        "Chandelure"
+    ],
+    "pokedex_entries": {
+        "Black": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+        "White": "Being consumed in Chandelure\u2019s flame burns up the spirit, leaving the body behind.",
+        "Black 2 / White 2": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+        "X / Omega Ruby": "Being consumed in Chandelure\u2019s flame burns up the spirit, leaving the body behind.",
+        "Y / Alpha Sapphire": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+        "Sword": "This Pok\u00e9mon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
+        "Shield": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence\u2014 or so it\u2019s said."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Ember",
+            "type": "Fire",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Fire Spin",
+            "type": "Fire",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Inferno",
+            "type": "Fire",
+            "category": "Special",
+            "power": "100",
+            "accuracy": "50"
+        },
+        {
+            "level": "1",
+            "move": "Memento",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Minimize",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Night Shade",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Overheat",
+            "type": "Fire",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "level": "1",
+            "move": "Pain Split",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Smog",
+            "type": "Poison",
+            "category": "Special",
+            "power": "30",
+            "accuracy": "70"
+        },
+        {
+            "level": "1",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Ember",
+            "type": "Fire",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Fire Spin",
+            "type": "Fire",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Inferno",
+            "type": "Fire",
+            "category": "Special",
+            "power": "100",
+            "accuracy": "50"
+        },
+        {
+            "level": "1",
+            "move": "Memento",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Minimize",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Night Shade",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Overheat",
+            "type": "Fire",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "level": "1",
+            "move": "Pain Split",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Smog",
+            "type": "Poison",
+            "category": "Special",
+            "power": "30",
+            "accuracy": "70"
+        },
+        {
+            "level": "1",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Fire Spin",
+            "type": "Fire",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM29",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM38",
+            "move": "Flame Charge",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM42",
+            "move": "Night Shade",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM87",
+            "move": "Taunt",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM92",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM94",
+            "move": "Dark Pulse",
+            "type": "Dark",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM107",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM109",
+            "move": "Trick",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM114",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM118",
+            "move": "Heat Wave",
+            "type": "Fire",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM119",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM120",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM125",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM129",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM141",
+            "move": "Fire Blast",
+            "type": "Fire",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM157",
+            "move": "Overheat",
+            "type": "Fire",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM161",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM165",
+            "move": "Flare Blitz",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM168",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM174",
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM177",
+            "move": "Spite",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM195",
+            "move": "Burning Jealousy",
+            "type": "Fire",
+            "category": "Special",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM198",
+            "move": "Poltergeist",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "110",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM199",
+            "move": "Lash Out",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM08",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM09",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM11",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM13",
+            "move": "Fire Spin",
+            "type": "Fire",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM19",
+            "move": "Safeguard",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM23",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM31",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM34",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM38",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM57",
+            "move": "Payback",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Trick Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM77",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM92",
+            "move": "Mystical Fire",
+            "type": "Fire",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Acid Armor",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Clear Smog",
+            "type": "Poison",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Power Split",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Black / White / Black 2 / White 2": "Litwick",
+        "X / Y": "Litwick",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Litwick",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Litwick",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Chandelure",
+        "Japanese": "\u30b7\u30e3\u30f3\u30c7\u30e9 (Chandela)",
+        "German": "Skelabra",
+        "French": "Lugulabre",
+        "Italian": "Chandelure",
+        "Spanish": "Chandelure",
+        "Korean": "\uc0f9\ub378\ub77c (syangdella)",
+        "Chinese (Simplified)": "\u6c34\u6676\u706f\u706b\u7075",
+        "Chinese (Traditional)": "\u6c34\u6676\u71c8\u706b\u9748"
+    }
+}

@@ -1,0 +1,814 @@
+{
+    "name": "Poliwag",
+    "national_no": "0060",
+    "type": [
+        "Water"
+    ],
+    "species": "Tadpole Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "12.4\u00a0kg (27.3\u00a0lbs)",
+    "abilities": [
+        "Water Absorb",
+        "Damp",
+        "Swift Swim"
+    ],
+    "ev_yield": "\n1 Speed ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "60",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Water 1"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "40",
+        "attack": "50",
+        "defense": "40",
+        "sp. atk": "40",
+        "sp. def": "40",
+        "speed": "90",
+        "total": "300"
+    },
+    "evolution_chain": [
+        "Poliwag",
+        "Poliwhirl",
+        "Poliwrath",
+        "Politoed"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+        "Yellow": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+        "Gold": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+        "Silver": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+        "Crystal": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats.",
+        "Ruby / Sapphire": "POLIWAG has a very thin skin. It is possible to see the POK\u00e9MON\u2019s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+        "FireRed": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+        "LeafGreen": "Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking.",
+        "Emerald": "It is possible to see this POK\u00e9MON\u2019s spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
+        "Diamond / Pearl / Platinum": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+        "HeartGold": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+        "SoulSilver": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+        "Black / White / Black 2 / White 2": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+        "X": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+        "Y": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+        "Omega Ruby / Alpha Sapphire": "Poliwag has a very thin skin. It is possible to see the Pok\u00e9mon\u2019s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+        "Sun": "The swirl on its belly is its internal organs showing through. If the swirl is tinged white, that means it\u2019s affected by some disease.",
+        "Moon": "It\u2019s still not very good at walking. Its Trainers should train this Pok\u00e9mon to walk every day.",
+        "Ultra Sun": "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
+        "Ultra Moon": "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
+        "Let's Go Pikachu / Let's Go Eevee": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+        "Sword": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pok\u00e9mon\u2019s innards showing through the skin.",
+        "Shield": "In rivers with fast-flowing water, this Pok\u00e9mon will cling to a rock by using its thick lips, which act like a suction cup.",
+        "Brilliant Diamond / Shining Pearl": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Pound",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "18",
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "36",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "42",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "48",
+            "move": "Belly Drum",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "54",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Pound",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "18",
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "36",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "42",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "48",
+            "move": "Belly Drum",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "54",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM05",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM12",
+            "move": "Low Kick",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM55",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM77",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM110",
+            "move": "Liquidation",
+            "type": "Water",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM120",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM122",
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM128",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM133",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM142",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM174",
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM192",
+            "move": "Focus Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM193",
+            "move": "Weather Ball",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM03",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM28",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM29",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM49",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM83",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM95",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Mist",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "move": "Splash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Mind Reader",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Mist",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "move": "Splash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Red / Blue / Yellow": "Route 6",
+        "Gold / Silver / Crystal": "Route 6",
+        "Ruby / Sapphire": "Trade/migrate from another game",
+        "FireRed / LeafGreen": "Route 6",
+        "Emerald": "Trade/migrate from another game",
+        "Diamond / Pearl": "Route 225",
+        "Platinum": "Route 227",
+        "HeartGold / SoulSilver": "Route 6",
+        "Black / White": "Route 6",
+        "Black 2 / White 2": "Route 6",
+        "X / Y": "Route 14",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon": "Brooklet Hill",
+        "Ultra Sun / Ultra Moon": "Brooklet Hill",
+        "Let's Go Pikachu / Let's Go Eevee": "Route 22",
+        "Sword / Shield": "Brawlers' Cave",
+        "Brilliant Diamond / Shining Pearl": "Route 225",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Poliwag",
+        "Japanese": "\u30cb\u30e7\u30ed\u30e2 (Nyoromo)",
+        "German": "Quapsel",
+        "French": "Ptitard",
+        "Italian": "Poliwag",
+        "Spanish": "Poliwag",
+        "Korean": "\ubc1c\ucc59\uc774 (balchaengi)",
+        "Chinese (Simplified)": "\u868a\u9999\u874c\u86aa",
+        "Chinese (Traditional)": "\u868a\u9999\u874c\u86aa"
+    }
+}

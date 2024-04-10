@@ -1,0 +1,103 @@
+{
+    "name": "Blipbug",
+    "national_no": "0824",
+    "type": [
+        "Bug"
+    ],
+    "species": "Larva Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
+    "abilities": [
+        "Swarm",
+        "Compound Eyes",
+        "Telepathy"
+    ],
+    "ev_yield": "\n1 Sp. Def ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "36",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Bug"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "25",
+        "attack": "20",
+        "defense": "20",
+        "sp. atk": "25",
+        "sp. def": "45",
+        "speed": "45",
+        "total": "180"
+    },
+    "evolution_chain": [
+        "Blipbug",
+        "Dottler",
+        "Orbeetle"
+    ],
+    "pokedex_entries": {
+        "Sword": "A constant collector of information, this Pok\u00e9mon is very smart. Very strong is what it isn\u2019t.",
+        "Shield": "Often found in gardens, this Pok\u00e9mon has hairs on its body that it uses to assess its surroundings."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Struggle Bug",
+            "type": "Bug",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [],
+    "moves_egg": [
+        {
+            "move": "Infestation",
+            "type": "Bug",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "move": "Recover",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Sticky Web",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        }
+    ],
+    "location": {
+        "Sword / Shield": "Route 1",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Blipbug",
+        "Japanese": "\u30b5\u30c3\u30c1\u30e0\u30b7 (Sacchimushi)",
+        "German": "Sensect",
+        "French": "Larvadar",
+        "Italian": "Blipbug",
+        "Spanish": "Blipbug",
+        "Korean": "\ub450\ub8e8\uc9c0\ubc8c\ub808 (durujibeolle)",
+        "Chinese (Simplified)": "\u7d22\u4fa6\u866b",
+        "Chinese (Traditional)": "\u7d22\u5075\u87f2"
+    }
+}

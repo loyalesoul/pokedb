@@ -1,0 +1,482 @@
+{
+    "name": "Iron Treads",
+    "national_no": "0990",
+    "type": [
+        "Ground",
+        "Steel"
+    ],
+    "species": "Paradox Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "240.0\u00a0kg (529.1\u00a0lbs)",
+    "abilities": [
+        "Quark Drive"
+    ],
+    "ev_yield": "\n3 Defense ",
+    "catch_rate": "\n30 ",
+    "base_happiness": "\n0 ",
+    "base_exp": "285",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "gender_ratio": [],
+    "egg_cycle": "50 (12,594\u201312,850 steps)",
+    "stats": {
+        "hp": "90",
+        "attack": "112",
+        "defense": "120",
+        "sp. atk": "72",
+        "sp. def": "70",
+        "speed": "106",
+        "total": "570"
+    },
+    "evolution_chain": [],
+    "pokedex_entries": {
+        "Scarlet": "This Pok\u00e9mon closely resembles a scientific weapon that a paranormal magazine claimed was sent to this planet by aliens.",
+        "Violet": "Sightings of this Pok\u00e9mon have occurred in recent years. It resembles a mysterious object described in an old expedition journal."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Defense Curl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Electric Terrain",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Horn Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "level": "7",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "21",
+            "move": "Rapid Spin",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Iron Head",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "35",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "level": "42",
+            "move": "Knock Off",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "49",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "level": "56",
+            "move": "Heavy Slam",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "63",
+            "move": "Wild Charge",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "70",
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "77",
+            "move": "Megahorn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "85"
+        },
+        {
+            "level": "84",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "level": "91",
+            "move": "Steel Roller",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "130",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM05",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM06",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM09",
+            "move": "Thunder Fang",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM10",
+            "move": "Ice Fang",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM36",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM48",
+            "move": "Volt Switch",
+            "type": "Electric",
+            "category": "Special",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM51",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM53",
+            "move": "Smart Strike",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM72",
+            "move": "Electro Ball",
+            "type": "Electric",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM84",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM89",
+            "move": "Body Press",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM93",
+            "move": "Flash Cannon",
+            "type": "Steel",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Iron Head",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM104",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM116",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM121",
+            "move": "Heavy Slam",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM124",
+            "move": "Ice Spinner",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM133",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM136",
+            "move": "Electric Terrain",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM147",
+            "move": "Wild Charge",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM149",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM150",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM166",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM170",
+            "move": "Steel Beam",
+            "type": "Steel",
+            "category": "Special",
+            "power": "140",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "Scarlet": "Location data not yet available",
+        "Violet": "The Great Crater of Paldea"
+    },
+    "other_languages": {
+        "English": "Iron Treads",
+        "Japanese": "\u30c6\u30c4\u30ce\u30ef\u30c0\u30c1",
+        "German": "Eisenrad",
+        "French": "Roue-de-Fer",
+        "Italian": "Solcoferreo",
+        "Spanish": "Ferrodada",
+        "Korean": "\ubb34\uc1e0\ubc14\ud034",
+        "Chinese (Simplified)": "\u94c1\u8f99\u8ff9",
+        "Chinese (Traditional)": "\u9435\u8f4d\u8de1"
+    }
+}

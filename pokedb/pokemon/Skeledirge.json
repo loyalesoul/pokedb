@@ -1,0 +1,590 @@
+{
+    "name": "Skeledirge",
+    "national_no": "0911",
+    "type": [
+        "Fire",
+        "Ghost"
+    ],
+    "species": "Singer Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "326.5\u00a0kg (719.8\u00a0lbs)",
+    "abilities": [
+        "Blaze",
+        "Unaware"
+    ],
+    "ev_yield": "\n3 Sp. Atk ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "265",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Field"
+    ],
+    "gender_ratio": [
+        "87.5% male",
+        "12.5% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "104",
+        "attack": "75",
+        "defense": "100",
+        "sp. atk": "110",
+        "sp. def": "75",
+        "speed": "66",
+        "total": "530"
+    },
+    "evolution_chain": [
+        "Fuecoco",
+        "Crocalor",
+        "Skeledirge"
+    ],
+    "pokedex_entries": {
+        "Scarlet": "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirge\u2019s head gained a soul.",
+        "Violet": "Skeledirge\u2019s gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Ember",
+            "type": "Fire",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "7",
+            "move": "Lick",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "17",
+            "move": "Incinerate",
+            "type": "Fire",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Snarl",
+            "type": "Dark",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "28",
+            "move": "Roar",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "32",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "38",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "42",
+            "move": "Hyper Voice",
+            "type": "Normal",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "47",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "47",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "58",
+            "move": "Fire Blast",
+            "type": "Fire",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "85"
+        },
+        {
+            "level": "64",
+            "move": "Overheat",
+            "type": "Fire",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM05",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM06",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM08",
+            "move": "Fire Fang",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM09",
+            "move": "Thunder Fang",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM19",
+            "move": "Disarming Voice",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM24",
+            "move": "Fire Spin",
+            "type": "Fire",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM29",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM30",
+            "move": "Snarl",
+            "type": "Dark",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM38",
+            "move": "Flame Charge",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM42",
+            "move": "Night Shade",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM55",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM61",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM71",
+            "move": "Seed Bomb",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM84",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM92",
+            "move": "Imprison",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM107",
+            "move": "Will-O-Wisp",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM108",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM114",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM117",
+            "move": "Hyper Voice",
+            "type": "Normal",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM118",
+            "move": "Heat Wave",
+            "type": "Fire",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM122",
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM125",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM133",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM141",
+            "move": "Fire Blast",
+            "type": "Fire",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM144",
+            "move": "Fire Pledge",
+            "type": "Fire",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM149",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM153",
+            "move": "Blast Burn",
+            "type": "Fire",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM156",
+            "move": "Outrage",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM157",
+            "move": "Overheat",
+            "type": "Fire",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM165",
+            "move": "Flare Blitz",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM168",
+            "move": "Solar Beam",
+            "type": "Grass",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Belch",
+            "type": "Poison",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "90"
+        },
+        {
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Slack Off",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Skeledirge",
+        "Japanese": "\u30e9\u30a6\u30c9\u30dc\u30fc\u30f3",
+        "German": "Skelokrok",
+        "French": "Fl\u00e2migator",
+        "Italian": "Skeledirge",
+        "Spanish": "Skeledirge",
+        "Korean": "\ub77c\uc6b0\ub4dc\ubcf8",
+        "Chinese (Simplified)": "\u9aa8\u7eb9\u5de8\u58f0\u9cc4",
+        "Chinese (Traditional)": "\u9aa8\u7d0b\u5de8\u8072\u9c77"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "name": "Cosmoem",
+    "national_no": "0790",
+    "type": [
+        "Psychic"
+    ],
+    "species": "Protostar Pok\u00e9mon",
+    "height": "0.1\u00a0m (0\u203204\u2033)",
+    "weight": "999.9\u00a0kg (2204.4\u00a0lbs)",
+    "abilities": [
+        "Sturdy"
+    ],
+    "ev_yield": "\n1 Defense, 1 Sp. Def ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n0 ",
+    "base_exp": "140",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "gender_ratio": [],
+    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "stats": {
+        "hp": "43",
+        "attack": "29",
+        "defense": "131",
+        "sp. atk": "29",
+        "sp. def": "131",
+        "speed": "37",
+        "total": "400"
+    },
+    "evolution_chain": [
+        "Cosmog",
+        "Cosmoem",
+        "Solgaleo",
+        "Lunala"
+    ],
+    "pokedex_entries": {
+        "Sun": "Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.",
+        "Moon": "There\u2019s something accumulating around the black core within its hard shell. People think this Pok\u00e9mon may come from another world.",
+        "Ultra Sun": "The king who ruled Alola in times of antiquity called it the \u201ccocoon of the stars\u201d and built an altar to worship it.",
+        "Ultra Moon": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
+        "Sword": "The absorption of starlight fuels this Pok\u00e9mon\u2019s growth. The shell that encases it is harder than any known material.",
+        "Shield": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Teleport",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Cosmic Power",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Teleport",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Cosmog",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Trade/migrate from another game",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Cosmoem",
+        "Japanese": "\u30b3\u30b9\u30e2\u30a6\u30e0 (Cosmovum)",
+        "German": "Cosmovum",
+        "French": "Cosmovum",
+        "Italian": "Cosmoem",
+        "Spanish": "Cosmoem",
+        "Korean": "\ucf54\uc2a4\ubaa8\uc6c0 (koseumoum)",
+        "Chinese (Simplified)": "\u79d1\u65af\u83ab\u59c6",
+        "Chinese (Traditional)": "\u79d1\u65af\u83ab\u59c6"
+    }
+}

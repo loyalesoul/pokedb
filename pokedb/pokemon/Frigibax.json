@@ -1,0 +1,399 @@
+{
+    "name": "Frigibax",
+    "national_no": "0996",
+    "type": [
+        "Dragon",
+        "Ice"
+    ],
+    "species": "Ice Fin Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "17.0\u00a0kg (37.5\u00a0lbs)",
+    "abilities": [
+        "Thermal Exchange",
+        "Ice Body"
+    ],
+    "ev_yield": "\n1 Attack ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "64",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Dragon",
+        "Mineral"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "stats": {
+        "hp": "65",
+        "attack": "75",
+        "defense": "45",
+        "sp. atk": "35",
+        "sp. def": "45",
+        "speed": "55",
+        "total": "320"
+    },
+    "evolution_chain": [
+        "Frigibax",
+        "Arctibax",
+        "Baxcalibur"
+    ],
+    "pokedex_entries": {
+        "Scarlet": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+        "Violet": "This Pok\u00e9mon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Dragon Tail",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "90"
+        },
+        {
+            "level": "1",
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "12",
+            "move": "Dragon Breath",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "24",
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "Ice Fang",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "95"
+        },
+        {
+            "level": "32",
+            "move": "Dragon Claw",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "36",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "40",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Icicle Crash",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "90"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM10",
+            "move": "Ice Fang",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM44",
+            "move": "Dragon Tail",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM46",
+            "move": "Avalanche",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM52",
+            "move": "Snowscape",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM55",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM78",
+            "move": "Dragon Claw",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM88",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM108",
+            "move": "Crunch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM115",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM156",
+            "move": "Outrage",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM169",
+            "move": "Draco Meteor",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Aqua Tail",
+            "type": "Water",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "move": "Dragon Rush",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "75"
+        },
+        {
+            "move": "Freeze-Dry",
+            "type": "Ice",
+            "category": "Special",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "move": "Icicle Spear",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Frigibax",
+        "Japanese": "\u30bb\u30d3\u30a8",
+        "German": "Frospino",
+        "French": "Frigodo",
+        "Italian": "Frigibax",
+        "Spanish": "Frigibax",
+        "Korean": "\ub4dc\ub2c8\ucc28",
+        "Chinese (Simplified)": "\u51c9\u810a\u9f99",
+        "Chinese (Traditional)": "\u6dbc\u810a\u9f8d"
+    }
+}

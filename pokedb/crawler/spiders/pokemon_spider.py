@@ -7,117 +7,219 @@ logger = logging.getLogger(__name__)
 
 class PokemonSpider(scrapy.Spider):
     name = "pokemon"
-    start_urls = [
-        "https://www.serebii.net/pokedex-sv/bulbasaur/"
-    ]  # Replace with your URL containing the provided HTML
+    start_urls = ["https://pokemondb.net/pokedex/bulbasaur"]
+
+    def parse_egg_cycle(self, response):
+        # Select the text of td and small elements separately
+        td_text = response.css(
+            'h2:contains("Breeding") + table.vitals-table tr:nth-child(3) td::text'
+        ).get()
+        small_text = response.css(
+            'h2:contains("Breeding") + table.vitals-table tr:nth-child(3) small::text'
+        ).get()
+
+        # Combine the text into one string
+        egg_cycle = (
+            f"{td_text.strip()} {small_text.strip()}"
+            if td_text and small_text
+            else None
+        )
+
+        return egg_cycle
+
+    def parse_pokedex_entries(self, response):
+        entries = {}
+
+        rows = response.css(
+            'h2:contains("Pokédex entries") + div.resp-scroll table.vitals-table tbody tr'
+        )
+
+        # Iterate over each row to extract the game name and Pokédex entry
+        for row in rows:
+            game_names = row.css("th span::text").getall()
+            game_names = " / ".join(game_names)
+
+            pokedex_entry = row.css("td.cell-med-text::text").get().strip()
+
+            entries[game_names] = pokedex_entry
+
+        return entries
+
+    def parse_moves_levelup(self, response):
+        moves = []
+
+        selector_moves = response.css(
+            'h3:contains("Moves learnt by level up") + p + div.resp-scroll table.data-table tbody tr'
+        )
+
+        for s in selector_moves:
+            move = {}
+            move["level"] = s.css("td:nth-of-type(1)::text").get()
+            move["move"] = s.css("td.cell-name a.ent-name::text").get()
+            move["type"] = s.css("td.cell-icon a.type-icon::text").get()
+            move["category"] = s.css("td.cell-icon img::attr(alt)").get()
+            move["power"] = s.css("td:nth-of-type(5)::text").get()
+            move["accuracy"] = s.css("td:nth-of-type(6)::text").get()
+
+            moves.append(move)
+
+        return moves
+
+    def parse_moves_tm(self, response):
+        moves = []
+
+        selector_moves = response.css(
+            'h3:contains("Moves learnt by TM") + p + div.resp-scroll table.data-table tbody tr'
+        )
+
+        for s in selector_moves:
+            move = {}
+            move["tm"] = s.css("td:nth-of-type(1) a::attr(title)").get()
+            move["move"] = s.css("td.cell-name a.ent-name::text").get()
+            move["type"] = s.css("td.cell-icon a.type-icon::text").get()
+            move["category"] = s.css("td.cell-icon img::attr(alt)").get()
+            move["power"] = s.css("td:nth-of-type(5)::text").get()
+            move["accuracy"] = s.css("td:nth-of-type(6)::text").get()
+
+            moves.append(move)
+
+        return moves
+
+    def parse_moves_egg(self, response):
+        moves = []
+
+        selector_moves = response.css(
+            'h3:contains("Egg moves") + p + div.resp-scroll table.data-table tbody tr'
+        )
+
+        for s in selector_moves:
+            move = {}
+            move["move"] = s.css("td.cell-name a.ent-name::text").get()
+            move["type"] = s.css("td.cell-icon a.type-icon::text").get()
+            move["category"] = s.css("td.cell-icon img::attr(alt)").get()
+            move["power"] = s.css("td:nth-of-type(4)::text").get()
+            move["accuracy"] = s.css("td:nth-of-type(5)::text").get()
+
+            moves.append(move)
+
+        return moves
+
+    def parse_location(self, response):
+        selector_location = response.css(
+            'h2:contains("Where to find") + div.resp-scroll table.vitals-table tbody tr'
+        )
+        locations = {}
+        for s in selector_location:
+            game_names = s.css("th span::text").getall()
+            game_names = " / ".join(game_names)
+
+            location = s.css("td a::text").get()
+            if not location:
+                location = s.css("td small::text").get()
+
+            locations[game_names] = location
+
+        return locations
+
+    def parse_other_languages(self, response):
+        selector_language = response.css(
+            'h2:contains("Other languages") + div.resp-scroll table.vitals-table tbody tr'
+        )
+        languages = {}
+        for s in selector_language:
+            language = s.css("th::text").get()
+            name = s.css("td::text").get()
+            languages[language] = name
+
+        return languages
 
     def parse(self, response):
-        # Extracting data
+        # local_numbers = self.parse_local_numbers(response)
+        # Extract the data from the page
         data = {
-            "generation_dex": [
-                link.xpath(".//text()").get()
-                for link in response.xpath('//table[@class="dextab"]/tr/td/a')
-            ],
-            "picture": {
-                "normal_sprite": response.xpath(
-                    '//table[@class="dextable"]//img[@alt="Normal Sprite"]/@src'
+            "name": response.css("h1::text").get(),
+            "national_no": response.css(
+                'h2:contains("Pokédex data") + table.vitals-table tr:nth-of-type(1) td strong::text'
+            ).get(),
+            "type": response.css(
+                'h2:contains("Pokédex data") + table.vitals-table tr:nth-of-type(2) td a::text'
+            ).getall(),
+            "species": response.css(
+                'h2:contains("Pokédex data") + table.vitals-table tr:nth-child(3) td::text'
+            ).get(),
+            "height": response.css(
+                'h2:contains("Pokédex data") + table.vitals-table tr:nth-child(4) td::text'
+            ).get(),
+            "weight": response.css(
+                'h2:contains("Pokédex data") + table.vitals-table tr:nth-child(5) td::text'
+            ).get(),
+            "abilities": response.css(
+                'h2:contains("Pokédex data") + table.vitals-table tr:nth-child(6) td a::text'
+            ).getall(),
+            "ev_yield": response.css(
+                'h2:contains("Training") + table.vitals-table tr:nth-child(1) td::text'
+            ).get(),
+            "catch_rate": response.css(
+                'h2:contains("Training") + table.vitals-table tr:nth-child(2) td::text'
+            ).get(),
+            "base_happiness": response.css(
+                'h2:contains("Training") + table.vitals-table tr:nth-child(3) td::text'
+            ).get(),
+            "base_exp": response.css(
+                'h2:contains("Training") + table.vitals-table tr:nth-child(4) td::text'
+            ).get(),
+            "growth_rate": response.css(
+                'h2:contains("Training") + table.vitals-table tr:nth-child(5) td::text'
+            ).get(),
+            "egg_groups": response.css(
+                'h2:contains("Breeding") + table.vitals-table tr:nth-child(1) td a::text'
+            ).getall(),
+            "gender_ratio": response.css(
+                'h2:contains("Breeding") + table.vitals-table tr:nth-child(2) td span::text'
+            ).getall(),
+            "egg_cycle": self.parse_egg_cycle(response),
+            "stats": {
+                "hp": response.css(
+                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(1) td.cell-num::text'
                 ).get(),
-                "shiny_sprite": response.xpath(
-                    '//table[@class="dextable"]//img[@alt="Shiny Sprite"]/@src'
+                "attack": response.css(
+                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(2) td.cell-num::text'
+                ).get(),
+                "defense": response.css(
+                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(3) td.cell-num::text'
+                ).get(),
+                "sp. atk": response.css(
+                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(4) td.cell-num::text'
+                ).get(),
+                "sp. def": response.css(
+                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(5) td.cell-num::text'
+                ).get(),
+                "speed": response.css(
+                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(6) td.cell-num::text'
+                ).get(),
+                "total": response.css(
+                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tfoot tr:nth-child(1) td.cell-total::text'
                 ).get(),
             },
-            "pokemon_info": {
-                "name": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][1]/text()'
-                ).get(),
-                "other_names": {
-                    row.xpath("./td[1]/b/text()").get(): row.xpath(
-                        "./td[2]/text()"
-                    ).get()
-                    for row in response.xpath(
-                        '//table[@class="dextable"]//td[@class="fooinfo"][2]//tr'
-                    )
-                },
-                "numbers": {
-                    row.xpath("./td[1]/b/text()").get(): row.xpath(
-                        "./td[2]/text()"
-                    ).get()
-                    for row in response.xpath(
-                        '//table[@class="dextable"]//td[@class="fooinfo"][3]//tr'
-                    )
-                },
-                "gender_ratio": {
-                    row.xpath("./td[1]/text()").get(): row.xpath("./td[2]/text()").get()
-                    for row in response.xpath(
-                        '//table[@class="dextable"]//td[@class="fooinfo"][4]//tr'
-                    )
-                },
-                "types": [
-                    img.xpath("./@alt").get()
-                    for img in response.xpath(
-                        '//table[@class="dextable"]//td[@class="cen"]//img'
-                    )
-                ],
-                "classification": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][5]/text()'
-                ).get(),
-                "height": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][6]//text()'
-                ).get(),
-                "weight": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][7]//text()'
-                ).get(),
-                "capture_rate": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][8]//text()'
-                ).get(),
-                "base_egg_steps": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][9]//text()'
-                ).get(),
-                "abilities": {
-                    "primary": response.xpath(
-                        '//table[@class="dextable"]//td[@class="fooinfo"][10]/a[1]/text()'
-                    ).get(),
-                    "secondary": response.xpath(
-                        '//table[@class="dextable"]//td[@class="fooinfo"][10]/a[2]/text()'
-                    ).get(),
-                    "hidden": response.xpath(
-                        '//table[@class="dextable"]//td[@class="fooinfo"][10]/i/text()'
-                    ).get(),
-                },
-                "experience_growth": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][11]//text()'
-                ).get(),
-                "base_happiness": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][12]//text()'
-                ).get(),
-                "effort_values_earned": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][13]//text()'
-                ).get(),
-                "can_change_tera_type": response.xpath(
-                    '//table[@class="dextable"]//td[@class="fooinfo"][14]//text()'
-                ).get(),
-                "weakness": {
-                    img.xpath("./@alt").get(): row.xpath(
-                        "./td[position() > 1]//text()"
-                    ).get()
-                    for img, row in zip(
-                        response.xpath(
-                            '//table[@class="dextable"]//tr[@class="footype"]/td[position() <= 18]/a'
-                        ),
-                        response.xpath(
-                            '//table[@class="dextable"]//tr[@class="footype"]/td[position() > 18]'
-                        ),
-                    )
-                },
-            },
+            "evolution_chain": response.css(
+                "div.infocard-list-evo a.ent-name::text"
+            ).getall(),
+            "pokedex_entries": self.parse_pokedex_entries(response),
+            "moves_levelup": self.parse_moves_levelup(response),
+            "moves_tm": self.parse_moves_tm(response),
+            "moves_egg": self.parse_moves_egg(response),
+            "location": self.parse_location(response),
+            "other_languages": self.parse_other_languages(response),
         }
 
-        # Convert data to JSON format
-        json_data = json.dumps(data, ensure_ascii=False, indent=4)
+        # Save the data to a JSON file
+        with open(f'pokemon/{data["name"]}.json', "w") as f:
+            json.dump(data, f, indent=4)
 
-        # Save data to file
-        with open("pokemon.json", "w", encoding="utf-8") as f:
-            f.write(json_data)
+        # Yield the data to Scrapy
+        yield data
 
-        # Output the JSON data
-        yield {"pokemon_data": json_data}
+        # Follow the link to the next Pokemon's page
+        next_page = response.css('a[rel="next"]::attr(href)').get()
+        if next_page is not None:
+            yield response.follow(next_page, self.parse)

@@ -1,0 +1,643 @@
+{
+    "name": "Mamoswine",
+    "national_no": "0473",
+    "type": [
+        "Ice",
+        "Ground"
+    ],
+    "species": "Twin Tusk Pok\u00e9mon",
+    "height": "2.5\u00a0m (8\u203202\u2033)",
+    "weight": "291.0\u00a0kg (641.5\u00a0lbs)",
+    "abilities": [
+        "Oblivious",
+        "Snow Cloak",
+        "Thick Fat"
+    ],
+    "ev_yield": "\n3 Attack ",
+    "catch_rate": "\n50 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "239",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Field"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "110",
+        "attack": "130",
+        "defense": "80",
+        "sp. atk": "70",
+        "sp. def": "60",
+        "speed": "80",
+        "total": "530"
+    },
+    "evolution_chain": [
+        "Swinub",
+        "Piloswine",
+        "Mamoswine"
+    ],
+    "pokedex_entries": {
+        "Diamond / Pearl": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
+        "Platinum": "A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.",
+        "HeartGold": "A frozen MAMOSWINE was dug from ice dating back 10,000 years. This Pok\u00e9mon has been around a long, long, long time.",
+        "SoulSilver": "It flourished worldwide during the ice age but its population declined when the masses of ice began to dwindle.",
+        "Black / White": "A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.",
+        "Black 2 / White 2": "When the temperature rose at the end of the ice age, most Mamoswine disappeared.",
+        "X / Omega Ruby": "A frozen Mamoswine was dug from ice dating back 10,000 years. This Pok\u00e9mon has been around a long, long, long time.",
+        "Y / Alpha Sapphire": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
+        "Sword": "This Pok\u00e9mon can be spotted in wall paintings from as far back as 10,000 years ago. For a while, it was thought to have gone extinct.",
+        "Shield": "It looks strong, and that\u2019s exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive.",
+        "Brilliant Diamond / Shining Pearl": "Its impressive tusks are made of ice. The ice age is over and the climate has warmed, so this Pok\u00e9mon\u2019s population has thinned.",
+        "Legends: Arceus": "This species reached its zenith during the period known as the ice age. I suspect that Hisui\u2019s frigid climate is in harmony with Mamoswine\u2019s constitution, thus awakening hidden potential."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Ice Fang",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Powder Snow",
+            "type": "Ice",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Ice Shard",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Mist",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "25",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "37",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "44",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "51",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "level": "58",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "level": "65",
+            "move": "Thrash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Ice Shard",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Icicle Crash",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "90"
+        },
+        {
+            "level": "25",
+            "move": "High Horsepower",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "95",
+            "accuracy": "95"
+        },
+        {
+            "level": "34",
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "43",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "level": "52",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM02",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM05",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM06",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM10",
+            "move": "Ice Fang",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM36",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM46",
+            "move": "Avalanche",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM51",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM52",
+            "move": "Snowscape",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM55",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM74",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Rock Blast",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM84",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM89",
+            "move": "Body Press",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Iron Head",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM116",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM121",
+            "move": "Heavy Slam",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM128",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM133",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM134",
+            "move": "Reversal",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM149",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM150",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM172",
+            "move": "Roar",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM174",
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM176",
+            "move": "Sand Tomb",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM179",
+            "move": "Smack Down",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM181",
+            "move": "Knock Off",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM186",
+            "move": "High Horsepower",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "95",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM187",
+            "move": "Icicle Spear",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "Diamond / Pearl / Platinum / HeartGold / SoulSilver": "Swinub",
+        "Black / White / Black 2 / White 2": "Giant Chasm",
+        "X / Y": "Swinub",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Swinub",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield / Brilliant Diamond / Shining Pearl / Legends: Arceus": "Swinub",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Mamoswine",
+        "Japanese": "\u30de\u30f3\u30e0\u30fc (Mammoo)",
+        "German": "Mamutel",
+        "French": "Mammochon",
+        "Italian": "Mamoswine",
+        "Spanish": "Mamoswine",
+        "Korean": "\ub9d8\ubaa8\uafb8\ub9ac (mammokkuri)",
+        "Chinese (Simplified)": "\u8c61\u7259\u732a",
+        "Chinese (Traditional)": "\u8c61\u7259\u8c6c"
+    }
+}

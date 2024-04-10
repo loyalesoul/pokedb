@@ -1,0 +1,398 @@
+{
+    "name": "Tadbulb",
+    "national_no": "0938",
+    "type": [
+        "Electric"
+    ],
+    "species": "EleTadpole Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "0.4\u00a0kg (0.9\u00a0lbs)",
+    "abilities": [
+        "Own Tempo",
+        "Static",
+        "Damp"
+    ],
+    "ev_yield": "\n1 HP ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "54",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Water 1"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "61",
+        "attack": "31",
+        "defense": "41",
+        "sp. atk": "59",
+        "sp. def": "35",
+        "speed": "45",
+        "total": "272"
+    },
+    "evolution_chain": [
+        "Tadbulb",
+        "Bellibolt"
+    ],
+    "pokedex_entries": {
+        "Scarlet": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+        "Violet": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "7",
+            "move": "Thunder Shock",
+            "type": "Electric",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "17",
+            "move": "Charge",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "21",
+            "move": "Spark",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "level": "25",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Discharge",
+            "type": "Electric",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "36",
+            "move": "Weather Ball",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Electric Terrain",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "45",
+            "move": "Sucker Punch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Zap Cannon",
+            "type": "Electric",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "50"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM05",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM13",
+            "move": "Acid Spray",
+            "type": "Poison",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM17",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM23",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM48",
+            "move": "Volt Switch",
+            "type": "Electric",
+            "category": "Special",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM72",
+            "move": "Electro Ball",
+            "type": "Electric",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM74",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM75",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM96",
+            "move": "Eerie Impulse",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM117",
+            "move": "Hyper Voice",
+            "type": "Normal",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM126",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM136",
+            "move": "Electric Terrain",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM147",
+            "move": "Wild Charge",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM166",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "move": "Parabolic Charge",
+            "type": "Electric",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Soak",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Scarlet / Violet": "Tagtree Thicket"
+    },
+    "other_languages": {
+        "English": "Tadbulb",
+        "Japanese": "\u30ba\u30d4\u30ab",
+        "German": "Blipp",
+        "French": "T\u00eatampoule",
+        "Italian": "Tadbulb",
+        "Spanish": "Tadbulb",
+        "Korean": "\ube48\ub098\ub450",
+        "Chinese (Simplified)": "\u5149\u86aa\u4ed4",
+        "Chinese (Traditional)": "\u5149\u86aa\u4ed4"
+    }
+}

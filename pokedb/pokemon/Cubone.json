@@ -1,0 +1,920 @@
+{
+    "name": "Cubone",
+    "national_no": "0104",
+    "type": [
+        "Ground"
+    ],
+    "species": "Lonely Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "6.5\u00a0kg (14.3\u00a0lbs)",
+    "abilities": [
+        "Rock Head",
+        "Lightning Rod",
+        "Battle Armor"
+    ],
+    "ev_yield": "\n1 Defense ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "64",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Monster"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "50",
+        "defense": "95",
+        "sp. atk": "40",
+        "sp. def": "50",
+        "speed": "35",
+        "total": "320"
+    },
+    "evolution_chain": [
+        "Cubone",
+        "Marowak",
+        "Marowak"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON\u2019s real face.",
+        "Yellow": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+        "Gold": "If it is sad or lonely, the skull it wears shakes, and emits a plaintive and mournful sound.",
+        "Silver": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+        "Crystal": "It lost its mother after its birth. It wears its mother\u2019s skull, never revealing its true face.",
+        "Ruby / Sapphire": "CUBONE pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the POK\u00e9MON wears are made by the tears it sheds.",
+        "FireRed": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+        "LeafGreen": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON\u2019s real face.",
+        "Emerald": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+        "Diamond / Pearl / Platinum": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+        "HeartGold": "If it is sad or lonely, the skull it wears shakes and emits a plaintive and mournful sound.",
+        "SoulSilver": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+        "Black / White / Black 2 / White 2": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+        "X": "It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.",
+        "Y": "It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like.",
+        "Omega Ruby / Alpha Sapphire": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pok\u00e9mon wears are made by the tears it sheds.",
+        "Sun": "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
+        "Moon": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
+        "Ultra Sun": "At night, it weeps loudly for its dead mother, but those cries only attract its natural enemy\u2014Mandibuzz.",
+        "Ultra Moon": "It wears its mother\u2019s skull on its head, so no one knows what its bare face looks like. However, it\u2019s clear that it\u2019s always crying.",
+        "Let's Go Pikachu / Let's Go Eevee": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+        "Sword": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+        "Shield": "This Pok\u00e9mon wears the skull of its deceased mother. Sometimes Cubone\u2019s dreams make it cry, but each tear Cubone sheds makes it stronger.",
+        "Brilliant Diamond / Shining Pearl": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Tail Whip",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "False Swipe",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Headbutt",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Retaliate",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "Bone Rush",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "90"
+        },
+        {
+            "level": "32",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Bonemerang",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "level": "44",
+            "move": "Thrash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Tail Whip",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "False Swipe",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Headbutt",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Retaliate",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "Bone Rush",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "90"
+        },
+        {
+            "level": "32",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Endeavor",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Bonemerang",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "level": "44",
+            "move": "Thrash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Focus Punch",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM23",
+            "move": "Iron Tail",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "75"
+        },
+        {
+            "tm": "TM26",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM31",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM35",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM37",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM38",
+            "move": "Fire Blast",
+            "type": "Fire",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM39",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM54",
+            "move": "False Swipe",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM56",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM75",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM76",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM80",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM83",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM96",
+            "move": "Strength",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM98",
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM100",
+            "move": "Rock Climb",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM00",
+            "move": "Mega Punch",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM01",
+            "move": "Mega Kick",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "75"
+        },
+        {
+            "tm": "TM03",
+            "move": "Fire Punch",
+            "type": "Fire",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM05",
+            "move": "Thunder Punch",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM15",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM16",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM22",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM23",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM27",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM31",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM34",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM43",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM48",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM59",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM79",
+            "move": "Retaliate",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM81",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM94",
+            "move": "False Swipe",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM97",
+            "move": "Brutal Swing",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM98",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Belly Drum",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Detect",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Double Kick",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "move": "Iron Head",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Perish Song",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "move": "Skull Bash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "130",
+            "accuracy": "100"
+        },
+        {
+            "move": "Ancient Power",
+            "type": "Rock",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Belly Drum",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Detect",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Double Kick",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Perish Song",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Skull Bash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "130",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Red / Blue": "Pok\u00e9mon Tower",
+        "Yellow": "Pok\u00e9mon Tower",
+        "Gold / Silver": "Rock Tunnel",
+        "Crystal": "Goldenrod City",
+        "Ruby / Sapphire": "Trade/migrate from another game",
+        "FireRed / LeafGreen": "Pok\u00e9mon Tower",
+        "Emerald": "Trade/migrate from another game",
+        "Diamond / Pearl / Platinum": "Route 203",
+        "HeartGold / SoulSilver": "Rock Tunnel",
+        "Black / White": "Marowak",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Glittering Cave",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Wela Volcano Park",
+        "Let's Go Pikachu / Let's Go Eevee": "Pok\u00e9mon Tower",
+        "Sword / Shield": "Warm-Up Tunnel",
+        "Brilliant Diamond / Shining Pearl": "Route 203",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Cubone",
+        "Japanese": "\u30ab\u30e9\u30ab\u30e9 (Karakara)",
+        "German": "Tragosso",
+        "French": "Osselait",
+        "Italian": "Cubone",
+        "Spanish": "Cubone",
+        "Korean": "\ud0d5\uad6c\ub9ac (tangguri)",
+        "Chinese (Simplified)": "\u5361\u62c9\u5361\u62c9",
+        "Chinese (Traditional)": "\u5361\u62c9\u5361\u62c9"
+    }
+}

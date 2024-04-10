@@ -1,0 +1,563 @@
+{
+    "name": "Barboach",
+    "national_no": "0339",
+    "type": [
+        "Water",
+        "Ground"
+    ],
+    "species": "Whiskers Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "1.9\u00a0kg (4.2\u00a0lbs)",
+    "abilities": [
+        "Oblivious",
+        "Anticipation",
+        "Hydration"
+    ],
+    "ev_yield": "\n1 HP ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "58",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Water 2"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "48",
+        "defense": "43",
+        "sp. atk": "46",
+        "sp. def": "41",
+        "speed": "60",
+        "total": "288"
+    },
+    "evolution_chain": [
+        "Barboach",
+        "Whiscash"
+    ],
+    "pokedex_entries": {
+        "Ruby": "BARBOACH\u2019s sensitive whiskers serve as a superb radar system. This POK\u00e9MON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+        "Sapphire": "BARBOACH\u2019s body is covered with a slimy film. If a foe grabs it, this POK\u00e9MON just slips out of the enemy\u2019s grip. This POK\u00e9MON grows weak if the slimy coating dries up.",
+        "FireRed / LeafGreen": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+        "Emerald": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the BARBOACH\u2019s body.",
+        "Diamond": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+        "Pearl": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+        "Platinum": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+        "HeartGold / SoulSilver": "BARBOACH uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
+        "Black / White / Black 2 / White 2": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+        "X": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+        "Y": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+        "Omega Ruby": "Barboach\u2019s sensitive whiskers serve as a superb radar system. This Pok\u00e9mon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+        "Alpha Sapphire": "Barboach\u2019s body is covered with a slimy film. If a foe grabs it, this Pok\u00e9mon just slips out of the enemy\u2019s grip. This Pok\u00e9mon grows weak if the slimy coating dries up.",
+        "Sun": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey\u2019s location.",
+        "Moon": "Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded.",
+        "Ultra Sun": "Its entire body is gooey. When pecked at by bird Pok\u00e9mon, it slips and slides its way to freedom.",
+        "Ultra Moon": "Its whiskers are filled with nerves. They can sense smells and flavors just as a person\u2019s nose or tongue would.",
+        "Sword": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+        "Shield": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+        "Brilliant Diamond": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+        "Shining Pearl": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+        "Legends: Arceus": "Makes its home in swamps with murky water. The poor visibility hides this Pok\u00e9mon from predators, and the slime on its body makes grasping it difficult.",
+        "Scarlet": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey\u2019s location.",
+        "Violet": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "6",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "24",
+            "move": "Aqua Tail",
+            "type": "Water",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "level": "31",
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "36",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "level": "42",
+            "move": "Future Sight",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Fissure",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "30"
+        },
+        {
+            "level": "1",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Mud Bomb",
+            "type": "Ground",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "85"
+        },
+        {
+            "level": "18",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "25",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "level": "34",
+            "move": "Aqua Tail",
+            "type": "Water",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "level": "43",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM05",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM28",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM36",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM51",
+            "move": "Sandstorm",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM77",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM84",
+            "move": "Stomping Tantrum",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM100",
+            "move": "Dragon Dance",
+            "type": "Dragon",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM110",
+            "move": "Liquidation",
+            "type": "Water",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM116",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM128",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM133",
+            "move": "Earth Power",
+            "type": "Ground",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM142",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM149",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM150",
+            "move": "Stone Edge",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM156",
+            "move": "Outrage",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Spark",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "move": "Thrash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Ruby / Sapphire": "Route 111",
+        "FireRed / LeafGreen": "Trade/migrate from another game",
+        "Emerald": "Route 111",
+        "Diamond / Pearl": "Route 205",
+        "Platinum": "Route 205",
+        "HeartGold / SoulSilver": "Whiscash",
+        "Black / White / Black 2 / White 2": "Route 8",
+        "X / Y": "Route 14",
+        "Omega Ruby / Alpha Sapphire": "Route 111",
+        "Sun / Moon": "Seaward Cave",
+        "Ultra Sun / Ultra Moon": "Seaward Cave",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "South Lake Miloch",
+        "Brilliant Diamond / Shining Pearl": "Route 205",
+        "Legends: Arceus": "Gapejaw Bog",
+        "Scarlet / Violet": "Tagtree Thicket"
+    },
+    "other_languages": {
+        "English": "Barboach",
+        "Japanese": "\u30c9\u30b8\u30e7\u30c3\u30c1 (Dojoach)",
+        "German": "Schmerbe",
+        "French": "Barloche",
+        "Italian": "Barboach",
+        "Spanish": "Barboach",
+        "Korean": "\ubbf8\uafb8\ub9ac (mikkuri)",
+        "Chinese (Simplified)": "\u6ce5\u6ce5\u9cc5",
+        "Chinese (Traditional)": "\u6ce5\u6ce5\u9c0d"
+    }
+}

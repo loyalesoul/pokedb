@@ -1,0 +1,532 @@
+{
+    "name": "Rufflet",
+    "national_no": "0627",
+    "type": [
+        "Normal",
+        "Flying"
+    ],
+    "species": "Eaglet Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "10.5\u00a0kg (23.1\u00a0lbs)",
+    "abilities": [
+        "Keen Eye",
+        "Sheer Force",
+        "Hustle"
+    ],
+    "ev_yield": "\n1 Attack ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "70",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Flying"
+    ],
+    "gender_ratio": [
+        "100% male",
+        "0% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "70",
+        "attack": "83",
+        "defense": "50",
+        "sp. atk": "37",
+        "sp. def": "50",
+        "speed": "60",
+        "total": "350"
+    },
+    "evolution_chain": [
+        "Rufflet",
+        "Braviary",
+        "Braviary"
+    ],
+    "pokedex_entries": {
+        "Black": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+        "White": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+        "Black 2 / White 2": "It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger.",
+        "X / Omega Ruby": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+        "Y / Alpha Sapphire": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+        "Sun": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+        "Moon": "With its sharp claws, this Pok\u00e9mon pierces its prey, and then it pecks at them. Although it also consumes berries, it\u2019s a carnivore at heart.",
+        "Ultra Sun": "With its powerful legs and sturdy claws, it can crack even the hard shells of Shellder and pluck out their insides.",
+        "Ultra Moon": "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance.",
+        "Sword": "If it spies a strong Pok\u00e9mon, Rufflet can\u2019t resist challenging it to a battle. But if Rufflet loses, it starts bawling.",
+        "Shield": "A combative Pok\u00e9mon, it\u2019s ready to pick a fight with anyone. It has talons that can crush hard berries.",
+        "Legends: Arceus": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength.",
+        "Scarlet": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+        "Violet": "With its sharp claws, this Pok\u00e9mon pierces its prey, and then it pecks at them. Although it also consumes berries, it\u2019s a carnivore at heart."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Peck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Hone Claws",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "12",
+            "move": "Wing Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "24",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "30",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "36",
+            "move": "Slash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "42",
+            "move": "Whirlwind",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "48",
+            "move": "Crush Claw",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "55",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "60",
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "66",
+            "move": "Thrash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "72",
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "11",
+            "move": "Twister",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Slash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "25",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "34",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "43",
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM04",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM06",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM14",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM36",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM40",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM60",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM61",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM64",
+            "move": "Bulk Up",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM65",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM97",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM113",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM118",
+            "move": "Heat Wave",
+            "type": "Fire",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM160",
+            "move": "Hurricane",
+            "type": "Flying",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM164",
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM167",
+            "move": "Close Combat",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Black": "Trade/migrate from another game",
+        "White": "Route 10",
+        "Black 2": "Trade/migrate from another game",
+        "White 2": "Route 23",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Mirage Spots",
+        "Sun": "Route 3",
+        "Moon": "Trade/migrate from another game",
+        "Ultra Sun": "Route 3",
+        "Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword": "Route 8",
+        "Shield": "Trade/migrate from another game",
+        "Brilliant Diamond / Shining Pearl": "Not available in this game",
+        "Legends: Arceus": "Snowpoint Temple",
+        "Scarlet / Violet": "Asado Desert"
+    },
+    "other_languages": {
+        "English": "Rufflet",
+        "Japanese": "\u30ef\u30b7\u30dc\u30f3 (Washibon)",
+        "German": "Geronimatz",
+        "French": "Furaiglon",
+        "Italian": "Rufflet",
+        "Spanish": "Rufflet",
+        "Korean": "\uc218\ub9ac\ub465\ubcf4 (suridungbo)",
+        "Chinese (Simplified)": "\u6bdb\u5934\u5c0f\u9e70",
+        "Chinese (Traditional)": "\u6bdb\u982d\u5c0f\u9df9"
+    }
+}

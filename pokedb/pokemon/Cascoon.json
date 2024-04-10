@@ -1,0 +1,128 @@
+{
+    "name": "Cascoon",
+    "national_no": "0268",
+    "type": [
+        "Bug"
+    ],
+    "species": "Cocoon Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "11.5\u00a0kg (25.4\u00a0lbs)",
+    "abilities": [
+        "Shed Skin"
+    ],
+    "ev_yield": "\n2 Defense ",
+    "catch_rate": "\n120 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "72",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Bug"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "35",
+        "defense": "55",
+        "sp. atk": "25",
+        "sp. def": "25",
+        "speed": "15",
+        "total": "205"
+    },
+    "evolution_chain": [
+        "Wurmple",
+        "Silcoon",
+        "Beautifly",
+        "Cascoon",
+        "Dustox"
+    ],
+    "pokedex_entries": {
+        "Ruby": "CASCOON makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This POK\u00e9MON prepares for its evolution inside the cocoon.",
+        "Sapphire": "If it is attacked, CASCOON remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This POK\u00e9MON will also not forget the pain it endured.",
+        "FireRed / LeafGreen": "Its body, which is made of soft silk, hardens over time. When cracks appear, evolution is near.",
+        "Emerald": "To avoid detection by its enemies, it hides motionlessly beneath large leaves and in the gaps of branches. It also attaches dead leaves to its body for camouflage.",
+        "Diamond": "It is hot inside its cocoon. All the cells in its body create the energy for it to evolve.",
+        "Pearl": "Encased within its tough cocoon, it endures attacks. It never forgets the appearance of its foes.",
+        "Platinum": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+        "HeartGold / SoulSilver": "It endures attacks with patience, because the more pain before evolution, the sturdier it becomes.",
+        "Black / White / Black 2 / White 2": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+        "X": "Its body, which is made of soft silk, hardens over time. When cracks appear, evolution is near.",
+        "Y": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+        "Omega Ruby": "Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This Pok\u00e9mon prepares for its evolution inside the cocoon.",
+        "Alpha Sapphire": "If it is attacked, Cascoon remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This Pok\u00e9mon will also not forget the pain it endured.",
+        "Brilliant Diamond": "It is hot inside its cocoon. All the cells in its body create the energy for it to evolve.",
+        "Shining Pearl": "Encased within its tough cocoon, it endures attacks. It never forgets the appearance of its foes.",
+        "Legends: Arceus": "The silk coating its body is thin but sufficiently strong. Cascoon\u2019s silk has a luster and texture superior to that of Silcoon\u2019s, and clothes made using Cascoon silk are regarded as top-notch."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Harden",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "?",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Poison Sting",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Ruby / Sapphire": "Petalburg Woods",
+        "FireRed / LeafGreen": "Trade/migrate from another game",
+        "Emerald": "Petalburg Woods",
+        "Diamond": "Wurmple",
+        "Pearl": "Route 205",
+        "Platinum": "Route 205",
+        "HeartGold / SoulSilver": "National Park",
+        "Black": "Trade/migrate from another game",
+        "White": "Wurmple",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Petalburg Woods",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond": "Wurmple",
+        "Shining Pearl": "Eterna Forest",
+        "Legends: Arceus": "The Heartwood",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Cascoon",
+        "Japanese": "\u30de\u30e6\u30eb\u30c9 (Mayuld)",
+        "German": "Panekon",
+        "French": "Blindalys",
+        "Italian": "Cascoon",
+        "Spanish": "Cascoon",
+        "Korean": "\uce74\uc2a4\ucfe4 (kaseukun)",
+        "Chinese (Simplified)": "\u76fe\u7532\u8327",
+        "Chinese (Traditional)": "\u76fe\u7532\u7e6d"
+    }
+}

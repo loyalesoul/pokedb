@@ -1,0 +1,606 @@
+{
+    "name": "Crobat",
+    "national_no": "0169",
+    "type": [
+        "Poison",
+        "Flying"
+    ],
+    "species": "Bat Pok\u00e9mon",
+    "height": "1.8\u00a0m (5\u203211\u2033)",
+    "weight": "75.0\u00a0kg (165.3\u00a0lbs)",
+    "abilities": [
+        "Inner Focus",
+        "Infiltrator"
+    ],
+    "ev_yield": "\n3 Speed ",
+    "catch_rate": "\n90 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "241",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Flying"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "85",
+        "attack": "90",
+        "defense": "80",
+        "sp. atk": "70",
+        "sp. def": "80",
+        "speed": "130",
+        "total": "535"
+    },
+    "evolution_chain": [
+        "Zubat",
+        "Golbat",
+        "Crobat"
+    ],
+    "pokedex_entries": {
+        "Gold": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+        "Silver": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+        "Crystal": "As a result of its pursuit of faster, yet more silent flight, a new set of wings grew on its hind legs.",
+        "Ruby": "If this POK\u00e9MON is flying by fluttering only a pair of wings on either the forelegs or hind legs, it\u2019s proof that CROBAT has been flying a long distance. It switches the wings it uses if it is tired.",
+        "Sapphire": "CROBAT sneaks up on its intended prey using wings that barely make a sound. This POK\u00e9MON rests by hanging on a tree branch with its rear legs that serve as wings.",
+        "FireRed": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+        "LeafGreen": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+        "Emerald": "Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.",
+        "Diamond": "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
+        "Pearl": "A Pok\u00e9mon that gained vastly enhanced flying performance by having its legs turn into wings.",
+        "Platinum": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+        "HeartGold": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+        "SoulSilver": "The development of wings on its legs enables it to fly fast but also makes it tough to stop and rest.",
+        "Black / White": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+        "Black 2 / White 2": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+        "X": "It flies so silently through the dark on its four wings that it may not be noticed even when nearby.",
+        "Y": "Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.",
+        "Omega Ruby": "If this Pok\u00e9mon is flying by fluttering only a pair of wings on either the forelegs or hind legs, it\u2019s proof that Crobat has been flying a long distance. It switches the wings it uses if it is tired.",
+        "Alpha Sapphire": "Crobat sneaks up on its intended prey using wings that barely make a sound. This Pok\u00e9mon rests by hanging on a tree branch with its rear legs that serve as wings.",
+        "Sun": "Both its legs became wings, and as a result, it can\u2019t move well on the ground. All it can do is crawl around.",
+        "Moon": "Silent and swift in its four-winged flight, it bites down on its prey before they realize what\u2019s happening. In a heartbeat, it drains their blood.",
+        "Ultra Sun": "Its fangs are so sharp, if it bites you in the dark and sucks your blood, you won\u2019t notice any pain or realize you\u2019ve been bitten.",
+        "Ultra Moon": "It feeds on the blood of living people and Pok\u00e9mon. If it can\u2019t drink any blood for even a short while, it becomes weak and unable to fly.",
+        "Sword": "Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target\u2019s neck.",
+        "Shield": "This Pok\u00e9mon flaps its four wings skillfully. Crobat can fly through cramped caves without needing to slow down.",
+        "Brilliant Diamond": "Having four wings enables it to fly faster and more quietly. It turns active when the night comes.",
+        "Shining Pearl": "This Pok\u00e9mon gained vastly enhanced flying capabilities after its legs became wings.",
+        "Legends: Arceus": "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Absorb",
+            "type": "Grass",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Cross Poison",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Mean Look",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "1",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "15",
+            "move": "Poison Fang",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Quick Guard",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "27",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "level": "34",
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "41",
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "48",
+            "move": "Venoshock",
+            "type": "Poison",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "55",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "62",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "69",
+            "move": "Leech Life",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Gust",
+            "type": "Flying",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "level": "11",
+            "move": "Bite",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "level": "25",
+            "move": "Cross Poison",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "34",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "43",
+            "move": "Leech Life",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM06",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM12",
+            "move": "Taunt",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM30",
+            "move": "Shadow Ball",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM36",
+            "move": "Sludge Bomb",
+            "type": "Poison",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM41",
+            "move": "Torment",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Steel Wing",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM51",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM63",
+            "move": "Nasty Plot",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM66",
+            "move": "Payback",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM79",
+            "move": "Dark Pulse",
+            "type": "Dark",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM81",
+            "move": "X-Scissor",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM88",
+            "move": "Pluck",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM89",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM94",
+            "move": "Fly",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM97",
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Brave Bird",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Gust",
+            "type": "Flying",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Venom Drench",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Whirlwind",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Wing Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        }
+    ],
+    "location": {
+        "Gold / Silver / Crystal": "Zubat",
+        "Ruby / Sapphire / FireRed / LeafGreen / Emerald": "Zubat",
+        "Diamond / Pearl / Platinum / HeartGold / SoulSilver": "Zubat",
+        "Black / White": "Route 13",
+        "Black 2 / White 2": "Dreamyard",
+        "X / Y / Omega Ruby / Alpha Sapphire": "Zubat",
+        "Sun / Moon": "Resolution Cave",
+        "Ultra Sun / Ultra Moon": "Lush Jungle",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield / Brilliant Diamond / Shining Pearl": "Zubat",
+        "Legends: Arceus": "Icebound Falls",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Crobat",
+        "Japanese": "\u30af\u30ed\u30d0\u30c3\u30c8 (Crobat)",
+        "German": "Iksbat",
+        "French": "Nostenfer",
+        "Italian": "Crobat",
+        "Spanish": "Crobat",
+        "Korean": "\ud06c\ub85c\ubc43 (keurobaet)",
+        "Chinese (Simplified)": "\u53c9\u5b57\u8760",
+        "Chinese (Traditional)": "\u53c9\u5b57\u8760"
+    }
+}

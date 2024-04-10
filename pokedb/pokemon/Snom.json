@@ -1,0 +1,287 @@
+{
+    "name": "Snom",
+    "national_no": "0872",
+    "type": [
+        "Ice",
+        "Bug"
+    ],
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "3.8\u00a0kg (8.4\u00a0lbs)",
+    "abilities": [
+        "Shield Dust",
+        "Ice Scales"
+    ],
+    "ev_yield": "\n1 Sp. Atk ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "37",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Bug"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "30",
+        "attack": "25",
+        "defense": "35",
+        "sp. atk": "45",
+        "sp. def": "30",
+        "speed": "20",
+        "total": "185"
+    },
+    "evolution_chain": [
+        "Snom",
+        "Frosmoth"
+    ],
+    "pokedex_entries": {
+        "Sword": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+        "Shield": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
+        "Scarlet": "It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.",
+        "Violet": "Within its internal organs, Snom amplifies the frigid air it gets from eating snow and then uses this amplified air to create icicle-like spikes."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Powder Snow",
+            "type": "Ice",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Struggle Bug",
+            "type": "Bug",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Powder Snow",
+            "type": "Ice",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Struggle Bug",
+            "type": "Bug",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM15",
+            "move": "Struggle Bug",
+            "type": "Bug",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM21",
+            "move": "Pounce",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM162",
+            "move": "Bug Buzz",
+            "type": "Bug",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM27",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM31",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM51",
+            "move": "Icicle Spear",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Bug Bite",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Fairy Wind",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Mirror Coat",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Bug Bite",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "move": "Fairy Wind",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Mirror Coat",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Sword / Shield": "Route 8",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Snom",
+        "Japanese": "\u30e6\u30ad\u30cf\u30df (Yukihami)",
+        "German": "Snomnom",
+        "French": "Frissonille",
+        "Italian": "Snom",
+        "Spanish": "Snom",
+        "Korean": "\ub204\ub2c8\uba38\uae30 (nunimeogi)",
+        "Chinese (Simplified)": "\u96ea\u541e\u866b",
+        "Chinese (Traditional)": "\u96ea\u541e\u87f2"
+    }
+}

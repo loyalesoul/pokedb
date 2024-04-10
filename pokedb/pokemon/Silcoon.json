@@ -1,0 +1,128 @@
+{
+    "name": "Silcoon",
+    "national_no": "0266",
+    "type": [
+        "Bug"
+    ],
+    "species": "Cocoon Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "10.0\u00a0kg (22.0\u00a0lbs)",
+    "abilities": [
+        "Shed Skin"
+    ],
+    "ev_yield": "\n2 Defense ",
+    "catch_rate": "\n120 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "72",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Bug"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "35",
+        "defense": "55",
+        "sp. atk": "25",
+        "sp. def": "25",
+        "speed": "15",
+        "total": "205"
+    },
+    "evolution_chain": [
+        "Wurmple",
+        "Silcoon",
+        "Beautifly",
+        "Cascoon",
+        "Dustox"
+    ],
+    "pokedex_entries": {
+        "Ruby": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POK\u00e9MON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
+        "Sapphire": "SILCOON was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this POK\u00e9MON slakes its thirst by drinking rainwater that collects on its silk.",
+        "FireRed / LeafGreen": "It conserves its energy by moving as little as possible. It awaits evolution while drinking only a little rainwater.",
+        "Emerald": "It prepares for evolution using the energy it stored while it was a WURMPLE. It keeps watch over the surroundings with its two eyes.",
+        "Diamond": "It anchors itself by wrapping twigs with the silk from its body. It motionlessly awaits evolution.",
+        "Pearl": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+        "Platinum": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+        "HeartGold / SoulSilver": "Having wrapped silk around the branches of a tree, it quiescently awaits evolution.",
+        "Black / White / Black 2 / White 2": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+        "X": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+        "Y": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+        "Omega Ruby": "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pok\u00e9mon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
+        "Alpha Sapphire": "Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pok\u00e9mon slakes its thirst by drinking rainwater that collects on its silk.",
+        "Brilliant Diamond": "It anchors itself by wrapping twigs with the silk from its body. It motionlessly awaits evolution.",
+        "Shining Pearl": "It drinks dew that collects on its silk while it waits for evolution. Its hard cocoon repels attacks.",
+        "Legends: Arceus": "Wraps itself in thin strings of silk while it stores energy for evolution. It can\u2019t extend its limbs and its movement is slow, but its eyes keep a sharp lookout\u2014Silcoon is always on guard."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Harden",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "?",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Poison Sting",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Ruby / Sapphire": "Petalburg Woods",
+        "FireRed / LeafGreen": "Trade/migrate from another game",
+        "Emerald": "Petalburg Woods",
+        "Diamond": "Route 205",
+        "Pearl": "Wurmple",
+        "Platinum": "Route 205",
+        "HeartGold / SoulSilver": "National Park",
+        "Black": "Trade/migrate from another game",
+        "White": "Wurmple",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Petalburg Woods",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond": "Eterna Forest",
+        "Shining Pearl": "Wurmple",
+        "Legends: Arceus": "The Heartwood",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Silcoon",
+        "Japanese": "\u30ab\u30e9\u30b5\u30ea\u30b9 (Karasalis)",
+        "German": "Schaloko",
+        "French": "Armulys",
+        "Italian": "Silcoon",
+        "Spanish": "Silcoon",
+        "Korean": "\uc2e4\ucfe4 (silkun)",
+        "Chinese (Simplified)": "\u7532\u58f3\u8327",
+        "Chinese (Traditional)": "\u7532\u6bbc\u7e6d"
+    }
+}

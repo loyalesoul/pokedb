@@ -1,0 +1,715 @@
+{
+    "name": "Staryu",
+    "national_no": "0120",
+    "type": [
+        "Water"
+    ],
+    "species": "Star Shape Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "34.5\u00a0kg (76.1\u00a0lbs)",
+    "abilities": [
+        "Illuminate",
+        "Natural Cure",
+        "Analytic"
+    ],
+    "ev_yield": "\n1 Speed ",
+    "catch_rate": "\n225 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "68",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Water 3"
+    ],
+    "gender_ratio": [],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "30",
+        "attack": "45",
+        "defense": "55",
+        "sp. atk": "70",
+        "sp. def": "55",
+        "speed": "85",
+        "total": "340"
+    },
+    "evolution_chain": [
+        "Staryu",
+        "Starmie"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+        "Yellow": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.",
+        "Gold": "At night, the center of its body slowly flickers with the same rhythm as a human heartbeat.",
+        "Silver": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+        "Crystal": "When the stars twinkle at night, it floats up from the sea floor, and its body\u2019s center core flickers.",
+        "Ruby": "STARYU\u2019s center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these POK\u00e9MON look like the stars in the sky.",
+        "Sapphire": "STARYU apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this POK\u00e9MON simply regenerates the missing pieces and limbs.",
+        "FireRed": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+        "LeafGreen": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle.",
+        "Emerald": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
+        "Diamond / Pearl / Platinum": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+        "HeartGold": "At night, the middle of its body slowly flickers with the same rhythm as a human heartbeat.",
+        "SoulSilver": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+        "Black / White": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+        "Black 2 / White 2": "As long as its red core remains, it can regenerate its body instantly, even if it\u2019s torn apart.",
+        "X": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+        "Y": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+        "Omega Ruby": "Staryu\u2019s center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pok\u00e9mon look like the stars in the sky.",
+        "Alpha Sapphire": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pok\u00e9mon simply regenerates the missing pieces and limbs.",
+        "Sun": "Large numbers of these Pok\u00e9mon make their home at the seaside. At night, a strange red glow radiates from the center of their bodies.",
+        "Moon": "This Pok\u00e9mon gets nibbled on by Lumineon and others. Thanks to its red core, it regenerates fast, so it\u2019s unconcerned by their snack attacks.",
+        "Ultra Sun": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
+        "Ultra Moon": "No number of injuries can bother Staryu. Its amazing regenerative powers return it to its previous state in half a day!",
+        "Let's Go Pikachu / Let's Go Eevee": "As long as the center section is unharmed, this Pok\u00e9mon can grow back fully even if it is chopped to bits.",
+        "Sword": "If you visit a beach at the end of summer, you\u2019ll be able to see groups of Staryu lighting up in a steady rhythm.",
+        "Shield": "Fish Pok\u00e9mon nibble at it, but Staryu isn\u2019t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+        "Brilliant Diamond / Shining Pearl": "If Staryu\u2019s body is damaged, it will regenerate as long as the red core remains. The core flashes at midnight."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Harden",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Rapid Spin",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Minimize",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "20",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "24",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Brine",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Power Gem",
+            "type": "Rock",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Recover",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "52",
+            "move": "Cosmic Power",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "56",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Harden",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Rapid Spin",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Minimize",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "20",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "24",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Brine",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Power Gem",
+            "type": "Rock",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Recover",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "52",
+            "move": "Cosmic Power",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "56",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM03",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM16",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM24",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM29",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM33",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM55",
+            "move": "Brine",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM67",
+            "move": "Recycle",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Flash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM73",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM74",
+            "move": "Gyro Ball",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM77",
+            "move": "Psych Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM91",
+            "move": "Flash Cannon",
+            "type": "Steel",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM95",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM21",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM24",
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM27",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM33",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM35",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM36",
+            "move": "Whirlpool",
+            "type": "Water",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM39",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM40",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM45",
+            "move": "Dive",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM55",
+            "move": "Brine",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM76",
+            "move": "Round",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "Red / Blue": "Route 19",
+        "Yellow": "Route 19",
+        "Gold / Silver": "Route 19",
+        "Crystal": "Route 19",
+        "Ruby / Sapphire": "Lilycove City",
+        "FireRed": "Trade/migrate from another game",
+        "LeafGreen": "Cinnabar Island",
+        "Emerald": "Lilycove City",
+        "Diamond / Pearl": "Canalave City",
+        "Platinum": "Canalave City",
+        "HeartGold / SoulSilver": "Route 47",
+        "Black / White": "Route 13",
+        "Black 2 / White 2": "Route 13",
+        "X": "Route 8",
+        "Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Lilycove City",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Route 7",
+        "Let's Go Pikachu / Let's Go Eevee": "Route 18",
+        "Sword / Shield": "Challenge Beach",
+        "Brilliant Diamond / Shining Pearl": "Canalave City",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Staryu",
+        "Japanese": "\u30d2\u30c8\u30c7\u30de\u30f3 (Hitodeman)",
+        "German": "Sterndu",
+        "French": "Stari",
+        "Italian": "Staryu",
+        "Spanish": "Staryu",
+        "Korean": "\ubcc4\uac00\uc0ac\ub9ac (byeolgasari)",
+        "Chinese (Simplified)": "\u6d77\u661f\u661f",
+        "Chinese (Traditional)": "\u6d77\u661f\u661f"
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "name": "Kricketot",
+    "national_no": "0401",
+    "type": [
+        "Bug"
+    ],
+    "species": "Cricket Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "2.2\u00a0kg (4.9\u00a0lbs)",
+    "abilities": [
+        "Shed Skin",
+        "Run Away"
+    ],
+    "ev_yield": "\n1 Defense ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "39",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Bug"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "37",
+        "attack": "25",
+        "defense": "41",
+        "sp. atk": "25",
+        "sp. def": "41",
+        "speed": "25",
+        "total": "194"
+    },
+    "evolution_chain": [
+        "Kricketot",
+        "Kricketune"
+    ],
+    "pokedex_entries": {
+        "Diamond": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+        "Pearl": "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+        "Platinum": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+        "HeartGold / SoulSilver": "When its antennae hit each other, it sounds like the music of a xylophone.",
+        "Black / White / Black 2 / White 2": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+        "X / Omega Ruby": "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+        "Y / Alpha Sapphire": "When its antennae hit each other, it sounds like the music of a xylophone.",
+        "Brilliant Diamond": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+        "Shining Pearl": "It chats with others using the sounds of its colliding antennae. These sounds are the hallmarks of fall evenings.",
+        "Legends: Arceus": "When the trees take on new hues, more of these Pok\u00e9mon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands.",
+        "Scarlet": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+        "Violet": "When its antennae hit each other, it sounds like the music of a xylophone."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Growl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Struggle Bug",
+            "type": "Bug",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Bug Bite",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Absorb",
+            "type": "Grass",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM15",
+            "move": "Struggle Bug",
+            "type": "Bug",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "Diamond / Pearl": "Route 202",
+        "Platinum": "Route 201",
+        "HeartGold / SoulSilver": "National Park",
+        "Black / White": "Kricketune",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Kricketune",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond / Shining Pearl": "Route 202",
+        "Legends: Arceus": "Deertrack Path",
+        "Scarlet / Violet": "North Province (Area One)"
+    },
+    "other_languages": {
+        "English": "Kricketot",
+        "Japanese": "\u30b3\u30ed\u30dc\u30fc\u30b7 (Korobohshi)",
+        "German": "Zirpurze",
+        "French": "Crikzik",
+        "Italian": "Kricketot",
+        "Spanish": "Kricketot",
+        "Korean": "\uadc0\ub6a4\ub69c\uae30 (gwittulttugi)",
+        "Chinese (Simplified)": "\u5706\u6cd5\u5e08",
+        "Chinese (Traditional)": "\u5713\u6cd5\u5e2b"
+    }
+}

@@ -1,0 +1,419 @@
+{
+    "name": "Goomy",
+    "national_no": "0704",
+    "type": [
+        "Dragon"
+    ],
+    "species": "Soft Tissue Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "2.8\u00a0kg (6.2\u00a0lbs)",
+    "abilities": [
+        "Sap Sipper",
+        "Hydration",
+        "Gooey"
+    ],
+    "ev_yield": "\n1 Sp. Def ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n35 ",
+    "base_exp": "60",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Dragon"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "stats": {
+        "hp": "45",
+        "attack": "50",
+        "defense": "35",
+        "sp. atk": "55",
+        "sp. def": "75",
+        "speed": "40",
+        "total": "300"
+    },
+    "evolution_chain": [
+        "Goomy",
+        "Sliggoo",
+        "Goodra",
+        "Sliggoo",
+        "Goodra"
+    ],
+    "pokedex_entries": {
+        "X / Omega Ruby": "The weakest Dragon-type Pok\u00e9mon, it lives in damp, shady places, so its body doesn\u2019t dry out.",
+        "Y / Alpha Sapphire": "It\u2019s covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.",
+        "Sun": "The weakest of all Dragon-type Pok\u00e9mon, it\u2019s unable to breathe if its skin dries out, so it sticks to shady places.",
+        "Moon": "Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing.",
+        "Ultra Sun": "It uses its horns to check out its surroundings. They\u2019re very sensitive, so if you grab them, it will feel a strong shock and be unable to move.",
+        "Ultra Moon": "Its body is mostly water. If it dries out, it will die, so it\u2019s always sitting with perfect stillness in the shade.",
+        "Sword": "Because most of its body is water, it will dry up if the weather becomes too arid. It\u2019s considered the weakest dragon Pok\u00e9mon.",
+        "Shield": "Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they\u2019ve survived.",
+        "Legends: Arceus": "Goomy hides away in the shade of trees, where it\u2019s nice and humid. If the slime coating its body dries out, the Pok\u00e9mon instantly becomes lethargic.",
+        "Scarlet": "Most of a Goomy\u2019s body is water. A membrane covers the whole Pok\u00e9mon to prevent it from shriveling up in dry weather.",
+        "Violet": "Goomy\u2019s horns are excellent sensory organs that cover all five of Goomy\u2019s senses. Goomy picks up on danger from the movement of the air."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Absorb",
+            "type": "Grass",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "10",
+            "move": "Dragon Breath",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "20",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "30",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "35",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "41",
+            "move": "Curse",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "45",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "50",
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Bubble",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Acid Spray",
+            "type": "Poison",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Acid Armor",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "18",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "level": "34",
+            "move": "Shelter",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "43",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM02",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM86",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM115",
+            "move": "Dragon Pulse",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM126",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM148",
+            "move": "Sludge Bomb",
+            "type": "Poison",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM156",
+            "move": "Outrage",
+            "type": "Dragon",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM169",
+            "move": "Draco Meteor",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "130",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Counter",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Life Dew",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "X / Y": "Route 14",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Route 17",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword": "Trade/migrate from another game",
+        "Shield": "Lake of Outrage",
+        "Brilliant Diamond / Shining Pearl": "Not available in this game",
+        "Legends: Arceus": "Ancient Quarry",
+        "Scarlet / Violet": "Tagtree Thicket"
+    },
+    "other_languages": {
+        "English": "Goomy",
+        "Japanese": "\u30cc\u30e1\u30e9 (Numera)",
+        "German": "Viscora",
+        "French": "Mucuscule",
+        "Italian": "Goomy",
+        "Spanish": "Goomy",
+        "Korean": "\ubbf8\ub044\uba54\ub77c (mikkeumera)",
+        "Chinese (Simplified)": "\u9ecf\u9ecf\u5b9d",
+        "Chinese (Traditional)": "\u9ecf\u9ecf\u5bf6"
+    }
+}

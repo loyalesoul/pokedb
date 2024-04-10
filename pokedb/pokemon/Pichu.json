@@ -1,0 +1,531 @@
+{
+    "name": "Pichu",
+    "national_no": "0172",
+    "type": [
+        "Electric"
+    ],
+    "species": "Tiny Mouse Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "2.0\u00a0kg (4.4\u00a0lbs)",
+    "abilities": [
+        "Static",
+        "Lightning Rod"
+    ],
+    "ev_yield": "\n1 Speed ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "41",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Undiscovered"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "stats": {
+        "hp": "20",
+        "attack": "40",
+        "defense": "15",
+        "sp. atk": "35",
+        "sp. def": "35",
+        "speed": "60",
+        "total": "205"
+    },
+    "evolution_chain": [
+        "Pichu",
+        "Pikachu",
+        "Raichu",
+        "Raichu"
+    ],
+    "pokedex_entries": {
+        "Gold": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+        "Silver": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+        "Crystal": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+        "Ruby": "PICHU charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this POK\u00e9MON.",
+        "Sapphire": "When PICHU plays with others, it may short out electricity with another PICHU, creating a shower of sparks. In that event, this POK\u00e9MON will begin crying, startled by the flash of sparks.",
+        "FireRed": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+        "LeafGreen": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+        "Emerald": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
+        "Diamond": "The electric pouches on its cheeks are still small. They cannot store much electricity yet.",
+        "Pearl": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+        "Platinum": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+        "HeartGold": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+        "SoulSilver": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+        "Black / White / Black 2 / White 2": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+        "X": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+        "Y": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+        "Omega Ruby": "Pichu charges itself with electricity more easily on days with thunderclouds or when the air is very dry. You can hear the crackling of static electricity coming off this Pok\u00e9mon.",
+        "Alpha Sapphire": "When Pichu plays with others, it may short out electricity with another Pichu, creating a shower of sparks. In that event, this Pok\u00e9mon will begin crying, startled by the flash of sparks.",
+        "Sun": "It is not yet skilled at controlling electricity. If you take your eyes off it, it may shock itself.",
+        "Moon": "Despite this Pok\u00e9mon\u2019s cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts.",
+        "Ultra Sun": "It still can\u2019t use electricity well. When it\u2019s surprised or excited, it discharges electricity unintentionally.",
+        "Ultra Moon": "It has electric sacs in its cheeks. When they\u2019re fully charged, Pichu plays very energetically.",
+        "Sword": "Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",
+        "Shield": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+        "Brilliant Diamond": "The electric sacs on its cheeks are still small. They cannot store much electricity yet.",
+        "Shining Pearl": "It plays with others by touching tails and setting off sparks. This appears to be a test of courage.",
+        "Legends: Arceus": "Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pok\u00e9mon\u2019s handling of electricity is rather inept.",
+        "Scarlet": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+        "Violet": "Despite this Pok\u00e9mon\u2019s cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Tail Whip",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Thunder Shock",
+            "type": "Electric",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Play Nice",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "8",
+            "move": "Sweet Kiss",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "12",
+            "move": "Nuzzle",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Nasty Plot",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "20",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Thunder Shock",
+            "type": "Electric",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "level": "15",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "21",
+            "move": "Spark",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "37",
+            "move": "Iron Tail",
+            "type": "Steel",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "75"
+        },
+        {
+            "level": "47",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM02",
+            "move": "Charm",
+            "type": "Fairy",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM19",
+            "move": "Disarming Voice",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM43",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM48",
+            "move": "Volt Switch",
+            "type": "Electric",
+            "category": "Special",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM68",
+            "move": "Thunder Punch",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM72",
+            "move": "Electro Ball",
+            "type": "Electric",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM74",
+            "move": "Reflect",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM75",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM81",
+            "move": "Grass Knot",
+            "type": "Grass",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM82",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM122",
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM126",
+            "move": "Thunderbolt",
+            "type": "Electric",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM127",
+            "move": "Play Rough",
+            "type": "Fairy",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM134",
+            "move": "Reversal",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM136",
+            "move": "Electric Terrain",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM140",
+            "move": "Nasty Plot",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM147",
+            "move": "Wild Charge",
+            "type": "Electric",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM166",
+            "move": "Thunder",
+            "type": "Electric",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Charge",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Disarming Voice",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "\u221e"
+        },
+        {
+            "move": "Fake Out",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Present",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "move": "Tickle",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Wish",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Gold / Silver": "Pikachu",
+        "Crystal": "Route 34",
+        "Ruby / Sapphire / FireRed / LeafGreen / Emerald": "Pikachu",
+        "Diamond / Pearl / Platinum": "Trophy Garden",
+        "HeartGold / SoulSilver": "Ilex Forest",
+        "Black / White / Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y / Omega Ruby / Alpha Sapphire": "Pikachu",
+        "Sun / Moon": "Route 1",
+        "Ultra Sun / Ultra Moon": "Route 1",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Pikachu",
+        "Brilliant Diamond / Shining Pearl": "Trophy Garden",
+        "Legends: Arceus": "Nature\u2019s Pantry",
+        "Scarlet / Violet": "Tagtree Thicket"
+    },
+    "other_languages": {
+        "English": "Pichu",
+        "Japanese": "\u30d4\u30c1\u30e5\u30fc (Pichu)",
+        "German": "Pichu",
+        "French": "Pichu",
+        "Italian": "Pichu",
+        "Spanish": "Pichu",
+        "Korean": "\ud53c\uce04 (pichyu)",
+        "Chinese (Simplified)": "\u76ae\u4e18",
+        "Chinese (Traditional)": "\u76ae\u4e18"
+    }
+}

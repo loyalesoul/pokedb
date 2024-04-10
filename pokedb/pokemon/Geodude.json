@@ -1,0 +1,164 @@
+{
+    "name": "Geodude",
+    "national_no": "0074",
+    "type": [
+        "Rock",
+        "Ground",
+        "Rock",
+        "Electric"
+    ],
+    "species": "Rock Pok\u00e9mon",
+    "height": "0.4\u00a0m (1\u203204\u2033)",
+    "weight": "20.0\u00a0kg (44.1\u00a0lbs)",
+    "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Sand Veil",
+        "Magnet Pull",
+        "Sturdy",
+        "Galvanize"
+    ],
+    "ev_yield": "\n1 Defense ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "60",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Mineral",
+        "Mineral"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female",
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "40",
+        "attack": "80",
+        "defense": "100",
+        "sp. atk": "30",
+        "sp. def": "30",
+        "speed": "20",
+        "total": "300"
+    },
+    "evolution_chain": [
+        "Geodude",
+        "Graveler",
+        "Golem",
+        "Geodude",
+        "Graveler",
+        "Golem"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "level": "5",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "21",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "level": "26",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "37",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "47",
+            "move": "Self-Destruct",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "200",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Red / Blue / Yellow": "Mt. Moon",
+        "Gold / Silver": "Route 45",
+        "Crystal": "Route 33",
+        "Ruby / Sapphire": "Route 111",
+        "FireRed / LeafGreen": "Cerulean Cave",
+        "Emerald": "Route 111",
+        "Diamond / Pearl": "Route 206",
+        "Platinum": "Route 206",
+        "HeartGold / SoulSilver": "Route 45",
+        "Black / White": "Graveler",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Route 18",
+        "Omega Ruby / Alpha Sapphire": "Route 111",
+        "Sun / Moon": "Route 12",
+        "Ultra Sun / Ultra Moon": "Graveler",
+        "Let's Go Pikachu / Let's Go Eevee": "Cerulean Cave",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond / Shining Pearl": "Route 206",
+        "Legends: Arceus": "Deertrack Heights",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Geodude",
+        "Japanese": "\u30a4\u30b7\u30c4\u30d6\u30c6 (Isitsubute)",
+        "German": "Kleinstein",
+        "French": "Racaillou",
+        "Italian": "Geodude",
+        "Spanish": "Geodude",
+        "Korean": "\uaf2c\ub9c8\ub3cc (kkomadol)",
+        "Chinese (Simplified)": "\u5c0f\u62f3\u77f3",
+        "Chinese (Traditional)": "\u5c0f\u62f3\u77f3"
+    }
+}

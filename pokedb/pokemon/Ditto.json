@@ -1,0 +1,115 @@
+{
+    "name": "Ditto",
+    "national_no": "0132",
+    "type": [
+        "Normal"
+    ],
+    "species": "Transform Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
+    "abilities": [
+        "Limber",
+        "Imposter"
+    ],
+    "ev_yield": "\n1 HP ",
+    "catch_rate": "\n35 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "101",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Ditto"
+    ],
+    "gender_ratio": [],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "48",
+        "attack": "48",
+        "defense": "48",
+        "sp. atk": "48",
+        "sp. def": "48",
+        "speed": "48",
+        "total": "288"
+    },
+    "evolution_chain": [],
+    "pokedex_entries": {
+        "Red / Blue": "Capable of copying an enemy\u2019s genetic code to instantly transform itself into a duplicate of the enemy.",
+        "Yellow": "When it spots an enemy, its body transfigures into an almost perfect copy of its opponent.",
+        "Gold": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",
+        "Silver": "Its transformation ability is perfect. However, if made to laugh, it can\u2019t maintain its disguise.",
+        "Crystal": "When it encounters another DITTO, it will move faster than normal to duplicate that opponent exactly.",
+        "Ruby / Sapphire": "DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this POK\u00e9MON manages to get details wrong.",
+        "FireRed": "It can freely recombine its own cellular structure to transform into other life-forms.",
+        "LeafGreen": "Capable of copying an opponent\u2019s genetic code to instantly transform itself into a duplicate of the enemy.",
+        "Emerald": "A DITTO rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.",
+        "Diamond / Pearl / Platinum": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+        "HeartGold": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",
+        "SoulSilver": "Its transformation ability is perfect. However, if made to laugh, it can\u2019t maintain its disguise.",
+        "Black / White": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+        "Black 2 / White 2": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+        "X": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+        "Y": "It can freely recombine its own cellular structure to transform into other life-forms.",
+        "Omega Ruby / Alpha Sapphire": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pok\u00e9mon manages to get details wrong.",
+        "Sun": "It can reorganize its cells to make itself into a duplicate of anything it sees. The quality of the duplicate depends on the individual.",
+        "Moon": "With its astonishing capacity for metamorphosis, it can get along with anything. It does not get along well with its fellow Ditto.",
+        "Ultra Sun": "While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations.",
+        "Ultra Moon": "It transforms into whatever it sees. If the thing it\u2019s transforming into isn\u2019t right in front of it, Ditto relies on its memory\u2014so sometimes it fails.",
+        "Let's Go Pikachu / Let's Go Eevee": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent.",
+        "Sword": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+        "Shield": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
+        "Brilliant Diamond / Shining Pearl": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+        "Scarlet": "Its transformation ability is perfect. However, if made to laugh, it can\u2019t maintain its disguise.",
+        "Violet": "It can freely recombine its own cellular structure to transform into other life-forms."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Transform",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Transform",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Red / Blue": "Route 13",
+        "Yellow": "Cerulean Cave",
+        "Gold / Silver / Crystal": "Route 34",
+        "Ruby / Sapphire": "Trade/migrate from another game",
+        "FireRed / LeafGreen": "Route 13",
+        "Emerald": "Desert Underpass",
+        "Diamond / Pearl": "Route 218",
+        "Platinum": "Trophy Garden",
+        "HeartGold / SoulSilver": "Route 34",
+        "Black / White / Black 2 / White 2": "Giant Chasm",
+        "X / Y": "Pok\u00e9mon Village",
+        "Omega Ruby / Alpha Sapphire": "Mirage Spots",
+        "Sun / Moon": "Mount Hokulani",
+        "Ultra Sun / Ultra Moon": "Route 9",
+        "Let's Go Pikachu / Let's Go Eevee": "Cerulean Cave",
+        "Sword / Shield": "Lake of Outrage",
+        "Brilliant Diamond / Shining Pearl": "Route 218",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "West Province (Area Two)"
+    },
+    "other_languages": {
+        "English": "Ditto",
+        "Japanese": "\u30e1\u30bf\u30e2\u30f3 (Metamon)",
+        "German": "Ditto",
+        "French": "M\u00e9tamorph",
+        "Italian": "Ditto",
+        "Spanish": "Ditto",
+        "Korean": "\uba54\ud0c0\ubabd (metamong)",
+        "Chinese (Simplified)": "\u767e\u53d8\u602a",
+        "Chinese (Traditional)": "\u767e\u8b8a\u602a"
+    }
+}

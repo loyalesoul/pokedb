@@ -1,0 +1,73 @@
+{
+    "name": "Meowstic",
+    "national_no": "0678",
+    "type": [
+        "Psychic",
+        "Psychic"
+    ],
+    "species": "Constraint Pok\u00e9mon",
+    "height": "0.6\u00a0m (2\u203200\u2033)",
+    "weight": "8.5\u00a0kg (18.7\u00a0lbs)",
+    "abilities": [
+        "Keen Eye",
+        "Infiltrator",
+        "Prankster",
+        "Keen Eye",
+        "Infiltrator",
+        "Competitive"
+    ],
+    "ev_yield": "\n2 Speed ",
+    "catch_rate": "\n75 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "163",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Field",
+        "Field"
+    ],
+    "gender_ratio": [
+        "100% male",
+        "0% female",
+        "0% male",
+        "100% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "74",
+        "attack": "48",
+        "defense": "76",
+        "sp. atk": "83",
+        "sp. def": "81",
+        "speed": "104",
+        "total": "466"
+    },
+    "evolution_chain": [
+        "Espurr",
+        "Meowstic",
+        "Meowstic"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "X / Y": "Espurr",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Route 7",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Meowstic",
+        "Japanese": "\u30cb\u30e3\u30aa\u30cb\u30af\u30b9 (Nyaonix)",
+        "German": "Psiaugon",
+        "French": "Mistigrix",
+        "Italian": "Meowstic",
+        "Spanish": "Meowstic",
+        "Korean": "\ub0d0\uc624\ub2c9\uc2a4 (nyaonikseu)",
+        "Chinese (Simplified)": "\u8d85\u80fd\u5999\u55b5",
+        "Chinese (Traditional)": "\u8d85\u80fd\u5999\u55b5"
+    }
+}

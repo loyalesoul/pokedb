@@ -1,0 +1,197 @@
+{
+    "name": "Scatterbug",
+    "national_no": "0664",
+    "type": [
+        "Bug"
+    ],
+    "species": "Scatterdust Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "2.5\u00a0kg (5.5\u00a0lbs)",
+    "abilities": [
+        "Shield Dust",
+        "Compound Eyes",
+        "Friend Guard"
+    ],
+    "ev_yield": "\n1 Defense ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "40",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Bug"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "38",
+        "attack": "35",
+        "defense": "40",
+        "sp. atk": "27",
+        "sp. def": "25",
+        "speed": "35",
+        "total": "200"
+    },
+    "evolution_chain": [
+        "Scatterbug",
+        "Spewpa",
+        "Vivillon"
+    ],
+    "pokedex_entries": {
+        "X / Omega Ruby": "When under attack from bird Pok\u00e9mon, it spews a poisonous black powder that causes paralysis on contact.",
+        "Y / Alpha Sapphire": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
+        "Scarlet": "Any poison this Pok\u00e9mon takes in is converted into a black powder and secreted. That\u2019s why Scatterbug can eat poisonous leaves and roots.",
+        "Violet": "This Pok\u00e9mon scatters poisonous powder to repel enemies. It will eat different plants depending on where it lives."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "String Shot",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Stun Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "15",
+            "move": "Bug Bite",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "String Shot",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Stun Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "level": "15",
+            "move": "Bug Bite",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM15",
+            "move": "Struggle Bug",
+            "type": "Bug",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM21",
+            "move": "Pounce",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Poison Powder",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "move": "Rage Powder",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Poison Powder",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        },
+        {
+            "move": "Rage Powder",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Stun Spore",
+            "type": "Grass",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "75"
+        }
+    ],
+    "location": {
+        "X / Y": "Route 2",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Hau'oli City",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield / Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "South Province (Area One)"
+    },
+    "other_languages": {
+        "English": "Scatterbug",
+        "Japanese": "\u30b3\u30d5\u30ad\u30e0\u30b7 (Kofukimushi)",
+        "German": "Purmel",
+        "French": "L\u00e9pidonille",
+        "Italian": "Scatterbug",
+        "Spanish": "Scatterbug",
+        "Korean": "\ubd84\uc774\ubc8c\ub808 (bunibeolle)",
+        "Chinese (Simplified)": "\u7c89\u8776\u866b",
+        "Chinese (Traditional)": "\u7c89\u8776\u87f2"
+    }
+}

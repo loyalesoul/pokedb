@@ -1,0 +1,92 @@
+{
+    "name": "Arcanine",
+    "national_no": "0059",
+    "type": [
+        "Fire",
+        "Fire",
+        "Rock"
+    ],
+    "species": "Legendary Pok\u00e9mon",
+    "height": "1.9\u00a0m (6\u203203\u2033)",
+    "weight": "155.0\u00a0kg (341.7\u00a0lbs)",
+    "abilities": [
+        "Intimidate",
+        "Flash Fire",
+        "Justified",
+        "Intimidate",
+        "Flash Fire",
+        "Rock Head"
+    ],
+    "ev_yield": "\n2 Attack ",
+    "catch_rate": "\n75 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "194",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Field",
+        "Field"
+    ],
+    "gender_ratio": [
+        "75% male",
+        "25% female",
+        "75% male",
+        "25% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "90",
+        "attack": "110",
+        "defense": "80",
+        "sp. atk": "100",
+        "sp. def": "80",
+        "speed": "95",
+        "total": "555"
+    },
+    "evolution_chain": [
+        "Growlithe",
+        "Arcanine",
+        "Growlithe",
+        "Arcanine"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Red": "Growlithe",
+        "Blue": "Trade/migrate from another game",
+        "Yellow": "Growlithe",
+        "Gold": "Growlithe",
+        "Silver": "Trade/migrate from another game",
+        "Crystal": "Growlithe",
+        "Ruby / Sapphire": "Trade/migrate from another game",
+        "FireRed": "Growlithe",
+        "LeafGreen / Emerald": "Trade/migrate from another game",
+        "Diamond / Pearl / Platinum / HeartGold": "Growlithe",
+        "SoulSilver": "Trade/migrate from another game",
+        "Black / White": "Trade/migrate from another game",
+        "Black 2 / White 2": "Growlithe",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Growlithe",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Growlithe",
+        "Let's Go Pikachu": "Route 7",
+        "Let's Go Eevee": "Vermilion City",
+        "Sword": "Growlithe",
+        "Shield": "Lake of Outrage",
+        "Brilliant Diamond": "Growlithe",
+        "Shining Pearl": "Trade/migrate from another game",
+        "Legends: Arceus": "Growlithe",
+        "Scarlet / Violet": "North Province (Area Two)"
+    },
+    "other_languages": {
+        "English": "Arcanine",
+        "Japanese": "\u30a6\u30a4\u30f3\u30c7\u30a3 (Windie)",
+        "German": "Arkani",
+        "French": "Arcanin",
+        "Italian": "Arcanine",
+        "Spanish": "Arcanine",
+        "Korean": "\uc708\ub514 (windi)",
+        "Chinese (Simplified)": "\u98ce\u901f\u72d7",
+        "Chinese (Traditional)": "\u98a8\u901f\u72d7"
+    }
+}

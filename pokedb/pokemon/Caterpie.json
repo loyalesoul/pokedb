@@ -1,0 +1,167 @@
+{
+    "name": "Caterpie",
+    "national_no": "0010",
+    "type": [
+        "Bug"
+    ],
+    "species": "Worm Pok\u00e9mon",
+    "height": "0.3\u00a0m (1\u203200\u2033)",
+    "weight": "2.9\u00a0kg (6.4\u00a0lbs)",
+    "abilities": [
+        "Shield Dust",
+        "Run Away"
+    ],
+    "ev_yield": "\n1 HP ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "39",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Bug"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "45",
+        "attack": "30",
+        "defense": "35",
+        "sp. atk": "20",
+        "sp. def": "20",
+        "speed": "45",
+        "total": "195"
+    },
+    "evolution_chain": [
+        "Caterpie",
+        "Metapod",
+        "Butterfree"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "Yellow": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
+        "Gold": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+        "Silver": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
+        "Crystal": "It crawls into foliage where it camouflages itself among leaves that are the same color as its body.",
+        "Ruby / Sapphire": "CATERPIE has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this POK\u00e9MON releases a terrifically strong odor.",
+        "FireRed": "It is covered with a green skin. When it grows, it sheds the skin, covers itself with silk, and becomes a cocoon.",
+        "LeafGreen": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "Emerald": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
+        "Diamond / Pearl / Platinum": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+        "HeartGold": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
+        "SoulSilver": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
+        "Black / White / Black 2 / White 2": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+        "X": "For protection, it releases a horrible stench from the antennae on its head to drive away enemies.",
+        "Y": "Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.",
+        "Omega Ruby / Alpha Sapphire": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pok\u00e9mon releases a terrifically strong odor.",
+        "Sun": "When attacked by bird Pok\u00e9mon, it resists by releasing a terrifically strong odor from its antennae, but it often becomes their prey.",
+        "Moon": "It\u2019s easy to catch, and it grows quickly, making it one of the top recommendations for novice Pok\u00e9mon Trainers.",
+        "Ultra Sun": "Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day.",
+        "Ultra Moon": "Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food.",
+        "Let's Go Pikachu / Let's Go Eevee": "If you touch the feeler on top of its head, it will release a horrible stink to protect itself.",
+        "Sword": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+        "Shield": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "Brilliant Diamond / Shining Pearl": "It releases a stench from its red antennae to repel enemies. It grows by molting repeatedly."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "String Shot",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Bug Bite",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "String Shot",
+            "type": "Bug",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "95"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Bug Bite",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM82",
+            "move": "Electroweb",
+            "type": "Electric",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        }
+    ],
+    "moves_egg": [],
+    "location": {
+        "Red": "Route 25",
+        "Blue": "Route 2",
+        "Yellow": "Viridian Forest",
+        "Gold": "Route 2",
+        "Silver": "National Park",
+        "Crystal": "Route 2",
+        "Ruby / Sapphire": "Trade/migrate from another game",
+        "FireRed / LeafGreen": "Route 2",
+        "Emerald": "Trade/migrate from another game",
+        "Diamond / Pearl": "Route 204",
+        "Platinum": "Route 204",
+        "HeartGold": "Route 2",
+        "SoulSilver": "National Park",
+        "Black": "Trade/migrate from another game",
+        "White": "Metapod",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X": "Santalune Forest",
+        "Y": "Route 2",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Route 1",
+        "Let's Go Pikachu / Let's Go Eevee": "Route 2",
+        "Sword / Shield": "Route 1",
+        "Brilliant Diamond": "Spacious Cave",
+        "Shining Pearl": "Trade/migrate from another game",
+        "Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Caterpie",
+        "Japanese": "\u30ad\u30e3\u30bf\u30d4\u30fc (Caterpie)",
+        "German": "Raupy",
+        "French": "Chenipan",
+        "Italian": "Caterpie",
+        "Spanish": "Caterpie",
+        "Korean": "\uce90\ud130\ud53c (kaeteopi)",
+        "Chinese (Simplified)": "\u7eff\u6bdb\u866b",
+        "Chinese (Traditional)": "\u7da0\u6bdb\u87f2"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Voltorb",
+    "national_no": "0100",
+    "type": [
+        "Electric",
+        "Electric",
+        "Grass"
+    ],
+    "species": "Ball Pok\u00e9mon",
+    "height": "0.5\u00a0m (1\u203208\u2033)",
+    "weight": "10.4\u00a0kg (22.9\u00a0lbs)",
+    "abilities": [
+        "Soundproof",
+        "Static",
+        "Aftermath",
+        "Soundproof",
+        "Static",
+        "Aftermath"
+    ],
+    "ev_yield": "\n1 Speed ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "66",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Mineral",
+        "Mineral"
+    ],
+    "gender_ratio": [],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "40",
+        "attack": "30",
+        "defense": "50",
+        "sp. atk": "55",
+        "sp. def": "55",
+        "speed": "100",
+        "total": "330"
+    },
+    "evolution_chain": [
+        "Voltorb",
+        "Electrode",
+        "Voltorb",
+        "Electrode"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Red / Blue": "Route 10",
+        "Yellow": "Power Plant",
+        "Gold / Silver / Crystal": "Route 10",
+        "Ruby / Sapphire": "New Mauville",
+        "FireRed / LeafGreen": "Route 10",
+        "Emerald": "New Mauville",
+        "Diamond / Pearl / Platinum": "Route 218",
+        "HeartGold / SoulSilver": "Route 10",
+        "Black / White / Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Electrode",
+        "Omega Ruby / Alpha Sapphire": "Route 110",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Electrode",
+        "Let's Go Pikachu / Let's Go Eevee": "Power Plant",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond / Shining Pearl": "Route 218",
+        "Legends: Arceus": "Sacred Plaza",
+        "Scarlet / Violet": "East Province (Area Three)"
+    },
+    "other_languages": {
+        "English": "Voltorb",
+        "Japanese": "\u30d3\u30ea\u30ea\u30c0\u30de (Biriridama)",
+        "German": "Voltobal",
+        "French": "Voltorbe",
+        "Italian": "Voltorb",
+        "Spanish": "Voltorb",
+        "Korean": "\ucc0c\ub9ac\ub9ac\uacf5 (jjiririgong)",
+        "Chinese (Simplified)": "\u9739\u96f3\u7535\u7403",
+        "Chinese (Traditional)": "\u9739\u9742\u96fb\u7403"
+    }
+}

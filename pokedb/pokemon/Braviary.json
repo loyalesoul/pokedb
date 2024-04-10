@@ -1,0 +1,99 @@
+{
+    "name": "Braviary",
+    "national_no": "0628",
+    "type": [
+        "Normal",
+        "Flying",
+        "Psychic",
+        "Flying"
+    ],
+    "species": "Valiant Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "41.0\u00a0kg (90.4\u00a0lbs)",
+    "abilities": [
+        "Keen Eye",
+        "Sheer Force",
+        "Defiant",
+        "Keen Eye",
+        "Sheer Force",
+        "Tinted Lens"
+    ],
+    "ev_yield": "\n2 Attack ",
+    "catch_rate": "\n60 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "179",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Flying",
+        "Flying"
+    ],
+    "gender_ratio": [
+        "100% male",
+        "0% female",
+        "100% male",
+        "0% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "100",
+        "attack": "123",
+        "defense": "75",
+        "sp. atk": "57",
+        "sp. def": "75",
+        "speed": "80",
+        "total": "510"
+    },
+    "evolution_chain": [
+        "Rufflet",
+        "Braviary",
+        "Braviary"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [
+        {
+            "move": "Rock Smash",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Black": "Trade/migrate from another game",
+        "White": "Route 11",
+        "Black 2": "Trade/migrate from another game",
+        "White 2": "Route 4",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Rufflet",
+        "Sun": "Poni Plains",
+        "Moon": "Trade/migrate from another game",
+        "Ultra Sun": "Poni Plains",
+        "Ultra Moon": "Trade/migrate from another game",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword": "Dusty Bowl",
+        "Shield": "Trade/migrate from another game",
+        "Brilliant Diamond / Shining Pearl": "Not available in this game",
+        "Legends: Arceus": "Snowpoint Temple",
+        "Scarlet / Violet": "North Province (Area One)"
+    },
+    "other_languages": {
+        "English": "Braviary",
+        "Japanese": "\u30a6\u30a9\u30fc\u30b0\u30eb (Warrgle)",
+        "German": "Washakwil",
+        "French": "Gueriaigle",
+        "Italian": "Braviary",
+        "Spanish": "Braviary",
+        "Korean": "\uc6cc\uae00 (wogeul)",
+        "Chinese (Simplified)": "\u52c7\u58eb\u96c4\u9e70",
+        "Chinese (Traditional)": "\u52c7\u58eb\u96c4\u9df9"
+    }
+}

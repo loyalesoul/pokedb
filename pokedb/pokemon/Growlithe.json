@@ -1,0 +1,93 @@
+{
+    "name": "Growlithe",
+    "national_no": "0058",
+    "type": [
+        "Fire",
+        "Fire",
+        "Rock"
+    ],
+    "species": "Puppy Pok\u00e9mon",
+    "height": "0.7\u00a0m (2\u203204\u2033)",
+    "weight": "19.0\u00a0kg (41.9\u00a0lbs)",
+    "abilities": [
+        "Intimidate",
+        "Flash Fire",
+        "Justified",
+        "Intimidate",
+        "Flash Fire",
+        "Rock Head"
+    ],
+    "ev_yield": "\n1 Attack ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "70",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Field",
+        "Field"
+    ],
+    "gender_ratio": [
+        "75% male",
+        "25% female",
+        "75% male",
+        "25% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "55",
+        "attack": "70",
+        "defense": "45",
+        "sp. atk": "70",
+        "sp. def": "50",
+        "speed": "60",
+        "total": "350"
+    },
+    "evolution_chain": [
+        "Growlithe",
+        "Arcanine",
+        "Growlithe",
+        "Arcanine"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Red": "Route 7",
+        "Blue": "Trade/migrate from another game",
+        "Yellow": "Pok\u00e9mon Mansion",
+        "Gold": "Route 7",
+        "Silver": "Trade/migrate from another game",
+        "Crystal": "Route 8",
+        "Ruby / Sapphire": "Trade/migrate from another game",
+        "FireRed": "Route 7",
+        "LeafGreen / Emerald": "Trade/migrate from another game",
+        "Diamond / Pearl / Platinum": "Route 201",
+        "HeartGold": "Route 7",
+        "SoulSilver": "Trade/migrate from another game",
+        "Black / White": "Trade/migrate from another game",
+        "Black 2 / White 2": "Virbank Complex",
+        "X / Y": "Trade/migrate from another game",
+        "Omega Ruby / Alpha Sapphire": "Mt. Pyre",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Route 2",
+        "Let's Go Pikachu": "Route 5",
+        "Let's Go Eevee": "Trade/migrate from another game",
+        "Sword": "Dusty Bowl",
+        "Shield": "Route 3",
+        "Brilliant Diamond": "Spacious Cave",
+        "Shining Pearl": "Trade/migrate from another game",
+        "Legends: Arceus": "Veilstone Cape",
+        "Scarlet / Violet": "North Province (Area Two)"
+    },
+    "other_languages": {
+        "English": "Growlithe",
+        "Japanese": "\u30ac\u30fc\u30c7\u30a3 (Gardie)",
+        "German": "Fukano",
+        "French": "Caninos",
+        "Italian": "Growlithe",
+        "Spanish": "Growlithe",
+        "Korean": "\uac00\ub514 (gadi)",
+        "Chinese (Simplified)": "\u5361\u8482\u72d7",
+        "Chinese (Traditional)": "\u5361\u8482\u72d7"
+    }
+}

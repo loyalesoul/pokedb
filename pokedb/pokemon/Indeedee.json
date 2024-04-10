@@ -1,0 +1,67 @@
+{
+    "name": "Indeedee",
+    "national_no": "0876",
+    "type": [
+        "Psychic",
+        "Normal",
+        "Psychic",
+        "Normal"
+    ],
+    "species": "Emotion Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "28.0\u00a0kg (61.7\u00a0lbs)",
+    "abilities": [
+        "Inner Focus",
+        "Synchronize",
+        "Psychic Surge",
+        "Own Tempo",
+        "Synchronize",
+        "Psychic Surge"
+    ],
+    "ev_yield": "\n2 Sp. Atk ",
+    "catch_rate": "\n30 ",
+    "base_happiness": "\n140 ",
+    "base_exp": "166",
+    "growth_rate": "Fast",
+    "egg_groups": [
+        "Fairy",
+        "Fairy"
+    ],
+    "gender_ratio": [
+        "100% male",
+        "0% female",
+        "0% male",
+        "100% female"
+    ],
+    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "stats": {
+        "hp": "60",
+        "attack": "65",
+        "defense": "55",
+        "sp. atk": "105",
+        "sp. def": "95",
+        "speed": "95",
+        "total": "475"
+    },
+    "evolution_chain": [],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Sword / Shield": "Glimwood Tangle",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "North Province (Area One)"
+    },
+    "other_languages": {
+        "English": "Indeedee",
+        "Japanese": "\u30a4\u30a8\u30c3\u30b5\u30f3 (Iessan)",
+        "German": "Servol",
+        "French": "Wimessir",
+        "Italian": "Indeedee",
+        "Spanish": "Indeedee",
+        "Korean": "\uc5d0\uc368\ub974 (esseoreu)",
+        "Chinese (Simplified)": "\u7231\u7ba1\u4f8d",
+        "Chinese (Traditional)": "\u611b\u7ba1\u4f8d"
+    }
+}

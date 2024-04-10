@@ -1,0 +1,143 @@
+{
+    "name": "Magikarp",
+    "national_no": "0129",
+    "type": [
+        "Water"
+    ],
+    "species": "Fish Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "10.0\u00a0kg (22.0\u00a0lbs)",
+    "abilities": [
+        "Swift Swim",
+        "Rattled"
+    ],
+    "ev_yield": "\n1 Speed ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "40",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Dragon",
+        "Water 2"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "5 (1,029\u20131,285 steps)",
+    "stats": {
+        "hp": "20",
+        "attack": "10",
+        "defense": "55",
+        "sp. atk": "15",
+        "sp. def": "20",
+        "speed": "80",
+        "total": "200"
+    },
+    "evolution_chain": [
+        "Magikarp",
+        "Gyarados"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+        "Yellow": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
+        "Gold": "An underpowered, pathetic POK\u00e9MON. It may jump high on rare occasions, but never more than seven feet.",
+        "Silver": "For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.",
+        "Crystal": "This weak and pathetic POK\u00e9MON gets easily pushed along rivers when there are strong currents.",
+        "Ruby": "MAGIKARP is a pathetic excuse for a POK\u00e9MON that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+        "Sapphire": "MAGIKARP is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy POK\u00e9MON that can survive in any body of water no matter how polluted it is.",
+        "FireRed": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic POK\u00e9MON in the world.",
+        "LeafGreen": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+        "Emerald": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many MAGIKARP deposited there by the flow.",
+        "Diamond": "It is said to be the world\u2019s weakest Pok\u00e9mon. No one knows why it has managed to survive.",
+        "Pearl": "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
+        "Platinum": "A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.",
+        "HeartGold": "An underpowered, pathetic Pok\u00e9mon. It may jump high on rare occasions, but usually not more than seven feet.",
+        "SoulSilver": "For no reason, it jumps and splashes about, making it easy for predators like PIDGEOTTO to catch it mid-jump.",
+        "Black / White / Black 2 / White 2": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+        "X": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pok\u00e9mon in the world.",
+        "Y": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.",
+        "Omega Ruby": "Magikarp is a pathetic excuse for a Pok\u00e9mon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+        "Alpha Sapphire": "Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pok\u00e9mon that can survive in any body of water no matter how polluted it is.",
+        "Sun": "Although weak and helpless, this Pok\u00e9mon is incredibly fertile. They exist in such multitudes, you\u2019ll soon grow tired of seeing them.",
+        "Moon": "Its reckless leaps make it easy pickings for predators. On the bright side, many Pok\u00e9mon enjoy longer life spans, thanks to Magikarp.",
+        "Ultra Sun": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+        "Ultra Moon": "Thanks to their strong hold on life, dirty water doesn\u2019t bother them at all. They live in waters all over the world!",
+        "Let's Go Pikachu / Let's Go Eevee": "Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.",
+        "Sword": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pok\u00e9mon in the world.",
+        "Shield": "This weak and pathetic Pok\u00e9mon gets easily pushed along rivers when there are strong currents.",
+        "Brilliant Diamond": "It is said to be the world\u2019s weakest Pok\u00e9mon. No one knows why it has managed to survive.",
+        "Shining Pearl": "It is unable to swim against even slow-moving currents. It always splashes about for some reason.",
+        "Legends: Arceus": "A feeble, pitiful imbecile of a Pok\u00e9mon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.",
+        "Scarlet": "An underpowered, pathetic Pok\u00e9mon. It may jump high on rare occasions but never more than seven feet.",
+        "Violet": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Splash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "15",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Splash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Red / Blue / Yellow": "Route 4",
+        "Gold / Silver / Crystal": "Route 6",
+        "Ruby / Sapphire": "Route 102",
+        "FireRed / LeafGreen": "Route 4",
+        "Emerald": "Route 102",
+        "Diamond / Pearl": "Route 203",
+        "Platinum": "Route 202",
+        "HeartGold / SoulSilver": "Route 6",
+        "Black / White": "Marvelous Bridge",
+        "Black 2 / White 2": "Nature Sanctuary",
+        "X / Y": "Route 3",
+        "Omega Ruby / Alpha Sapphire": "Route 102",
+        "Sun / Moon": "Route 7",
+        "Ultra Sun / Ultra Moon": "Route 7",
+        "Let's Go Pikachu / Let's Go Eevee": "Route 4",
+        "Sword / Shield": "Route 2",
+        "Brilliant Diamond / Shining Pearl": "Route 203",
+        "Legends: Arceus": "Obsidian Falls",
+        "Scarlet / Violet": "Tagtree Thicket"
+    },
+    "other_languages": {
+        "English": "Magikarp",
+        "Japanese": "\u30b3\u30a4\u30ad\u30f3\u30b0 (Koiking)",
+        "German": "Karpador",
+        "French": "Magicarpe",
+        "Italian": "Magikarp",
+        "Spanish": "Magikarp",
+        "Korean": "\uc789\uc5b4\ud0b9 (ingeoking)",
+        "Chinese (Simplified)": "\u9ca4\u9c7c\u738b",
+        "Chinese (Traditional)": "\u9bc9\u9b5a\u738b"
+    }
+}

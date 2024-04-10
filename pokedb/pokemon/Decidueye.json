@@ -1,0 +1,109 @@
+{
+    "name": "Decidueye",
+    "national_no": "0724",
+    "type": [
+        "Grass",
+        "Ghost",
+        "Grass",
+        "Fighting"
+    ],
+    "species": "Arrow Quill Pok\u00e9mon",
+    "height": "1.6\u00a0m (5\u203203\u2033)",
+    "weight": "36.6\u00a0kg (80.7\u00a0lbs)",
+    "abilities": [
+        "Overgrow",
+        "Long Reach",
+        "Overgrow",
+        "Scrappy"
+    ],
+    "ev_yield": "\n3 Attack ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "265",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Flying",
+        "Flying"
+    ],
+    "gender_ratio": [
+        "87.5% male",
+        "12.5% female",
+        "87.5% male",
+        "12.5% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "78",
+        "attack": "107",
+        "defense": "75",
+        "sp. atk": "100",
+        "sp. def": "100",
+        "speed": "70",
+        "total": "530"
+    },
+    "evolution_chain": [
+        "Rowlet",
+        "Dartrix",
+        "Decidueye",
+        "Decidueye"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [
+        {
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Knock Off",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Rowlet",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Trade/migrate from another game",
+        "Brilliant Diamond / Shining Pearl": "Not available in this game",
+        "Legends: Arceus": "Space-Time Distortion",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Decidueye",
+        "Japanese": "\u30b8\u30e5\u30ca\u30a4\u30d1\u30fc (Junaiper)",
+        "German": "Silvarro",
+        "French": "Arch\u00e9duc",
+        "Italian": "Decidueye",
+        "Spanish": "Decidueye",
+        "Korean": "\ubaa8\ud06c\ub098\uc774\ud37c (mokeunaipeo)",
+        "Chinese (Simplified)": "\u72d9\u5c04\u6811\u67ad",
+        "Chinese (Traditional)": "\u72d9\u5c04\u6a39\u689f"
+    }
+}

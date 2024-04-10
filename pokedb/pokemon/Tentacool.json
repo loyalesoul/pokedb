@@ -1,0 +1,655 @@
+{
+    "name": "Tentacool",
+    "national_no": "0072",
+    "type": [
+        "Water",
+        "Poison"
+    ],
+    "species": "Jellyfish Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "45.5\u00a0kg (100.3\u00a0lbs)",
+    "abilities": [
+        "Clear Body",
+        "Liquid Ooze",
+        "Rain Dish"
+    ],
+    "ev_yield": "\n1 Sp. Def ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "67",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Water 3"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "40",
+        "attack": "40",
+        "defense": "35",
+        "sp. atk": "50",
+        "sp. def": "100",
+        "speed": "70",
+        "total": "335"
+    },
+    "evolution_chain": [
+        "Tentacool",
+        "Tentacruel"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+        "Yellow": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.",
+        "Gold": "When the tide goes out, dehydrated TENTACOOL remains can be found washed up on the shore.",
+        "Silver": "It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings.",
+        "Crystal": "As it floats along on the waves, it uses its toxic feelers to stab anything it touches.",
+        "Ruby": "TENTACOOL\u2019s body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this POK\u00e9MON happens to become dehydrated, put it back into the sea.",
+        "Sapphire": "TENTACOOL absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This POK\u00e9MON shoots beams from its crystal-like eyes.",
+        "FireRed": "Its eyes are as transparent as crystals. From them, it shoots mysterious beams of light.",
+        "LeafGreen": "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.",
+        "Emerald": "Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.",
+        "Diamond": "Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.",
+        "Pearl": "It drifts in sea currents. Countless fishermen are hurt by its poison stingers.",
+        "Platinum": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
+        "HeartGold": "When the tide goes out, dehydrated TENTACOOL remains can be found washed up on the shore.",
+        "SoulSilver": "It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings.",
+        "Black / White / Black 2 / White 2": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
+        "X": "Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.",
+        "Y": "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.",
+        "Omega Ruby": "Tentacool\u2019s body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pok\u00e9mon happens to become dehydrated, put it back into the sea.",
+        "Alpha Sapphire": "Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pok\u00e9mon shoots beams from the small round organ above its eyes.",
+        "Sun": "They can be found lying dehydrated on beaches, but they are often still alive. When soaked in water, they will revive.",
+        "Moon": "It drifts in shallow seas, such as the areas near beaches. If you get bitten or stabbed by its toxic tentacles, rush to the hospital.",
+        "Ultra Sun": "It drifts through the sea searching for prey. Its poisonous tentacles break off sometimes, but after a while, they grow back.",
+        "Ultra Moon": "Its body is 99% water. The remaining 1% contains the organ that makes its poison.",
+        "Let's Go Pikachu / Let's Go Eevee": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.",
+        "Sword": "Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.",
+        "Shield": "This Pok\u00e9mon is mostly made of water. A Tentacool out in the ocean is very hard to spot, because its body blends in with the sea.",
+        "Brilliant Diamond": "Its body is mostly composed of water. It shoots strange beams from its crystal-like eyes.",
+        "Shining Pearl": "It drifts in sea currents. Countless fishers are hurt by its poison stingers.",
+        "Legends: Arceus": "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Poison Sting",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Acid",
+            "type": "Poison",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "8",
+            "move": "Wrap",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "90"
+        },
+        {
+            "level": "12",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "16",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "24",
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Acid Armor",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "40",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Sludge Wave",
+            "type": "Poison",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "100"
+        },
+        {
+            "level": "48",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Poison Sting",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Bubble",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "34",
+            "move": "Acid Armor",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "43",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM13",
+            "move": "Acid Spray",
+            "type": "Poison",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM17",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM21",
+            "move": "Pounce",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM29",
+            "move": "Hex",
+            "type": "Ghost",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM45",
+            "move": "Venoshock",
+            "type": "Poison",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM79",
+            "move": "Dazzling Gleam",
+            "type": "Fairy",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM83",
+            "move": "Poison Jab",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM88",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM91",
+            "move": "Toxic Spikes",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM102",
+            "move": "Gunk Shot",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM110",
+            "move": "Liquidation",
+            "type": "Water",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM111",
+            "move": "Giga Drain",
+            "type": "Grass",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM142",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM148",
+            "move": "Sludge Bomb",
+            "type": "Poison",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM174",
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM175",
+            "move": "Toxic",
+            "type": "Poison",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM181",
+            "move": "Knock Off",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM196",
+            "move": "Flip Turn",
+            "type": "Water",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM208",
+            "move": "Whirlpool",
+            "type": "Water",
+            "category": "Special",
+            "power": "35",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM209",
+            "move": "Muddy Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM214",
+            "move": "Sludge Wave",
+            "type": "Poison",
+            "category": "Special",
+            "power": "95",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM221",
+            "move": "Throat Chop",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Acupressure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Aqua Ring",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Aurora Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Knock Off",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Mirror Coat",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Rapid Spin",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "move": "Tickle",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Red / Blue": "Route 12",
+        "Yellow": "Route 11",
+        "Gold / Silver / Crystal": "Route 12",
+        "Ruby / Sapphire": "Route 103",
+        "FireRed / LeafGreen": "Route 4",
+        "Emerald": "Route 103",
+        "Diamond / Pearl": "Route 205",
+        "Platinum": "Route 205",
+        "HeartGold / SoulSilver": "Route 12",
+        "Black / White / Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Route 8",
+        "Omega Ruby / Alpha Sapphire": "Route 103",
+        "Sun / Moon": "Route 1",
+        "Ultra Sun / Ultra Moon": "Route 7",
+        "Let's Go Pikachu / Let's Go Eevee": "Route 4",
+        "Sword / Shield": "Challenge Beach",
+        "Brilliant Diamond / Shining Pearl": "Route 205",
+        "Legends: Arceus": "Islespy Shore",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Tentacool",
+        "Japanese": "\u30e1\u30ce\u30af\u30e9\u30b2 (Menokurage)",
+        "German": "Tentacha",
+        "French": "Tentacool",
+        "Italian": "Tentacool",
+        "Spanish": "Tentacool",
+        "Korean": "\uc655\ub208\ud574 (wangnunhae)",
+        "Chinese (Simplified)": "\u739b\u7459\u6c34\u6bcd",
+        "Chinese (Traditional)": "\u746a\u7459\u6c34\u6bcd"
+    }
+}

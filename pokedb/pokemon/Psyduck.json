@@ -1,0 +1,687 @@
+{
+    "name": "Psyduck",
+    "national_no": "0054",
+    "type": [
+        "Water"
+    ],
+    "species": "Duck Pok\u00e9mon",
+    "height": "0.8\u00a0m (2\u203207\u2033)",
+    "weight": "19.6\u00a0kg (43.2\u00a0lbs)",
+    "abilities": [
+        "Damp",
+        "Cloud Nine",
+        "Swift Swim"
+    ],
+    "ev_yield": "\n1 Sp. Atk ",
+    "catch_rate": "\n190 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "64",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Field",
+        "Water 1"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "50",
+        "attack": "52",
+        "defense": "48",
+        "sp. atk": "65",
+        "sp. def": "50",
+        "speed": "55",
+        "total": "320"
+    },
+    "evolution_chain": [
+        "Psyduck",
+        "Golduck"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+        "Yellow": "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.",
+        "Gold": "It has mystical powers but doesn\u2019t recall that it has used them. That is why it always looks puzzled.",
+        "Silver": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+        "Crystal": "The only time it can use its psychic power is when its sleeping brain cells happen to wake.",
+        "Ruby": "PSYDUCK uses a mysterious power. When it does so, this POK\u00e9MON generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+        "Sapphire": "If it uses its mysterious power, PSYDUCK can\u2019t remember having done so. It apparently can\u2019t form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+        "FireRed": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+        "LeafGreen": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers.",
+        "Emerald": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
+        "Diamond": "If its usual headache worsens, it starts exhibiting odd powers. It can\u2019t remember doing so, however.",
+        "Pearl": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
+        "Platinum": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+        "HeartGold": "It has mystical powers but doesn\u2019t recall that it has used them. That is why it always looks puzzled.",
+        "SoulSilver": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+        "Black / White": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+        "Black 2 / White 2": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
+        "X": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+        "Y": "It has mystical powers but doesn\u2019t recall that it has used them. That is why it always looks puzzled.",
+        "Omega Ruby": "Psyduck uses a mysterious power. When it does so, this Pok\u00e9mon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+        "Alpha Sapphire": "If it uses its mysterious power, Psyduck can\u2019t remember having done so. It apparently can\u2019t form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+        "Sun": "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
+        "Moon": "This Pok\u00e9mon is troubled by constant headaches. The more pain it\u2019s in, the more powerful its psychokinesis becomes.",
+        "Ultra Sun": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+        "Ultra Moon": "It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.",
+        "Let's Go Pikachu / Let's Go Eevee": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
+        "Sword": "Psyduck is constantly beset by headaches. If the Pok\u00e9mon lets its strange power erupt, apparently the pain subsides for a while.",
+        "Shield": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
+        "Brilliant Diamond": "If its usual headache worsens, it starts exhibiting odd powers. It can\u2019t remember doing so, however.",
+        "Shining Pearl": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
+        "Legends: Arceus": "Suffers perpetual headaches. If the agony grows too great, Psyduck\u2019s latent power erupts, contrary to Psyduck\u2019s intent. Ergo, I am exploring ways to ease the pain.",
+        "Scarlet": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+        "Violet": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Scratch",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Tail Whip",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "3",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Confusion",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Fury Swipes",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "18",
+            "accuracy": "80"
+        },
+        {
+            "level": "12",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Disable",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "level": "21",
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "level": "24",
+            "move": "Aqua Tail",
+            "type": "Water",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "level": "27",
+            "move": "Soak",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "30",
+            "move": "Psych Up",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "34",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "39",
+            "move": "Wonder Room",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Bubble",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Confusion",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "18",
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "level": "25",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "level": "34",
+            "move": "Aqua Tail",
+            "type": "Water",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "90"
+        },
+        {
+            "level": "43",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM11",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM12",
+            "move": "Low Kick",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM16",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM17",
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM22",
+            "move": "Chilling Water",
+            "type": "Water",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM34",
+            "move": "Icy Wind",
+            "type": "Ice",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM35",
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM39",
+            "move": "Low Sweep",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM43",
+            "move": "Fling",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM54",
+            "move": "Psyshock",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM55",
+            "move": "Dig",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM59",
+            "move": "Zen Headbutt",
+            "type": "Psychic",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM61",
+            "move": "Shadow Claw",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM66",
+            "move": "Body Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM69",
+            "move": "Ice Punch",
+            "type": "Ice",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM75",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM77",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM80",
+            "move": "Metronome",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM87",
+            "move": "Taunt",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM98",
+            "move": "Skill Swap",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM110",
+            "move": "Liquidation",
+            "type": "Water",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM120",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM122",
+            "move": "Encore",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM123",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM128",
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM129",
+            "move": "Calm Mind",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM135",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM140",
+            "move": "Nasty Plot",
+            "type": "Dark",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM142",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "tm": "TM143",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Clear Smog",
+            "type": "Poison",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Cross Chop",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "80"
+        },
+        {
+            "move": "Hypnosis",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "60"
+        },
+        {
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Simple Beam",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Yawn",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Red / Blue": "Route 24",
+        "Yellow": "Route 6",
+        "Gold / Silver": "Route 6",
+        "Crystal": "Route 6",
+        "Ruby / Sapphire": "Safari Zone",
+        "FireRed": "Route 4",
+        "LeafGreen": "Trade/migrate from another game",
+        "Emerald": "Safari Zone",
+        "Diamond / Pearl": "Route 203",
+        "Platinum": "Route 202",
+        "HeartGold / SoulSilver": "Route 6",
+        "Black / White": "Golduck",
+        "Black 2 / White 2": "Floccesy Ranch",
+        "X / Y": "Route 7",
+        "Omega Ruby / Alpha Sapphire": "Safari Zone",
+        "Sun / Moon": "Seaward Cave",
+        "Ultra Sun / Ultra Moon": "Ten Carat Hill",
+        "Let's Go Pikachu / Let's Go Eevee": "Route 4",
+        "Sword / Shield": "Brawlers' Cave",
+        "Brilliant Diamond / Shining Pearl": "Route 203",
+        "Legends: Arceus": "The Heartwood",
+        "Scarlet / Violet": "Tagtree Thicket"
+    },
+    "other_languages": {
+        "English": "Psyduck",
+        "Japanese": "\u30b3\u30c0\u30c3\u30af (Koduck)",
+        "German": "Enton",
+        "French": "Psykokwak",
+        "Italian": "Psyduck",
+        "Spanish": "Psyduck",
+        "Korean": "\uace0\ub77c\ud30c\ub355 (gorapadeok)",
+        "Chinese (Simplified)": "\u53ef\u8fbe\u9e2d",
+        "Chinese (Traditional)": "\u53ef\u9054\u9d28"
+    }
+}

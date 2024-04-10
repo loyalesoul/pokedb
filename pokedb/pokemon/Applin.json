@@ -1,0 +1,186 @@
+{
+    "name": "Applin",
+    "national_no": "0840",
+    "type": [
+        "Grass",
+        "Dragon"
+    ],
+    "species": "Apple Core Pok\u00e9mon",
+    "height": "0.2\u00a0m (0\u203208\u2033)",
+    "weight": "0.5\u00a0kg (1.1\u00a0lbs)",
+    "abilities": [
+        "Ripen",
+        "Gluttony",
+        "Bulletproof"
+    ],
+    "ev_yield": "\n1 Defense ",
+    "catch_rate": "\n255 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "52",
+    "growth_rate": "Erratic",
+    "egg_groups": [
+        "Dragon",
+        "Grass"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "40",
+        "attack": "40",
+        "defense": "80",
+        "sp. atk": "40",
+        "sp. def": "40",
+        "speed": "20",
+        "total": "260"
+    },
+    "evolution_chain": [
+        "Applin",
+        "Flapple",
+        "Appletun",
+        "Dipplin",
+        "Hydrapple"
+    ],
+    "pokedex_entries": {
+        "Sword": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pok\u00e9mon, by pretending it\u2019s just an apple and nothing more.",
+        "Shield": "As soon as it\u2019s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
+        "Scarlet": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple\u2019s skin and prevent it from rotting.",
+        "Violet": "Applin lives inside an apple. When an Applin is separated from its apple, its body loses moisture and the Pok\u00e9mon grows weak."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Withdraw",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Astonish",
+            "type": "Ghost",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Withdraw",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM21",
+            "move": "Pounce",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM31",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Defense Curl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Recycle",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "move": "Sucker Punch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "move": "Defense Curl",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Recycle",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "move": "Sucker Punch",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Sword / Shield": "Route 5",
+        "Brilliant Diamond / Shining Pearl / Legends: Arceus": "Not available in this game",
+        "Scarlet / Violet": "Tagtree Thicket"
+    },
+    "other_languages": {
+        "English": "Applin",
+        "Japanese": "\u30ab\u30b8\u30c3\u30c1\u30e5 (Kajicchu)",
+        "German": "Knapfel",
+        "French": "Verpom",
+        "Italian": "Applin",
+        "Spanish": "Applin",
+        "Korean": "\uacfc\uc0ac\uc0ad\ubc8c\ub808 (gwasasakbeolle)",
+        "Chinese (Simplified)": "\u5543\u679c\u866b",
+        "Chinese (Traditional)": "\u5543\u679c\u87f2"
+    }
+}

@@ -1,0 +1,598 @@
+{
+    "name": "Scyther",
+    "national_no": "0123",
+    "type": [
+        "Bug",
+        "Flying"
+    ],
+    "species": "Mantis Pok\u00e9mon",
+    "height": "1.5\u00a0m (4\u203211\u2033)",
+    "weight": "56.0\u00a0kg (123.5\u00a0lbs)",
+    "abilities": [
+        "Swarm",
+        "Technician",
+        "Steadfast"
+    ],
+    "ev_yield": "\n1 Attack ",
+    "catch_rate": "\n45 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "100",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Bug"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "stats": {
+        "hp": "70",
+        "attack": "110",
+        "defense": "80",
+        "sp. atk": "55",
+        "sp. def": "80",
+        "speed": "105",
+        "total": "500"
+    },
+    "evolution_chain": [
+        "Scyther",
+        "Scizor",
+        "Kleavor"
+    ],
+    "pokedex_entries": {
+        "Red / Blue": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+        "Yellow": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+        "Gold": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+        "Silver": "When it moves, it leaves only a blur. If it hides in grass, its protective colors make it invisible.",
+        "Crystal": "It\u2019s very proud of its speed. It moves so fast that its opponent does not even know what knocked it down.",
+        "Ruby / Sapphire": "SCYTHER is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This POK\u00e9MON\u2019s scythes are so effective, they can slice through thick logs in one wicked stroke.",
+        "FireRed": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+        "LeafGreen": "With ninja-like agility and speed, it can create the illusion that there is more than one of itself.",
+        "Emerald": "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
+        "Diamond / Pearl": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja\u2019s.",
+        "Platinum": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+        "HeartGold": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+        "SoulSilver": "When it moves, it leaves only a blur. If it hides in grass, its protective coloration makes it invisible.",
+        "Black / White / Black 2 / White 2": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+        "X": "It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.",
+        "Y": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+        "Omega Ruby / Alpha Sapphire": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pok\u00e9mon\u2019s scythes are so effective, they can slice through thick logs in one wicked stroke.",
+        "Sun": "It confuses its prey with its quick, ninja-like movements. Then, in an instant, it cleaves them with its scythes.",
+        "Moon": "While young, they live together deep in the mountains, training themselves in how to fight with their scythes and move at high speeds.",
+        "Ultra Sun": "Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.",
+        "Ultra Moon": "Some call it a ninja. Its movements\u2014 imperceptibly quick\u2014are sufficient to cleave the air in two. It\u2019s very popular in Alola.",
+        "Let's Go Pikachu / Let's Go Eevee": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+        "Sword": "As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.",
+        "Shield": "If you come across an area in a forest where a lot of the trees have been cut down, what you\u2019ve found is a Scyther\u2019s territory.",
+        "Brilliant Diamond / Shining Pearl": "It is nearly impossible to parry its attacking scythes. Its movements are like a ninja\u2019s.",
+        "Legends: Arceus": "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey\u2019s attempts to flee are unfailingly thwarted by this Pok\u00e9mon\u2019s nimble motions.",
+        "Scarlet": "It slashes through grass with its sharp scythes, moving too fast for the human eye to track.",
+        "Violet": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Leer",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "4",
+            "move": "Fury Cutter",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "95"
+        },
+        {
+            "level": "8",
+            "move": "False Swipe",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Wing Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "20",
+            "move": "Double Hit",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "90"
+        },
+        {
+            "level": "24",
+            "move": "Slash",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "32",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "36",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "40",
+            "move": "X-Scissor",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "44",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Quick Attack",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Silver Wind",
+            "type": "Bug",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "14",
+            "move": "Double Hit",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "35",
+            "accuracy": "90"
+        },
+        {
+            "level": "18",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "25",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "34",
+            "move": "X-Scissor",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "level": "43",
+            "move": "Close Combat",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM01",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM04",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM06",
+            "move": "Scary Face",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM14",
+            "move": "Acrobatics",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "55",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM15",
+            "move": "Struggle Bug",
+            "type": "Bug",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM18",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM20",
+            "move": "Trailblaze",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM21",
+            "move": "Pounce",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM25",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM27",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM32",
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM40",
+            "move": "Air Cutter",
+            "type": "Flying",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM47",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM49",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM50",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM57",
+            "move": "False Swipe",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Brick Break",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM60",
+            "move": "U-turn",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM65",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM70",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM75",
+            "move": "Light Screen",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM85",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM88",
+            "move": "Swords Dance",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM103",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM105",
+            "move": "X-Scissor",
+            "type": "Bug",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM113",
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM130",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM132",
+            "move": "Baton Pass",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM134",
+            "move": "Reversal",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM152",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM162",
+            "move": "Bug Buzz",
+            "type": "Bug",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM163",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM167",
+            "move": "Close Combat",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM171",
+            "move": "Tera Blast",
+            "type": "Normal",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Counter",
+            "type": "Fighting",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Feint",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "100"
+        },
+        {
+            "move": "Night Slash",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "move": "Quick Guard",
+            "type": "Fighting",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Red": "Celadon City",
+        "Blue": "Trade/migrate from another game",
+        "Yellow": "Celadon City",
+        "Gold / Silver / Crystal": "National Park",
+        "Ruby / Sapphire": "Trade/migrate from another game",
+        "FireRed": "Celadon City",
+        "LeafGreen / Emerald": "Trade/migrate from another game",
+        "Diamond": "Route 229",
+        "Pearl": "Trade/migrate from another game",
+        "Platinum": "Route 210",
+        "HeartGold / SoulSilver": "National Park",
+        "Black / White / Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Route 21",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon": "Poni Plains",
+        "Ultra Sun / Ultra Moon": "Poni Plains",
+        "Let's Go Pikachu": "Route 14",
+        "Let's Go Eevee": "Trade/migrate from another game",
+        "Sword / Shield": "Training Lowlands",
+        "Brilliant Diamond": "Route 229",
+        "Shining Pearl": "Trade/migrate from another game",
+        "Legends: Arceus": "Grandtree Arena",
+        "Scarlet / Violet": "Casseroya Lake"
+    },
+    "other_languages": {
+        "English": "Scyther",
+        "Japanese": "\u30b9\u30c8\u30e9\u30a4\u30af (Strike)",
+        "German": "Sichlor",
+        "French": "Ins\u00e9cateur",
+        "Italian": "Scyther",
+        "Spanish": "Scyther",
+        "Korean": "\uc2a4\ub77c\ud06c (seurakeu)",
+        "Chinese (Simplified)": "\u98de\u5929\u87b3\u8782",
+        "Chinese (Traditional)": "\u98db\u5929\u87b3\u8782"
+    }
+}

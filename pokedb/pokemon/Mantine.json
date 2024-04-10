@@ -1,0 +1,601 @@
+{
+    "name": "Mantine",
+    "national_no": "0226",
+    "type": [
+        "Water",
+        "Flying"
+    ],
+    "species": "Kite Pok\u00e9mon",
+    "height": "2.1\u00a0m (6\u203211\u2033)",
+    "weight": "220.0\u00a0kg (485.0\u00a0lbs)",
+    "abilities": [
+        "Swift Swim",
+        "Water Absorb",
+        "Water Veil"
+    ],
+    "ev_yield": "\n2 Sp. Def ",
+    "catch_rate": "\n25 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "170",
+    "growth_rate": "Slow",
+    "egg_groups": [
+        "Water 1"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "stats": {
+        "hp": "85",
+        "attack": "40",
+        "defense": "70",
+        "sp. atk": "80",
+        "sp. def": "140",
+        "speed": "70",
+        "total": "485"
+    },
+    "evolution_chain": [
+        "Mantyke",
+        "Mantine"
+    ],
+    "pokedex_entries": {
+        "Gold": "As it majestically swims, it doesn\u2019t care if REMORAID attach to it for scavenging its leftovers.",
+        "Silver": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+        "Crystal": "It swims along freely, eating things that swim into its mouth. Its whole body is very coarse.",
+        "Ruby / Sapphire": "On sunny days, schools of MANTINE can be seen elegantly leaping over the sea\u2019s waves. This POK\u00e9MON is not bothered by the REMORAID that hitches rides.",
+        "FireRed": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+        "LeafGreen": "As it majestically swims, it doesn\u2019t care if REMORAID attach to it to scavenge for its leftovers.",
+        "Emerald": "On sunny days, schools of MANTINE can be seen elegantly leaping over the waves. It is not bothered by the REMORAID that hitches rides.",
+        "Diamond": "When the waves are calm, one may encounter a swarm of MANTINE swimming as if they are in flight.",
+        "Pearl": "It swims elegantly, mindless of REMORAID hitching on to its broad fins. It has a docile nature.",
+        "Platinum": "While elegantly swimming in the sea, it ignores REMORAID that cling to its fins seeking food scraps.",
+        "HeartGold": "As it majestically swims, it doesn\u2019t care if REMORAID attach to it for scavenging its leftovers.",
+        "SoulSilver": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+        "Black / White": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+        "Black 2 / White 2": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.",
+        "X": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.",
+        "Y": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+        "Omega Ruby / Alpha Sapphire": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea\u2019s waves. This Pok\u00e9mon is not bothered by the Remoraid that hitches rides.",
+        "Ultra Sun": "Postcards and posters featuring Mantine leaping elegantly above the waves are popular souvenirs of Alola.",
+        "Ultra Moon": "Many people have taken up surfing because they admire how magnificently Mantine swims.",
+        "Sword": "If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",
+        "Shield": "As it majestically swims, it doesn\u2019t care if Remoraid attach to it to scavenge for its leftovers.",
+        "Brilliant Diamond": "When the waves are calm, one may encounter a swarm of Mantine swimming as if they are in flight.",
+        "Shining Pearl": "It swims elegantly, mindless of Remoraid hitching onto its broad fins. It is naturally docile.",
+        "Legends: Arceus": "This calm and gentle Pok\u00e9mon swims gracefully through the sea. After building speed, it can leap out of the water. It is often misidentified as a bird Pok\u00e9mon due to this behavior."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Wing Attack",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "12",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Wide Guard",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "20",
+            "move": "Agility",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "24",
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "28",
+            "move": "Headbutt",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "level": "32",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "36",
+            "move": "Aqua Ring",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "40",
+            "move": "Bounce",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "85",
+            "accuracy": "85"
+        },
+        {
+            "level": "44",
+            "move": "Take Down",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "90",
+            "accuracy": "85"
+        },
+        {
+            "level": "48",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "5",
+            "move": "Bubble",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "level": "15",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "21",
+            "move": "Air Slash",
+            "type": "Flying",
+            "category": "Special",
+            "power": "75",
+            "accuracy": "95"
+        },
+        {
+            "level": "29",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "37",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "47",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM03",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM07",
+            "move": "Hail",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM09",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM26",
+            "move": "Earthquake",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "100",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM39",
+            "move": "Rock Tomb",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "95"
+        },
+        {
+            "tm": "TM40",
+            "move": "Aerial Ace",
+            "type": "Flying",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM49",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM51",
+            "move": "Roost",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM55",
+            "move": "Brine",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM80",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM83",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM95",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM97",
+            "move": "Defog",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM99",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Amnesia",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Confuse Ray",
+            "type": "Ghost",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "move": "Mirror Coat",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Slam",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "75"
+        },
+        {
+            "move": "Splash",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Tailwind",
+            "type": "Flying",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Twister",
+            "type": "Dragon",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Wide Guard",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        }
+    ],
+    "location": {
+        "Gold": "Route 41",
+        "Silver": "Trade/migrate from another game",
+        "Crystal": "Route 41",
+        "Ruby / Sapphire / FireRed": "Trade/migrate from another game",
+        "LeafGreen": "Tanoby Ruins",
+        "Emerald": "Trade/migrate from another game",
+        "Diamond / Pearl / Platinum": "Mantyke",
+        "HeartGold": "Route 41",
+        "SoulSilver": "Trade/migrate from another game",
+        "Black / White": "Undella Bay",
+        "Black 2 / White 2": "Route 21",
+        "X / Y": "Mantyke",
+        "Omega Ruby / Alpha Sapphire": "Battle Resort",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Mantyke",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Route 9",
+        "Brilliant Diamond / Shining Pearl": "Mantyke",
+        "Legends: Arceus": "Tranquility Cove",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Mantine",
+        "Japanese": "\u30de\u30f3\u30bf\u30a4\u30f3 (Mantain)",
+        "German": "Mantax",
+        "French": "D\u00e9manta",
+        "Italian": "Mantine",
+        "Spanish": "Mantine",
+        "Korean": "\ub9cc\ud0c0\uc778 (mantain)",
+        "Chinese (Simplified)": "\u5de8\u7fc5\u98de\u9c7c",
+        "Chinese (Traditional)": "\u5de8\u7fc5\u98db\u9b5a"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Sneasel",
+    "national_no": "0215",
+    "type": [
+        "Dark",
+        "Ice",
+        "Fighting",
+        "Poison"
+    ],
+    "species": "Sharp Claw Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "28.0\u00a0kg (61.7\u00a0lbs)",
+    "abilities": [
+        "Inner Focus",
+        "Keen Eye",
+        "Pickpocket",
+        "Inner Focus",
+        "Keen Eye",
+        "Pickpocket"
+    ],
+    "ev_yield": "\n1 Speed ",
+    "catch_rate": "\n60 ",
+    "base_happiness": "\n35 ",
+    "base_exp": "86",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Field",
+        "Field"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female",
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "55",
+        "attack": "95",
+        "defense": "55",
+        "sp. atk": "35",
+        "sp. def": "75",
+        "speed": "115",
+        "total": "430"
+    },
+    "evolution_chain": [
+        "Sneasel",
+        "Weavile",
+        "Sneasel",
+        "Sneasler"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Gold / Silver": "Route 28",
+        "Crystal": "Ice Path",
+        "Ruby / Sapphire / FireRed": "Trade/migrate from another game",
+        "LeafGreen": "Icefall Cave",
+        "Emerald": "Trade/migrate from another game",
+        "Diamond / Pearl / Platinum": "Route 216",
+        "HeartGold / SoulSilver": "Route 28",
+        "Black / White / Black 2 / White 2": "Giant Chasm",
+        "X / Y": "Route 17",
+        "Omega Ruby / Alpha Sapphire": "Trade/migrate from another game",
+        "Sun / Moon / Ultra Sun / Ultra Moon": "Mount Lanakila",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Route 8",
+        "Brilliant Diamond / Shining Pearl": "Route 216",
+        "Legends: Arceus": "Celestica Trail",
+        "Scarlet / Violet": "North Province (Area One)"
+    },
+    "other_languages": {
+        "English": "Sneasel",
+        "Japanese": "\u30cb\u30e5\u30fc\u30e9 (Nyula)",
+        "German": "Sniebel",
+        "French": "Farfuret",
+        "Italian": "Sneasel",
+        "Spanish": "Sneasel",
+        "Korean": "\ud3ec\ud478\ub2c8 (popuni)",
+        "Chinese (Simplified)": "\u72c3\u62c9",
+        "Chinese (Traditional)": "\u72c3\u62c9"
+    }
+}

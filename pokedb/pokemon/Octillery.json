@@ -1,0 +1,645 @@
+{
+    "name": "Octillery",
+    "national_no": "0224",
+    "type": [
+        "Water"
+    ],
+    "species": "Jet Pok\u00e9mon",
+    "height": "0.9\u00a0m (2\u203211\u2033)",
+    "weight": "28.5\u00a0kg (62.8\u00a0lbs)",
+    "abilities": [
+        "Suction Cups",
+        "Sniper",
+        "Moody"
+    ],
+    "ev_yield": "\n1 Attack, 1 Sp. Atk ",
+    "catch_rate": "\n75 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "168",
+    "growth_rate": "Medium Fast",
+    "egg_groups": [
+        "Water 1",
+        "Water 2"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "stats": {
+        "hp": "75",
+        "attack": "105",
+        "defense": "75",
+        "sp. atk": "105",
+        "sp. def": "75",
+        "speed": "45",
+        "total": "480"
+    },
+    "evolution_chain": [
+        "Remoraid",
+        "Octillery"
+    ],
+    "pokedex_entries": {
+        "Gold": "It traps enemies with its suction-cupped tentacles then smashes them with its rock-hard head.",
+        "Silver": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
+        "Crystal": "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.",
+        "Ruby / Sapphire": "OCTILLERY grabs onto its foe using its tentacles. This POK\u00e9MON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
+        "FireRed": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
+        "LeafGreen": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
+        "Emerald": "It ensnares its foe with its suction-cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
+        "Diamond": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
+        "Pearl": "It obscures its foe\u2019s vision by spitting a cloud of murky ink. It makes its nest among boulders.",
+        "Platinum": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+        "HeartGold": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+        "SoulSilver": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
+        "Black / White": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+        "Black 2 / White 2": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+        "X": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+        "Y": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+        "Omega Ruby / Alpha Sapphire": "Octillery grabs onto its foe using its tentacles. This Pok\u00e9mon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
+        "Ultra Sun": "The ink it spits when escaping is special. It contains a substance that dulls the sense of smell, so Pok\u00e9mon with keen noses get lost.",
+        "Ultra Moon": "It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking.",
+        "Sword": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+        "Shield": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
+        "Brilliant Diamond": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
+        "Shining Pearl": "It obscures its foe\u2019s vision by spitting a cloud of black ink. It makes its nest among boulders.",
+        "Legends: Arceus": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter."
+    },
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Focus Energy",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Gunk Shot",
+            "type": "Poison",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "80"
+        },
+        {
+            "level": "1",
+            "move": "Helping Hand",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "1",
+            "move": "Octazooka",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Rock Blast",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "90"
+        },
+        {
+            "level": "1",
+            "move": "Water Gun",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "1",
+            "move": "Wrap",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "15",
+            "accuracy": "90"
+        },
+        {
+            "level": "12",
+            "move": "Psybeam",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "16",
+            "move": "Aurora Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "20",
+            "move": "Bubble Beam",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "level": "24",
+            "move": "Lock-On",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "30",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "level": "36",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "42",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "48",
+            "move": "Soak",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "level": "54",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "level": "?",
+            "move": "Octazooka",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "85"
+        },
+        {
+            "level": "1",
+            "move": "Bubble",
+            "type": "Water",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "6",
+            "move": "Acid Spray",
+            "type": "Poison",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "11",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "level": "18",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "25",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "level": "34",
+            "move": "Hydro Pump",
+            "type": "Water",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "80"
+        },
+        {
+            "level": "43",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        }
+    ],
+    "moves_tm": [
+        {
+            "tm": "TM03",
+            "move": "Water Pulse",
+            "type": "Water",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM09",
+            "move": "Bullet Seed",
+            "type": "Grass",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM11",
+            "move": "Sunny Day",
+            "type": "Fire",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM13",
+            "move": "Ice Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM14",
+            "move": "Blizzard",
+            "type": "Ice",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "70"
+        },
+        {
+            "tm": "TM15",
+            "move": "Hyper Beam",
+            "type": "Normal",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM17",
+            "move": "Protect",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM18",
+            "move": "Rain Dance",
+            "type": "Water",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM29",
+            "move": "Psychic",
+            "type": "Psychic",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM32",
+            "move": "Double Team",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM35",
+            "move": "Flamethrower",
+            "type": "Fire",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM36",
+            "move": "Sludge Bomb",
+            "type": "Poison",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM38",
+            "move": "Fire Blast",
+            "type": "Fire",
+            "category": "Special",
+            "power": "110",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM42",
+            "move": "Facade",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "70",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM44",
+            "move": "Rest",
+            "type": "Psychic",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM45",
+            "move": "Attract",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM46",
+            "move": "Thief",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM49",
+            "move": "Scald",
+            "type": "Water",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM53",
+            "move": "Energy Ball",
+            "type": "Grass",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM55",
+            "move": "Brine",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM57",
+            "move": "Charge Beam",
+            "type": "Electric",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM58",
+            "move": "Endure",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM66",
+            "move": "Payback",
+            "type": "Dark",
+            "category": "Physical",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM68",
+            "move": "Giga Impact",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "150",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM73",
+            "move": "Thunder Wave",
+            "type": "Electric",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "90"
+        },
+        {
+            "tm": "TM82",
+            "move": "Sleep Talk",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM87",
+            "move": "Swagger",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "tm": "TM90",
+            "move": "Substitute",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "tm": "TM91",
+            "move": "Flash Cannon",
+            "type": "Steel",
+            "category": "Special",
+            "power": "80",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM95",
+            "move": "Surf",
+            "type": "Water",
+            "category": "Special",
+            "power": "90",
+            "accuracy": "100"
+        },
+        {
+            "tm": "TM99",
+            "move": "Waterfall",
+            "type": "Water",
+            "category": "Physical",
+            "power": "80",
+            "accuracy": "100"
+        }
+    ],
+    "moves_egg": [
+        {
+            "move": "Acid Spray",
+            "type": "Poison",
+            "category": "Special",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "move": "Aurora Beam",
+            "type": "Ice",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "100"
+        },
+        {
+            "move": "Entrainment",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Flail",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "\u2014",
+            "accuracy": "100"
+        },
+        {
+            "move": "Haze",
+            "type": "Ice",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "move": "Mud Shot",
+            "type": "Ground",
+            "category": "Special",
+            "power": "55",
+            "accuracy": "95"
+        },
+        {
+            "move": "Octazooka",
+            "type": "Water",
+            "category": "Special",
+            "power": "65",
+            "accuracy": "85"
+        },
+        {
+            "move": "Rock Blast",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "25",
+            "accuracy": "90"
+        },
+        {
+            "move": "Screech",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "85"
+        },
+        {
+            "move": "Snore",
+            "type": "Normal",
+            "category": "Special",
+            "power": "50",
+            "accuracy": "100"
+        },
+        {
+            "move": "Supersonic",
+            "type": "Normal",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "55"
+        },
+        {
+            "move": "Swift",
+            "type": "Normal",
+            "category": "Special",
+            "power": "60",
+            "accuracy": "\u221e"
+        },
+        {
+            "move": "Water Spout",
+            "type": "Water",
+            "category": "Special",
+            "power": "150",
+            "accuracy": "100"
+        }
+    ],
+    "location": {
+        "Gold / Silver": "Remoraid",
+        "Crystal": "Trade/migrate from another game",
+        "Ruby / Sapphire / FireRed": "Trade/migrate from another game",
+        "LeafGreen": "Remoraid",
+        "Emerald": "Safari Zone",
+        "Diamond / Pearl": "Route 213",
+        "Platinum": "Route 212",
+        "HeartGold / SoulSilver": "Remoraid",
+        "Black / White": "Undella Bay",
+        "Black 2 / White 2": "Route 21",
+        "X / Y": "Route 12",
+        "Omega Ruby / Alpha Sapphire": "Battle Resort",
+        "Sun / Moon": "Trade/migrate from another game",
+        "Ultra Sun / Ultra Moon": "Route 8",
+        "Let's Go Pikachu / Let's Go Eevee": "Not available in this game",
+        "Sword / Shield": "Route 9",
+        "Brilliant Diamond / Shining Pearl": "Route 213",
+        "Legends: Arceus": "Castaway Shore",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Octillery",
+        "Japanese": "\u30aa\u30af\u30bf\u30f3 (Okutank)",
+        "German": "Octillery",
+        "French": "Octillery",
+        "Italian": "Octillery",
+        "Spanish": "Octillery",
+        "Korean": "\ub300\ud3ec\ubb34\ub178 (daepomuno)",
+        "Chinese (Simplified)": "\u7ae0\u9c7c\u6876",
+        "Chinese (Traditional)": "\u7ae0\u9b5a\u6876"
+    }
+}

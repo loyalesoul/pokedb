@@ -1,0 +1,164 @@
+{
+    "name": "Graveler",
+    "national_no": "0075",
+    "type": [
+        "Rock",
+        "Ground",
+        "Rock",
+        "Electric"
+    ],
+    "species": "Rock Pok\u00e9mon",
+    "height": "1.0\u00a0m (3\u203203\u2033)",
+    "weight": "105.0\u00a0kg (231.5\u00a0lbs)",
+    "abilities": [
+        "Rock Head",
+        "Sturdy",
+        "Sand Veil",
+        "Magnet Pull",
+        "Sturdy",
+        "Galvanize"
+    ],
+    "ev_yield": "\n2 Defense ",
+    "catch_rate": "\n120 ",
+    "base_happiness": "\n50 ",
+    "base_exp": "137",
+    "growth_rate": "Medium Slow",
+    "egg_groups": [
+        "Mineral",
+        "Mineral"
+    ],
+    "gender_ratio": [
+        "50% male",
+        "50% female",
+        "50% male",
+        "50% female"
+    ],
+    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "stats": {
+        "hp": "55",
+        "attack": "95",
+        "defense": "115",
+        "sp. atk": "45",
+        "sp. def": "45",
+        "speed": "35",
+        "total": "390"
+    },
+    "evolution_chain": [
+        "Geodude",
+        "Graveler",
+        "Golem",
+        "Geodude",
+        "Graveler",
+        "Golem"
+    ],
+    "pokedex_entries": {},
+    "moves_levelup": [
+        {
+            "level": "1",
+            "move": "Rollout",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "30",
+            "accuracy": "90"
+        },
+        {
+            "level": "5",
+            "move": "Tackle",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "40",
+            "accuracy": "100"
+        },
+        {
+            "level": "9",
+            "move": "Mud-Slap",
+            "type": "Ground",
+            "category": "Special",
+            "power": "20",
+            "accuracy": "100"
+        },
+        {
+            "level": "15",
+            "move": "Iron Defense",
+            "type": "Steel",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "21",
+            "move": "Rock Slide",
+            "type": "Rock",
+            "category": "Physical",
+            "power": "75",
+            "accuracy": "90"
+        },
+        {
+            "level": "26",
+            "move": "Bulldoze",
+            "type": "Ground",
+            "category": "Physical",
+            "power": "60",
+            "accuracy": "100"
+        },
+        {
+            "level": "29",
+            "move": "Stealth Rock",
+            "type": "Rock",
+            "category": "Status",
+            "power": "\u2014",
+            "accuracy": "\u2014"
+        },
+        {
+            "level": "37",
+            "move": "Double-Edge",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "120",
+            "accuracy": "100"
+        },
+        {
+            "level": "47",
+            "move": "Self-Destruct",
+            "type": "Normal",
+            "category": "Physical",
+            "power": "200",
+            "accuracy": "100"
+        }
+    ],
+    "moves_tm": [],
+    "moves_egg": [],
+    "location": {
+        "Red / Blue": "Victory Road",
+        "Yellow": "Cerulean Cave",
+        "Gold / Silver / Crystal": "Route 45",
+        "Ruby / Sapphire": "Victory Road",
+        "FireRed / LeafGreen": "Cerulean Cave",
+        "Emerald": "Victory Road",
+        "Diamond / Pearl": "Route 211",
+        "Platinum": "Route 211",
+        "HeartGold / SoulSilver": "Route 45",
+        "Black / White": "Challenger's Cave",
+        "Black 2 / White 2": "Trade/migrate from another game",
+        "X / Y": "Route 13",
+        "Omega Ruby / Alpha Sapphire": "Seafloor Cavern",
+        "Sun / Moon": "Route 17",
+        "Ultra Sun / Ultra Moon": "Route 12",
+        "Let's Go Pikachu / Let's Go Eevee": "Cerulean Cave",
+        "Sword / Shield": "Not available in this game",
+        "Brilliant Diamond / Shining Pearl": "Route 211",
+        "Legends: Arceus": "Oreburrow Tunnel",
+        "Scarlet / Violet": "Location data not yet available"
+    },
+    "other_languages": {
+        "English": "Graveler",
+        "Japanese": "\u30b4\u30ed\u30fc\u30f3 (Golone)",
+        "German": "Georok",
+        "French": "Gravalanch",
+        "Italian": "Graveler",
+        "Spanish": "Graveler",
+        "Korean": "\ub370\uad6c\ub9ac (deguri)",
+        "Chinese (Simplified)": "\u9686\u9686\u77f3",
+        "Chinese (Traditional)": "\u9686\u9686\u77f3"
+    }
+}
