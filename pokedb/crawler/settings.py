@@ -7,7 +7,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "crawler"
+BOT_NAME = "googlebot"
 
 SPIDER_MODULES = ["crawler.spiders"]
 NEWSPIDER_MODULE = "crawler.spiders"
@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = "crawler.spiders"
 # USER_AGENT = "crawler (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 # CONCURRENT_REQUESTS = 32
@@ -97,4 +97,11 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 
-PROXY_POOL_ENABLED = True
+# settings.py
+FILES_STORE = "storage"
+IMAGE_STORE = "storage"
+FILES_EXPIRES = 0  # Never expire, always download
+
+ITEM_PIPELINES = {
+    "crawler.pipelines.MyImagesPipeline": 1,
+}
