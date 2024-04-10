@@ -7,10 +7,9 @@ logger = logging.getLogger(__name__)
 
 class PokemonSpider(scrapy.Spider):
     name = "pokemon"
-    start_urls = ["https://pokemondb.net/pokedex/bulbasaur"]
+    start_urls = ["https://pokemondb.net/pokedex/Abomasnow"]
 
     def parse_egg_cycle(self, response):
-        # Select the text of td and small elements separately
         td_text = response.css(
             'h2:contains("Breeding") + table.vitals-table tr:nth-child(3) td::text'
         ).get()
@@ -18,7 +17,6 @@ class PokemonSpider(scrapy.Spider):
             'h2:contains("Breeding") + table.vitals-table tr:nth-child(3) small::text'
         ).get()
 
-        # Combine the text into one string
         egg_cycle = (
             f"{td_text.strip()} {small_text.strip()}"
             if td_text and small_text
@@ -133,38 +131,41 @@ class PokemonSpider(scrapy.Spider):
 
         return languages
 
+    def parse_pokedex_data(self, response):
+        data = {}
+        selector_pokedex_data = response.css(
+            'h2:contains("Pokédex data") + table.vitals-table tbody tr'
+        ).get()
+        logger.info(selector_pokedex_data)
+
+        # data["national_no"] = selector_pokedex_data.css("tr:nth-of-type(1) td::text").get()
+        # data["type"] = selector_pokedex_data.css("tr:nth-of-type(2) td a::text").getall()
+        # data["species"] = selector_pokedex_data.css("tr:nth-of-type(3) td::text").get()
+        # data["height"] = selector_pokedex_data.css("tr:nth-of-type(4) td::text").get()
+        # data["weight"] = selector_pokedex_data.css("tr:nth-of-type(5) td::text").get()
+        # data["abilities"] = selector_pokedex_data.css("tr:nth-of-type(6) td::text").getall()
+
+        return data
+
     def parse(self, response):
-        # local_numbers = self.parse_local_numbers(response)
-        # Extract the data from the page
-        data = {
+        pokemon = {
             "name": response.css("h1::text").get(),
-            "national_no": response.css(
-                'h2:contains("Pokédex data") + table.vitals-table tr:nth-of-type(1) td strong::text'
-            ).get(),
-            "type": response.css(
-                'h2:contains("Pokédex data") + table.vitals-table tr:nth-of-type(2) td a::text'
-            ).getall(),
-            "species": response.css(
-                'h2:contains("Pokédex data") + table.vitals-table tr:nth-child(3) td::text'
-            ).get(),
-            "height": response.css(
-                'h2:contains("Pokédex data") + table.vitals-table tr:nth-child(4) td::text'
-            ).get(),
-            "weight": response.css(
-                'h2:contains("Pokédex data") + table.vitals-table tr:nth-child(5) td::text'
-            ).get(),
-            "abilities": response.css(
-                'h2:contains("Pokédex data") + table.vitals-table tr:nth-child(6) td a::text'
-            ).getall(),
+            **self.parse_pokedex_data(response),
             "ev_yield": response.css(
                 'h2:contains("Training") + table.vitals-table tr:nth-child(1) td::text'
-            ).get(),
+            )
+            .get()
+            .strip(),
             "catch_rate": response.css(
                 'h2:contains("Training") + table.vitals-table tr:nth-child(2) td::text'
-            ).get(),
+            )
+            .get()
+            .strip(),
             "base_happiness": response.css(
                 'h2:contains("Training") + table.vitals-table tr:nth-child(3) td::text'
-            ).get(),
+            )
+            .get()
+            .strip(),
             "base_exp": response.css(
                 'h2:contains("Training") + table.vitals-table tr:nth-child(4) td::text'
             ).get(),
@@ -213,13 +214,13 @@ class PokemonSpider(scrapy.Spider):
         }
 
         # Save the data to a JSON file
-        with open(f'pokemon/{data["name"]}.json', "w") as f:
-            json.dump(data, f, indent=4)
+        with open(f'pokemon/{pokemon["name"]}.json', "w") as f:
+            json.dump(pokemon, f, indent=4)
 
         # Yield the data to Scrapy
-        yield data
+        yield pokemon
 
         # Follow the link to the next Pokemon's page
-        next_page = response.css('a[rel="next"]::attr(href)').get()
-        if next_page is not None:
-            yield response.follow(next_page, self.parse)
+        # next_page = response.css('a[rel="next"]::attr(href)').get()
+        # if next_page is not None:
+        #     yield response.follow(next_page, self.parse)
