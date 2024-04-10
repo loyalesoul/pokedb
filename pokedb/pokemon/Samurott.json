@@ -1,36 +1,31 @@
 {
     "name": "Samurott",
-    "national_no": "0503",
+    "national_no": null,
     "type": [
-        "Water",
-        "Water",
-        "Dark"
+        "Dark",
+        "Water"
     ],
     "species": "Formidable Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "94.6\u00a0kg (208.6\u00a0lbs)",
-    "abilities": [
-        "Torrent",
-        "Shell Armor",
-        "Torrent",
-        "Sharpness"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "264",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "264",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "100",

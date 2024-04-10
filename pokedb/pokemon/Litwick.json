@@ -1,6 +1,6 @@
 {
     "name": "Litwick",
-    "national_no": "0607",
+    "national_no": null,
     "type": [
         "Ghost",
         "Fire"
@@ -8,24 +8,24 @@
     "species": "Candle Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.1\u00a0kg (6.8\u00a0lbs)",
-    "abilities": [
-        "Flash Fire",
-        "Flame Body",
-        "Infiltrator"
-    ],
-    "ev_yield": "\n1 Sp. Atk ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "55",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "55",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "30",

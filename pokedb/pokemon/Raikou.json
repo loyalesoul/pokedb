@@ -11,9 +11,9 @@
         "Pressure",
         "Inner Focus"
     ],
-    "ev_yield": "\n1 Sp. Atk, 2 Speed ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "1 Sp. Atk, 2 Speed",
+    "catch_rate": "3",
+    "base_happiness": "35",
     "base_exp": "261",
     "growth_rate": "Slow",
     "egg_groups": [

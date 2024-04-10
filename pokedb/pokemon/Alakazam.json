@@ -14,9 +14,9 @@
         "Magic Guard",
         "Trace"
     ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n50 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "3 Sp. Atk",
+    "catch_rate": "50",
+    "base_happiness": "50",
     "base_exp": "225",
     "growth_rate": "Medium Slow",
     "egg_groups": [

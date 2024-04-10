@@ -1,29 +1,30 @@
 {
     "name": "Floette",
-    "national_no": "0670",
+    "national_no": null,
     "type": [
         "Fairy"
     ],
     "species": "Single Bloom Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "0.9\u00a0kg (2.0\u00a0lbs)",
-    "abilities": [
-        "Flower Veil",
-        "Symbiosis"
-    ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "130",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "130",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "54",
         "attack": "45",

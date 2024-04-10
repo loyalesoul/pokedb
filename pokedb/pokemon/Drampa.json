@@ -1,32 +1,32 @@
 {
     "name": "Drampa",
-    "national_no": "0780",
+    "national_no": null,
     "type": [
-        "Normal",
-        "Dragon"
+        "Dragon",
+        "Normal"
     ],
     "species": "Placid Pok\u00e9mon",
     "height": "3.0\u00a0m (9\u203210\u2033)",
     "weight": "185.0\u00a0kg (407.9\u00a0lbs)",
-    "abilities": [
-        "Berserk",
-        "Sap Sipper",
-        "Cloud Nine"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n70 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "170",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "70",
+        "base_happiness": "50",
+        "base_exp": "170",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "78",
         "attack": "60",

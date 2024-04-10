@@ -1,28 +1,28 @@
 {
     "name": "Tandemaus",
-    "national_no": "0924",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Couple Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.8\u00a0kg (4.0\u00a0lbs)",
-    "abilities": [
-        "Run Away",
-        "Pickup",
-        "Own Tempo"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n150 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "61",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy",
-        "Field"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "150",
+        "base_happiness": "50",
+        "base_exp": "61",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Field"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "50",

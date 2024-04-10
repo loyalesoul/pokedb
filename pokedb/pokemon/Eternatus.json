@@ -1,9 +1,7 @@
 {
     "name": "Eternatus",
-    "national_no": "0890",
+    "national_no": null,
     "type": [
-        "Poison",
-        "Dragon",
         "Poison",
         "Dragon"
     ],
@@ -11,19 +9,22 @@
     "height": "20.0\u00a0m (65\u203207\u2033)",
     "weight": "950.0\u00a0kg (2094.4\u00a0lbs)",
     "abilities": [
-        "Pressure"
+        "\u2014"
     ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "345",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "255",
+        "base_happiness": "0",
+        "base_exp": "345",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "140",
         "attack": "85",

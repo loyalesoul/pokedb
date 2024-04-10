@@ -1,29 +1,30 @@
 {
     "name": "Chespin",
-    "national_no": "0650",
+    "national_no": null,
     "type": [
         "Grass"
     ],
     "species": "Spiny Nut Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "9.0\u00a0kg (19.8\u00a0lbs)",
-    "abilities": [
-        "Overgrow",
-        "Bulletproof"
-    ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "63",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "63",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "56",
         "attack": "61",

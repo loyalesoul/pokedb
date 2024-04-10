@@ -1,6 +1,6 @@
 {
     "name": "Togekiss",
-    "national_no": "0468",
+    "national_no": null,
     "type": [
         "Fairy",
         "Flying"
@@ -8,25 +8,25 @@
     "species": "Jubilee Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "38.0\u00a0kg (83.8\u00a0lbs)",
-    "abilities": [
-        "Hustle",
-        "Serene Grace",
-        "Super Luck"
-    ],
-    "ev_yield": "\n2 Sp. Atk, 1 Sp. Def ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "245",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy",
-        "Flying"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk, 1 Sp. Def",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "245",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Flying"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "85",
         "attack": "50",

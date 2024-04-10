@@ -1,32 +1,32 @@
 {
     "name": "Flapple",
-    "national_no": "0841",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Dragon"
+        "Dragon",
+        "Grass"
     ],
     "species": "Apple Wing Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.0\u00a0kg (2.2\u00a0lbs)",
-    "abilities": [
-        "Ripen",
-        "Gluttony",
-        "Hustle"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "170",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Dragon",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "170",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "110",

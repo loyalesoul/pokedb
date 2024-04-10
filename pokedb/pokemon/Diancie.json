@@ -1,30 +1,28 @@
 {
     "name": "Diancie",
-    "national_no": "0719",
+    "national_no": null,
     "type": [
-        "Rock",
         "Fairy",
-        "Rock",
-        "Fairy"
+        "Rock"
     ],
     "species": "Jewel Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "8.8\u00a0kg (19.4\u00a0lbs)",
-    "abilities": [
-        "Clear Body",
-        "Magic Bounce"
-    ],
-    "ev_yield": "\n1 Defense, 2 Sp. Def ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "300",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense, 2 Sp. Def",
+        "catch_rate": "3",
+        "base_happiness": "50",
+        "base_exp": "300",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "100",

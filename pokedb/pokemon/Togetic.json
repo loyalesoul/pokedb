@@ -13,9 +13,9 @@
         "Serene Grace",
         "Super Luck"
     ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Sp. Def",
+    "catch_rate": "75",
+    "base_happiness": "50",
     "base_exp": "142",
     "growth_rate": "Fast",
     "egg_groups": [

@@ -1,35 +1,31 @@
 {
     "name": "Aegislash",
-    "national_no": "0681",
+    "national_no": null,
     "type": [
-        "Steel",
         "Ghost",
-        "Steel",
-        "Ghost"
+        "Steel"
     ],
     "species": "Royal Sword Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "53.0\u00a0kg (116.8\u00a0lbs)",
-    "abilities": [
-        "Stance Change",
-        "Stance Change"
-    ],
-    "ev_yield": "\n2 Defense, 1 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "234",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense, 1 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "234",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "50",

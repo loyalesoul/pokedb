@@ -1,29 +1,30 @@
 {
     "name": "Greedent",
-    "national_no": "0820",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Greedy Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "6.0\u00a0kg (13.2\u00a0lbs)",
-    "abilities": [
-        "Cheek Pouch",
-        "Gluttony"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n90 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "161",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "161",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "120",
         "attack": "95",

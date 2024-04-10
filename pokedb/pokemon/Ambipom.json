@@ -12,9 +12,9 @@
         "Pickup",
         "Skill Link"
     ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n100 ",
+    "ev_yield": "2 Speed",
+    "catch_rate": "45",
+    "base_happiness": "100",
     "base_exp": "169",
     "growth_rate": "Fast",
     "egg_groups": [

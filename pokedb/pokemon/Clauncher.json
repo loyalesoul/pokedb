@@ -1,29 +1,31 @@
 {
     "name": "Clauncher",
-    "national_no": "0692",
+    "national_no": null,
     "type": [
         "Water"
     ],
     "species": "Water Gun Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "8.3\u00a0kg (18.3\u00a0lbs)",
-    "abilities": [
-        "Mega Launcher"
-    ],
-    "ev_yield": "\n1 Sp. Atk ",
-    "catch_rate": "\n225 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "66",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 1",
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "225",
+        "base_happiness": "50",
+        "base_exp": "66",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "53",

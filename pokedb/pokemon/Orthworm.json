@@ -1,29 +1,30 @@
 {
     "name": "Orthworm",
-    "national_no": "0968",
+    "national_no": null,
     "type": [
         "Steel"
     ],
     "species": "Earthworm Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "310.0\u00a0kg (683.4\u00a0lbs)",
-    "abilities": [
-        "Earth Eater",
-        "Sand Veil"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n25 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "240",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "25",
+        "base_happiness": "50",
+        "base_exp": "240",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "85",

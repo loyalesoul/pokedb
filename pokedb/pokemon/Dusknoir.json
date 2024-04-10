@@ -1,29 +1,30 @@
 {
     "name": "Dusknoir",
-    "national_no": "0477",
+    "national_no": null,
     "type": [
         "Ghost"
     ],
     "species": "Gripper Pok\u00e9mon",
     "height": "2.2\u00a0m (7\u203203\u2033)",
     "weight": "106.6\u00a0kg (235.0\u00a0lbs)",
-    "abilities": [
-        "Pressure",
-        "Frisk"
-    ],
-    "ev_yield": "\n1 Defense, 2 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "236",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense, 2 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "236",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "100",

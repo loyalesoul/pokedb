@@ -1,29 +1,30 @@
 {
     "name": "Rellor",
-    "national_no": "0953",
+    "national_no": null,
     "type": [
         "Bug"
     ],
     "species": "Rolling Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "1.0\u00a0kg (2.2\u00a0lbs)",
-    "abilities": [
-        "Compound Eyes",
-        "Shed Skin"
-    ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "54",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "54",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "41",
         "attack": "50",

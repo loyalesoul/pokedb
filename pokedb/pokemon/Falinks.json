@@ -1,27 +1,28 @@
 {
     "name": "Falinks",
-    "national_no": "0870",
+    "national_no": null,
     "type": [
         "Fighting"
     ],
     "species": "Formation Pok\u00e9mon",
     "height": "3.0\u00a0m (9\u203210\u2033)",
     "weight": "62.0\u00a0kg (136.7\u00a0lbs)",
-    "abilities": [
-        "Battle Armor",
-        "Defiant"
-    ],
-    "ev_yield": "\n2 Attack, 1 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "165",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack, 1 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "165",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "100",

@@ -1,32 +1,32 @@
 {
     "name": "Kilowattrel",
-    "national_no": "0941",
+    "national_no": null,
     "type": [
-        "Electric",
-        "Flying"
+        "Flying",
+        "Electric"
     ],
     "species": "Frigatebird Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "38.6\u00a0kg (85.1\u00a0lbs)",
-    "abilities": [
-        "Wind Power",
-        "Volt Absorb",
-        "Competitive"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n90 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "172",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Flying",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "172",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "70",

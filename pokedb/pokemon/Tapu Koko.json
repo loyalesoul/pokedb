@@ -1,27 +1,28 @@
 {
     "name": "Tapu Koko",
-    "national_no": "0785",
+    "national_no": null,
     "type": [
-        "Electric",
-        "Fairy"
+        "Fairy",
+        "Electric"
     ],
     "species": "Land Spirit Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "20.5\u00a0kg (45.2\u00a0lbs)",
-    "abilities": [
-        "Electric Surge",
-        "Telepathy"
-    ],
-    "ev_yield": "\n3 Speed ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "257",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Speed",
+        "catch_rate": "3",
+        "base_happiness": "50",
+        "base_exp": "257",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "115",

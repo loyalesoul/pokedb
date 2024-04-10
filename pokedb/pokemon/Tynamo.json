@@ -1,28 +1,30 @@
 {
     "name": "Tynamo",
-    "national_no": "0602",
+    "national_no": null,
     "type": [
         "Electric"
     ],
     "species": "EleFish Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "0.3\u00a0kg (0.7\u00a0lbs)",
-    "abilities": [
-        "Levitate"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "55",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "55",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "35",
         "attack": "55",

@@ -1,29 +1,28 @@
 {
     "name": "Zamazenta",
-    "national_no": "0889",
+    "national_no": null,
     "type": [
-        "Fighting",
         "Fighting",
         "Steel"
     ],
     "species": "Warrior Pok\u00e9mon",
     "height": "2.9\u00a0m (9\u203206\u2033)",
     "weight": "210.0\u00a0kg (463.0\u00a0lbs)",
-    "abilities": [
-        "Dauntless Shield",
-        "Dauntless Shield"
-    ],
-    "ev_yield": "\n3 Speed ",
-    "catch_rate": "\n10 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "330",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Speed",
+        "catch_rate": "10",
+        "base_happiness": "0",
+        "base_exp": "330",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "92",
         "attack": "120",

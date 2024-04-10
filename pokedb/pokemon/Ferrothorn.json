@@ -1,31 +1,32 @@
 {
     "name": "Ferrothorn",
-    "national_no": "0598",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Steel"
+        "Steel",
+        "Grass"
     ],
     "species": "Thorn Pod Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "110.0\u00a0kg (242.5\u00a0lbs)",
-    "abilities": [
-        "Iron Barbs",
-        "Anticipation"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n90 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "171",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Grass",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "171",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "74",
         "attack": "94",

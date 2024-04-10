@@ -16,9 +16,9 @@
         "Moxie",
         "Skill Link"
     ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Attack",
+    "catch_rate": "45",
+    "base_happiness": "50",
     "base_exp": "175",
     "growth_rate": "Slow",
     "egg_groups": [

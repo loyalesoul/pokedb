@@ -1,30 +1,31 @@
 {
     "name": "Lokix",
-    "national_no": "0920",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Dark"
+        "Dark",
+        "Bug"
     ],
     "species": "Grasshopper Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "17.5\u00a0kg (38.6\u00a0lbs)",
-    "abilities": [
-        "Swarm",
-        "Tinted Lens"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "158",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "30",
+        "base_happiness": "0",
+        "base_exp": "158",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "71",
         "attack": "102",

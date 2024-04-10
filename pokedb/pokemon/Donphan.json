@@ -11,9 +11,9 @@
         "Sturdy",
         "Sand Veil"
     ],
-    "ev_yield": "\n1 Attack, 1 Defense ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Attack, 1 Defense",
+    "catch_rate": "60",
+    "base_happiness": "50",
     "base_exp": "175",
     "growth_rate": "Medium Fast",
     "egg_groups": [

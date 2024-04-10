@@ -1,25 +1,27 @@
 {
     "name": "Arceus",
-    "national_no": "0493",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Alpha Pok\u00e9mon",
     "height": "3.2\u00a0m (10\u203206\u2033)",
     "weight": "320.0\u00a0kg (705.5\u00a0lbs)",
-    "abilities": [
-        "Multitype"
-    ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "360",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "3",
+        "base_happiness": "0",
+        "base_exp": "360",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "120",
         "attack": "120",

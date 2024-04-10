@@ -1,31 +1,31 @@
 {
     "name": "Scovillain",
-    "national_no": "0952",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Fire"
+        "Fire",
+        "Grass"
     ],
     "species": "Spicy Pepper Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "15.0\u00a0kg (33.1\u00a0lbs)",
-    "abilities": [
-        "Chlorophyll",
-        "Insomnia",
-        "Moody"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "170",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "170",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "108",

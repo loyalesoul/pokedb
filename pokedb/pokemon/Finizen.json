@@ -1,29 +1,31 @@
 {
     "name": "Finizen",
-    "national_no": "0963",
+    "national_no": null,
     "type": [
         "Water"
     ],
     "species": "Dolphin Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "60.2\u00a0kg (132.7\u00a0lbs)",
-    "abilities": [
-        "Water Veil"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n200 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "63",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field",
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "200",
+        "base_happiness": "50",
+        "base_exp": "63",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "45",

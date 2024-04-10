@@ -12,9 +12,9 @@
         "Tangled Feet",
         "Contrary"
     ],
-    "ev_yield": "\n1 Sp. Atk ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Sp. Atk",
+    "catch_rate": "255",
+    "base_happiness": "50",
     "base_exp": "126",
     "growth_rate": "Fast",
     "egg_groups": [

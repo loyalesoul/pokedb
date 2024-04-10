@@ -11,9 +11,9 @@
     "abilities": [
         "Levitate"
     ],
-    "ev_yield": "\n1 Attack, 2 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Attack, 2 Speed",
+    "catch_rate": "45",
+    "base_happiness": "50",
     "base_exp": "234",
     "growth_rate": "Medium Slow",
     "egg_groups": [

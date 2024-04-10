@@ -11,9 +11,9 @@
     "abilities": [
         "Serene Grace"
     ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n100 ",
+    "ev_yield": "3 HP",
+    "catch_rate": "3",
+    "base_happiness": "100",
     "base_exp": "270",
     "growth_rate": "Slow",
     "egg_groups": [

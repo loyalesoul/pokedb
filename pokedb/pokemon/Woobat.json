@@ -1,32 +1,32 @@
 {
     "name": "Woobat",
-    "national_no": "0527",
+    "national_no": null,
     "type": [
-        "Psychic",
-        "Flying"
+        "Flying",
+        "Psychic"
     ],
     "species": "Bat Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "2.1\u00a0kg (4.6\u00a0lbs)",
-    "abilities": [
-        "Unaware",
-        "Klutz",
-        "Simple"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "65",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "65",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "45",

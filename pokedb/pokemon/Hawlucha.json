@@ -1,32 +1,32 @@
 {
     "name": "Hawlucha",
-    "national_no": "0701",
+    "national_no": null,
     "type": [
-        "Fighting",
-        "Flying"
+        "Flying",
+        "Fighting"
     ],
     "species": "Wrestling Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "21.5\u00a0kg (47.4\u00a0lbs)",
-    "abilities": [
-        "Limber",
-        "Unburden",
-        "Mold Breaker"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n100 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "175",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Flying",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "100",
+        "base_happiness": "50",
+        "base_exp": "175",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying",
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "78",
         "attack": "92",

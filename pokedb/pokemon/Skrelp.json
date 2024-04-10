@@ -1,6 +1,6 @@
 {
     "name": "Skrelp",
-    "national_no": "0690",
+    "national_no": null,
     "type": [
         "Poison",
         "Water"
@@ -8,25 +8,25 @@
     "species": "Mock Kelp Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "7.3\u00a0kg (16.1\u00a0lbs)",
-    "abilities": [
-        "Poison Point",
-        "Poison Touch",
-        "Adaptability"
-    ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n225 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "64",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "225",
+        "base_happiness": "50",
+        "base_exp": "64",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "60",

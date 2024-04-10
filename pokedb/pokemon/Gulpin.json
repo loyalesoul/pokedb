@@ -12,9 +12,9 @@
         "Sticky Hold",
         "Gluttony"
     ],
-    "ev_yield": "\n1 HP ",
-    "catch_rate": "\n225 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 HP",
+    "catch_rate": "225",
+    "base_happiness": "50",
     "base_exp": "60",
     "growth_rate": "Fluctuating",
     "egg_groups": [

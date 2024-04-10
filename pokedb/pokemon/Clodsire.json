@@ -1,6 +1,6 @@
 {
     "name": "Clodsire",
-    "national_no": "0980",
+    "national_no": null,
     "type": [
         "Poison",
         "Ground"
@@ -8,25 +8,25 @@
     "species": "Spiny Fish Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "223.0\u00a0kg (491.6\u00a0lbs)",
-    "abilities": [
-        "Poison Point",
-        "Water Absorb",
-        "Unaware"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n90 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "151",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "151",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "130",
         "attack": "75",

@@ -1,36 +1,28 @@
 {
     "name": "Zygarde",
-    "national_no": "0718",
+    "national_no": null,
     "type": [
-        "Dragon",
-        "Ground",
-        "Dragon",
-        "Ground",
         "Dragon",
         "Ground"
     ],
     "species": "Order Pok\u00e9mon",
     "height": "5.0\u00a0m (16\u203205\u2033)",
     "weight": "305.0\u00a0kg (672.4\u00a0lbs)",
-    "abilities": [
-        "Aura Break",
-        "Power Construct",
-        "Aura Break",
-        "Power Construct",
-        "Power Construct"
-    ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "270",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "3",
+        "base_happiness": "0",
+        "base_exp": "270",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "108",
         "attack": "100",

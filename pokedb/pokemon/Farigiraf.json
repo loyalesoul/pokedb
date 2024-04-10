@@ -1,31 +1,31 @@
 {
     "name": "Farigiraf",
-    "national_no": "0981",
+    "national_no": null,
     "type": [
-        "Normal",
-        "Psychic"
+        "Psychic",
+        "Normal"
     ],
     "species": "Long Neck Pok\u00e9mon",
     "height": "3.2\u00a0m (10\u203206\u2033)",
     "weight": "160.0\u00a0kg (352.7\u00a0lbs)",
-    "abilities": [
-        "Cud Chew",
-        "Armor Tail",
-        "Sap Sipper"
-    ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "260",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "260",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "120",
         "attack": "90",

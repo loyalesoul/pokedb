@@ -13,9 +13,9 @@
         "Super Luck",
         "Prankster"
     ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "1 Speed",
+    "catch_rate": "30",
+    "base_happiness": "35",
     "base_exp": "81",
     "growth_rate": "Medium Slow",
     "egg_groups": [

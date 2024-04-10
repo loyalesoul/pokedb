@@ -1,31 +1,31 @@
 {
     "name": "Alomomola",
-    "national_no": "0594",
+    "national_no": null,
     "type": [
         "Water"
     ],
     "species": "Caring Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "31.6\u00a0kg (69.7\u00a0lbs)",
-    "abilities": [
-        "Healer",
-        "Hydration",
-        "Regenerator"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "165",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Water 1",
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "165",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "165",
         "attack": "75",

@@ -12,9 +12,9 @@
         "Serene Grace",
         "Healer"
     ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n140 ",
+    "ev_yield": "2 HP",
+    "catch_rate": "30",
+    "base_happiness": "140",
     "base_exp": "395",
     "growth_rate": "Fast",
     "egg_groups": [

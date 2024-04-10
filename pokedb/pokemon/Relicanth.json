@@ -13,9 +13,9 @@
         "Rock Head",
         "Sturdy"
     ],
-    "ev_yield": "\n1 HP, 1 Defense ",
-    "catch_rate": "\n25 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 HP, 1 Defense",
+    "catch_rate": "25",
+    "base_happiness": "50",
     "base_exp": "170",
     "growth_rate": "Slow",
     "egg_groups": [

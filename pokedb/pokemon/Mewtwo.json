@@ -16,9 +16,9 @@
         "Steadfast",
         "Insomnia"
     ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n0 ",
+    "ev_yield": "3 Sp. Atk",
+    "catch_rate": "3",
+    "base_happiness": "0",
     "base_exp": "340",
     "growth_rate": "Slow",
     "egg_groups": [

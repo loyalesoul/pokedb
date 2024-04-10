@@ -13,9 +13,9 @@
         "Insomnia",
         "Sniper"
     ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Attack",
+    "catch_rate": "255",
+    "base_happiness": "50",
     "base_exp": "50",
     "growth_rate": "Fast",
     "egg_groups": [

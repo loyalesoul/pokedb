@@ -1,30 +1,30 @@
 {
     "name": "Eldegoss",
-    "national_no": "0830",
+    "national_no": null,
     "type": [
         "Grass"
     ],
     "species": "Cotton Bloom Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "2.5\u00a0kg (5.5\u00a0lbs)",
-    "abilities": [
-        "Cotton Down",
-        "Regenerator",
-        "Effect Spore"
-    ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "161",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "161",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "50",

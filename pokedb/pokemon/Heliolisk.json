@@ -1,6 +1,6 @@
 {
     "name": "Heliolisk",
-    "national_no": "0695",
+    "national_no": null,
     "type": [
         "Electric",
         "Normal"
@@ -8,25 +8,25 @@
     "species": "Generator Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "21.0\u00a0kg (46.3\u00a0lbs)",
-    "abilities": [
-        "Dry Skin",
-        "Sand Veil",
-        "Solar Power"
-    ],
-    "ev_yield": "\n1 Sp. Atk, 1 Speed ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "168",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk, 1 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "168",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "62",
         "attack": "55",

@@ -1,31 +1,31 @@
 {
     "name": "Litleo",
-    "national_no": "0667",
+    "national_no": null,
     "type": [
-        "Fire",
-        "Normal"
+        "Normal",
+        "Fire"
     ],
     "species": "Lion Cub Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "13.5\u00a0kg (29.8\u00a0lbs)",
-    "abilities": [
-        "Rivalry",
-        "Unnerve",
-        "Moxie"
-    ],
-    "ev_yield": "\n1 Sp. Atk ",
-    "catch_rate": "\n220 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "74",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "12.5% male",
-        "87.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "220",
+        "base_happiness": "50",
+        "base_exp": "74",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "12.5% male",
+            "87.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "62",
         "attack": "50",

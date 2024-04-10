@@ -1,6 +1,6 @@
 {
     "name": "Salazzle",
-    "national_no": "0758",
+    "national_no": null,
     "type": [
         "Poison",
         "Fire"
@@ -8,24 +8,25 @@
     "species": "Toxic Lizard Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "22.2\u00a0kg (48.9\u00a0lbs)",
-    "abilities": [
-        "Corrosion",
-        "Oblivious"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "168",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "168",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "68",
         "attack": "64",

@@ -1,31 +1,31 @@
 {
     "name": "Dottler",
-    "national_no": "0825",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Psychic"
+        "Psychic",
+        "Bug"
     ],
     "species": "Radome Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "19.5\u00a0kg (43.0\u00a0lbs)",
-    "abilities": [
-        "Swarm",
-        "Compound Eyes",
-        "Telepathy"
-    ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "117",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "117",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "35",

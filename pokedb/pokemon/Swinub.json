@@ -13,9 +13,9 @@
         "Snow Cloak",
         "Thick Fat"
     ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n225 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Attack",
+    "catch_rate": "225",
+    "base_happiness": "50",
     "base_exp": "50",
     "growth_rate": "Slow",
     "egg_groups": [

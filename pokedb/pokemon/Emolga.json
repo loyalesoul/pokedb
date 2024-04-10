@@ -1,30 +1,31 @@
 {
     "name": "Emolga",
-    "national_no": "0587",
+    "national_no": null,
     "type": [
-        "Electric",
-        "Flying"
+        "Flying",
+        "Electric"
     ],
     "species": "Sky Squirrel Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "5.0\u00a0kg (11.0\u00a0lbs)",
-    "abilities": [
-        "Static",
-        "Motor Drive"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n200 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "150",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "200",
+        "base_happiness": "50",
+        "base_exp": "150",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "75",

@@ -1,30 +1,30 @@
 {
     "name": "Tangrowth",
-    "national_no": "0465",
+    "national_no": null,
     "type": [
         "Grass"
     ],
     "species": "Vine Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "128.6\u00a0kg (283.5\u00a0lbs)",
-    "abilities": [
-        "Chlorophyll",
-        "Leaf Guard",
-        "Regenerator"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "187",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "187",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "100",

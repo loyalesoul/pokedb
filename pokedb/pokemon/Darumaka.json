@@ -1,35 +1,31 @@
 {
     "name": "Darumaka",
-    "national_no": "0554",
+    "national_no": null,
     "type": [
-        "Fire",
-        "Ice"
+        "Ice",
+        "Fire"
     ],
     "species": "Zen Charm Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "37.5\u00a0kg (82.7\u00a0lbs)",
-    "abilities": [
-        "Hustle",
-        "Inner Focus",
-        "Hustle",
-        "Inner Focus"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "63",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "63",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "90",

@@ -14,9 +14,9 @@
         "Justified",
         "Magic Bounce"
     ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "2 Attack",
+    "catch_rate": "30",
+    "base_happiness": "35",
     "base_exp": "163",
     "growth_rate": "Medium Slow",
     "egg_groups": [

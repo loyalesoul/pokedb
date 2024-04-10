@@ -1,30 +1,30 @@
 {
     "name": "Hattrem",
-    "national_no": "0857",
+    "national_no": null,
     "type": [
         "Psychic"
     ],
     "species": "Serene Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "4.8\u00a0kg (10.6\u00a0lbs)",
-    "abilities": [
-        "Healer",
-        "Anticipation",
-        "Magic Bounce"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "130",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "130",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "57",
         "attack": "40",

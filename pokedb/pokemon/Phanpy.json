@@ -11,9 +11,9 @@
         "Pickup",
         "Sand Veil"
     ],
-    "ev_yield": "\n1 HP ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 HP",
+    "catch_rate": "120",
+    "base_happiness": "50",
     "base_exp": "66",
     "growth_rate": "Medium Fast",
     "egg_groups": [

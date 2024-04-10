@@ -1,6 +1,6 @@
 {
     "name": "Solgaleo",
-    "national_no": "0791",
+    "national_no": null,
     "type": [
         "Psychic",
         "Steel"
@@ -8,19 +8,21 @@
     "species": "Sunne Pok\u00e9mon",
     "height": "3.4\u00a0m (11\u203202\u2033)",
     "weight": "230.0\u00a0kg (507.1\u00a0lbs)",
-    "abilities": [
-        "Full Metal Body"
-    ],
-    "ev_yield": "\n3 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "306",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "45",
+        "base_happiness": "0",
+        "base_exp": "306",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "137",
         "attack": "137",

@@ -1,30 +1,30 @@
 {
     "name": "Zebstrika",
-    "national_no": "0523",
+    "national_no": null,
     "type": [
         "Electric"
     ],
     "species": "Thunderbolt Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "79.5\u00a0kg (175.3\u00a0lbs)",
-    "abilities": [
-        "Lightning Rod",
-        "Motor Drive",
-        "Sap Sipper"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "174",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "174",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "100",

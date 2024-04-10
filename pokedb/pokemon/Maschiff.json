@@ -1,30 +1,30 @@
 {
     "name": "Maschiff",
-    "national_no": "0942",
+    "national_no": null,
     "type": [
         "Dark"
     ],
     "species": "Rascal Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "16.0\u00a0kg (35.3\u00a0lbs)",
-    "abilities": [
-        "Intimidate",
-        "Run Away",
-        "Stakeout"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n150 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "68",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "150",
+        "base_happiness": "50",
+        "base_exp": "68",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "78",

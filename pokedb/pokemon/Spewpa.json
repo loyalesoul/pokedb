@@ -1,29 +1,30 @@
 {
     "name": "Spewpa",
-    "national_no": "0665",
+    "national_no": null,
     "type": [
         "Bug"
     ],
     "species": "Scatterdust Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "8.4\u00a0kg (18.5\u00a0lbs)",
-    "abilities": [
-        "Shed Skin",
-        "Friend Guard"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "75",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "75",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "22",

@@ -1,29 +1,30 @@
 {
     "name": "Fomantis",
-    "national_no": "0753",
+    "national_no": null,
     "type": [
         "Grass"
     ],
     "species": "Sickle Grass Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.5\u00a0kg (3.3\u00a0lbs)",
-    "abilities": [
-        "Leaf Guard",
-        "Contrary"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "50",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "50",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "55",

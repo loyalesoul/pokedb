@@ -1,30 +1,31 @@
 {
     "name": "Munkidori",
-    "national_no": "1015",
+    "national_no": null,
     "type": [
-        "Poison",
-        "Psychic"
+        "Psychic",
+        "Poison"
     ],
     "species": "Retainer Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "12.2\u00a0kg (26.9\u00a0lbs)",
-    "abilities": [
-        "Toxic Chain",
-        "Frisk"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n\u2014\n",
-    "base_exp": "\u2014",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female"
-    ],
-    "egg_cycle": null,
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "3",
+        "base_happiness": "\u2014",
+        "base_exp": "\u2014",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "100% male",
+            "0% female"
+        ],
+        "egg_cycle": null
+    },
     "stats": {
         "hp": "88",
         "attack": "75",

@@ -1,29 +1,30 @@
 {
     "name": "Spidops",
-    "national_no": "0918",
+    "national_no": null,
     "type": [
         "Bug"
     ],
     "species": "Trap Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "16.5\u00a0kg (36.4\u00a0lbs)",
-    "abilities": [
-        "Insomnia",
-        "Stakeout"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "141",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "141",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "79",

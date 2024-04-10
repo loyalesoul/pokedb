@@ -1,26 +1,28 @@
 {
     "name": "Lunala",
-    "national_no": "0792",
+    "national_no": null,
     "type": [
-        "Psychic",
-        "Ghost"
+        "Ghost",
+        "Psychic"
     ],
     "species": "Moone Pok\u00e9mon",
     "height": "4.0\u00a0m (13\u203201\u2033)",
     "weight": "120.0\u00a0kg (264.6\u00a0lbs)",
-    "abilities": [
-        "Shadow Shield"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "306",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "0",
+        "base_exp": "306",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "137",
         "attack": "113",

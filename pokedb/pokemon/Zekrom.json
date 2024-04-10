@@ -1,26 +1,28 @@
 {
     "name": "Zekrom",
-    "national_no": "0644",
+    "national_no": null,
     "type": [
-        "Dragon",
-        "Electric"
+        "Electric",
+        "Dragon"
     ],
     "species": "Deep Black Pok\u00e9mon",
     "height": "2.9\u00a0m (9\u203206\u2033)",
     "weight": "345.0\u00a0kg (760.6\u00a0lbs)",
-    "abilities": [
-        "Teravolt"
-    ],
-    "ev_yield": "\n3 Attack ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "306",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "3",
+        "base_happiness": "0",
+        "base_exp": "306",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "150",

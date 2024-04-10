@@ -13,9 +13,9 @@
         "Hydration",
         "Ice Body"
     ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Sp. Def",
+    "catch_rate": "75",
+    "base_happiness": "50",
     "base_exp": "166",
     "growth_rate": "Medium Fast",
     "egg_groups": [

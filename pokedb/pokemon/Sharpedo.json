@@ -15,9 +15,9 @@
         "Speed Boost",
         "Strong Jaw"
     ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "2 Attack",
+    "catch_rate": "60",
+    "base_happiness": "35",
     "base_exp": "161",
     "growth_rate": "Slow",
     "egg_groups": [

@@ -1,6 +1,6 @@
 {
     "name": "Victini",
-    "national_no": "0494",
+    "national_no": null,
     "type": [
         "Psychic",
         "Fire"
@@ -8,19 +8,21 @@
     "species": "Victory Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
-    "abilities": [
-        "Victory Star"
-    ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n100 ",
-    "base_exp": "270",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "3",
+        "base_happiness": "100",
+        "base_exp": "270",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "100",

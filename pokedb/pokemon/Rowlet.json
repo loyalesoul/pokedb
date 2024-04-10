@@ -1,30 +1,31 @@
 {
     "name": "Rowlet",
-    "national_no": "0722",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Flying"
+        "Flying",
+        "Grass"
     ],
     "species": "Grass Quill Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.5\u00a0kg (3.3\u00a0lbs)",
-    "abilities": [
-        "Overgrow",
-        "Long Reach"
-    ],
-    "ev_yield": "\n1 HP ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "64",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Flying"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "64",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "68",
         "attack": "55",

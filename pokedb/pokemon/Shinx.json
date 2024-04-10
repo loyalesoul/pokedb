@@ -12,9 +12,9 @@
         "Intimidate",
         "Guts"
     ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n235 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Attack",
+    "catch_rate": "235",
+    "base_happiness": "50",
     "base_exp": "53",
     "growth_rate": "Medium Slow",
     "egg_groups": [

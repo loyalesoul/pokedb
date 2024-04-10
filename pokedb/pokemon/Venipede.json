@@ -1,31 +1,31 @@
 {
     "name": "Venipede",
-    "national_no": "0543",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Poison"
+        "Poison",
+        "Bug"
     ],
     "species": "Centipede Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "5.3\u00a0kg (11.7\u00a0lbs)",
-    "abilities": [
-        "Poison Point",
-        "Swarm",
-        "Speed Boost"
-    ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "52",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "52",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "30",
         "attack": "45",

@@ -18,9 +18,9 @@
         "Keen Eye",
         "Pickpocket"
     ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "1 Speed",
+    "catch_rate": "60",
+    "base_happiness": "35",
     "base_exp": "86",
     "growth_rate": "Medium Slow",
     "egg_groups": [

@@ -13,9 +13,9 @@
         "Trace",
         "Telepathy"
     ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "2 Sp. Atk",
+    "catch_rate": "120",
+    "base_happiness": "35",
     "base_exp": "97",
     "growth_rate": "Slow",
     "egg_groups": [

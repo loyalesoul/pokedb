@@ -1,8 +1,7 @@
 {
     "name": "Stunfisk",
-    "national_no": "0618",
+    "national_no": null,
     "type": [
-        "Ground",
         "Electric",
         "Ground",
         "Steel"
@@ -10,30 +9,25 @@
     "species": "Trap Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "11.0\u00a0kg (24.3\u00a0lbs)",
-    "abilities": [
-        "Static",
-        "Limber",
-        "Sand Veil",
-        "Mimicry"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n70 ",
-    "base_exp": "165",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous",
-        "Water 1",
-        "Amorphous",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "75",
+        "base_happiness": "70",
+        "base_exp": "165",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "109",
         "attack": "66",

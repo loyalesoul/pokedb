@@ -1,30 +1,31 @@
 {
     "name": "Larvesta",
-    "national_no": "0636",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Fire"
+        "Fire",
+        "Bug"
     ],
     "species": "Torch Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "28.8\u00a0kg (63.5\u00a0lbs)",
-    "abilities": [
-        "Flame Body",
-        "Swarm"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "72",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "72",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "85",

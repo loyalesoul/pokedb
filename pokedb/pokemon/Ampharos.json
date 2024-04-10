@@ -14,9 +14,9 @@
         "Plus",
         "Mold Breaker"
     ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "3 Sp. Atk",
+    "catch_rate": "45",
+    "base_happiness": "50",
     "base_exp": "255",
     "growth_rate": "Medium Slow",
     "egg_groups": [

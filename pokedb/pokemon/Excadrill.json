@@ -1,6 +1,6 @@
 {
     "name": "Excadrill",
-    "national_no": "0530",
+    "national_no": null,
     "type": [
         "Ground",
         "Steel"
@@ -8,24 +8,24 @@
     "species": "Subterrene Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "40.4\u00a0kg (89.1\u00a0lbs)",
-    "abilities": [
-        "Sand Rush",
-        "Sand Force",
-        "Mold Breaker"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "178",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "178",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "110",
         "attack": "135",

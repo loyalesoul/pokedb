@@ -1,31 +1,31 @@
 {
     "name": "Mr. Rime",
-    "national_no": "0866",
+    "national_no": null,
     "type": [
-        "Ice",
-        "Psychic"
+        "Psychic",
+        "Ice"
     ],
     "species": "Comedian Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "58.2\u00a0kg (128.3\u00a0lbs)",
-    "abilities": [
-        "Tangled Feet",
-        "Screen Cleaner",
-        "Ice Body"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "182",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "182",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "85",

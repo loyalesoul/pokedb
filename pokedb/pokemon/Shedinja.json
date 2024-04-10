@@ -11,9 +11,9 @@
     "abilities": [
         "Wonder Guard"
     ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 HP",
+    "catch_rate": "45",
+    "base_happiness": "50",
     "base_exp": "83",
     "growth_rate": "Erratic",
     "egg_groups": [

@@ -1,32 +1,32 @@
 {
     "name": "Drakloak",
-    "national_no": "0886",
+    "national_no": null,
     "type": [
-        "Dragon",
-        "Ghost"
+        "Ghost",
+        "Dragon"
     ],
     "species": "Caretaker Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "11.0\u00a0kg (24.3\u00a0lbs)",
-    "abilities": [
-        "Clear Body",
-        "Infiltrator",
-        "Cursed Body"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "144",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Amorphous",
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "144",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon",
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "68",
         "attack": "80",

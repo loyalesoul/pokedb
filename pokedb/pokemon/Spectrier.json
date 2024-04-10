@@ -1,25 +1,27 @@
 {
     "name": "Spectrier",
-    "national_no": "0897",
+    "national_no": null,
     "type": [
         "Ghost"
     ],
     "species": "Swift Horse Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "44.5\u00a0kg (98.1\u00a0lbs)",
-    "abilities": [
-        "Grim Neigh"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "290",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "3",
+        "base_happiness": "35",
+        "base_exp": "290",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "65",

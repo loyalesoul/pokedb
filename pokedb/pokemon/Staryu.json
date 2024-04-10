@@ -12,9 +12,9 @@
         "Natural Cure",
         "Analytic"
     ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n225 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Speed",
+    "catch_rate": "225",
+    "base_happiness": "50",
     "base_exp": "68",
     "growth_rate": "Slow",
     "egg_groups": [

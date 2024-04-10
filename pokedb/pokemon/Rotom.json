@@ -1,46 +1,33 @@
 {
     "name": "Rotom",
-    "national_no": "0479",
+    "national_no": null,
     "type": [
-        "Electric",
-        "Ghost",
-        "Electric",
-        "Fire",
-        "Electric",
-        "Water",
-        "Electric",
-        "Ice",
-        "Electric",
         "Flying",
+        "Ghost",
+        "Fire",
+        "Ice",
+        "Grass",
         "Electric",
-        "Grass"
+        "Water"
     ],
     "species": "Plasma Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "0.3\u00a0kg (0.7\u00a0lbs)",
-    "abilities": [
-        "Levitate",
-        "Levitate",
-        "Levitate",
-        "Levitate",
-        "Levitate",
-        "Levitate"
-    ],
-    "ev_yield": "\n1 Sp. Atk, 1 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "154",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous",
-        "Amorphous",
-        "Amorphous",
-        "Amorphous",
-        "Amorphous",
-        "Amorphous"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk, 1 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "154",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "50",

@@ -1,31 +1,31 @@
 {
     "name": "Yanmega",
-    "national_no": "0469",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Flying"
+        "Flying",
+        "Bug"
     ],
     "species": "Ogre Darner Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "51.5\u00a0kg (113.5\u00a0lbs)",
-    "abilities": [
-        "Speed Boost",
-        "Tinted Lens",
-        "Frisk"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "180",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "180",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "86",
         "attack": "76",

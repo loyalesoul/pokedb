@@ -12,9 +12,9 @@
         "Serene Grace",
         "Friend Guard"
     ],
-    "ev_yield": "\n1 HP ",
-    "catch_rate": "\n130 ",
-    "base_happiness": "\n140 ",
+    "ev_yield": "1 HP",
+    "catch_rate": "130",
+    "base_happiness": "140",
     "base_exp": "110",
     "growth_rate": "Fast",
     "egg_groups": [

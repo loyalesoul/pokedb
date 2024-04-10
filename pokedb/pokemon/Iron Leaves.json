@@ -1,26 +1,28 @@
 {
     "name": "Iron Leaves",
-    "national_no": "1010",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Psychic"
+        "Psychic",
+        "Grass"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "125.0\u00a0kg (275.6\u00a0lbs)",
-    "abilities": [
-        "Quark Drive"
-    ],
-    "ev_yield": "\n3 Attack ",
-    "catch_rate": "\n5 ",
-    "base_happiness": "\n\u2014\n",
-    "base_exp": "\u2014",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": null,
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "5",
+        "base_happiness": "\u2014",
+        "base_exp": "\u2014",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": null
+    },
     "stats": {
         "hp": "90",
         "attack": "130",

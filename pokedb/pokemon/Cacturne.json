@@ -12,9 +12,9 @@
         "Sand Veil",
         "Water Absorb"
     ],
-    "ev_yield": "\n1 Attack, 1 Sp. Atk ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "1 Attack, 1 Sp. Atk",
+    "catch_rate": "60",
+    "base_happiness": "35",
     "base_exp": "166",
     "growth_rate": "Medium Slow",
     "egg_groups": [

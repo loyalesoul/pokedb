@@ -1,30 +1,30 @@
 {
     "name": "Goomy",
-    "national_no": "0704",
+    "national_no": null,
     "type": [
         "Dragon"
     ],
     "species": "Soft Tissue Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "2.8\u00a0kg (6.2\u00a0lbs)",
-    "abilities": [
-        "Sap Sipper",
-        "Hydration",
-        "Gooey"
-    ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "60",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "60",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "50",

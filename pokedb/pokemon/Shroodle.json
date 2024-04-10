@@ -1,6 +1,6 @@
 {
     "name": "Shroodle",
-    "national_no": "0944",
+    "national_no": null,
     "type": [
         "Poison",
         "Normal"
@@ -8,24 +8,24 @@
     "species": "Toxic Mouse Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "0.7\u00a0kg (1.5\u00a0lbs)",
-    "abilities": [
-        "Unburden",
-        "Pickpocket",
-        "Prankster"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "58",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "58",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "65",

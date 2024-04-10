@@ -1,31 +1,31 @@
 {
     "name": "Oranguru",
-    "national_no": "0765",
+    "national_no": null,
     "type": [
-        "Normal",
-        "Psychic"
+        "Psychic",
+        "Normal"
     ],
     "species": "Sage Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "76.0\u00a0kg (167.6\u00a0lbs)",
-    "abilities": [
-        "Inner Focus",
-        "Telepathy",
-        "Symbiosis"
-    ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "172",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "172",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "60",

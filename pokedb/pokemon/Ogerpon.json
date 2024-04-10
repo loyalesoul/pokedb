@@ -1,46 +1,33 @@
 {
     "name": "Ogerpon",
-    "national_no": "1017",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Grass",
+        "Rock",
         "Water",
-        "Grass",
         "Fire",
-        "Grass",
-        "Rock"
+        "Grass"
     ],
     "species": "Mask Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "39.8\u00a0kg (87.7\u00a0lbs)",
-    "abilities": [
-        "Defiant",
-        "Water Absorb",
-        "Mold Breaker",
-        "Sturdy"
-    ],
-    "ev_yield": "\n3 Attack ",
-    "catch_rate": "\n5 ",
-    "base_happiness": "\n\u2014\n",
-    "base_exp": "\u2014",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered",
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": null,
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "5",
+        "base_happiness": "\u2014",
+        "base_exp": "\u2014",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": null
+    },
     "stats": {
         "hp": "80",
         "attack": "120",

@@ -1,38 +1,31 @@
 {
     "name": "Lilligant",
-    "national_no": "0549",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Grass",
-        "Fighting"
+        "Fighting",
+        "Grass"
     ],
     "species": "Flowering Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "16.3\u00a0kg (35.9\u00a0lbs)",
-    "abilities": [
-        "Chlorophyll",
-        "Own Tempo",
-        "Leaf Guard",
-        "Chlorophyll",
-        "Hustle",
-        "Leaf Guard"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "168",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Grass",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "168",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "60",

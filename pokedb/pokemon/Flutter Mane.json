@@ -1,26 +1,28 @@
 {
     "name": "Flutter Mane",
-    "national_no": "0987",
+    "national_no": null,
     "type": [
-        "Ghost",
-        "Fairy"
+        "Fairy",
+        "Ghost"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
-    "abilities": [
-        "Protosynthesis"
-    ],
-    "ev_yield": "\n1 Sp. Atk, 1 Sp. Def, 1 Speed ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "285",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "50 (12,594\u201312,850 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk, 1 Sp. Def, 1 Speed",
+        "catch_rate": "30",
+        "base_happiness": "0",
+        "base_exp": "285",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "50 (12,594\u201312,850 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "55",

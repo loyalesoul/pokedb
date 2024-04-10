@@ -12,9 +12,9 @@
         "Frisk",
         "Cursed Body"
     ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n225 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "1 Attack",
+    "catch_rate": "225",
+    "base_happiness": "35",
     "base_exp": "59",
     "growth_rate": "Fast",
     "egg_groups": [

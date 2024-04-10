@@ -13,9 +13,9 @@
         "Sturdy",
         "Weak Armor"
     ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n25 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Defense",
+    "catch_rate": "25",
+    "base_happiness": "50",
     "base_exp": "163",
     "growth_rate": "Slow",
     "egg_groups": [

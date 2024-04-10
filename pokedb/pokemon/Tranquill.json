@@ -1,31 +1,31 @@
 {
     "name": "Tranquill",
-    "national_no": "0520",
+    "national_no": null,
     "type": [
-        "Normal",
-        "Flying"
+        "Flying",
+        "Normal"
     ],
     "species": "Wild Pigeon Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "15.0\u00a0kg (33.1\u00a0lbs)",
-    "abilities": [
-        "Big Pecks",
-        "Super Luck",
-        "Rivalry"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "125",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "125",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "62",
         "attack": "77",

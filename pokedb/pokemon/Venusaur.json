@@ -15,9 +15,9 @@
         "Chlorophyll",
         "Thick Fat"
     ],
-    "ev_yield": "\n2 Sp. Atk, 1 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Sp. Atk, 1 Sp. Def",
+    "catch_rate": "45",
+    "base_happiness": "50",
     "base_exp": "236",
     "growth_rate": "Medium Slow",
     "egg_groups": [

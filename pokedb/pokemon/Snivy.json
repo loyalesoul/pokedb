@@ -1,30 +1,31 @@
 {
     "name": "Snivy",
-    "national_no": "0495",
+    "national_no": null,
     "type": [
         "Grass"
     ],
     "species": "Grass Snake Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "8.1\u00a0kg (17.9\u00a0lbs)",
-    "abilities": [
-        "Overgrow",
-        "Contrary"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "62",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "62",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "45",

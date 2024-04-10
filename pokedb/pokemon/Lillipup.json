@@ -1,30 +1,30 @@
 {
     "name": "Lillipup",
-    "national_no": "0506",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Puppy Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.1\u00a0kg (9.0\u00a0lbs)",
-    "abilities": [
-        "Vital Spirit",
-        "Pickup",
-        "Run Away"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "55",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "55",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "60",

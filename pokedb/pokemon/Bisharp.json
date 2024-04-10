@@ -1,6 +1,6 @@
 {
     "name": "Bisharp",
-    "national_no": "0625",
+    "national_no": null,
     "type": [
         "Dark",
         "Steel"
@@ -8,24 +8,24 @@
     "species": "Sword Blade Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "70.0\u00a0kg (154.3\u00a0lbs)",
-    "abilities": [
-        "Defiant",
-        "Inner Focus",
-        "Pressure"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "172",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "172",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "125",

@@ -17,9 +17,9 @@
         "Lightning Rod",
         "Rock Head"
     ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Defense",
+    "catch_rate": "75",
+    "base_happiness": "50",
     "base_exp": "149",
     "growth_rate": "Medium Fast",
     "egg_groups": [

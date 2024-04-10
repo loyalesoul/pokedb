@@ -18,9 +18,9 @@
         "Own Tempo",
         "Regenerator"
     ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n70 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Sp. Def",
+    "catch_rate": "70",
+    "base_happiness": "50",
     "base_exp": "172",
     "growth_rate": "Medium Fast",
     "egg_groups": [

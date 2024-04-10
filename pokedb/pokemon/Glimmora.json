@@ -1,6 +1,6 @@
 {
     "name": "Glimmora",
-    "national_no": "0970",
+    "national_no": null,
     "type": [
         "Rock",
         "Poison"
@@ -8,23 +8,24 @@
     "species": "Ore Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "45.0\u00a0kg (99.2\u00a0lbs)",
-    "abilities": [
-        "Toxic Debris",
-        "Corrosion"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n25 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "184",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "25",
+        "base_happiness": "50",
+        "base_exp": "184",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "83",
         "attack": "55",

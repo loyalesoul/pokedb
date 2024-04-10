@@ -1,6 +1,6 @@
 {
     "name": "Chi-Yu",
-    "national_no": "1004",
+    "national_no": null,
     "type": [
         "Dark",
         "Fire"
@@ -8,19 +8,21 @@
     "species": "Ruinous Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.9\u00a0kg (10.8\u00a0lbs)",
-    "abilities": [
-        "Beads of Ruin"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n6 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "285",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "50 (12,594\u201312,850 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "6",
+        "base_happiness": "0",
+        "base_exp": "285",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "50 (12,594\u201312,850 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "80",

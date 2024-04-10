@@ -1,6 +1,6 @@
 {
     "name": "Toedscruel",
-    "national_no": "0949",
+    "national_no": null,
     "type": [
         "Ground",
         "Grass"
@@ -8,22 +8,24 @@
     "species": "Woodear Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "58.0\u00a0kg (127.9\u00a0lbs)",
-    "abilities": [
-        "Mycelium Might"
-    ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n90 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "180",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "180",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "70",

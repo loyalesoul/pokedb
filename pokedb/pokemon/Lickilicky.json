@@ -1,30 +1,30 @@
 {
     "name": "Lickilicky",
-    "national_no": "0463",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Licking Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "140.0\u00a0kg (308.6\u00a0lbs)",
-    "abilities": [
-        "Own Tempo",
-        "Oblivious",
-        "Cloud Nine"
-    ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "180",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "180",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "110",
         "attack": "85",

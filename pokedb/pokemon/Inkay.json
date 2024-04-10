@@ -1,6 +1,6 @@
 {
     "name": "Inkay",
-    "national_no": "0686",
+    "national_no": null,
     "type": [
         "Dark",
         "Psychic"
@@ -8,25 +8,25 @@
     "species": "Revolving Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "3.5\u00a0kg (7.7\u00a0lbs)",
-    "abilities": [
-        "Contrary",
-        "Suction Cups",
-        "Infiltrator"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "58",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Water 1",
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "58",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "53",
         "attack": "54",

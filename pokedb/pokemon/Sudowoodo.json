@@ -12,9 +12,9 @@
         "Rock Head",
         "Rattled"
     ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n65 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Defense",
+    "catch_rate": "65",
+    "base_happiness": "50",
     "base_exp": "144",
     "growth_rate": "Medium Fast",
     "egg_groups": [

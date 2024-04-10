@@ -1,27 +1,28 @@
 {
     "name": "Polteageist",
-    "national_no": "0855",
+    "national_no": null,
     "type": [
         "Ghost"
     ],
     "species": "Black Tea Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "0.4\u00a0kg (0.9\u00a0lbs)",
-    "abilities": [
-        "Weak Armor",
-        "Cursed Body"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "178",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous",
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "178",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral",
+            "Amorphous"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "65",

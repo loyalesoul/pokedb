@@ -1,31 +1,31 @@
 {
     "name": "Hakamo-o",
-    "national_no": "0783",
+    "national_no": null,
     "type": [
-        "Dragon",
-        "Fighting"
+        "Fighting",
+        "Dragon"
     ],
     "species": "Scaly Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "47.0\u00a0kg (103.6\u00a0lbs)",
-    "abilities": [
-        "Bulletproof",
-        "Soundproof",
-        "Overcoat"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "147",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "147",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "75",

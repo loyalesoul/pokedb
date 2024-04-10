@@ -1,6 +1,6 @@
 {
     "name": "Cyclizar",
-    "national_no": "0967",
+    "national_no": null,
     "type": [
         "Dragon",
         "Normal"
@@ -8,23 +8,24 @@
     "species": "Mount Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "63.0\u00a0kg (138.9\u00a0lbs)",
-    "abilities": [
-        "Shed Skin",
-        "Regenerator"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "175",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "175",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "95",

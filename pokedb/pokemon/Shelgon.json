@@ -11,9 +11,9 @@
         "Rock Head",
         "Overcoat"
     ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "2 Defense",
+    "catch_rate": "45",
+    "base_happiness": "35",
     "base_exp": "147",
     "growth_rate": "Slow",
     "egg_groups": [

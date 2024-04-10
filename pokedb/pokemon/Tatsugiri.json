@@ -1,38 +1,34 @@
 {
     "name": "Tatsugiri",
-    "national_no": "0978",
+    "national_no": null,
     "type": [
-        "Dragon",
         "Water",
-        "Dragon",
-        "Water",
-        "Dragon",
-        "Water"
+        "Dragon"
     ],
     "species": "Mimicry Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
     "abilities": [
-        "Commander",
-        "Storm Drain"
+        "\u2014",
+        "\u2014"
     ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n100 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "166",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "100",
+        "base_happiness": "50",
+        "base_exp": "166",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "68",
         "attack": "50",

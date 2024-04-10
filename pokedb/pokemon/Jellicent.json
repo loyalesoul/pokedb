@@ -1,31 +1,31 @@
 {
     "name": "Jellicent",
-    "national_no": "0593",
+    "national_no": null,
     "type": [
-        "Water",
-        "Ghost"
+        "Ghost",
+        "Water"
     ],
     "species": "Floating Pok\u00e9mon",
     "height": "2.2\u00a0m (7\u203203\u2033)",
     "weight": "135.0\u00a0kg (297.6\u00a0lbs)",
-    "abilities": [
-        "Water Absorb",
-        "Cursed Body",
-        "Damp"
-    ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "168",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "168",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "60",

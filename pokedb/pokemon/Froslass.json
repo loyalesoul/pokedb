@@ -1,31 +1,32 @@
 {
     "name": "Froslass",
-    "national_no": "0478",
+    "national_no": null,
     "type": [
-        "Ice",
-        "Ghost"
+        "Ghost",
+        "Ice"
     ],
     "species": "Snow Land Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "26.6\u00a0kg (58.6\u00a0lbs)",
-    "abilities": [
-        "Snow Cloak",
-        "Cursed Body"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "168",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "168",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "80",

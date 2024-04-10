@@ -13,9 +13,9 @@
         "Rain Dish",
         "Own Tempo"
     ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 Sp. Def",
+    "catch_rate": "120",
+    "base_happiness": "50",
     "base_exp": "119",
     "growth_rate": "Medium Slow",
     "egg_groups": [

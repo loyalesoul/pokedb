@@ -1,30 +1,30 @@
 {
     "name": "Klawf",
-    "national_no": "0950",
+    "national_no": null,
     "type": [
         "Rock"
     ],
     "species": "Ambush Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "79.0\u00a0kg (174.2\u00a0lbs)",
-    "abilities": [
-        "Anger Shell",
-        "Shell Armor",
-        "Regenerator"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "158",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "158",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "100",

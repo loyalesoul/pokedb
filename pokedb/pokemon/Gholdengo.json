@@ -1,26 +1,28 @@
 {
     "name": "Gholdengo",
-    "national_no": "1000",
+    "national_no": null,
     "type": [
-        "Steel",
-        "Ghost"
+        "Ghost",
+        "Steel"
     ],
     "species": "Coin Entity Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "30.0\u00a0kg (66.1\u00a0lbs)",
-    "abilities": [
-        "Good as Gold"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "275",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "50 (12,594\u201312,850 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "275",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "50 (12,594\u201312,850 steps)"
+    },
     "stats": {
         "hp": "87",
         "attack": "60",

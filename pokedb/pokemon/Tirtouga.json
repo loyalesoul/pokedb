@@ -1,32 +1,32 @@
 {
     "name": "Tirtouga",
-    "national_no": "0564",
+    "national_no": null,
     "type": [
-        "Water",
-        "Rock"
+        "Rock",
+        "Water"
     ],
     "species": "Prototurtle Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "16.5\u00a0kg (36.4\u00a0lbs)",
-    "abilities": [
-        "Solid Rock",
-        "Sturdy",
-        "Swift Swim"
-    ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "71",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Water 1",
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "71",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "54",
         "attack": "78",

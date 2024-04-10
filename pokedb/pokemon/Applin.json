@@ -1,32 +1,32 @@
 {
     "name": "Applin",
-    "national_no": "0840",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Dragon"
+        "Dragon",
+        "Grass"
     ],
     "species": "Apple Core Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "0.5\u00a0kg (1.1\u00a0lbs)",
-    "abilities": [
-        "Ripen",
-        "Gluttony",
-        "Bulletproof"
-    ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "52",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Dragon",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "52",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "40",

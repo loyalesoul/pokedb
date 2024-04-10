@@ -10,9 +10,9 @@
     "abilities": [
         "Levitate"
     ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "1 Sp. Def",
+    "catch_rate": "45",
+    "base_happiness": "35",
     "base_exp": "87",
     "growth_rate": "Fast",
     "egg_groups": [

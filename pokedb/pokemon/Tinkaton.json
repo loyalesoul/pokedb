@@ -1,6 +1,6 @@
 {
     "name": "Tinkaton",
-    "national_no": "0959",
+    "national_no": null,
     "type": [
         "Fairy",
         "Steel"
@@ -8,24 +8,24 @@
     "species": "Hammer Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "112.8\u00a0kg (248.7\u00a0lbs)",
-    "abilities": [
-        "Mold Breaker",
-        "Own Tempo",
-        "Pickpocket"
-    ],
-    "ev_yield": "\n3 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "253",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "253",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "85",
         "attack": "75",

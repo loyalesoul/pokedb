@@ -1,37 +1,32 @@
 {
     "name": "Meowstic",
-    "national_no": "0678",
+    "national_no": null,
     "type": [
-        "Psychic",
         "Psychic"
     ],
     "species": "Constraint Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "8.5\u00a0kg (18.7\u00a0lbs)",
-    "abilities": [
-        "Keen Eye",
-        "Infiltrator",
-        "Prankster",
-        "Keen Eye",
-        "Infiltrator",
-        "Competitive"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "163",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "163",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "100% male",
+            "0% female",
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "74",
         "attack": "48",

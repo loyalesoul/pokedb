@@ -1,28 +1,29 @@
 {
     "name": "Carbink",
-    "national_no": "0703",
+    "national_no": null,
     "type": [
-        "Rock",
-        "Fairy"
+        "Fairy",
+        "Rock"
     ],
     "species": "Jewel Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "5.7\u00a0kg (12.6\u00a0lbs)",
-    "abilities": [
-        "Clear Body",
-        "Sturdy"
-    ],
-    "ev_yield": "\n1 Defense, 1 Sp. Def ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "100",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Fairy",
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense, 1 Sp. Def",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "100",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "50",

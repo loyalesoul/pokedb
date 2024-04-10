@@ -1,28 +1,30 @@
 {
     "name": "Stonjourner",
-    "national_no": "0874",
+    "national_no": null,
     "type": [
         "Rock"
     ],
     "species": "Big Rock Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "520.0\u00a0kg (1146.4\u00a0lbs)",
-    "abilities": [
-        "Power Spot"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "165",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "165",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "125",

@@ -1,28 +1,27 @@
 {
     "name": "Gimmighoul",
-    "national_no": "0999",
+    "national_no": null,
     "type": [
-        "Ghost",
         "Ghost"
     ],
     "species": "Coin Chest Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "5.0\u00a0kg (11.0\u00a0lbs)",
-    "abilities": [
-        "Rattled",
-        "Run Away"
-    ],
-    "ev_yield": "\n1 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "60",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "50 (12,594\u201312,850 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "60",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "50 (12,594\u201312,850 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "30",

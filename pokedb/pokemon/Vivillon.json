@@ -1,31 +1,31 @@
 {
     "name": "Vivillon",
-    "national_no": "0666",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Flying"
+        "Flying",
+        "Bug"
     ],
     "species": "Scale Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "17.0\u00a0kg (37.5\u00a0lbs)",
-    "abilities": [
-        "Shield Dust",
-        "Compound Eyes",
-        "Friend Guard"
-    ],
-    "ev_yield": "\n1 HP, 1 Sp. Atk, 1 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "206",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 HP, 1 Sp. Atk, 1 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "206",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "52",

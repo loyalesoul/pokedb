@@ -1,30 +1,30 @@
 {
     "name": "Gothorita",
-    "national_no": "0575",
+    "national_no": null,
     "type": [
         "Psychic"
     ],
     "species": "Manipulate Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "18.0\u00a0kg (39.7\u00a0lbs)",
-    "abilities": [
-        "Frisk",
-        "Competitive",
-        "Shadow Tag"
-    ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n100 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "137",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "100",
+        "base_happiness": "50",
+        "base_exp": "137",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "25% male",
+            "75% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "45",

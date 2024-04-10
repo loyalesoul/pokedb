@@ -1,6 +1,6 @@
 {
     "name": "Tyrantrum",
-    "national_no": "0697",
+    "national_no": null,
     "type": [
         "Rock",
         "Dragon"
@@ -8,24 +8,25 @@
     "species": "Despot Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "270.0\u00a0kg (595.2\u00a0lbs)",
-    "abilities": [
-        "Strong Jaw",
-        "Rock Head"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "182",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "182",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "82",
         "attack": "121",

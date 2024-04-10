@@ -12,9 +12,9 @@
         "Sniper",
         "Damp"
     ],
-    "ev_yield": "\n1 Defense, 1 Sp. Atk ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Defense, 1 Sp. Atk",
+    "catch_rate": "75",
+    "base_happiness": "50",
     "base_exp": "154",
     "growth_rate": "Medium Fast",
     "egg_groups": [

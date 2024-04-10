@@ -15,9 +15,9 @@
         "Snow Cloak",
         "Slush Rush"
     ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Defense",
+    "catch_rate": "255",
+    "base_happiness": "50",
     "base_exp": "60",
     "growth_rate": "Medium Fast",
     "egg_groups": [

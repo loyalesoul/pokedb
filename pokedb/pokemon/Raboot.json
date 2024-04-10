@@ -1,30 +1,31 @@
 {
     "name": "Raboot",
-    "national_no": "0814",
+    "national_no": null,
     "type": [
         "Fire"
     ],
     "species": "Rabbit Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "9.0\u00a0kg (19.8\u00a0lbs)",
-    "abilities": [
-        "Blaze",
-        "Libero"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "147",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "147",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "86",

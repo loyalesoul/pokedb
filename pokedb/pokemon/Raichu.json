@@ -14,9 +14,9 @@
         "Lightning Rod",
         "Surge Surfer"
     ],
-    "ev_yield": "\n3 Speed ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "3 Speed",
+    "catch_rate": "75",
+    "base_happiness": "50",
     "base_exp": "243",
     "growth_rate": "Medium Fast",
     "egg_groups": [

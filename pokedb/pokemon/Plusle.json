@@ -11,9 +11,9 @@
         "Plus",
         "Lightning Rod"
     ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n200 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Speed",
+    "catch_rate": "200",
+    "base_happiness": "50",
     "base_exp": "142",
     "growth_rate": "Medium Fast",
     "egg_groups": [

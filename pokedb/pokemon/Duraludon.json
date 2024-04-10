@@ -1,32 +1,32 @@
 {
     "name": "Duraludon",
-    "national_no": "0884",
+    "national_no": null,
     "type": [
-        "Steel",
-        "Dragon"
+        "Dragon",
+        "Steel"
     ],
     "species": "Alloy Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "40.0\u00a0kg (88.2\u00a0lbs)",
-    "abilities": [
-        "Light Metal",
-        "Heavy Metal",
-        "Stalwart"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "187",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "187",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "95",

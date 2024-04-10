@@ -11,9 +11,9 @@
         "Clear Body",
         "Ice Body"
     ],
-    "ev_yield": "\n3 Sp. Def ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "3 Sp. Def",
+    "catch_rate": "3",
+    "base_happiness": "35",
     "base_exp": "261",
     "growth_rate": "Slow",
     "egg_groups": [

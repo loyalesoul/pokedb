@@ -1,29 +1,30 @@
 {
     "name": "Aromatisse",
-    "national_no": "0683",
+    "national_no": null,
     "type": [
         "Fairy"
     ],
     "species": "Fragrance Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "15.5\u00a0kg (34.2\u00a0lbs)",
-    "abilities": [
-        "Healer",
-        "Aroma Veil"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n140 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "162",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "140",
+        "base_happiness": "50",
+        "base_exp": "162",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "101",
         "attack": "72",

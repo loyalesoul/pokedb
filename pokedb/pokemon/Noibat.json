@@ -1,6 +1,6 @@
 {
     "name": "Noibat",
-    "national_no": "0714",
+    "national_no": null,
     "type": [
         "Flying",
         "Dragon"
@@ -8,25 +8,25 @@
     "species": "Sound Wave Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
-    "abilities": [
-        "Frisk",
-        "Infiltrator",
-        "Telepathy"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "49",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "49",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "30",

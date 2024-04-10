@@ -1,6 +1,6 @@
 {
     "name": "Carkol",
-    "national_no": "0838",
+    "national_no": null,
     "type": [
         "Rock",
         "Fire"
@@ -8,24 +8,24 @@
     "species": "Coal Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "78.0\u00a0kg (172.0\u00a0lbs)",
-    "abilities": [
-        "Steam Engine",
-        "Flame Body",
-        "Flash Fire"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "144",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "144",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "60",

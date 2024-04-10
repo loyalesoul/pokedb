@@ -12,9 +12,9 @@
         "Shell Armor",
         "Adaptability"
     ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n205 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Attack",
+    "catch_rate": "205",
+    "base_happiness": "50",
     "base_exp": "62",
     "growth_rate": "Fluctuating",
     "egg_groups": [

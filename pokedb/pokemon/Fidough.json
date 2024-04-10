@@ -1,30 +1,31 @@
 {
     "name": "Fidough",
-    "national_no": "0926",
+    "national_no": null,
     "type": [
         "Fairy"
     ],
     "species": "Puppy Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "10.9\u00a0kg (24.0\u00a0lbs)",
-    "abilities": [
-        "Own Tempo",
-        "Klutz"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "62",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "62",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "37",
         "attack": "55",

@@ -1,28 +1,30 @@
 {
     "name": "Kubfu",
-    "national_no": "0891",
+    "national_no": null,
     "type": [
         "Fighting"
     ],
     "species": "Wushu Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "12.0\u00a0kg (26.5\u00a0lbs)",
-    "abilities": [
-        "Inner Focus"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "77",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "3",
+        "base_happiness": "50",
+        "base_exp": "77",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "90",

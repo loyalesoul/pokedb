@@ -1,34 +1,32 @@
 {
     "name": "Zorua",
-    "national_no": "0570",
+    "national_no": null,
     "type": [
         "Dark",
-        "Normal",
-        "Ghost"
+        "Ghost",
+        "Normal"
     ],
     "species": "Tricky Fox Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "12.5\u00a0kg (27.6\u00a0lbs)",
-    "abilities": [
-        "Illusion",
-        "Illusion"
-    ],
-    "ev_yield": "\n1 Sp. Atk ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "66",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "66",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "65",

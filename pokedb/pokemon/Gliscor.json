@@ -1,31 +1,31 @@
 {
     "name": "Gliscor",
-    "national_no": "0472",
+    "national_no": null,
     "type": [
-        "Ground",
-        "Flying"
+        "Flying",
+        "Ground"
     ],
     "species": "Fang Scorp Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "42.5\u00a0kg (93.7\u00a0lbs)",
-    "abilities": [
-        "Hyper Cutter",
-        "Sand Veil",
-        "Poison Heal"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "179",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "179",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "95",

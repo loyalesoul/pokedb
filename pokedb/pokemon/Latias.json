@@ -14,9 +14,9 @@
         "Levitate",
         "Levitate"
     ],
-    "ev_yield": "\n3 Sp. Def ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n90 ",
+    "ev_yield": "3 Sp. Def",
+    "catch_rate": "3",
+    "base_happiness": "90",
     "base_exp": "270",
     "growth_rate": "Slow",
     "egg_groups": [

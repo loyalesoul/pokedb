@@ -1,29 +1,30 @@
 {
     "name": "Electivire",
-    "national_no": "0466",
+    "national_no": null,
     "type": [
         "Electric"
     ],
     "species": "Thunderbolt Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "138.6\u00a0kg (305.6\u00a0lbs)",
-    "abilities": [
-        "Motor Drive",
-        "Vital Spirit"
-    ],
-    "ev_yield": "\n3 Attack ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "243",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "75% male",
-        "25% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "243",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "75% male",
+            "25% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "123",

@@ -1,27 +1,27 @@
 {
     "name": "Porygon-Z",
-    "national_no": "0474",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Virtual Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "34.0\u00a0kg (75.0\u00a0lbs)",
-    "abilities": [
-        "Adaptability",
-        "Download",
-        "Analytic"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "241",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "241",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "85",
         "attack": "80",

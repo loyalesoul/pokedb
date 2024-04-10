@@ -1,55 +1,31 @@
 {
     "name": "Pumpkaboo",
-    "national_no": "0710",
+    "national_no": null,
     "type": [
-        "Ghost",
-        "Grass",
-        "Ghost",
-        "Grass",
-        "Ghost",
-        "Grass",
         "Ghost",
         "Grass"
     ],
     "species": "Pumpkin Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "5.0\u00a0kg (11.0\u00a0lbs)",
-    "abilities": [
-        "Pickup",
-        "Frisk",
-        "Insomnia",
-        "Pickup",
-        "Frisk",
-        "Insomnia",
-        "Pickup",
-        "Frisk",
-        "Insomnia",
-        "Pickup",
-        "Frisk",
-        "Insomnia"
-    ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "67",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous",
-        "Amorphous",
-        "Amorphous",
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "67",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "49",
         "attack": "66",

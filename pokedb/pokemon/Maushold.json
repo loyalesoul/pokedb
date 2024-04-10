@@ -1,34 +1,28 @@
 {
     "name": "Maushold",
-    "national_no": "0925",
+    "national_no": null,
     "type": [
-        "Normal",
         "Normal"
     ],
     "species": "Family Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "2.8\u00a0kg (6.2\u00a0lbs)",
-    "abilities": [
-        "Friend Guard",
-        "Cheek Pouch",
-        "Technician",
-        "Friend Guard",
-        "Cheek Pouch",
-        "Technician"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "165",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy",
-        "Field",
-        "Fairy",
-        "Field"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "165",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Field"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "74",
         "attack": "75",

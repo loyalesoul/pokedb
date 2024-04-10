@@ -13,9 +13,9 @@
         "Filter",
         "Technician"
     ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n145 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Sp. Def",
+    "catch_rate": "145",
+    "base_happiness": "50",
     "base_exp": "62",
     "growth_rate": "Medium Fast",
     "egg_groups": [

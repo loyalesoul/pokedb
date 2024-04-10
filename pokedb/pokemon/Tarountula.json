@@ -1,29 +1,30 @@
 {
     "name": "Tarountula",
-    "national_no": "0917",
+    "national_no": null,
     "type": [
         "Bug"
     ],
     "species": "String Ball Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
-    "abilities": [
-        "Insomnia",
-        "Stakeout"
-    ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "42",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "42",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "35",
         "attack": "41",

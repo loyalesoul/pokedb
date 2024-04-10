@@ -13,9 +13,9 @@
         "Sand Veil",
         "Immunity"
     ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Defense",
+    "catch_rate": "60",
+    "base_happiness": "50",
     "base_exp": "86",
     "growth_rate": "Medium Slow",
     "egg_groups": [

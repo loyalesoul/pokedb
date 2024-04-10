@@ -1,31 +1,31 @@
 {
     "name": "Fraxure",
-    "national_no": "0611",
+    "national_no": null,
     "type": [
         "Dragon"
     ],
     "species": "Axe Jaw Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "36.0\u00a0kg (79.4\u00a0lbs)",
-    "abilities": [
-        "Rivalry",
-        "Mold Breaker",
-        "Unnerve"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "144",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "60",
+        "base_happiness": "35",
+        "base_exp": "144",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "66",
         "attack": "117",

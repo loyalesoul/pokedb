@@ -1,6 +1,6 @@
 {
     "name": "Toxel",
-    "national_no": "0848",
+    "national_no": null,
     "type": [
         "Electric",
         "Poison"
@@ -8,24 +8,24 @@
     "species": "Baby Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "11.0\u00a0kg (24.3\u00a0lbs)",
-    "abilities": [
-        "Rattled",
-        "Static",
-        "Klutz"
-    ],
-    "ev_yield": "\n1 Sp. Atk ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "48",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "48",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "38",

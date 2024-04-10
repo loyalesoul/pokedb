@@ -1,6 +1,6 @@
 {
     "name": "Hydreigon",
-    "national_no": "0635",
+    "national_no": null,
     "type": [
         "Dark",
         "Dragon"
@@ -8,22 +8,24 @@
     "species": "Brutal Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "160.0\u00a0kg (352.7\u00a0lbs)",
-    "abilities": [
-        "Levitate"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "300",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "300",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "92",
         "attack": "105",

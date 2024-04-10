@@ -1,26 +1,28 @@
 {
     "name": "Iron Crown",
-    "national_no": "1023",
+    "national_no": null,
     "type": [
-        "Steel",
-        "Psychic"
+        "Psychic",
+        "Steel"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "156.0\u00a0kg (343.9\u00a0lbs)",
-    "abilities": [
-        "Quark Drive"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n10 ",
-    "base_happiness": "\n\u2014\n",
-    "base_exp": "\u2014",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": null,
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "10",
+        "base_happiness": "\u2014",
+        "base_exp": "\u2014",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": null
+    },
     "stats": {
         "hp": "90",
         "attack": "72",

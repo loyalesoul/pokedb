@@ -1,6 +1,6 @@
 {
     "name": "Tyrunt",
-    "national_no": "0696",
+    "national_no": null,
     "type": [
         "Rock",
         "Dragon"
@@ -8,24 +8,25 @@
     "species": "Royal Heir Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "26.0\u00a0kg (57.3\u00a0lbs)",
-    "abilities": [
-        "Strong Jaw",
-        "Sturdy"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "72",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "72",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "58",
         "attack": "89",

@@ -13,9 +13,9 @@
         "Huge Power",
         "Sap Sipper"
     ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 HP",
+    "catch_rate": "190",
+    "base_happiness": "50",
     "base_exp": "88",
     "growth_rate": "Fast",
     "egg_groups": [

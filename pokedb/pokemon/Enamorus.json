@@ -1,36 +1,31 @@
 {
     "name": "Enamorus",
-    "national_no": "0905",
+    "national_no": null,
     "type": [
-        "Fairy",
-        "Flying",
         "Fairy",
         "Flying"
     ],
     "species": "Love-Hate Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "48.0\u00a0kg (105.8\u00a0lbs)",
-    "abilities": [
-        "Cute Charm",
-        "Contrary",
-        "Overcoat"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "116",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "3",
+        "base_happiness": "50",
+        "base_exp": "116",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "74",
         "attack": "115",

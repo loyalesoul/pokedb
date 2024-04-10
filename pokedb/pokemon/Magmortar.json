@@ -1,29 +1,30 @@
 {
     "name": "Magmortar",
-    "national_no": "0467",
+    "national_no": null,
     "type": [
         "Fire"
     ],
     "species": "Blast Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "68.0\u00a0kg (149.9\u00a0lbs)",
-    "abilities": [
-        "Flame Body",
-        "Vital Spirit"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "243",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "75% male",
-        "25% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "243",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "75% male",
+            "25% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "95",

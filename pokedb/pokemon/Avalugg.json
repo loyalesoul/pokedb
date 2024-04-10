@@ -1,40 +1,32 @@
 {
     "name": "Avalugg",
-    "national_no": "0713",
+    "national_no": null,
     "type": [
-        "Ice",
-        "Ice",
-        "Rock"
+        "Rock",
+        "Ice"
     ],
     "species": "Iceberg Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "505.0\u00a0kg (1113.3\u00a0lbs)",
-    "abilities": [
-        "Own Tempo",
-        "Ice Body",
-        "Sturdy",
-        "Strong Jaw",
-        "Ice Body",
-        "Sturdy"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n55 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "180",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral",
-        "Monster",
-        "Mineral",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "55",
+        "base_happiness": "50",
+        "base_exp": "180",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral",
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "117",

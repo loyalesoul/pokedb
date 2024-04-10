@@ -1,6 +1,6 @@
 {
     "name": "Palpitoad",
-    "national_no": "0536",
+    "national_no": null,
     "type": [
         "Water",
         "Ground"
@@ -8,24 +8,24 @@
     "species": "Vibration Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "17.0\u00a0kg (37.5\u00a0lbs)",
-    "abilities": [
-        "Swift Swim",
-        "Hydration",
-        "Water Absorb"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "134",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "134",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "65",

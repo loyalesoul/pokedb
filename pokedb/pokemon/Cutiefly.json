@@ -1,32 +1,32 @@
 {
     "name": "Cutiefly",
-    "national_no": "0742",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Fairy"
+        "Fairy",
+        "Bug"
     ],
     "species": "Bee Fly Pok\u00e9mon",
     "height": "0.1\u00a0m (0\u203204\u2033)",
     "weight": "0.2\u00a0kg (0.4\u00a0lbs)",
-    "abilities": [
-        "Honey Gather",
-        "Shield Dust",
-        "Sweet Veil"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "61",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug",
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "61",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "45",

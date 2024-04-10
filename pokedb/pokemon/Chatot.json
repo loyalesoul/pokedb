@@ -13,9 +13,9 @@
         "Tangled Feet",
         "Big Pecks"
     ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "1 Attack",
+    "catch_rate": "30",
+    "base_happiness": "35",
     "base_exp": "144",
     "growth_rate": "Medium Slow",
     "egg_groups": [

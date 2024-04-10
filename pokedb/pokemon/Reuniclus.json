@@ -1,30 +1,30 @@
 {
     "name": "Reuniclus",
-    "national_no": "0579",
+    "national_no": null,
     "type": [
         "Psychic"
     ],
     "species": "Multiplying Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "20.1\u00a0kg (44.3\u00a0lbs)",
-    "abilities": [
-        "Overcoat",
-        "Magic Guard",
-        "Regenerator"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n50 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "221",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "50",
+        "base_happiness": "50",
+        "base_exp": "221",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "110",
         "attack": "65",

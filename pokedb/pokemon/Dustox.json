@@ -12,9 +12,9 @@
         "Shield Dust",
         "Compound Eyes"
     ],
-    "ev_yield": "\n3 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "3 Sp. Def",
+    "catch_rate": "45",
+    "base_happiness": "50",
     "base_exp": "173",
     "growth_rate": "Medium Fast",
     "egg_groups": [

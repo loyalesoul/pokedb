@@ -15,9 +15,9 @@
         "Limber",
         "Scrappy"
     ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n60 ",
-    "base_happiness": "\n140 ",
+    "ev_yield": "2 Speed",
+    "catch_rate": "60",
+    "base_happiness": "140",
     "base_exp": "168",
     "growth_rate": "Medium Fast",
     "egg_groups": [

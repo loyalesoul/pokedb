@@ -1,39 +1,33 @@
 {
     "name": "Indeedee",
-    "national_no": "0876",
+    "national_no": null,
     "type": [
-        "Psychic",
-        "Normal",
         "Psychic",
         "Normal"
     ],
     "species": "Emotion Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "28.0\u00a0kg (61.7\u00a0lbs)",
-    "abilities": [
-        "Inner Focus",
-        "Synchronize",
-        "Psychic Surge",
-        "Own Tempo",
-        "Synchronize",
-        "Psychic Surge"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n140 ",
-    "base_exp": "166",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy",
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "30",
+        "base_happiness": "140",
+        "base_exp": "166",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "100% male",
+            "0% female",
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "65",

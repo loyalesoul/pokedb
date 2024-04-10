@@ -1,29 +1,31 @@
 {
     "name": "Charjabug",
-    "national_no": "0737",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Electric"
+        "Electric",
+        "Bug"
     ],
     "species": "Battery Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "10.5\u00a0kg (23.1\u00a0lbs)",
-    "abilities": [
-        "Battery"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "140",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "140",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "57",
         "attack": "82",

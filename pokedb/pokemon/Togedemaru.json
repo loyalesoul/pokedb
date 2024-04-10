@@ -1,6 +1,6 @@
 {
     "name": "Togedemaru",
-    "national_no": "0777",
+    "national_no": null,
     "type": [
         "Electric",
         "Steel"
@@ -8,25 +8,25 @@
     "species": "Roly-Poly Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.3\u00a0kg (7.3\u00a0lbs)",
-    "abilities": [
-        "Iron Barbs",
-        "Lightning Rod",
-        "Sturdy"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n180 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "152",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "180",
+        "base_happiness": "50",
+        "base_exp": "152",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "98",

@@ -1,30 +1,30 @@
 {
     "name": "Minccino",
-    "national_no": "0572",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Chinchilla Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "5.8\u00a0kg (12.8\u00a0lbs)",
-    "abilities": [
-        "Cute Charm",
-        "Technician",
-        "Skill Link"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "60",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "60",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "25% male",
+            "75% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "50",

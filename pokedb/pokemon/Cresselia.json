@@ -1,28 +1,30 @@
 {
     "name": "Cresselia",
-    "national_no": "0488",
+    "national_no": null,
     "type": [
         "Psychic"
     ],
     "species": "Lunar Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "85.6\u00a0kg (188.7\u00a0lbs)",
-    "abilities": [
-        "Levitate"
-    ],
-    "ev_yield": "\n3 Sp. Def ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n100 ",
-    "base_exp": "290",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "3",
+        "base_happiness": "100",
+        "base_exp": "290",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "120",
         "attack": "70",

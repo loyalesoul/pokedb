@@ -1,6 +1,6 @@
 {
     "name": "Tinkatink",
-    "national_no": "0957",
+    "national_no": null,
     "type": [
         "Fairy",
         "Steel"
@@ -8,24 +8,24 @@
     "species": "Metalsmith Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "8.9\u00a0kg (19.6\u00a0lbs)",
-    "abilities": [
-        "Mold Breaker",
-        "Own Tempo",
-        "Pickpocket"
-    ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "59",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "59",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "45",

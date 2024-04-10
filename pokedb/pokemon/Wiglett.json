@@ -1,30 +1,30 @@
 {
     "name": "Wiglett",
-    "national_no": "0960",
+    "national_no": null,
     "type": [
         "Water"
     ],
     "species": "Garden Eel Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "1.8\u00a0kg (4.0\u00a0lbs)",
-    "abilities": [
-        "Gooey",
-        "Rattled",
-        "Sand Veil"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "49",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "49",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "10",
         "attack": "55",

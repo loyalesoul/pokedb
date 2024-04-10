@@ -12,9 +12,9 @@
         "Rivalry",
         "Hustle"
     ],
-    "ev_yield": "\n1 HP ",
-    "catch_rate": "\n235 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 HP",
+    "catch_rate": "235",
+    "base_happiness": "50",
     "base_exp": "55",
     "growth_rate": "Medium Slow",
     "egg_groups": [

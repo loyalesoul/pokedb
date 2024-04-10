@@ -1,38 +1,31 @@
 {
     "name": "Goodra",
-    "national_no": "0706",
+    "national_no": null,
     "type": [
         "Dragon",
-        "Steel",
-        "Dragon"
+        "Steel"
     ],
     "species": "Dragon Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "150.5\u00a0kg (331.8\u00a0lbs)",
-    "abilities": [
-        "Sap Sipper",
-        "Hydration",
-        "Gooey",
-        "Sap Sipper",
-        "Shell Armor",
-        "Gooey"
-    ],
-    "ev_yield": "\n3 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "300",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon",
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "300",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "100",

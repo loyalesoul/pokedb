@@ -12,9 +12,9 @@
         "Early Bird",
         "Pickpocket"
     ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Defense",
+    "catch_rate": "255",
+    "base_happiness": "50",
     "base_exp": "44",
     "growth_rate": "Medium Slow",
     "egg_groups": [

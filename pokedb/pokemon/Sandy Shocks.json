@@ -1,6 +1,6 @@
 {
     "name": "Sandy Shocks",
-    "national_no": "0989",
+    "national_no": null,
     "type": [
         "Electric",
         "Ground"
@@ -8,19 +8,21 @@
     "species": "Paradox Pok\u00e9mon",
     "height": "2.3\u00a0m (7\u203207\u2033)",
     "weight": "60.0\u00a0kg (132.3\u00a0lbs)",
-    "abilities": [
-        "Protosynthesis"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "285",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "50 (12,594\u201312,850 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "30",
+        "base_happiness": "0",
+        "base_exp": "285",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "50 (12,594\u201312,850 steps)"
+    },
     "stats": {
         "hp": "85",
         "attack": "81",

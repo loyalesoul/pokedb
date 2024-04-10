@@ -1,29 +1,30 @@
 {
     "name": "Gogoat",
-    "national_no": "0673",
+    "national_no": null,
     "type": [
         "Grass"
     ],
     "species": "Mount Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "91.0\u00a0kg (200.6\u00a0lbs)",
-    "abilities": [
-        "Sap Sipper",
-        "Grass Pelt"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "186",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "186",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "123",
         "attack": "100",

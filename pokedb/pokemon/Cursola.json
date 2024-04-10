@@ -1,30 +1,31 @@
 {
     "name": "Cursola",
-    "national_no": "0864",
+    "national_no": null,
     "type": [
         "Ghost"
     ],
     "species": "Coral Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "0.4\u00a0kg (0.9\u00a0lbs)",
-    "abilities": [
-        "Weak Armor",
-        "Perish Body"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "179",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Water 1",
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "179",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "25% male",
+            "75% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "95",

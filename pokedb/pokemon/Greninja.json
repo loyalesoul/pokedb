@@ -1,36 +1,34 @@
 {
     "name": "Greninja",
-    "national_no": "0658",
+    "national_no": null,
     "type": [
-        "Water",
         "Dark",
-        "Water",
-        "Dark"
+        "Water"
     ],
     "species": "Ninja Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "40.0\u00a0kg (88.2\u00a0lbs)",
-    "abilities": [
-        "Torrent",
-        "Protean",
-        "Battle Bond"
-    ],
-    "ev_yield": "\n3 Speed ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "265",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Water 1",
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "100% male",
-        "0% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "265",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "0% female",
+            "87.5% male",
+            "100% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "72",
         "attack": "95",

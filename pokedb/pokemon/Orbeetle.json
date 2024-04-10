@@ -1,31 +1,31 @@
 {
     "name": "Orbeetle",
-    "national_no": "0826",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Psychic"
+        "Psychic",
+        "Bug"
     ],
     "species": "Seven Spot Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "40.8\u00a0kg (89.9\u00a0lbs)",
-    "abilities": [
-        "Swarm",
-        "Frisk",
-        "Telepathy"
-    ],
-    "ev_yield": "\n3 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "253",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "253",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "45",

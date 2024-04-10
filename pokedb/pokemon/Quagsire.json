@@ -13,9 +13,9 @@
         "Water Absorb",
         "Unaware"
     ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n90 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 HP",
+    "catch_rate": "90",
+    "base_happiness": "50",
     "base_exp": "151",
     "growth_rate": "Medium Fast",
     "egg_groups": [

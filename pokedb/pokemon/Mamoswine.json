@@ -1,6 +1,6 @@
 {
     "name": "Mamoswine",
-    "national_no": "0473",
+    "national_no": null,
     "type": [
         "Ice",
         "Ground"
@@ -8,24 +8,24 @@
     "species": "Twin Tusk Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "291.0\u00a0kg (641.5\u00a0lbs)",
-    "abilities": [
-        "Oblivious",
-        "Snow Cloak",
-        "Thick Fat"
-    ],
-    "ev_yield": "\n3 Attack ",
-    "catch_rate": "\n50 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "239",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "50",
+        "base_happiness": "50",
+        "base_exp": "239",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "110",
         "attack": "130",

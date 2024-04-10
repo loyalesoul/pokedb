@@ -1,25 +1,27 @@
 {
     "name": "Silvally",
-    "national_no": "0773",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Synthetic Pok\u00e9mon",
     "height": "2.3\u00a0m (7\u203207\u2033)",
     "weight": "100.5\u00a0kg (221.6\u00a0lbs)",
-    "abilities": [
-        "RKS System"
-    ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "257",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "3",
+        "base_happiness": "0",
+        "base_exp": "257",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "95",

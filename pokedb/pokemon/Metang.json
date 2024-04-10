@@ -12,9 +12,9 @@
         "Clear Body",
         "Light Metal"
     ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "2 Defense",
+    "catch_rate": "3",
+    "base_happiness": "35",
     "base_exp": "147",
     "growth_rate": "Slow",
     "egg_groups": [

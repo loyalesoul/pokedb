@@ -1,47 +1,34 @@
 {
     "name": "Oricorio",
-    "national_no": "0741",
+    "national_no": null,
     "type": [
-        "Fire",
-        "Flying",
-        "Electric",
-        "Flying",
-        "Psychic",
         "Flying",
         "Ghost",
-        "Flying"
+        "Fire",
+        "Psychic",
+        "Electric"
     ],
     "species": "Dancing Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "3.4\u00a0kg (7.5\u00a0lbs)",
-    "abilities": [
-        "Dancer",
-        "Dancer",
-        "Dancer",
-        "Dancer"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "167",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Flying",
-        "Flying",
-        "Flying",
-        "Flying"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female",
-        "25% male",
-        "75% female",
-        "25% male",
-        "75% female",
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "167",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "25% male",
+            "75% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "70",

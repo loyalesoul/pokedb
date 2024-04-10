@@ -1,8 +1,7 @@
 {
     "name": "Meloetta",
-    "national_no": "0648",
+    "national_no": null,
     "type": [
-        "Normal",
         "Psychic",
         "Normal",
         "Fighting"
@@ -10,21 +9,21 @@
     "species": "Melody Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "6.5\u00a0kg (14.3\u00a0lbs)",
-    "abilities": [
-        "Serene Grace",
-        "Serene Grace"
-    ],
-    "ev_yield": "\n1 Sp. Atk, 1 Sp. Def, 1 Speed ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n100 ",
-    "base_exp": "300",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk, 1 Sp. Def, 1 Speed",
+        "catch_rate": "3",
+        "base_happiness": "100",
+        "base_exp": "300",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "77",

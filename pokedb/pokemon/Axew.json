@@ -1,31 +1,31 @@
 {
     "name": "Axew",
-    "national_no": "0610",
+    "national_no": null,
     "type": [
         "Dragon"
     ],
     "species": "Tusk Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "18.0\u00a0kg (39.7\u00a0lbs)",
-    "abilities": [
-        "Rivalry",
-        "Mold Breaker",
-        "Unnerve"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "64",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "75",
+        "base_happiness": "35",
+        "base_exp": "64",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "46",
         "attack": "87",

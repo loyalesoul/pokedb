@@ -1,30 +1,28 @@
 {
     "name": "Minior",
-    "national_no": "0774",
+    "national_no": null,
     "type": [
-        "Rock",
         "Flying",
-        "Rock",
-        "Flying"
+        "Rock"
     ],
     "species": "Meteor Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "40.0\u00a0kg (88.2\u00a0lbs)",
-    "abilities": [
-        "Shields Down",
-        "Shields Down"
-    ],
-    "ev_yield": "\n1 Defense, 1 Sp. Def ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "154",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Mineral",
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Defense, 1 Sp. Def",
+        "catch_rate": "30",
+        "base_happiness": "50",
+        "base_exp": "154",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "60",

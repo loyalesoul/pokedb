@@ -11,9 +11,9 @@
         "Sand Stream",
         "Sand Force"
     ],
-    "ev_yield": "\n1 Defense ",
-    "catch_rate": "\n140 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Defense",
+    "catch_rate": "140",
+    "base_happiness": "50",
     "base_exp": "66",
     "growth_rate": "Slow",
     "egg_groups": [

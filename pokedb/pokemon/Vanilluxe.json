@@ -1,30 +1,30 @@
 {
     "name": "Vanilluxe",
-    "national_no": "0584",
+    "national_no": null,
     "type": [
         "Ice"
     ],
     "species": "Snowstorm Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "57.5\u00a0kg (126.8\u00a0lbs)",
-    "abilities": [
-        "Ice Body",
-        "Snow Warning",
-        "Weak Armor"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "241",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "241",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "71",
         "attack": "95",

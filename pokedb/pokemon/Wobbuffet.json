@@ -11,9 +11,9 @@
         "Shadow Tag",
         "Telepathy"
     ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 HP",
+    "catch_rate": "45",
+    "base_happiness": "50",
     "base_exp": "142",
     "growth_rate": "Medium Fast",
     "egg_groups": [

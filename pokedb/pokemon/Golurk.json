@@ -1,28 +1,28 @@
 {
     "name": "Golurk",
-    "national_no": "0623",
+    "national_no": null,
     "type": [
-        "Ground",
-        "Ghost"
+        "Ghost",
+        "Ground"
     ],
     "species": "Automaton Pok\u00e9mon",
     "height": "2.8\u00a0m (9\u203202\u2033)",
     "weight": "330.0\u00a0kg (727.5\u00a0lbs)",
-    "abilities": [
-        "Iron Fist",
-        "Klutz",
-        "No Guard"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n90 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "169",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "169",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "89",
         "attack": "124",

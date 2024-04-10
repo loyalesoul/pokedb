@@ -1,30 +1,30 @@
 {
     "name": "Vanillite",
-    "national_no": "0582",
+    "national_no": null,
     "type": [
         "Ice"
     ],
     "species": "Fresh Snow Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "5.7\u00a0kg (12.6\u00a0lbs)",
-    "abilities": [
-        "Ice Body",
-        "Snow Cloak",
-        "Weak Armor"
-    ],
-    "ev_yield": "\n1 Sp. Atk ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "61",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "61",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "36",
         "attack": "50",

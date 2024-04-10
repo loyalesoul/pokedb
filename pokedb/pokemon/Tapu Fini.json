@@ -1,27 +1,28 @@
 {
     "name": "Tapu Fini",
-    "national_no": "0788",
+    "national_no": null,
     "type": [
-        "Water",
-        "Fairy"
+        "Fairy",
+        "Water"
     ],
     "species": "Land Spirit Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "21.2\u00a0kg (46.7\u00a0lbs)",
-    "abilities": [
-        "Misty Surge",
-        "Telepathy"
-    ],
-    "ev_yield": "\n3 Sp. Def ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "257",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "3",
+        "base_happiness": "50",
+        "base_exp": "257",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "75",

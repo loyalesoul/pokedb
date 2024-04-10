@@ -12,9 +12,9 @@
         "Magic Guard",
         "Unaware"
     ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n25 ",
-    "base_happiness": "\n140 ",
+    "ev_yield": "3 HP",
+    "catch_rate": "25",
+    "base_happiness": "140",
     "base_exp": "217",
     "growth_rate": "Fast",
     "egg_groups": [

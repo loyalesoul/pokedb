@@ -1,26 +1,28 @@
 {
     "name": "Pecharunt",
-    "national_no": "1025",
+    "national_no": null,
     "type": [
-        "Poison",
-        "Ghost"
+        "Ghost",
+        "Poison"
     ],
     "species": "Subjugation Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "0.3\u00a0kg (0.7\u00a0lbs)",
-    "abilities": [
-        "Poison Puppeteer"
-    ],
-    "ev_yield": "\n3 Defense ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n\u2014\n",
-    "base_exp": "\u2014",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": null,
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Defense",
+        "catch_rate": "3",
+        "base_happiness": "\u2014",
+        "base_exp": "\u2014",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": null
+    },
     "stats": {
         "hp": "88",
         "attack": "88",

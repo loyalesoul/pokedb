@@ -13,9 +13,9 @@
         "Rock Head",
         "Heavy Metal"
     ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n90 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "2 Defense",
+    "catch_rate": "90",
+    "base_happiness": "35",
     "base_exp": "151",
     "growth_rate": "Slow",
     "egg_groups": [

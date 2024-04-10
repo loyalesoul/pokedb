@@ -1,29 +1,30 @@
 {
     "name": "Greavard",
-    "national_no": "0971",
+    "national_no": null,
     "type": [
         "Ghost"
     ],
     "species": "Ghost Dog Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "35.0\u00a0kg (77.2\u00a0lbs)",
-    "abilities": [
-        "Pickup",
-        "Fluffy"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "58",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "58",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "61",

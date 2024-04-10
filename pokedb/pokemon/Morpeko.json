@@ -1,37 +1,32 @@
 {
     "name": "Morpeko",
-    "national_no": "0877",
+    "national_no": null,
     "type": [
-        "Electric",
         "Dark",
-        "Electric",
-        "Dark"
+        "Electric"
     ],
     "species": "Two-Sided Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.0\u00a0kg (6.6\u00a0lbs)",
-    "abilities": [
-        "Hunger Switch",
-        "Hunger Switch"
-    ],
-    "ev_yield": "\n2 Speed ",
-    "catch_rate": "\n180 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "153",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Field",
-        "Fairy",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "180",
+        "base_happiness": "50",
+        "base_exp": "153",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "58",
         "attack": "95",

@@ -1,6 +1,6 @@
 {
     "name": "Deino",
-    "national_no": "0633",
+    "national_no": null,
     "type": [
         "Dark",
         "Dragon"
@@ -8,22 +8,24 @@
     "species": "Irate Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "17.3\u00a0kg (38.1\u00a0lbs)",
-    "abilities": [
-        "Hustle"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "60",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "60",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "52",
         "attack": "65",

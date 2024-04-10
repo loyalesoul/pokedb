@@ -1,30 +1,30 @@
 {
     "name": "Throh",
-    "national_no": "0538",
+    "national_no": null,
     "type": [
         "Fighting"
     ],
     "species": "Judo Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "55.5\u00a0kg (122.4\u00a0lbs)",
-    "abilities": [
-        "Guts",
-        "Inner Focus",
-        "Mold Breaker"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "163",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "163",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "100% male",
+            "0% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "120",
         "attack": "100",

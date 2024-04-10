@@ -1,30 +1,30 @@
 {
     "name": "Crabrawler",
-    "national_no": "0739",
+    "national_no": null,
     "type": [
         "Fighting"
     ],
     "species": "Boxing Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "7.0\u00a0kg (15.4\u00a0lbs)",
-    "abilities": [
-        "Hyper Cutter",
-        "Iron Fist",
-        "Anger Point"
-    ],
-    "ev_yield": "\n1 Attack ",
-    "catch_rate": "\n225 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "68",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "225",
+        "base_happiness": "50",
+        "base_exp": "68",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "47",
         "attack": "82",

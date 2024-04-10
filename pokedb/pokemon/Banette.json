@@ -14,9 +14,9 @@
         "Cursed Body",
         "Prankster"
     ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
+    "ev_yield": "2 Attack",
+    "catch_rate": "45",
+    "base_happiness": "35",
     "base_exp": "159",
     "growth_rate": "Fast",
     "egg_groups": [

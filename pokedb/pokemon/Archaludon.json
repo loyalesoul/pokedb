@@ -1,32 +1,32 @@
 {
     "name": "Archaludon",
-    "national_no": "1018",
+    "national_no": null,
     "type": [
-        "Steel",
-        "Dragon"
+        "Dragon",
+        "Steel"
     ],
     "species": "Alloy Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "60.0\u00a0kg (132.3\u00a0lbs)",
-    "abilities": [
-        "Stamina",
-        "Sturdy",
-        "Stalwart"
-    ],
-    "ev_yield": "\n3 Defense ",
-    "catch_rate": "\n10 ",
-    "base_happiness": "\n\u2014\n",
-    "base_exp": "\u2014",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": null,
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Defense",
+        "catch_rate": "10",
+        "base_happiness": "\u2014",
+        "base_exp": "\u2014",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": null
+    },
     "stats": {
         "hp": "90",
         "attack": "105",

@@ -1,32 +1,32 @@
 {
     "name": "Dipplin",
-    "national_no": "1011",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Dragon"
+        "Dragon",
+        "Grass"
     ],
     "species": "Candy Apple Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.4\u00a0kg (9.7\u00a0lbs)",
-    "abilities": [
-        "Supersweet Syrup",
-        "Gluttony",
-        "Sticky Hold"
-    ],
-    "ev_yield": "\n2 Defense ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n\u2014\n",
-    "base_exp": "\u2014",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Dragon",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": null,
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "45",
+        "base_happiness": "\u2014",
+        "base_exp": "\u2014",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": null
+    },
     "stats": {
         "hp": "80",
         "attack": "80",

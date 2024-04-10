@@ -13,9 +13,9 @@
         "Keen Eye",
         "Tinted Lens"
     ],
-    "ev_yield": "\n1 HP ",
-    "catch_rate": "\n255 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 HP",
+    "catch_rate": "255",
+    "base_happiness": "50",
     "base_exp": "52",
     "growth_rate": "Medium Fast",
     "egg_groups": [

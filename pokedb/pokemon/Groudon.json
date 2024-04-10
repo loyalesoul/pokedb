@@ -13,9 +13,9 @@
         "Drought",
         "Desolate Land"
     ],
-    "ev_yield": "\n3 Attack ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n0 ",
+    "ev_yield": "3 Attack",
+    "catch_rate": "3",
+    "base_happiness": "0",
     "base_exp": "335",
     "growth_rate": "Slow",
     "egg_groups": [

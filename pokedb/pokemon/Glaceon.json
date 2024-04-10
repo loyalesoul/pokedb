@@ -1,29 +1,30 @@
 {
     "name": "Glaceon",
-    "national_no": "0471",
+    "national_no": null,
     "type": [
         "Ice"
     ],
     "species": "Fresh Snow Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "25.9\u00a0kg (57.1\u00a0lbs)",
-    "abilities": [
-        "Snow Cloak",
-        "Ice Body"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n35 ",
-    "base_exp": "184",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "184",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "12.5% female",
+            "87.5% male"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "60",

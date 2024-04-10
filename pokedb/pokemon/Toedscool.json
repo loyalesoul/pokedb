@@ -1,6 +1,6 @@
 {
     "name": "Toedscool",
-    "national_no": "0948",
+    "national_no": null,
     "type": [
         "Ground",
         "Grass"
@@ -8,22 +8,24 @@
     "species": "Woodear Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "33.0\u00a0kg (72.8\u00a0lbs)",
-    "abilities": [
-        "Mycelium Might"
-    ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "67",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "67",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "40",

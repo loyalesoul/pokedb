@@ -1,30 +1,30 @@
 {
     "name": "Dondozo",
-    "national_no": "0977",
+    "national_no": null,
     "type": [
         "Water"
     ],
     "species": "Big Catfish Pok\u00e9mon",
     "height": "12.0\u00a0m (39\u203204\u2033)",
     "weight": "220.0\u00a0kg (485.0\u00a0lbs)",
-    "abilities": [
-        "Unaware",
-        "Oblivious",
-        "Water Veil"
-    ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n25 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "265",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "25",
+        "base_happiness": "50",
+        "base_exp": "265",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "150",
         "attack": "100",

@@ -1,26 +1,28 @@
 {
     "name": "Magearna",
-    "national_no": "0801",
+    "national_no": null,
     "type": [
-        "Steel",
-        "Fairy"
+        "Fairy",
+        "Steel"
     ],
     "species": "Artificial Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "80.5\u00a0kg (177.5\u00a0lbs)",
-    "abilities": [
-        "Soul-Heart"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "300",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "3",
+        "base_happiness": "0",
+        "base_exp": "300",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "95",

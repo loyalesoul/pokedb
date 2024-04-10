@@ -13,9 +13,9 @@
         "Illuminate",
         "Water Absorb"
     ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 HP",
+    "catch_rate": "75",
+    "base_happiness": "50",
     "base_exp": "161",
     "growth_rate": "Slow",
     "egg_groups": [

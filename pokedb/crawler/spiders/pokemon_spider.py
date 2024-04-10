@@ -9,22 +9,6 @@ class PokemonSpider(scrapy.Spider):
     name = "pokemon"
     start_urls = ["https://pokemondb.net/pokedex/Abomasnow"]
 
-    def parse_egg_cycle(self, response):
-        td_text = response.css(
-            'h2:contains("Breeding") + table.vitals-table tr:nth-child(3) td::text'
-        ).get()
-        small_text = response.css(
-            'h2:contains("Breeding") + table.vitals-table tr:nth-child(3) small::text'
-        ).get()
-
-        egg_cycle = (
-            f"{td_text.strip()} {small_text.strip()}"
-            if td_text and small_text
-            else None
-        )
-
-        return egg_cycle
-
     def parse_pokedex_entries(self, response):
         entries = {}
 
@@ -134,51 +118,87 @@ class PokemonSpider(scrapy.Spider):
     def parse_pokedex_data(self, response):
         data = {}
         selector_pokedex_data = response.css(
-            'h2:contains("Pokédex data") + table.vitals-table tbody tr'
-        ).get()
-        logger.info(selector_pokedex_data)
+            'h2:contains("Pokédex data") + table.vitals-table tbody'
+        )
 
-        # data["national_no"] = selector_pokedex_data.css("tr:nth-of-type(1) td::text").get()
-        # data["type"] = selector_pokedex_data.css("tr:nth-of-type(2) td a::text").getall()
-        # data["species"] = selector_pokedex_data.css("tr:nth-of-type(3) td::text").get()
-        # data["height"] = selector_pokedex_data.css("tr:nth-of-type(4) td::text").get()
-        # data["weight"] = selector_pokedex_data.css("tr:nth-of-type(5) td::text").get()
-        # data["abilities"] = selector_pokedex_data.css("tr:nth-of-type(6) td::text").getall()
+        data["national_no"] = selector_pokedex_data.css(
+            "tr:nth-of-type(1) td::text"
+        ).get()
+        data["type"] = list(
+            set(selector_pokedex_data.css("tr:nth-of-type(2) td a::text").getall())
+        )
+        data["species"] = selector_pokedex_data.css("tr:nth-of-type(3) td::text").get()
+        data["height"] = selector_pokedex_data.css("tr:nth-of-type(4) td::text").get()
+        data["weight"] = selector_pokedex_data.css("tr:nth-of-type(5) td::text").get()
+        data["abilities"] = selector_pokedex_data.css(
+            "tr:nth-of-type(6) td::text"
+        ).getall()
 
         return data
+
+    def parse_breeding(self, response):
+        breeding = {}
+        selector_breeding = response.css(
+            'h2:contains("Breeding") + table.vitals-table tbody'
+        )
+
+        breeding["egg_groups"] = list(
+            set(selector_breeding.css("tr:nth-of-type(1) td a::text").getall())
+        )
+        breeding["gender_ratio"] = list(
+            set(selector_breeding.css("tr:nth-of-type(2) td span::text").getall())
+        )
+
+        egg_td_text = selector_breeding.css("tr:nth-child(3) td::text").get()
+        egg_small_text = selector_breeding.css("tr:nth-child(3) small::text").get()
+        breeding["egg_cycle"] = (
+            f"{egg_td_text.strip()} {egg_small_text.strip()}"
+            if egg_td_text and egg_small_text
+            else None
+        )
+
+        return breeding
+
+    def parse_training(self, response):
+        training = {}
+        selector_training = response.css('h2:contains("Training") + table.vitals-table')
+
+        training["ev_yield"] = (
+            selector_training.css("tr:nth-of-type(1) td::text").get().strip()
+        )
+        training["catch_rate"] = (
+            selector_training.css("tr:nth-of-type(2) td::text").get().strip()
+        )
+        training["base_happiness"] = (
+            selector_training.css("tr:nth-of-type(3) td::text").get().strip()
+        )
+        training["base_exp"] = selector_training.css("tr:nth-of-type(4) td::text").get()
+        training["growth_rate"] = selector_training.css(
+            "tr:nth-of-type(5) td::text"
+        ).get()
+
+        return training
+
+    def parse_stats(self, response):
+        stats = {}
+        selector_stats = response.css(
+            'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody'
+        )
+
+        stats["hp"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
+        stats["attack"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
+        stats["defense"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
+        stats["defense"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
+        stats["defense"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
+
+        return stats
 
     def parse(self, response):
         pokemon = {
             "name": response.css("h1::text").get(),
             **self.parse_pokedex_data(response),
-            "ev_yield": response.css(
-                'h2:contains("Training") + table.vitals-table tr:nth-child(1) td::text'
-            )
-            .get()
-            .strip(),
-            "catch_rate": response.css(
-                'h2:contains("Training") + table.vitals-table tr:nth-child(2) td::text'
-            )
-            .get()
-            .strip(),
-            "base_happiness": response.css(
-                'h2:contains("Training") + table.vitals-table tr:nth-child(3) td::text'
-            )
-            .get()
-            .strip(),
-            "base_exp": response.css(
-                'h2:contains("Training") + table.vitals-table tr:nth-child(4) td::text'
-            ).get(),
-            "growth_rate": response.css(
-                'h2:contains("Training") + table.vitals-table tr:nth-child(5) td::text'
-            ).get(),
-            "egg_groups": response.css(
-                'h2:contains("Breeding") + table.vitals-table tr:nth-child(1) td a::text'
-            ).getall(),
-            "gender_ratio": response.css(
-                'h2:contains("Breeding") + table.vitals-table tr:nth-child(2) td span::text'
-            ).getall(),
-            "egg_cycle": self.parse_egg_cycle(response),
+            "training": self.parse_training(response),
+            "breeding": self.parse_breeding(response),
             "stats": {
                 "hp": response.css(
                     'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(1) td.cell-num::text'
@@ -221,6 +241,6 @@ class PokemonSpider(scrapy.Spider):
         yield pokemon
 
         # Follow the link to the next Pokemon's page
-        # next_page = response.css('a[rel="next"]::attr(href)').get()
-        # if next_page is not None:
-        #     yield response.follow(next_page, self.parse)
+        next_page = response.css('a[rel="next"]::attr(href)').get()
+        if next_page is not None:
+            yield response.follow(next_page, self.parse)

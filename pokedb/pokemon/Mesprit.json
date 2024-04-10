@@ -1,25 +1,27 @@
 {
     "name": "Mesprit",
-    "national_no": "0481",
+    "national_no": null,
     "type": [
         "Psychic"
     ],
     "species": "Emotion Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "0.3\u00a0kg (0.7\u00a0lbs)",
-    "abilities": [
-        "Levitate"
-    ],
-    "ev_yield": "\n1 Attack, 1 Sp. Atk, 1 Sp. Def ",
-    "catch_rate": "\n3 ",
-    "base_happiness": "\n140 ",
-    "base_exp": "290",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "80 (20,304\u201320,560 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Attack, 1 Sp. Atk, 1 Sp. Def",
+        "catch_rate": "3",
+        "base_happiness": "140",
+        "base_exp": "290",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "80 (20,304\u201320,560 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "105",

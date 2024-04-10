@@ -1,6 +1,6 @@
 {
     "name": "Arctozolt",
-    "national_no": "0881",
+    "national_no": null,
     "type": [
         "Electric",
         "Ice"
@@ -8,21 +8,21 @@
     "species": "Fossil Pok\u00e9mon",
     "height": "2.3\u00a0m (7\u203207\u2033)",
     "weight": "150.0\u00a0kg (330.7\u00a0lbs)",
-    "abilities": [
-        "Volt Absorb",
-        "Static",
-        "Slush Rush"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "177",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "177",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "100",

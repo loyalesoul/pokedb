@@ -12,9 +12,9 @@
         "Sniper",
         "Moody"
     ],
-    "ev_yield": "\n1 Attack, 1 Sp. Atk ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Attack, 1 Sp. Atk",
+    "catch_rate": "75",
+    "base_happiness": "50",
     "base_exp": "168",
     "growth_rate": "Medium Fast",
     "egg_groups": [

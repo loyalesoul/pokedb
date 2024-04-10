@@ -1,29 +1,31 @@
 {
     "name": "Mimikyu",
-    "national_no": "0778",
+    "national_no": null,
     "type": [
-        "Ghost",
-        "Fairy"
+        "Fairy",
+        "Ghost"
     ],
     "species": "Disguise Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "0.7\u00a0kg (1.5\u00a0lbs)",
-    "abilities": [
-        "Disguise"
-    ],
-    "ev_yield": "\n2 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "167",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "167",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "90",

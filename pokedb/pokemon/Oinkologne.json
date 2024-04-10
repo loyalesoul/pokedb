@@ -1,37 +1,32 @@
 {
     "name": "Oinkologne",
-    "national_no": "0916",
+    "national_no": null,
     "type": [
-        "Normal",
         "Normal"
     ],
     "species": "Hog Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "120.0\u00a0kg (264.6\u00a0lbs)",
-    "abilities": [
-        "Lingering Aroma",
-        "Gluttony",
-        "Thick Fat",
-        "Aroma Veil",
-        "Gluttony",
-        "Thick Fat"
-    ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n100 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "171",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "100",
+        "base_happiness": "50",
+        "base_exp": "171",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "100% male",
+            "0% female",
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "110",
         "attack": "100",

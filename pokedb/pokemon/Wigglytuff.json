@@ -13,9 +13,9 @@
         "Competitive",
         "Frisk"
     ],
-    "ev_yield": "\n3 HP ",
-    "catch_rate": "\n50 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "3 HP",
+    "catch_rate": "50",
+    "base_happiness": "50",
     "base_exp": "218",
     "growth_rate": "Fast",
     "egg_groups": [

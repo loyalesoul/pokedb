@@ -1,31 +1,31 @@
 {
     "name": "Leavanny",
-    "national_no": "0542",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Grass"
+        "Grass",
+        "Bug"
     ],
     "species": "Nurturing Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "20.5\u00a0kg (45.2\u00a0lbs)",
-    "abilities": [
-        "Swarm",
-        "Chlorophyll",
-        "Overcoat"
-    ],
-    "ev_yield": "\n3 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "225",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "225",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "103",

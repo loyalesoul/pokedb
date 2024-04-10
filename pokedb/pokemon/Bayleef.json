@@ -11,9 +11,9 @@
         "Overgrow",
         "Leaf Guard"
     ],
-    "ev_yield": "\n1 Defense, 1 Sp. Def ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Defense, 1 Sp. Def",
+    "catch_rate": "45",
+    "base_happiness": "50",
     "base_exp": "142",
     "growth_rate": "Medium Slow",
     "egg_groups": [

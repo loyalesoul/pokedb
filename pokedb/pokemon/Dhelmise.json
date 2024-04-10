@@ -1,6 +1,6 @@
 {
     "name": "Dhelmise",
-    "national_no": "0781",
+    "national_no": null,
     "type": [
         "Ghost",
         "Grass"
@@ -8,19 +8,21 @@
     "species": "Sea Creeper Pok\u00e9mon",
     "height": "3.9\u00a0m (12\u203210\u2033)",
     "weight": "210.0\u00a0kg (463.0\u00a0lbs)",
-    "abilities": [
-        "Steelworker"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n25 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "181",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "25",
+        "base_happiness": "50",
+        "base_exp": "181",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "131",

@@ -12,9 +12,9 @@
         "Magic Guard",
         "Friend Guard"
     ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n150 ",
-    "base_happiness": "\n140 ",
+    "ev_yield": "1 Sp. Def",
+    "catch_rate": "150",
+    "base_happiness": "140",
     "base_exp": "44",
     "growth_rate": "Fast",
     "egg_groups": [

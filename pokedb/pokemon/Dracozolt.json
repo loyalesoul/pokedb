@@ -1,6 +1,6 @@
 {
     "name": "Dracozolt",
-    "national_no": "0880",
+    "national_no": null,
     "type": [
         "Electric",
         "Dragon"
@@ -8,21 +8,21 @@
     "species": "Fossil Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "190.0\u00a0kg (418.9\u00a0lbs)",
-    "abilities": [
-        "Volt Absorb",
-        "Hustle",
-        "Sand Rush"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "177",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "177",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "100",

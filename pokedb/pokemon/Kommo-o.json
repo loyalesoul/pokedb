@@ -1,31 +1,31 @@
 {
     "name": "Kommo-o",
-    "national_no": "0784",
+    "national_no": null,
     "type": [
-        "Dragon",
-        "Fighting"
+        "Fighting",
+        "Dragon"
     ],
     "species": "Scaly Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "78.2\u00a0kg (172.4\u00a0lbs)",
-    "abilities": [
-        "Bulletproof",
-        "Soundproof",
-        "Overcoat"
-    ],
-    "ev_yield": "\n3 Defense ",
-    "catch_rate": "\n45 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "270",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Defense",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "270",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "110",

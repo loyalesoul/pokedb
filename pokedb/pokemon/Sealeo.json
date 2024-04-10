@@ -13,9 +13,9 @@
         "Ice Body",
         "Oblivious"
     ],
-    "ev_yield": "\n2 HP ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "2 HP",
+    "catch_rate": "120",
+    "base_happiness": "50",
     "base_exp": "144",
     "growth_rate": "Medium Slow",
     "egg_groups": [

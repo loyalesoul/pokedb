@@ -1,6 +1,6 @@
 {
     "name": "Sawsbuck",
-    "national_no": "0586",
+    "national_no": null,
     "type": [
         "Normal",
         "Grass"
@@ -8,24 +8,24 @@
     "species": "Season Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "92.5\u00a0kg (203.9\u00a0lbs)",
-    "abilities": [
-        "Chlorophyll",
-        "Sap Sipper",
-        "Serene Grace"
-    ],
-    "ev_yield": "\n2 Attack ",
-    "catch_rate": "\n75 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "166",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "166",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "100",

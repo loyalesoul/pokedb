@@ -1,30 +1,30 @@
 {
     "name": "Gothita",
-    "national_no": "0574",
+    "national_no": null,
     "type": [
         "Psychic"
     ],
     "species": "Fixation Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "5.8\u00a0kg (12.8\u00a0lbs)",
-    "abilities": [
-        "Frisk",
-        "Competitive",
-        "Shadow Tag"
-    ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n200 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "58",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "200",
+        "base_happiness": "50",
+        "base_exp": "58",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "25% male",
+            "75% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "30",

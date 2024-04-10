@@ -1,26 +1,28 @@
 {
     "name": "Blacephalon",
-    "national_no": "0806",
+    "national_no": null,
     "type": [
-        "Fire",
-        "Ghost"
+        "Ghost",
+        "Fire"
     ],
     "species": "Fireworks Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "13.0\u00a0kg (28.7\u00a0lbs)",
-    "abilities": [
-        "Beast Boost"
-    ],
-    "ev_yield": "\n3 Sp. Atk ",
-    "catch_rate": "\n30 ",
-    "base_happiness": "\n0 ",
-    "base_exp": "257",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "30",
+        "base_happiness": "0",
+        "base_exp": "257",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "53",
         "attack": "127",

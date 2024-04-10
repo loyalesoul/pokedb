@@ -13,9 +13,9 @@
         "Tinted Lens",
         "Run Away"
     ],
-    "ev_yield": "\n1 Sp. Def ",
-    "catch_rate": "\n190 ",
-    "base_happiness": "\n50 ",
+    "ev_yield": "1 Sp. Def",
+    "catch_rate": "190",
+    "base_happiness": "50",
     "base_exp": "61",
     "growth_rate": "Medium Fast",
     "egg_groups": [

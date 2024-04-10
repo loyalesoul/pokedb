@@ -1,6 +1,6 @@
 {
     "name": "Morgrem",
-    "national_no": "0860",
+    "national_no": null,
     "type": [
         "Dark",
         "Fairy"
@@ -8,25 +8,25 @@
     "species": "Devious Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "12.5\u00a0kg (27.6\u00a0lbs)",
-    "abilities": [
-        "Prankster",
-        "Frisk",
-        "Pickpocket"
-    ],
-    "ev_yield": "\n2 Sp. Atk ",
-    "catch_rate": "\n120 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "130",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "130",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy",
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "100% male",
+            "0% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "60",

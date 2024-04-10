@@ -1,28 +1,30 @@
 {
     "name": "Furfrou",
-    "national_no": "0676",
+    "national_no": null,
     "type": [
         "Normal"
     ],
     "species": "Poodle Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "28.0\u00a0kg (61.7\u00a0lbs)",
-    "abilities": [
-        "Fur Coat"
-    ],
-    "ev_yield": "\n1 Speed ",
-    "catch_rate": "\n160 ",
-    "base_happiness": "\n50 ",
-    "base_exp": "165",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "abilities": [],
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "160",
+        "base_happiness": "50",
+        "base_exp": "165",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "80",
