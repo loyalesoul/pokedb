@@ -1,6 +1,6 @@
 {
     "name": "Staravia",
-    "national_no": "0397",
+    "national_no": null,
     "type": [
         "Normal",
         "Flying"
@@ -12,19 +12,23 @@
         "Intimidate",
         "Reckless"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "119",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "119",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "75",

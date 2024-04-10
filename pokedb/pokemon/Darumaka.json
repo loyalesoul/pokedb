@@ -2,13 +2,16 @@
     "name": "Darumaka",
     "national_no": null,
     "type": [
-        "Ice",
-        "Fire"
+        "Fire",
+        "Ice"
     ],
     "species": "Zen Charm Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "37.5\u00a0kg (82.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Hustle",
+        "Inner Focus"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "120",

@@ -1,13 +1,11 @@
 {
     "name": "Eiscue",
     "national_no": null,
-    "type": [
-        "Ice"
-    ],
+    "type": "Ice",
     "species": "Penguin Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "89.0\u00a0kg (196.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": "Ice Face",
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "60",
@@ -17,8 +15,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Field",
-            "Water 1"
+            "Water 1",
+            "Field"
         ],
         "gender_ratio": [
             "50% male",

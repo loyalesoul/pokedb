@@ -1,13 +1,14 @@
 {
     "name": "Bunnelby",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Digging Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "5.0\u00a0kg (11.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Pickup",
+        "Cheek Pouch"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "255",

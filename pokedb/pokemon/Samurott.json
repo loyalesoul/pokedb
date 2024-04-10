@@ -1,14 +1,14 @@
 {
     "name": "Samurott",
     "national_no": null,
-    "type": [
-        "Water",
-        "Dark"
-    ],
+    "type": "Water",
     "species": "Formidable Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "94.6\u00a0kg (208.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Torrent",
+        "Shell Armor"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "45",

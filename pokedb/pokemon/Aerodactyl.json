@@ -1,9 +1,7 @@
 {
     "name": "Aerodactyl",
-    "national_no": "0142",
+    "national_no": null,
     "type": [
-        "Rock",
-        "Flying",
         "Rock",
         "Flying"
     ],
@@ -12,26 +10,25 @@
     "weight": "59.0\u00a0kg (130.1\u00a0lbs)",
     "abilities": [
         "Rock Head",
-        "Pressure",
-        "Unnerve",
-        "Tough Claws"
+        "Pressure"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "180",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Flying",
-        "Flying"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "180",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "105",

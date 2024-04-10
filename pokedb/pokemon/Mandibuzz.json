@@ -2,13 +2,16 @@
     "name": "Mandibuzz",
     "national_no": null,
     "type": [
-        "Flying",
-        "Dark"
+        "Dark",
+        "Flying"
     ],
     "species": "Bone Vulture Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "39.5\u00a0kg (87.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Big Pecks",
+        "Overcoat"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "60",
@@ -21,8 +24,8 @@
             "Flying"
         ],
         "gender_ratio": [
-            "100% female",
-            "0% male"
+            "0% male",
+            "100% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

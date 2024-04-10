@@ -8,7 +8,10 @@
     "species": "Ninja Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "40.0\u00a0kg (88.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Torrent",
+        "Protean"
+    ],
     "training": {
         "ev_yield": "3 Speed",
         "catch_rate": "45",
@@ -22,10 +25,10 @@
             "Water 1"
         ],
         "gender_ratio": [
-            "100% male",
             "87.5% male",
             "0% female",
-            "12.5% female"
+            "12.5% female",
+            "100% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

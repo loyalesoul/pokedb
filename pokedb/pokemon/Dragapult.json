@@ -2,13 +2,16 @@
     "name": "Dragapult",
     "national_no": null,
     "type": [
-        "Ghost",
-        "Dragon"
+        "Dragon",
+        "Ghost"
     ],
     "species": "Stealth Pok\u00e9mon",
     "height": "3.0\u00a0m (9\u203210\u2033)",
     "weight": "50.0\u00a0kg (110.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Clear Body",
+        "Infiltrator"
+    ],
     "training": {
         "ev_yield": "3 Speed",
         "catch_rate": "45",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Dragon",
-            "Amorphous"
+            "Amorphous",
+            "Dragon"
         ],
         "gender_ratio": [
             "50% male",

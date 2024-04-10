@@ -1,9 +1,7 @@
 {
     "name": "Floatzel",
-    "national_no": "0419",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Sea Weasel Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "33.5\u00a0kg (73.9\u00a0lbs)",
@@ -11,20 +9,24 @@
         "Swift Swim",
         "Water Veil"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "173",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "173",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "85",
         "attack": "105",

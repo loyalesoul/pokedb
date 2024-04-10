@@ -2,13 +2,16 @@
     "name": "Sigilyph",
     "national_no": null,
     "type": [
-        "Flying",
-        "Psychic"
+        "Psychic",
+        "Flying"
     ],
     "species": "Avianoid Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "14.0\u00a0kg (30.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Wonder Skin",
+        "Magic Guard"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "45",

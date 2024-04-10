@@ -8,7 +8,10 @@
     "species": "Item Drop Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "42.9\u00a0kg (94.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Big Pecks",
+        "Keen Eye"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "25",

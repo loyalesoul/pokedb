@@ -1,6 +1,6 @@
 {
     "name": "Jigglypuff",
-    "national_no": "0039",
+    "national_no": null,
     "type": [
         "Normal",
         "Fairy"
@@ -10,22 +10,25 @@
     "weight": "5.5\u00a0kg (12.1\u00a0lbs)",
     "abilities": [
         "Cute Charm",
-        "Competitive",
-        "Friend Guard"
+        "Competitive"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "170",
-    "base_happiness": "50",
-    "base_exp": "95",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "170",
+        "base_happiness": "50",
+        "base_exp": "95",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "115",
         "attack": "45",

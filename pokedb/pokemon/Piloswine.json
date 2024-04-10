@@ -1,6 +1,6 @@
 {
     "name": "Piloswine",
-    "national_no": "0221",
+    "national_no": null,
     "type": [
         "Ice",
         "Ground"
@@ -10,22 +10,25 @@
     "weight": "55.8\u00a0kg (123.0\u00a0lbs)",
     "abilities": [
         "Oblivious",
-        "Snow Cloak",
-        "Thick Fat"
+        "Snow Cloak"
     ],
-    "ev_yield": "1 HP, 1 Attack",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "158",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP, 1 Attack",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "158",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "100",

@@ -8,7 +8,10 @@
     "species": "Strong Arm Pok\u00e9mon",
     "height": "2.1\u00a0m (6\u203211\u2033)",
     "weight": "135.0\u00a0kg (297.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Fluffy",
+        "Klutz"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "70",

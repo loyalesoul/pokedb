@@ -1,6 +1,6 @@
 {
     "name": "Pupitar",
-    "national_no": "0247",
+    "national_no": null,
     "type": [
         "Rock",
         "Ground"
@@ -11,19 +11,23 @@
     "abilities": [
         "Shed Skin"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "144",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "144",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "84",

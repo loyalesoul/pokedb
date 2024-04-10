@@ -1,6 +1,6 @@
 {
     "name": "Doduo",
-    "national_no": "0084",
+    "national_no": null,
     "type": [
         "Normal",
         "Flying"
@@ -10,22 +10,25 @@
     "weight": "39.2\u00a0kg (86.4\u00a0lbs)",
     "abilities": [
         "Run Away",
-        "Early Bird",
-        "Tangled Feet"
+        "Early Bird"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "62",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "62",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "35",
         "attack": "85",

@@ -1,6 +1,6 @@
 {
     "name": "Anorith",
-    "national_no": "0347",
+    "national_no": null,
     "type": [
         "Rock",
         "Bug"
@@ -12,19 +12,23 @@
         "Battle Armor",
         "Swift Swim"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "71",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "71",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "95",

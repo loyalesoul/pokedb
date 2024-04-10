@@ -1,36 +1,31 @@
 {
     "name": "Ninetales",
-    "national_no": "0038",
-    "type": [
-        "Fire",
-        "Ice",
-        "Fairy"
-    ],
+    "national_no": null,
+    "type": "Fire",
     "species": "Fox Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "19.9\u00a0kg (43.9\u00a0lbs)",
     "abilities": [
         "Flash Fire",
-        "Drought",
-        "Snow Cloak",
-        "Snow Warning"
+        "Drought"
     ],
-    "ev_yield": "1 Sp. Def, 1 Speed",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "177",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female",
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def, 1 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "177",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "73",
         "attack": "76",

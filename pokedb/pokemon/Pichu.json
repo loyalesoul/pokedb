@@ -1,9 +1,7 @@
 {
     "name": "Pichu",
-    "national_no": "0172",
-    "type": [
-        "Electric"
-    ],
+    "national_no": null,
+    "type": "Electric",
     "species": "Tiny Mouse Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "2.0\u00a0kg (4.4\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Static",
         "Lightning Rod"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "41",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "41",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "20",
         "attack": "40",

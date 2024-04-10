@@ -2,13 +2,16 @@
     "name": "Tinkatuff",
     "national_no": null,
     "type": [
-        "Steel",
-        "Fairy"
+        "Fairy",
+        "Steel"
     ],
     "species": "Hammer Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "59.1\u00a0kg (130.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Mold Breaker",
+        "Own Tempo"
+    ],
     "training": {
         "ev_yield": "2 Sp. Def",
         "catch_rate": "90",
@@ -21,8 +24,8 @@
             "Fairy"
         ],
         "gender_ratio": [
-            "100% female",
-            "0% male"
+            "0% male",
+            "100% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

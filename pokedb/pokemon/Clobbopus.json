@@ -1,13 +1,14 @@
 {
     "name": "Clobbopus",
     "national_no": null,
-    "type": [
-        "Fighting"
-    ],
+    "type": "Fighting",
     "species": "Tantrum Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Limber",
+        "Technician"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "180",

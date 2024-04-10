@@ -1,31 +1,32 @@
 {
     "name": "Arbok",
-    "national_no": "0024",
-    "type": [
-        "Poison"
-    ],
+    "national_no": null,
+    "type": "Poison",
     "species": "Cobra Pok\u00e9mon",
     "height": "3.5\u00a0m (11\u203206\u2033)",
     "weight": "65.0\u00a0kg (143.3\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Shed Skin",
-        "Unnerve"
+        "Shed Skin"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "90",
-    "base_happiness": "50",
-    "base_exp": "157",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "157",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "95",

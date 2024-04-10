@@ -1,6 +1,6 @@
 {
     "name": "Azurill",
-    "national_no": "0298",
+    "national_no": null,
     "type": [
         "Normal",
         "Fairy"
@@ -10,22 +10,25 @@
     "weight": "2.0\u00a0kg (4.4\u00a0lbs)",
     "abilities": [
         "Thick Fat",
-        "Huge Power",
-        "Sap Sipper"
+        "Huge Power"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "150",
-    "base_happiness": "50",
-    "base_exp": "38",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "150",
+        "base_happiness": "50",
+        "base_exp": "38",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "20",

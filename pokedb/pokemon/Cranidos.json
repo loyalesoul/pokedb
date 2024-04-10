@@ -1,9 +1,7 @@
 {
     "name": "Cranidos",
-    "national_no": "0408",
-    "type": [
-        "Rock"
-    ],
+    "national_no": null,
+    "type": "Rock",
     "species": "Head Butt Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "31.5\u00a0kg (69.4\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Mold Breaker",
         "Sheer Force"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "70",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Monster"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "70",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "67",
         "attack": "125",

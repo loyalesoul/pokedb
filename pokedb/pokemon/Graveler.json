@@ -1,39 +1,34 @@
 {
     "name": "Graveler",
-    "national_no": "0075",
+    "national_no": null,
     "type": [
         "Rock",
-        "Ground",
-        "Rock",
-        "Electric"
+        "Ground"
     ],
     "species": "Rock Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "105.0\u00a0kg (231.5\u00a0lbs)",
     "abilities": [
         "Rock Head",
-        "Sturdy",
-        "Sand Veil",
-        "Magnet Pull",
-        "Sturdy",
-        "Galvanize"
+        "Sturdy"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "137",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Mineral",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "137",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "95",

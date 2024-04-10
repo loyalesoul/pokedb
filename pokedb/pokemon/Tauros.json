@@ -1,53 +1,31 @@
 {
     "name": "Tauros",
-    "national_no": "0128",
-    "type": [
-        "Normal",
-        "Fighting",
-        "Fighting",
-        "Fire",
-        "Fighting",
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Wild Bull Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "88.4\u00a0kg (194.9\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Anger Point",
-        "Sheer Force",
-        "Intimidate",
-        "Anger Point",
-        "Cud Chew",
-        "Intimidate",
-        "Anger Point",
-        "Cud Chew",
-        "Intimidate",
-        "Anger Point",
-        "Cud Chew"
+        "Anger Point"
     ],
-    "ev_yield": "1 Attack, 1 Speed",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "172",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field",
-        "Field",
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female",
-        "100% male",
-        "0% female",
-        "100% male",
-        "0% female",
-        "100% male",
-        "0% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack, 1 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "172",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "0% female",
+            "100% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "100",

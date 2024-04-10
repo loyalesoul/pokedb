@@ -2,13 +2,16 @@
     "name": "Togekiss",
     "national_no": null,
     "type": [
-        "Flying",
-        "Fairy"
+        "Fairy",
+        "Flying"
     ],
     "species": "Jubilee Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "38.0\u00a0kg (83.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Hustle",
+        "Serene Grace"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk, 1 Sp. Def",
         "catch_rate": "30",

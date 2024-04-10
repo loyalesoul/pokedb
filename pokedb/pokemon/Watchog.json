@@ -1,13 +1,14 @@
 {
     "name": "Watchog",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Lookout Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "27.0\u00a0kg (59.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Illuminate",
+        "Keen Eye"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "255",

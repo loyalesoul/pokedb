@@ -8,7 +8,10 @@
     "species": "Twin Tusk Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "291.0\u00a0kg (641.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Oblivious",
+        "Snow Cloak"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "50",

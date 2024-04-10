@@ -1,9 +1,7 @@
 {
     "name": "Lucario",
-    "national_no": "0448",
+    "national_no": null,
     "type": [
-        "Fighting",
-        "Steel",
         "Fighting",
         "Steel"
     ],
@@ -12,28 +10,26 @@
     "weight": "54.0\u00a0kg (119.0\u00a0lbs)",
     "abilities": [
         "Steadfast",
-        "Inner Focus",
-        "Justified",
-        "Adaptability"
+        "Inner Focus"
     ],
-    "ev_yield": "1 Attack, 1 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "184",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Human-Like",
-        "Field",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Attack, 1 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "184",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like",
+            "Field"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "110",

@@ -8,7 +8,9 @@
     "species": "Ruinous Pok\u00e9mon",
     "height": "2.7\u00a0m (8\u203210\u2033)",
     "weight": "699.7\u00a0kg (1542.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Vessel of Ruin"
+    ],
     "training": {
         "ev_yield": "3 Defense",
         "catch_rate": "6",

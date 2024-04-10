@@ -1,30 +1,31 @@
 {
     "name": "Swalot",
-    "national_no": "0317",
-    "type": [
-        "Poison"
-    ],
+    "national_no": null,
+    "type": "Poison",
     "species": "Poison Bag Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "80.0\u00a0kg (176.4\u00a0lbs)",
     "abilities": [
         "Liquid Ooze",
-        "Sticky Hold",
-        "Gluttony"
+        "Sticky Hold"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "163",
-    "growth_rate": "Fluctuating",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "163",
+        "growth_rate": "Fluctuating"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "73",

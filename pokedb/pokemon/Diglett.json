@@ -1,38 +1,31 @@
 {
     "name": "Diglett",
-    "national_no": "0050",
-    "type": [
-        "Ground",
-        "Ground",
-        "Steel"
-    ],
+    "national_no": null,
+    "type": "Ground",
     "species": "Mole Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "0.8\u00a0kg (1.8\u00a0lbs)",
     "abilities": [
         "Sand Veil",
-        "Arena Trap",
-        "Sand Force",
-        "Sand Veil",
-        "Tangling Hair",
-        "Sand Force"
+        "Arena Trap"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "53",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "53",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "10",
         "attack": "55",

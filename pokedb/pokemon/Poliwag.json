@@ -1,30 +1,31 @@
 {
     "name": "Poliwag",
-    "national_no": "0060",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Tadpole Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "12.4\u00a0kg (27.3\u00a0lbs)",
     "abilities": [
         "Water Absorb",
-        "Damp",
-        "Swift Swim"
+        "Damp"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "60",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "60",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "50",

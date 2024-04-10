@@ -2,13 +2,15 @@
     "name": "Great Tusk",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Ground"
+        "Ground",
+        "Fighting"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "2.2\u00a0m (7\u203203\u2033)",
     "weight": "320.0\u00a0kg (705.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Protosynthesis"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "30",

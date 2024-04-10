@@ -1,13 +1,14 @@
 {
     "name": "Patrat",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Scout Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "11.6\u00a0kg (25.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Run Away",
+        "Keen Eye"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "255",

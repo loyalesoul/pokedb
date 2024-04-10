@@ -1,38 +1,31 @@
 {
     "name": "Growlithe",
-    "national_no": "0058",
-    "type": [
-        "Fire",
-        "Fire",
-        "Rock"
-    ],
+    "national_no": null,
+    "type": "Fire",
     "species": "Puppy Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "19.0\u00a0kg (41.9\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Flash Fire",
-        "Justified",
-        "Intimidate",
-        "Flash Fire",
-        "Rock Head"
+        "Flash Fire"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "70",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "75% male",
-        "25% female",
-        "75% male",
-        "25% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "70",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "25% female",
+            "75% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "70",

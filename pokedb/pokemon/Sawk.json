@@ -1,13 +1,14 @@
 {
     "name": "Sawk",
     "national_no": null,
-    "type": [
-        "Fighting"
-    ],
+    "type": "Fighting",
     "species": "Karate Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "51.0\u00a0kg (112.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sturdy",
+        "Inner Focus"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",
@@ -20,8 +21,8 @@
             "Human-Like"
         ],
         "gender_ratio": [
-            "100% male",
-            "0% female"
+            "0% female",
+            "100% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

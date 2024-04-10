@@ -1,31 +1,32 @@
 {
     "name": "Ekans",
-    "national_no": "0023",
-    "type": [
-        "Poison"
-    ],
+    "national_no": null,
+    "type": "Poison",
     "species": "Snake Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "6.9\u00a0kg (15.2\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Shed Skin",
-        "Unnerve"
+        "Shed Skin"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "58",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "58",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "35",
         "attack": "60",

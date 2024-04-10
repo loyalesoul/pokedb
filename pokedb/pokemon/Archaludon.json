@@ -8,7 +8,10 @@
     "species": "Alloy Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "60.0\u00a0kg (132.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Stamina",
+        "Sturdy"
+    ],
     "training": {
         "ev_yield": "3 Defense",
         "catch_rate": "10",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Dragon",
-            "Mineral"
+            "Mineral",
+            "Dragon"
         ],
         "gender_ratio": [
             "50% male",

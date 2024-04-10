@@ -1,13 +1,14 @@
 {
     "name": "Tarountula",
     "national_no": null,
-    "type": [
-        "Bug"
-    ],
+    "type": "Bug",
     "species": "String Ball Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Insomnia",
+        "Stakeout"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "255",

@@ -8,7 +8,10 @@
     "species": "Gnash Teeth Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "19.0\u00a0kg (41.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Dazzling",
+        "Strong Jaw"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "80",

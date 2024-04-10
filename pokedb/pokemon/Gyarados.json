@@ -1,38 +1,35 @@
 {
     "name": "Gyarados",
-    "national_no": "0130",
+    "national_no": null,
     "type": [
         "Water",
-        "Flying",
-        "Water",
-        "Dark"
+        "Flying"
     ],
     "species": "Atrocious Pok\u00e9mon",
     "height": "6.5\u00a0m (21\u203204\u2033)",
     "weight": "235.0\u00a0kg (518.1\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Moxie",
-        "Mold Breaker"
+        "Moxie"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "189",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon",
-        "Water 2",
-        "Dragon",
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "5 (1,029\u20131,285 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "189",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "5 (1,029\u20131,285 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "125",

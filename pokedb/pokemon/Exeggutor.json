@@ -1,37 +1,34 @@
 {
     "name": "Exeggutor",
-    "national_no": "0103",
+    "national_no": null,
     "type": [
         "Grass",
-        "Psychic",
-        "Grass",
-        "Dragon"
+        "Psychic"
     ],
     "species": "Coconut Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "120.0\u00a0kg (264.6\u00a0lbs)",
     "abilities": [
         "Chlorophyll",
-        "Harvest",
-        "Frisk",
         "Harvest"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "186",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Grass",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "186",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "95",

@@ -1,6 +1,6 @@
 {
     "name": "Girafarig",
-    "national_no": "0203",
+    "national_no": null,
     "type": [
         "Normal",
         "Psychic"
@@ -10,22 +10,25 @@
     "weight": "41.5\u00a0kg (91.5\u00a0lbs)",
     "abilities": [
         "Inner Focus",
-        "Early Bird",
-        "Sap Sipper"
+        "Early Bird"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "159",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "159",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "80",

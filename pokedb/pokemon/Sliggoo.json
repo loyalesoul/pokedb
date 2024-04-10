@@ -1,14 +1,14 @@
 {
     "name": "Sliggoo",
     "national_no": null,
-    "type": [
-        "Steel",
-        "Dragon"
-    ],
+    "type": "Dragon",
     "species": "Soft Tissue Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "17.5\u00a0kg (38.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sap Sipper",
+        "Hydration"
+    ],
     "training": {
         "ev_yield": "2 Sp. Def",
         "catch_rate": "45",

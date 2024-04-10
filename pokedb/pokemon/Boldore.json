@@ -1,13 +1,14 @@
 {
     "name": "Boldore",
     "national_no": null,
-    "type": [
-        "Rock"
-    ],
+    "type": "Rock",
     "species": "Ore Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "102.0\u00a0kg (224.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sturdy",
+        "Weak Armor"
+    ],
     "training": {
         "ev_yield": "1 Attack, 1 Defense",
         "catch_rate": "120",

@@ -1,13 +1,13 @@
 {
     "name": "Mesprit",
     "national_no": null,
-    "type": [
-        "Psychic"
-    ],
+    "type": "Psychic",
     "species": "Emotion Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "0.3\u00a0kg (0.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Levitate"
+    ],
     "training": {
         "ev_yield": "1 Attack, 1 Sp. Atk, 1 Sp. Def",
         "catch_rate": "3",

@@ -1,6 +1,6 @@
 {
     "name": "Carvanha",
-    "national_no": "0318",
+    "national_no": null,
     "type": [
         "Water",
         "Dark"
@@ -12,19 +12,23 @@
         "Rough Skin",
         "Speed Boost"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "225",
-    "base_happiness": "35",
-    "base_exp": "61",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "225",
+        "base_happiness": "35",
+        "base_exp": "61",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "90",

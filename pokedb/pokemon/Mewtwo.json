@@ -1,10 +1,8 @@
 {
     "name": "Mewtwo",
-    "national_no": "0150",
+    "national_no": null,
     "type": [
         "Psychic",
-        "Psychic",
-        "Fighting",
         "Psychic"
     ],
     "species": "Genetic Pok\u00e9mon",
@@ -12,22 +10,22 @@
     "weight": "122.0\u00a0kg (269.0\u00a0lbs)",
     "abilities": [
         "Pressure",
-        "Unnerve",
-        "Steadfast",
-        "Insomnia"
+        "Unnerve"
     ],
-    "ev_yield": "3 Sp. Atk",
-    "catch_rate": "3",
-    "base_happiness": "0",
-    "base_exp": "340",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "3",
+        "base_happiness": "0",
+        "base_exp": "340",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "106",
         "attack": "110",

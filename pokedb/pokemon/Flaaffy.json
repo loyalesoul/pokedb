@@ -1,9 +1,7 @@
 {
     "name": "Flaaffy",
-    "national_no": "0180",
-    "type": [
-        "Electric"
-    ],
+    "national_no": null,
+    "type": "Electric",
     "species": "Wool Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "13.3\u00a0kg (29.3\u00a0lbs)",
@@ -11,20 +9,24 @@
         "Static",
         "Plus"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "128",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "128",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "55",

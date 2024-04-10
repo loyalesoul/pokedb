@@ -1,13 +1,14 @@
 {
     "name": "Vanilluxe",
     "national_no": null,
-    "type": [
-        "Ice"
-    ],
+    "type": "Ice",
     "species": "Snowstorm Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "57.5\u00a0kg (126.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Ice Body",
+        "Snow Warning"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "45",

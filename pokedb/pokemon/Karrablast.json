@@ -1,13 +1,14 @@
 {
     "name": "Karrablast",
     "national_no": null,
-    "type": [
-        "Bug"
-    ],
+    "type": "Bug",
     "species": "Clamping Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "5.9\u00a0kg (13.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Swarm",
+        "Shed Skin"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "200",

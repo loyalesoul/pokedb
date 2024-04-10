@@ -1,13 +1,14 @@
 {
     "name": "Mudbray",
     "national_no": null,
-    "type": [
-        "Ground"
-    ],
+    "type": "Ground",
     "species": "Donkey Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "110.0\u00a0kg (242.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Own Tempo",
+        "Stamina"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "190",

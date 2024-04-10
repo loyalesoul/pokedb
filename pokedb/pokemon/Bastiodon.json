@@ -1,6 +1,6 @@
 {
     "name": "Bastiodon",
-    "national_no": "0411",
+    "national_no": null,
     "type": [
         "Rock",
         "Steel"
@@ -12,19 +12,23 @@
         "Sturdy",
         "Soundproof"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "173",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Monster"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "173",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "52",

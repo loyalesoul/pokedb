@@ -1,6 +1,6 @@
 {
     "name": "Jynx",
-    "national_no": "0124",
+    "national_no": null,
     "type": [
         "Ice",
         "Psychic"
@@ -10,22 +10,25 @@
     "weight": "40.6\u00a0kg (89.5\u00a0lbs)",
     "abilities": [
         "Oblivious",
-        "Forewarn",
-        "Dry Skin"
+        "Forewarn"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "159",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "159",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "50",

@@ -2,13 +2,16 @@
     "name": "Dracozolt",
     "national_no": null,
     "type": [
-        "Dragon",
-        "Electric"
+        "Electric",
+        "Dragon"
     ],
     "species": "Fossil Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "190.0\u00a0kg (418.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Volt Absorb",
+        "Hustle"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",

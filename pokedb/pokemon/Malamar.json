@@ -8,7 +8,10 @@
     "species": "Overturning Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "47.0\u00a0kg (103.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Contrary",
+        "Suction Cups"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "80",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Water 1",
-            "Water 2"
+            "Water 2",
+            "Water 1"
         ],
         "gender_ratio": [
             "50% male",

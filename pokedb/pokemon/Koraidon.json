@@ -8,7 +8,9 @@
     "species": "Paradox Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "303.0\u00a0kg (668.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Orichalcum Pulse"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "3",

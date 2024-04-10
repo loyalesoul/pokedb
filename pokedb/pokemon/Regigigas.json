@@ -1,13 +1,13 @@
 {
     "name": "Regigigas",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Colossal Pok\u00e9mon",
     "height": "3.7\u00a0m (12\u203202\u2033)",
     "weight": "420.0\u00a0kg (925.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Slow Start"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "3",

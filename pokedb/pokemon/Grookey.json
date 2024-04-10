@@ -1,13 +1,14 @@
 {
     "name": "Grookey",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Chimp Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "5.0\u00a0kg (11.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overgrow",
+        "Grassy Surge"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "45",

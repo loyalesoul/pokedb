@@ -1,6 +1,6 @@
 {
     "name": "Skorupi",
-    "national_no": "0451",
+    "national_no": null,
     "type": [
         "Poison",
         "Bug"
@@ -10,23 +10,26 @@
     "weight": "12.0\u00a0kg (26.5\u00a0lbs)",
     "abilities": [
         "Battle Armor",
-        "Sniper",
-        "Keen Eye"
+        "Sniper"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "66",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Bug",
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "66",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3",
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "50",

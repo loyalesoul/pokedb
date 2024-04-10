@@ -1,38 +1,32 @@
 {
     "name": "Lopunny",
-    "national_no": "0428",
-    "type": [
-        "Normal",
-        "Normal",
-        "Fighting"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Rabbit Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "33.3\u00a0kg (73.4\u00a0lbs)",
     "abilities": [
         "Cute Charm",
-        "Klutz",
-        "Limber",
-        "Scrappy"
+        "Klutz"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "60",
-    "base_happiness": "140",
-    "base_exp": "168",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Human-Like",
-        "Field",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "60",
+        "base_happiness": "140",
+        "base_exp": "168",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "76",

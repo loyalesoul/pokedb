@@ -1,6 +1,6 @@
 {
     "name": "Chinchou",
-    "national_no": "0170",
+    "national_no": null,
     "type": [
         "Water",
         "Electric"
@@ -10,22 +10,25 @@
     "weight": "12.0\u00a0kg (26.5\u00a0lbs)",
     "abilities": [
         "Volt Absorb",
-        "Illuminate",
-        "Water Absorb"
+        "Illuminate"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "66",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "66",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "38",

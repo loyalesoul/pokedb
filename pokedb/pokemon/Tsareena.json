@@ -1,13 +1,14 @@
 {
     "name": "Tsareena",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Fruit Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "21.4\u00a0kg (47.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Leaf Guard",
+        "Queenly Majesty"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",
@@ -20,8 +21,8 @@
             "Grass"
         ],
         "gender_ratio": [
-            "100% female",
-            "0% male"
+            "0% male",
+            "100% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

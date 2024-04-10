@@ -1,30 +1,31 @@
 {
     "name": "Kadabra",
-    "national_no": "0064",
-    "type": [
-        "Psychic"
-    ],
+    "national_no": null,
+    "type": "Psychic",
     "species": "Psi Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "56.5\u00a0kg (124.6\u00a0lbs)",
     "abilities": [
         "Synchronize",
-        "Inner Focus",
-        "Magic Guard"
+        "Inner Focus"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "100",
-    "base_happiness": "50",
-    "base_exp": "140",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "75% male",
-        "25% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "100",
+        "base_happiness": "50",
+        "base_exp": "140",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "25% female",
+            "75% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "35",

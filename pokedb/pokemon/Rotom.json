@@ -1,19 +1,11 @@
 {
     "name": "Rotom",
     "national_no": null,
-    "type": [
-        "Flying",
-        "Grass",
-        "Electric",
-        "Water",
-        "Fire",
-        "Ice",
-        "Ghost"
-    ],
+    "type": "Electric",
     "species": "Plasma Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "0.3\u00a0kg (0.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": "Levitate",
     "training": {
         "ev_yield": "1 Sp. Atk, 1 Speed",
         "catch_rate": "45",

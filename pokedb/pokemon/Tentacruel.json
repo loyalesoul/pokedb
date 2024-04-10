@@ -1,6 +1,6 @@
 {
     "name": "Tentacruel",
-    "national_no": "0073",
+    "national_no": null,
     "type": [
         "Water",
         "Poison"
@@ -10,22 +10,25 @@
     "weight": "55.0\u00a0kg (121.3\u00a0lbs)",
     "abilities": [
         "Clear Body",
-        "Liquid Ooze",
-        "Rain Dish"
+        "Liquid Ooze"
     ],
-    "ev_yield": "2 Sp. Def",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "180",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "180",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "70",

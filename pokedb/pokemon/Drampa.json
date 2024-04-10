@@ -8,7 +8,10 @@
     "species": "Placid Pok\u00e9mon",
     "height": "3.0\u00a0m (9\u203210\u2033)",
     "weight": "185.0\u00a0kg (407.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Berserk",
+        "Sap Sipper"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "70",

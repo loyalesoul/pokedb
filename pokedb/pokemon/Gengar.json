@@ -1,9 +1,7 @@
 {
     "name": "Gengar",
-    "national_no": "0094",
+    "national_no": null,
     "type": [
-        "Ghost",
-        "Poison",
         "Ghost",
         "Poison"
     ],
@@ -14,22 +12,23 @@
         "Cursed Body",
         "Shadow Tag"
     ],
-    "ev_yield": "3 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "250",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Amorphous",
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "250",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "65",

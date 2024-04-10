@@ -1,30 +1,31 @@
 {
     "name": "Sentret",
-    "national_no": "0161",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Scout Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "6.0\u00a0kg (13.2\u00a0lbs)",
     "abilities": [
         "Run Away",
-        "Keen Eye",
-        "Frisk"
+        "Keen Eye"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "43",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "43",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "35",
         "attack": "46",

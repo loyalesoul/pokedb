@@ -1,13 +1,13 @@
 {
     "name": "Zeraora",
     "national_no": null,
-    "type": [
-        "Electric"
-    ],
+    "type": "Electric",
     "species": "Thunderclap Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "44.5\u00a0kg (98.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Volt Absorb"
+    ],
     "training": {
         "ev_yield": "3 Speed",
         "catch_rate": "3",

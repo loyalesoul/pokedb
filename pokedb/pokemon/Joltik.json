@@ -8,7 +8,10 @@
     "species": "Attaching Pok\u00e9mon",
     "height": "0.1\u00a0m (0\u203204\u2033)",
     "weight": "0.6\u00a0kg (1.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Compound Eyes",
+        "Unnerve"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "190",

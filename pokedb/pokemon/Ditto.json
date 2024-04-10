@@ -1,9 +1,7 @@
 {
     "name": "Ditto",
-    "national_no": "0132",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Transform Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
@@ -11,16 +9,20 @@
         "Limber",
         "Imposter"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "35",
-    "base_happiness": "50",
-    "base_exp": "101",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Ditto"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "35",
+        "base_happiness": "50",
+        "base_exp": "101",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Ditto"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "48",
         "attack": "48",

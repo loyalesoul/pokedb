@@ -1,13 +1,14 @@
 {
     "name": "Nickit",
     "national_no": null,
-    "type": [
-        "Dark"
-    ],
+    "type": "Dark",
     "species": "Fox Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "8.9\u00a0kg (19.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Run Away",
+        "Unburden"
+    ],
     "training": {
         "ev_yield": "1 Sp. Def",
         "catch_rate": "255",

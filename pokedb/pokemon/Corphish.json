@@ -1,31 +1,32 @@
 {
     "name": "Corphish",
-    "national_no": "0341",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Ruffian Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "11.5\u00a0kg (25.4\u00a0lbs)",
     "abilities": [
         "Hyper Cutter",
-        "Shell Armor",
-        "Adaptability"
+        "Shell Armor"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "205",
-    "base_happiness": "50",
-    "base_exp": "62",
-    "growth_rate": "Fluctuating",
-    "egg_groups": [
-        "Water 1",
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "205",
+        "base_happiness": "50",
+        "base_exp": "62",
+        "growth_rate": "Fluctuating"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "43",
         "attack": "80",

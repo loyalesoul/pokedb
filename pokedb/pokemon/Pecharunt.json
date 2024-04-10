@@ -8,7 +8,9 @@
     "species": "Subjugation Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "0.3\u00a0kg (0.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Poison Puppeteer"
+    ],
     "training": {
         "ev_yield": "3 Defense",
         "catch_rate": "3",

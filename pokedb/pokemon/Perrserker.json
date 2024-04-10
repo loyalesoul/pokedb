@@ -1,13 +1,14 @@
 {
     "name": "Perrserker",
     "national_no": null,
-    "type": [
-        "Steel"
-    ],
+    "type": "Steel",
     "species": "Viking Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "28.0\u00a0kg (61.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Battle Armor",
+        "Tough Claws"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "90",

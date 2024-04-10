@@ -1,13 +1,14 @@
 {
     "name": "Eldegoss",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Cotton Bloom Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "2.5\u00a0kg (5.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Cotton Down",
+        "Regenerator"
+    ],
     "training": {
         "ev_yield": "2 Sp. Def",
         "catch_rate": "75",

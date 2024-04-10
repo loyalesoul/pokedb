@@ -1,10 +1,8 @@
 {
     "name": "Slowking",
-    "national_no": "0199",
+    "national_no": null,
     "type": [
         "Water",
-        "Psychic",
-        "Poison",
         "Psychic"
     ],
     "species": "Royal Pok\u00e9mon",
@@ -12,30 +10,26 @@
     "weight": "79.5\u00a0kg (175.3\u00a0lbs)",
     "abilities": [
         "Oblivious",
-        "Own Tempo",
-        "Regenerator",
-        "Curious Medicine",
-        "Own Tempo",
-        "Regenerator"
+        "Own Tempo"
     ],
-    "ev_yield": "2 Sp. Def",
-    "catch_rate": "70",
-    "base_happiness": "50",
-    "base_exp": "172",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Monster",
-        "Water 1",
-        "Monster",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "70",
+        "base_happiness": "50",
+        "base_exp": "172",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "75",

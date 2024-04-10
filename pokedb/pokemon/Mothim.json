@@ -1,6 +1,6 @@
 {
     "name": "Mothim",
-    "national_no": "0414",
+    "national_no": null,
     "type": [
         "Bug",
         "Flying"
@@ -12,19 +12,23 @@
         "Swarm",
         "Tinted Lens"
     ],
-    "ev_yield": "1 Attack, 1 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "148",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Attack, 1 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "148",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "0% female",
+            "100% male"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "94",

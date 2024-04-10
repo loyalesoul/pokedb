@@ -1,6 +1,6 @@
 {
     "name": "Combee",
-    "national_no": "0415",
+    "national_no": null,
     "type": [
         "Bug",
         "Flying"
@@ -12,19 +12,23 @@
         "Honey Gather",
         "Hustle"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "49",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "49",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "30",
         "attack": "30",

@@ -1,9 +1,7 @@
 {
     "name": "Kricketot",
-    "national_no": "0401",
-    "type": [
-        "Bug"
-    ],
+    "national_no": null,
+    "type": "Bug",
     "species": "Cricket Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "2.2\u00a0kg (4.9\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Shed Skin",
         "Run Away"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "39",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "39",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "37",
         "attack": "25",

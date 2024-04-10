@@ -2,13 +2,16 @@
     "name": "Krookodile",
     "national_no": null,
     "type": [
-        "Dark",
-        "Ground"
+        "Ground",
+        "Dark"
     ],
     "species": "Intimidation Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "96.3\u00a0kg (212.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Intimidate",
+        "Moxie"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",

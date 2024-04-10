@@ -1,6 +1,6 @@
 {
     "name": "Smoochum",
-    "national_no": "0238",
+    "national_no": null,
     "type": [
         "Ice",
         "Psychic"
@@ -10,22 +10,25 @@
     "weight": "6.0\u00a0kg (13.2\u00a0lbs)",
     "abilities": [
         "Oblivious",
-        "Forewarn",
-        "Hydration"
+        "Forewarn"
     ],
-    "ev_yield": "1 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "61",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "61",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "30",

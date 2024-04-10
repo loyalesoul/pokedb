@@ -8,7 +8,10 @@
     "species": "Jewel Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "5.7\u00a0kg (12.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Clear Body",
+        "Sturdy"
+    ],
     "training": {
         "ev_yield": "1 Defense, 1 Sp. Def",
         "catch_rate": "60",

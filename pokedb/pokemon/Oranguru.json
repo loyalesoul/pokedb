@@ -8,7 +8,10 @@
     "species": "Sage Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "76.0\u00a0kg (167.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Inner Focus",
+        "Telepathy"
+    ],
     "training": {
         "ev_yield": "2 Sp. Def",
         "catch_rate": "45",

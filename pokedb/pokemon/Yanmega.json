@@ -8,7 +8,10 @@
     "species": "Ogre Darner Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "51.5\u00a0kg (113.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Speed Boost",
+        "Tinted Lens"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "30",

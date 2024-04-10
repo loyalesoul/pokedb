@@ -1,6 +1,6 @@
 {
     "name": "Hoppip",
-    "national_no": "0187",
+    "national_no": null,
     "type": [
         "Grass",
         "Flying"
@@ -10,23 +10,26 @@
     "weight": "0.5\u00a0kg (1.1\u00a0lbs)",
     "abilities": [
         "Chlorophyll",
-        "Leaf Guard",
-        "Infiltrator"
+        "Leaf Guard"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "50",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Fairy",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "50",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "35",
         "attack": "35",

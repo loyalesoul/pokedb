@@ -1,9 +1,7 @@
 {
     "name": "Heracross",
-    "national_no": "0214",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Fighting",
         "Bug",
         "Fighting"
     ],
@@ -12,26 +10,25 @@
     "weight": "54.0\u00a0kg (119.0\u00a0lbs)",
     "abilities": [
         "Swarm",
-        "Guts",
-        "Moxie",
-        "Skill Link"
+        "Guts"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "175",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Bug",
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "175",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "125",

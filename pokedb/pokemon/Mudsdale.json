@@ -1,13 +1,14 @@
 {
     "name": "Mudsdale",
     "national_no": null,
-    "type": [
-        "Ground"
-    ],
+    "type": "Ground",
     "species": "Draft Horse Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "920.0\u00a0kg (2028.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Own Tempo",
+        "Stamina"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "60",

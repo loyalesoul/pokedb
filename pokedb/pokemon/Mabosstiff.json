@@ -1,13 +1,14 @@
 {
     "name": "Mabosstiff",
     "national_no": null,
-    "type": [
-        "Dark"
-    ],
+    "type": "Dark",
     "species": "Boss Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "61.0\u00a0kg (134.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Intimidate",
+        "Guard Dog"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "75",

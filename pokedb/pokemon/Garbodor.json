@@ -1,13 +1,14 @@
 {
     "name": "Garbodor",
     "national_no": null,
-    "type": [
-        "Poison"
-    ],
+    "type": "Poison",
     "species": "Trash Heap Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "107.3\u00a0kg (236.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Stench",
+        "Weak Armor"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "60",

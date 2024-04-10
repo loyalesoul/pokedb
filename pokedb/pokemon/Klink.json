@@ -1,13 +1,14 @@
 {
     "name": "Klink",
     "national_no": null,
-    "type": [
-        "Steel"
-    ],
+    "type": "Steel",
     "species": "Gear Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "21.0\u00a0kg (46.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Plus",
+        "Minus"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "130",

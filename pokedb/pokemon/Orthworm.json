@@ -1,13 +1,14 @@
 {
     "name": "Orthworm",
     "national_no": null,
-    "type": [
-        "Steel"
-    ],
+    "type": "Steel",
     "species": "Earthworm Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "310.0\u00a0kg (683.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Earth Eater",
+        "Sand Veil"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "25",

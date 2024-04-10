@@ -1,9 +1,7 @@
 {
     "name": "Cacnea",
-    "national_no": "0331",
-    "type": [
-        "Grass"
-    ],
+    "national_no": null,
+    "type": "Grass",
     "species": "Cactus Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "51.3\u00a0kg (113.1\u00a0lbs)",
@@ -11,20 +9,24 @@
         "Sand Veil",
         "Water Absorb"
     ],
-    "ev_yield": "1 Sp. Atk",
-    "catch_rate": "190",
-    "base_happiness": "35",
-    "base_exp": "67",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "190",
+        "base_happiness": "35",
+        "base_exp": "67",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "85",

@@ -1,30 +1,31 @@
 {
     "name": "Purugly",
-    "national_no": "0432",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Tiger Cat Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "43.8\u00a0kg (96.6\u00a0lbs)",
     "abilities": [
         "Thick Fat",
-        "Own Tempo",
-        "Defiant"
+        "Own Tempo"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "158",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "158",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "71",
         "attack": "82",

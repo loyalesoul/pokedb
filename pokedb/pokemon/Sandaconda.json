@@ -1,13 +1,14 @@
 {
     "name": "Sandaconda",
     "national_no": null,
-    "type": [
-        "Ground"
-    ],
+    "type": "Ground",
     "species": "Sand Snake Pok\u00e9mon",
     "height": "3.8\u00a0m (12\u203206\u2033)",
     "weight": "65.5\u00a0kg (144.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sand Spit",
+        "Shed Skin"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "120",

@@ -1,9 +1,7 @@
 {
     "name": "Salamence",
-    "national_no": "0373",
+    "national_no": null,
     "type": [
-        "Dragon",
-        "Flying",
         "Dragon",
         "Flying"
     ],
@@ -12,25 +10,25 @@
     "weight": "102.6\u00a0kg (226.2\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Moxie",
-        "Aerilate"
+        "Moxie"
     ],
-    "ev_yield": "3 Attack",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "300",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon",
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "300",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "135",

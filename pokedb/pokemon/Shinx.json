@@ -1,30 +1,31 @@
 {
     "name": "Shinx",
-    "national_no": "0403",
-    "type": [
-        "Electric"
-    ],
+    "national_no": null,
+    "type": "Electric",
     "species": "Flash Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "9.5\u00a0kg (20.9\u00a0lbs)",
     "abilities": [
         "Rivalry",
-        "Intimidate",
-        "Guts"
+        "Intimidate"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "235",
-    "base_happiness": "50",
-    "base_exp": "53",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "235",
+        "base_happiness": "50",
+        "base_exp": "53",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "65",

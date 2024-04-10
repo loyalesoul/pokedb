@@ -1,14 +1,14 @@
 {
     "name": "Kyurem",
     "national_no": null,
-    "type": [
-        "Dragon",
-        "Ice"
-    ],
+    "type": "Dragon",
     "species": "Boundary Pok\u00e9mon",
     "height": "3.0\u00a0m (9\u203210\u2033)",
     "weight": "325.0\u00a0kg (716.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Pressure",
+        "Turboblaze"
+    ],
     "training": {
         "ev_yield": "1 HP, 1 Attack, 1 Sp. Atk",
         "catch_rate": "3",

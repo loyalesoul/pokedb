@@ -2,13 +2,16 @@
     "name": "Skeledirge",
     "national_no": null,
     "type": [
-        "Ghost",
-        "Fire"
+        "Fire",
+        "Ghost"
     ],
     "species": "Singer Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "326.5\u00a0kg (719.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Blaze",
+        "Unaware"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "45",

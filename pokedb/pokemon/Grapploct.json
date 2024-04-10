@@ -1,13 +1,14 @@
 {
     "name": "Grapploct",
     "national_no": null,
-    "type": [
-        "Fighting"
-    ],
+    "type": "Fighting",
     "species": "Tantrum Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "39.0\u00a0kg (86.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Limber",
+        "Technician"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",

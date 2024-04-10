@@ -1,6 +1,6 @@
 {
     "name": "Mantyke",
-    "national_no": "0458",
+    "national_no": null,
     "type": [
         "Water",
         "Flying"
@@ -10,22 +10,25 @@
     "weight": "65.0\u00a0kg (143.3\u00a0lbs)",
     "abilities": [
         "Swift Swim",
-        "Water Absorb",
-        "Water Veil"
+        "Water Absorb"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "25",
-    "base_happiness": "50",
-    "base_exp": "69",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "25",
+        "base_happiness": "50",
+        "base_exp": "69",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "20",

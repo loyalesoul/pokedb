@@ -8,7 +8,9 @@
     "species": "Sea Creeper Pok\u00e9mon",
     "height": "3.9\u00a0m (12\u203210\u2033)",
     "weight": "210.0\u00a0kg (463.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Steelworker"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "25",

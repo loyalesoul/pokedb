@@ -1,13 +1,14 @@
 {
     "name": "Tepig",
     "national_no": null,
-    "type": [
-        "Fire"
-    ],
+    "type": "Fire",
     "species": "Fire Pig Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "9.9\u00a0kg (21.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Blaze",
+        "Thick Fat"
+    ],
     "training": {
         "ev_yield": "1 HP",
         "catch_rate": "45",

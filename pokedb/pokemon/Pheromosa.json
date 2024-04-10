@@ -2,13 +2,15 @@
     "name": "Pheromosa",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Bug"
+        "Bug",
+        "Fighting"
     ],
     "species": "Lissome Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "25.0\u00a0kg (55.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Beast Boost"
+    ],
     "training": {
         "ev_yield": "3 Speed",
         "catch_rate": "45",

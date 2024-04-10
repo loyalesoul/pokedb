@@ -1,6 +1,6 @@
 {
     "name": "Dragonite",
-    "national_no": "0149",
+    "national_no": null,
     "type": [
         "Dragon",
         "Flying"
@@ -12,20 +12,24 @@
         "Inner Focus",
         "Multiscale"
     ],
-    "ev_yield": "3 Attack",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "300",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "300",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "91",
         "attack": "134",

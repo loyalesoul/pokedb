@@ -1,28 +1,30 @@
 {
     "name": "Mismagius",
-    "national_no": "0429",
-    "type": [
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Ghost",
     "species": "Magical Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "4.4\u00a0kg (9.7\u00a0lbs)",
     "abilities": [
         "Levitate"
     ],
-    "ev_yield": "1 Sp. Atk, 1 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "173",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Atk, 1 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "173",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "60",

@@ -1,14 +1,14 @@
 {
     "name": "Gourgeist",
     "national_no": null,
-    "type": [
-        "Ghost",
-        "Grass"
-    ],
+    "type": "Ghost",
     "species": "Pumpkin Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "12.5\u00a0kg (27.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Pickup",
+        "Frisk"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "60",

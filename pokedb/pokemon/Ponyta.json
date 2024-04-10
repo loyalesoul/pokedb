@@ -1,6 +1,6 @@
 {
     "name": "Ponyta",
-    "national_no": "0077",
+    "national_no": null,
     "type": [
         "Fire",
         "Psychic"
@@ -10,28 +10,25 @@
     "weight": "30.0\u00a0kg (66.1\u00a0lbs)",
     "abilities": [
         "Run Away",
-        "Flash Fire",
-        "Flame Body",
-        "Run Away",
-        "Pastel Veil",
-        "Anticipation"
+        "Flash Fire"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "82",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "82",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "85",

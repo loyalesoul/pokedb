@@ -1,14 +1,14 @@
 {
     "name": "Avalugg",
     "national_no": null,
-    "type": [
-        "Rock",
-        "Ice"
-    ],
+    "type": "Ice",
     "species": "Iceberg Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "505.0\u00a0kg (1113.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Own Tempo",
+        "Ice Body"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "55",

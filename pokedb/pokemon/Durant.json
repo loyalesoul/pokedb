@@ -2,13 +2,16 @@
     "name": "Durant",
     "national_no": null,
     "type": [
-        "Steel",
-        "Bug"
+        "Bug",
+        "Steel"
     ],
     "species": "Iron Ant Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "33.0\u00a0kg (72.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Swarm",
+        "Hustle"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "90",

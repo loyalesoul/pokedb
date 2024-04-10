@@ -8,7 +8,10 @@
     "species": "Daunting Pok\u00e9mon",
     "height": "2.1\u00a0m (6\u203211\u2033)",
     "weight": "136.0\u00a0kg (299.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Iron Fist",
+        "Mold Breaker"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "65",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Field",
-            "Human-Like"
+            "Human-Like",
+            "Field"
         ],
         "gender_ratio": [
             "50% male",

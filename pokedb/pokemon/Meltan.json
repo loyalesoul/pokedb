@@ -1,13 +1,13 @@
 {
     "name": "Meltan",
     "national_no": null,
-    "type": [
-        "Steel"
-    ],
+    "type": "Steel",
     "species": "Hex Nut Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Magnet Pull"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "3",

@@ -2,13 +2,16 @@
     "name": "Excadrill",
     "national_no": null,
     "type": [
-        "Steel",
-        "Ground"
+        "Ground",
+        "Steel"
     ],
     "species": "Subterrene Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "40.4\u00a0kg (89.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sand Rush",
+        "Sand Force"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "60",

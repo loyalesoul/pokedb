@@ -1,6 +1,6 @@
 {
     "name": "Roselia",
-    "national_no": "0315",
+    "national_no": null,
     "type": [
         "Grass",
         "Poison"
@@ -10,23 +10,26 @@
     "weight": "2.0\u00a0kg (4.4\u00a0lbs)",
     "abilities": [
         "Natural Cure",
-        "Poison Point",
-        "Leaf Guard"
+        "Poison Point"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "150",
-    "base_happiness": "50",
-    "base_exp": "140",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Fairy",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "150",
+        "base_happiness": "50",
+        "base_exp": "140",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "60",

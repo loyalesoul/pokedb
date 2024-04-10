@@ -1,13 +1,14 @@
 {
     "name": "Gothitelle",
     "national_no": null,
-    "type": [
-        "Psychic"
-    ],
+    "type": "Psychic",
     "species": "Astral Body Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "44.0\u00a0kg (97.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Frisk",
+        "Competitive"
+    ],
     "training": {
         "ev_yield": "3 Sp. Def",
         "catch_rate": "50",
@@ -20,8 +21,8 @@
             "Human-Like"
         ],
         "gender_ratio": [
-            "25% male",
-            "75% female"
+            "75% female",
+            "25% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

@@ -8,7 +8,9 @@
     "species": "Rogue Monkey Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "70.0\u00a0kg (154.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Leaf Guard"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "3",

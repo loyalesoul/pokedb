@@ -1,9 +1,7 @@
 {
     "name": "Steelix",
-    "national_no": "0208",
+    "national_no": null,
     "type": [
-        "Steel",
-        "Ground",
         "Steel",
         "Ground"
     ],
@@ -12,26 +10,25 @@
     "weight": "400.0\u00a0kg (881.8\u00a0lbs)",
     "abilities": [
         "Rock Head",
-        "Sturdy",
-        "Sheer Force",
-        "Sand Force"
+        "Sturdy"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "25",
-    "base_happiness": "50",
-    "base_exp": "179",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "25",
+        "base_happiness": "50",
+        "base_exp": "179",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "85",

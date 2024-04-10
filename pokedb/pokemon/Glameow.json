@@ -1,30 +1,31 @@
 {
     "name": "Glameow",
-    "national_no": "0431",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Catty Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "3.9\u00a0kg (8.6\u00a0lbs)",
     "abilities": [
         "Limber",
-        "Own Tempo",
-        "Keen Eye"
+        "Own Tempo"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "62",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "62",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "49",
         "attack": "55",

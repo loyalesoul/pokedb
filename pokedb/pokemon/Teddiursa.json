@@ -1,30 +1,31 @@
 {
     "name": "Teddiursa",
-    "national_no": "0216",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Little Bear Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "8.8\u00a0kg (19.4\u00a0lbs)",
     "abilities": [
         "Pickup",
-        "Quick Feet",
-        "Honey Gather"
+        "Quick Feet"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "66",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "66",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "80",

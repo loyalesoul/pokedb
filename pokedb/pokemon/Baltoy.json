@@ -1,6 +1,6 @@
 {
     "name": "Baltoy",
-    "national_no": "0343",
+    "national_no": null,
     "type": [
         "Ground",
         "Psychic"
@@ -11,16 +11,20 @@
     "abilities": [
         "Levitate"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "60",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "60",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "40",

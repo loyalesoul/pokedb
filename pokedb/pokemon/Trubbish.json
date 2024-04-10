@@ -1,13 +1,14 @@
 {
     "name": "Trubbish",
     "national_no": null,
-    "type": [
-        "Poison"
-    ],
+    "type": "Poison",
     "species": "Trash Bag Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "31.0\u00a0kg (68.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Stench",
+        "Sticky Hold"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "190",

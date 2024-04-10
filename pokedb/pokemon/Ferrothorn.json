@@ -2,13 +2,16 @@
     "name": "Ferrothorn",
     "national_no": null,
     "type": [
-        "Steel",
-        "Grass"
+        "Grass",
+        "Steel"
     ],
     "species": "Thorn Pod Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "110.0\u00a0kg (242.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Iron Barbs",
+        "Anticipation"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "90",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Grass",
-            "Mineral"
+            "Mineral",
+            "Grass"
         ],
         "gender_ratio": [
             "50% male",

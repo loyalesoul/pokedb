@@ -2,14 +2,16 @@
     "name": "Decidueye",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Ghost",
-        "Grass"
+        "Grass",
+        "Ghost"
     ],
     "species": "Arrow Quill Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "36.6\u00a0kg (80.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overgrow",
+        "Long Reach"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",

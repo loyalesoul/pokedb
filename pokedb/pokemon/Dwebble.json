@@ -8,7 +8,10 @@
     "species": "Rock Inn Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "14.5\u00a0kg (32.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sturdy",
+        "Shell Armor"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "190",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Bug",
-            "Mineral"
+            "Mineral",
+            "Bug"
         ],
         "gender_ratio": [
             "50% male",

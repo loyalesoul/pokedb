@@ -1,37 +1,32 @@
 {
     "name": "Ampharos",
-    "national_no": "0181",
-    "type": [
-        "Electric",
-        "Electric",
-        "Dragon"
-    ],
+    "national_no": null,
+    "type": "Electric",
     "species": "Light Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "61.5\u00a0kg (135.6\u00a0lbs)",
     "abilities": [
         "Static",
-        "Plus",
-        "Mold Breaker"
+        "Plus"
     ],
-    "ev_yield": "3 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "255",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Monster",
-        "Field",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "255",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "75",

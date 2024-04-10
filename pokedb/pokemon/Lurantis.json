@@ -1,13 +1,14 @@
 {
     "name": "Lurantis",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Bloom Sickle Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "18.5\u00a0kg (40.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Leaf Guard",
+        "Contrary"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "75",

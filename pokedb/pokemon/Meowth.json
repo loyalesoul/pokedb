@@ -1,44 +1,31 @@
 {
     "name": "Meowth",
-    "national_no": "0052",
-    "type": [
-        "Normal",
-        "Dark",
-        "Steel"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Scratch Cat Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.2\u00a0kg (9.3\u00a0lbs)",
     "abilities": [
         "Pickup",
-        "Technician",
-        "Unnerve",
-        "Pickup",
-        "Technician",
-        "Rattled",
-        "Pickup",
-        "Tough Claws",
-        "Unnerve"
+        "Technician"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "58",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "58",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "45",

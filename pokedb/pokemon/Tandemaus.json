@@ -1,13 +1,14 @@
 {
     "name": "Tandemaus",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Couple Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.8\u00a0kg (4.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Run Away",
+        "Pickup"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "150",

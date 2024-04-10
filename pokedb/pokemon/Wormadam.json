@@ -1,44 +1,31 @@
 {
     "name": "Wormadam",
-    "national_no": "0413",
-    "type": [
-        "Bug",
-        "Grass",
-        "Bug",
-        "Ground",
-        "Bug",
-        "Steel"
-    ],
+    "national_no": null,
+    "type": "Bug",
     "species": "Bagworm Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "6.5\u00a0kg (14.3\u00a0lbs)",
     "abilities": [
         "Anticipation",
-        "Overcoat",
-        "Anticipation",
-        "Overcoat",
-        "Anticipation",
         "Overcoat"
     ],
-    "ev_yield": "2 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "148",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug",
-        "Bug",
-        "Bug"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "148",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "59",

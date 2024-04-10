@@ -1,30 +1,31 @@
 {
     "name": "Nosepass",
-    "national_no": "0299",
-    "type": [
-        "Rock"
-    ],
+    "national_no": null,
+    "type": "Rock",
     "species": "Compass Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "97.0\u00a0kg (213.8\u00a0lbs)",
     "abilities": [
         "Sturdy",
-        "Magnet Pull",
-        "Sand Force"
+        "Magnet Pull"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "75",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "75",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "30",
         "attack": "45",

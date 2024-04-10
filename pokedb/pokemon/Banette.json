@@ -1,35 +1,31 @@
 {
     "name": "Banette",
-    "national_no": "0354",
-    "type": [
-        "Ghost",
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Ghost",
     "species": "Marionette Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "12.5\u00a0kg (27.6\u00a0lbs)",
     "abilities": [
         "Insomnia",
-        "Frisk",
-        "Cursed Body",
-        "Prankster"
+        "Frisk"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "159",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Amorphous",
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "159",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "64",
         "attack": "115",

@@ -1,13 +1,14 @@
 {
     "name": "Braixen",
     "national_no": null,
-    "type": [
-        "Fire"
-    ],
+    "type": "Fire",
     "species": "Fox Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "14.5\u00a0kg (32.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Blaze",
+        "Magician"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "45",

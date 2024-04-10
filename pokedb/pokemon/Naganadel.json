@@ -8,7 +8,9 @@
     "species": "Poison Pin Pok\u00e9mon",
     "height": "3.6\u00a0m (11\u203210\u2033)",
     "weight": "150.0\u00a0kg (330.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Beast Boost"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "45",

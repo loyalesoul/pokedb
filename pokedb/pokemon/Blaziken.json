@@ -1,9 +1,7 @@
 {
     "name": "Blaziken",
-    "national_no": "0257",
+    "national_no": null,
     "type": [
-        "Fire",
-        "Fighting",
         "Fire",
         "Fighting"
     ],
@@ -12,25 +10,25 @@
     "weight": "52.0\u00a0kg (114.6\u00a0lbs)",
     "abilities": [
         "Blaze",
-        "Speed Boost",
         "Speed Boost"
     ],
-    "ev_yield": "3 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "239",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "239",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "120",

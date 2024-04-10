@@ -1,38 +1,35 @@
 {
     "name": "Altaria",
-    "national_no": "0334",
+    "national_no": null,
     "type": [
         "Dragon",
-        "Flying",
-        "Dragon",
-        "Fairy"
+        "Flying"
     ],
     "species": "Humming Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "20.6\u00a0kg (45.4\u00a0lbs)",
     "abilities": [
         "Natural Cure",
-        "Cloud Nine",
-        "Pixilate"
+        "Cloud Nine"
     ],
-    "ev_yield": "2 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "172",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Dragon",
-        "Flying",
-        "Dragon",
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "172",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "70",

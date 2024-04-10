@@ -1,30 +1,31 @@
 {
     "name": "Clefable",
-    "national_no": "0036",
-    "type": [
-        "Fairy"
-    ],
+    "national_no": null,
+    "type": "Fairy",
     "species": "Fairy Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "40.0\u00a0kg (88.2\u00a0lbs)",
     "abilities": [
         "Cute Charm",
-        "Magic Guard",
-        "Unaware"
+        "Magic Guard"
     ],
-    "ev_yield": "3 HP",
-    "catch_rate": "25",
-    "base_happiness": "140",
-    "base_exp": "217",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "training": {
+        "ev_yield": "3 HP",
+        "catch_rate": "25",
+        "base_happiness": "140",
+        "base_exp": "217",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "70",

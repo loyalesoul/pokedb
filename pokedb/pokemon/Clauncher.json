@@ -1,13 +1,13 @@
 {
     "name": "Clauncher",
     "national_no": null,
-    "type": [
-        "Water"
-    ],
+    "type": "Water",
     "species": "Water Gun Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "8.3\u00a0kg (18.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Mega Launcher"
+    ],
     "training": {
         "ev_yield": "1 Sp. Atk",
         "catch_rate": "225",

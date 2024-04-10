@@ -8,7 +8,10 @@
     "species": "Flailing Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "6.8\u00a0kg (15.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Fluffy",
+        "Klutz"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "140",

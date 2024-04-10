@@ -1,6 +1,6 @@
 {
     "name": "Vulpix",
-    "national_no": "0037",
+    "national_no": null,
     "type": [
         "Fire",
         "Ice"
@@ -10,26 +10,25 @@
     "weight": "9.9\u00a0kg (21.8\u00a0lbs)",
     "abilities": [
         "Flash Fire",
-        "Drought",
-        "Snow Cloak",
-        "Snow Warning"
+        "Drought"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "60",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female",
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "60",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "38",
         "attack": "41",

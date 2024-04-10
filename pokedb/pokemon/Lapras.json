@@ -1,6 +1,6 @@
 {
     "name": "Lapras",
-    "national_no": "0131",
+    "national_no": null,
     "type": [
         "Water",
         "Ice"
@@ -10,23 +10,26 @@
     "weight": "220.0\u00a0kg (485.0\u00a0lbs)",
     "abilities": [
         "Water Absorb",
-        "Shell Armor",
-        "Hydration"
+        "Shell Armor"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "187",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Monster",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "187",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "130",
         "attack": "85",

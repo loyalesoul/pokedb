@@ -1,6 +1,6 @@
 {
     "name": "Aron",
-    "national_no": "0304",
+    "national_no": null,
     "type": [
         "Steel",
         "Rock"
@@ -10,22 +10,25 @@
     "weight": "60.0\u00a0kg (132.3\u00a0lbs)",
     "abilities": [
         "Sturdy",
-        "Rock Head",
-        "Heavy Metal"
+        "Rock Head"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "180",
-    "base_happiness": "35",
-    "base_exp": "66",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "180",
+        "base_happiness": "35",
+        "base_exp": "66",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "70",

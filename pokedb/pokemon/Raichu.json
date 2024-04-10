@@ -1,37 +1,32 @@
 {
     "name": "Raichu",
-    "national_no": "0026",
-    "type": [
-        "Electric",
-        "Electric",
-        "Psychic"
-    ],
+    "national_no": null,
+    "type": "Electric",
     "species": "Mouse Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "30.0\u00a0kg (66.1\u00a0lbs)",
     "abilities": [
         "Static",
-        "Lightning Rod",
-        "Surge Surfer"
+        "Lightning Rod"
     ],
-    "ev_yield": "3 Speed",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "243",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Field",
-        "Fairy",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "training": {
+        "ev_yield": "3 Speed",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "243",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "90",

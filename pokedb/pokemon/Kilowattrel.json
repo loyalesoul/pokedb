@@ -2,13 +2,16 @@
     "name": "Kilowattrel",
     "national_no": null,
     "type": [
-        "Flying",
-        "Electric"
+        "Electric",
+        "Flying"
     ],
     "species": "Frigatebird Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "38.6\u00a0kg (85.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Wind Power",
+        "Volt Absorb"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "90",

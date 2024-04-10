@@ -1,6 +1,6 @@
 {
     "name": "Beldum",
-    "national_no": "0374",
+    "national_no": null,
     "type": [
         "Steel",
         "Psychic"
@@ -12,16 +12,20 @@
         "Clear Body",
         "Light Metal"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "3",
-    "base_happiness": "35",
-    "base_exp": "60",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "3",
+        "base_happiness": "35",
+        "base_exp": "60",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "55",

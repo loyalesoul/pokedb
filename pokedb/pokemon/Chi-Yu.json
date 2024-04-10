@@ -8,7 +8,9 @@
     "species": "Ruinous Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.9\u00a0kg (10.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Beads of Ruin"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "6",

@@ -1,13 +1,11 @@
 {
     "name": "Wishiwashi",
     "national_no": null,
-    "type": [
-        "Water"
-    ],
+    "type": "Water",
     "species": "Small Fry Pok\u00e9mon",
     "height": "0.2\u00a0m (0\u203208\u2033)",
     "weight": "0.3\u00a0kg (0.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": "Schooling",
     "training": {
         "ev_yield": "1 HP",
         "catch_rate": "60",

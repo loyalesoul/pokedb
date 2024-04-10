@@ -1,31 +1,32 @@
 {
     "name": "Pachirisu",
-    "national_no": "0417",
-    "type": [
-        "Electric"
-    ],
+    "national_no": null,
+    "type": "Electric",
     "species": "EleSquirrel Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "3.9\u00a0kg (8.6\u00a0lbs)",
     "abilities": [
         "Run Away",
-        "Pickup",
-        "Volt Absorb"
+        "Pickup"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "200",
-    "base_happiness": "100",
-    "base_exp": "142",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "200",
+        "base_happiness": "100",
+        "base_exp": "142",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "45",

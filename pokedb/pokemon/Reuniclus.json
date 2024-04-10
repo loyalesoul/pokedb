@@ -1,13 +1,14 @@
 {
     "name": "Reuniclus",
     "national_no": null,
-    "type": [
-        "Psychic"
-    ],
+    "type": "Psychic",
     "species": "Multiplying Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "20.1\u00a0kg (44.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overcoat",
+        "Magic Guard"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "50",

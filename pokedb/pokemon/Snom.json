@@ -2,13 +2,16 @@
     "name": "Snom",
     "national_no": null,
     "type": [
-        "Bug",
-        "Ice"
+        "Ice",
+        "Bug"
     ],
     "species": "Worm Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.8\u00a0kg (8.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Shield Dust",
+        "Ice Scales"
+    ],
     "training": {
         "ev_yield": "1 Sp. Atk",
         "catch_rate": "190",

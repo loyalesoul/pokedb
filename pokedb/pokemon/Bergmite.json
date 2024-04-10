@@ -1,13 +1,14 @@
 {
     "name": "Bergmite",
     "national_no": null,
-    "type": [
-        "Ice"
-    ],
+    "type": "Ice",
     "species": "Ice Chunk Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "99.5\u00a0kg (219.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Own Tempo",
+        "Ice Body"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "190",

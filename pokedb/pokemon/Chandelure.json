@@ -8,7 +8,10 @@
     "species": "Luring Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "34.3\u00a0kg (75.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Flash Fire",
+        "Flame Body"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "45",

@@ -2,13 +2,16 @@
     "name": "Frosmoth",
     "national_no": null,
     "type": [
-        "Bug",
-        "Ice"
+        "Ice",
+        "Bug"
     ],
     "species": "Frost Moth Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "42.0\u00a0kg (92.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Shield Dust",
+        "Ice Scales"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "75",

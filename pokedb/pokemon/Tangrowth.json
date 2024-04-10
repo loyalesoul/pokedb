@@ -1,13 +1,14 @@
 {
     "name": "Tangrowth",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Vine Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "128.6\u00a0kg (283.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "30",

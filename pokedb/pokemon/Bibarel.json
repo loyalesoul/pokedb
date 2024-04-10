@@ -1,6 +1,6 @@
 {
     "name": "Bibarel",
-    "national_no": "0400",
+    "national_no": null,
     "type": [
         "Normal",
         "Water"
@@ -10,23 +10,26 @@
     "weight": "31.5\u00a0kg (69.4\u00a0lbs)",
     "abilities": [
         "Simple",
-        "Unaware",
-        "Moody"
+        "Unaware"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "127",
-    "base_happiness": "50",
-    "base_exp": "144",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "127",
+        "base_happiness": "50",
+        "base_exp": "144",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "79",
         "attack": "85",

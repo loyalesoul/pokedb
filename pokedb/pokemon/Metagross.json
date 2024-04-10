@@ -1,9 +1,7 @@
 {
     "name": "Metagross",
-    "national_no": "0376",
+    "national_no": null,
     "type": [
-        "Steel",
-        "Psychic",
         "Steel",
         "Psychic"
     ],
@@ -12,20 +10,22 @@
     "weight": "550.0\u00a0kg (1212.5\u00a0lbs)",
     "abilities": [
         "Clear Body",
-        "Light Metal",
-        "Tough Claws"
+        "Light Metal"
     ],
-    "ev_yield": "3 Defense",
-    "catch_rate": "3",
-    "base_happiness": "35",
-    "base_exp": "270",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Mineral",
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "3 Defense",
+        "catch_rate": "3",
+        "base_happiness": "35",
+        "base_exp": "270",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "135",

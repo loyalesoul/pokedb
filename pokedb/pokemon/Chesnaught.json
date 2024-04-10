@@ -2,13 +2,16 @@
     "name": "Chesnaught",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Grass"
+        "Grass",
+        "Fighting"
     ],
     "species": "Spiny Armor Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "90.0\u00a0kg (198.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overgrow",
+        "Bulletproof"
+    ],
     "training": {
         "ev_yield": "3 Defense",
         "catch_rate": "45",

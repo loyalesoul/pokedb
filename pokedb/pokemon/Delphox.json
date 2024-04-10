@@ -2,13 +2,16 @@
     "name": "Delphox",
     "national_no": null,
     "type": [
-        "Psychic",
-        "Fire"
+        "Fire",
+        "Psychic"
     ],
     "species": "Fox Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "39.0\u00a0kg (86.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Blaze",
+        "Magician"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "45",

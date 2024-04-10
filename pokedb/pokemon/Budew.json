@@ -1,6 +1,6 @@
 {
     "name": "Budew",
-    "national_no": "0406",
+    "national_no": null,
     "type": [
         "Grass",
         "Poison"
@@ -10,22 +10,25 @@
     "weight": "1.2\u00a0kg (2.6\u00a0lbs)",
     "abilities": [
         "Natural Cure",
-        "Poison Point",
-        "Leaf Guard"
+        "Poison Point"
     ],
-    "ev_yield": "1 Sp. Atk",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "56",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "56",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "30",

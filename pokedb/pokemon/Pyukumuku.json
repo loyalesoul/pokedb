@@ -1,13 +1,14 @@
 {
     "name": "Pyukumuku",
     "national_no": null,
-    "type": [
-        "Water"
-    ],
+    "type": "Water",
     "species": "Sea Cucumber Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.2\u00a0kg (2.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Innards Out",
+        "Unaware"
+    ],
     "training": {
         "ev_yield": "2 Sp. Def",
         "catch_rate": "60",

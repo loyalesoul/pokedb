@@ -1,9 +1,7 @@
 {
     "name": "Meganium",
-    "national_no": "0154",
-    "type": [
-        "Grass"
-    ],
+    "national_no": null,
+    "type": "Grass",
     "species": "Herb Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "100.5\u00a0kg (221.6\u00a0lbs)",
@@ -11,20 +9,24 @@
         "Overgrow",
         "Leaf Guard"
     ],
-    "ev_yield": "1 Defense, 2 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "236",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Defense, 2 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "236",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "82",

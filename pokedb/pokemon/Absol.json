@@ -1,35 +1,31 @@
 {
     "name": "Absol",
-    "national_no": "0359",
-    "type": [
-        "Dark",
-        "Dark"
-    ],
+    "national_no": null,
+    "type": "Dark",
     "species": "Disaster Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "47.0\u00a0kg (103.6\u00a0lbs)",
     "abilities": [
         "Pressure",
-        "Super Luck",
-        "Justified",
-        "Magic Bounce"
+        "Super Luck"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "30",
-    "base_happiness": "35",
-    "base_exp": "163",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "30",
+        "base_happiness": "35",
+        "base_exp": "163",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "130",

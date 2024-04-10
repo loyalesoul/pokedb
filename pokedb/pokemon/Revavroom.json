@@ -8,7 +8,10 @@
     "species": "Multi-Cyl Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "120.0\u00a0kg (264.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overcoat",
+        "Filter"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "75",

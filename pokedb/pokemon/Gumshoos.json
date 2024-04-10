@@ -1,13 +1,14 @@
 {
     "name": "Gumshoos",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Stakeout Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "14.2\u00a0kg (31.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Strong Jaw",
+        "Stakeout"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "127",

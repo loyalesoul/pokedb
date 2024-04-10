@@ -1,13 +1,14 @@
 {
     "name": "Cubchoo",
     "national_no": null,
-    "type": [
-        "Ice"
-    ],
+    "type": "Ice",
     "species": "Chill Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "8.5\u00a0kg (18.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Snow Cloak",
+        "Slush Rush"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "120",

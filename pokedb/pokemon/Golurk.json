@@ -2,13 +2,16 @@
     "name": "Golurk",
     "national_no": null,
     "type": [
-        "Ghost",
-        "Ground"
+        "Ground",
+        "Ghost"
     ],
     "species": "Automaton Pok\u00e9mon",
     "height": "2.8\u00a0m (9\u203202\u2033)",
     "weight": "330.0\u00a0kg (727.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Iron Fist",
+        "Klutz"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "90",

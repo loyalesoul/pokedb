@@ -1,9 +1,7 @@
 {
     "name": "Seviper",
-    "national_no": "0336",
-    "type": [
-        "Poison"
-    ],
+    "national_no": null,
+    "type": "Poison",
     "species": "Fang Snake Pok\u00e9mon",
     "height": "2.7\u00a0m (8\u203210\u2033)",
     "weight": "52.5\u00a0kg (115.7\u00a0lbs)",
@@ -11,20 +9,24 @@
         "Shed Skin",
         "Infiltrator"
     ],
-    "ev_yield": "1 Attack, 1 Sp. Atk",
-    "catch_rate": "90",
-    "base_happiness": "50",
-    "base_exp": "160",
-    "growth_rate": "Fluctuating",
-    "egg_groups": [
-        "Dragon",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack, 1 Sp. Atk",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "160",
+        "growth_rate": "Fluctuating"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "73",
         "attack": "100",

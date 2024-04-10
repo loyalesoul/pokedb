@@ -2,13 +2,15 @@
     "name": "Buzzwole",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Bug"
+        "Bug",
+        "Fighting"
     ],
     "species": "Swollen Pok\u00e9mon",
     "height": "2.4\u00a0m (7\u203210\u2033)",
     "weight": "333.6\u00a0kg (735.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Beast Boost"
+    ],
     "training": {
         "ev_yield": "1 Attack, 2 Defense",
         "catch_rate": "45",

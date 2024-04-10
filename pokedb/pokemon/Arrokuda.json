@@ -1,13 +1,14 @@
 {
     "name": "Arrokuda",
     "national_no": null,
-    "type": [
-        "Water"
-    ],
+    "type": "Water",
     "species": "Rush Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "1.0\u00a0kg (2.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Swift Swim",
+        "Propeller Tail"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "255",

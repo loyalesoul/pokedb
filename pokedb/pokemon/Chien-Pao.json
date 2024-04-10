@@ -8,7 +8,9 @@
     "species": "Ruinous Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "152.2\u00a0kg (335.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sword of Ruin"
+    ],
     "training": {
         "ev_yield": "3 Speed",
         "catch_rate": "6",

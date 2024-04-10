@@ -1,13 +1,14 @@
 {
     "name": "Gimmighoul",
     "national_no": null,
-    "type": [
-        "Ghost"
-    ],
+    "type": "Ghost",
     "species": "Coin Chest Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "5.0\u00a0kg (11.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Rattled",
+        "Run Away"
+    ],
     "training": {
         "ev_yield": "1 Sp. Atk",
         "catch_rate": "45",

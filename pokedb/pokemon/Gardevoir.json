@@ -1,9 +1,7 @@
 {
     "name": "Gardevoir",
-    "national_no": "0282",
+    "national_no": null,
     "type": [
-        "Psychic",
-        "Fairy",
         "Psychic",
         "Fairy"
     ],
@@ -12,27 +10,26 @@
     "weight": "48.4\u00a0kg (106.7\u00a0lbs)",
     "abilities": [
         "Synchronize",
-        "Trace",
-        "Telepathy",
-        "Pixilate"
+        "Trace"
     ],
-    "ev_yield": "3 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "259",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Amorphous",
-        "Human-Like",
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "259",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous",
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "68",
         "attack": "65",

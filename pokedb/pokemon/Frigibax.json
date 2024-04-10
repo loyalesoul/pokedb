@@ -8,7 +8,10 @@
     "species": "Ice Fin Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "17.0\u00a0kg (37.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Thermal Exchange",
+        "Ice Body"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "45",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Dragon",
-            "Mineral"
+            "Mineral",
+            "Dragon"
         ],
         "gender_ratio": [
             "50% male",

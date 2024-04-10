@@ -2,13 +2,16 @@
     "name": "Dolliv",
     "national_no": null,
     "type": [
-        "Normal",
-        "Grass"
+        "Grass",
+        "Normal"
     ],
     "species": "Olive Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "11.9\u00a0kg (26.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Early Bird",
+        "Harvest"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "120",

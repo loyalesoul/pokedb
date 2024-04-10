@@ -8,7 +8,9 @@
     "species": "Irate Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "17.3\u00a0kg (38.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Hustle"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "45",

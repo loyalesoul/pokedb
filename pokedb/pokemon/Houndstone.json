@@ -1,13 +1,14 @@
 {
     "name": "Houndstone",
     "national_no": null,
-    "type": [
-        "Ghost"
-    ],
+    "type": "Ghost",
     "species": "Ghost Dog Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "15.0\u00a0kg (33.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sand Rush",
+        "Fluffy"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "60",

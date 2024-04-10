@@ -1,6 +1,6 @@
 {
     "name": "Ludicolo",
-    "national_no": "0272",
+    "national_no": null,
     "type": [
         "Water",
         "Grass"
@@ -10,23 +10,26 @@
     "weight": "55.0\u00a0kg (121.3\u00a0lbs)",
     "abilities": [
         "Swift Swim",
-        "Rain Dish",
-        "Own Tempo"
+        "Rain Dish"
     ],
-    "ev_yield": "3 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "216",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "216",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "70",

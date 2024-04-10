@@ -1,6 +1,6 @@
 {
     "name": "Mime Jr.",
-    "national_no": "0439",
+    "national_no": null,
     "type": [
         "Psychic",
         "Fairy"
@@ -10,22 +10,25 @@
     "weight": "13.0\u00a0kg (28.7\u00a0lbs)",
     "abilities": [
         "Soundproof",
-        "Filter",
-        "Technician"
+        "Filter"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "145",
-    "base_happiness": "50",
-    "base_exp": "62",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "145",
+        "base_happiness": "50",
+        "base_exp": "62",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "20",
         "attack": "25",

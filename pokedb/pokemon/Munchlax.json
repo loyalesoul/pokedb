@@ -1,30 +1,31 @@
 {
     "name": "Munchlax",
-    "national_no": "0446",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Big Eater Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "105.0\u00a0kg (231.5\u00a0lbs)",
     "abilities": [
         "Pickup",
-        "Thick Fat",
-        "Gluttony"
+        "Thick Fat"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "50",
-    "base_happiness": "50",
-    "base_exp": "78",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "50",
+        "base_happiness": "50",
+        "base_exp": "78",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "135",
         "attack": "85",

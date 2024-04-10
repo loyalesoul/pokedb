@@ -1,10 +1,8 @@
 {
     "name": "Wooper",
-    "national_no": "0194",
+    "national_no": null,
     "type": [
         "Water",
-        "Ground",
-        "Poison",
         "Ground"
     ],
     "species": "Water Fish Pok\u00e9mon",
@@ -12,30 +10,26 @@
     "weight": "8.5\u00a0kg (18.7\u00a0lbs)",
     "abilities": [
         "Damp",
-        "Water Absorb",
-        "Unaware",
-        "Poison Point",
-        "Water Absorb",
-        "Unaware"
+        "Water Absorb"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "42",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Water 1",
-        "Field",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "42",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "45",

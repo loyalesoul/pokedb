@@ -1,6 +1,6 @@
 {
     "name": "Ralts",
-    "national_no": "0280",
+    "national_no": null,
     "type": [
         "Psychic",
         "Fairy"
@@ -10,23 +10,26 @@
     "weight": "6.6\u00a0kg (14.6\u00a0lbs)",
     "abilities": [
         "Synchronize",
-        "Trace",
-        "Telepathy"
+        "Trace"
     ],
-    "ev_yield": "1 Sp. Atk",
-    "catch_rate": "235",
-    "base_happiness": "35",
-    "base_exp": "40",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Amorphous",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "235",
+        "base_happiness": "35",
+        "base_exp": "40",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous",
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "28",
         "attack": "25",

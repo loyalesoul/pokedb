@@ -8,7 +8,10 @@
     "species": "Sound Wave Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Frisk",
+        "Infiltrator"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "190",

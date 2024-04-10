@@ -2,13 +2,16 @@
     "name": "Centiskorch",
     "national_no": null,
     "type": [
-        "Bug",
-        "Fire"
+        "Fire",
+        "Bug"
     ],
     "species": "Radiator Pok\u00e9mon",
     "height": "3.0\u00a0m (9\u203210\u2033)",
     "weight": "120.0\u00a0kg (264.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Flash Fire",
+        "White Smoke"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "75",

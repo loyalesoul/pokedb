@@ -1,39 +1,34 @@
 {
     "name": "Sneasel",
-    "national_no": "0215",
+    "national_no": null,
     "type": [
         "Dark",
-        "Ice",
-        "Fighting",
-        "Poison"
+        "Ice"
     ],
     "species": "Sharp Claw Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "28.0\u00a0kg (61.7\u00a0lbs)",
     "abilities": [
         "Inner Focus",
-        "Keen Eye",
-        "Pickpocket",
-        "Inner Focus",
-        "Keen Eye",
-        "Pickpocket"
+        "Keen Eye"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "60",
-    "base_happiness": "35",
-    "base_exp": "86",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "60",
+        "base_happiness": "35",
+        "base_exp": "86",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "95",

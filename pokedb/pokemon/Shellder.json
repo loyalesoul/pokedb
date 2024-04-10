@@ -1,30 +1,31 @@
 {
     "name": "Shellder",
-    "national_no": "0090",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Bivalve Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
     "abilities": [
         "Shell Armor",
-        "Skill Link",
-        "Overcoat"
+        "Skill Link"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "61",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "61",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "30",
         "attack": "65",

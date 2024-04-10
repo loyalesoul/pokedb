@@ -1,30 +1,31 @@
 {
     "name": "Shuppet",
-    "national_no": "0353",
-    "type": [
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Ghost",
     "species": "Puppet Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "2.3\u00a0kg (5.1\u00a0lbs)",
     "abilities": [
         "Insomnia",
-        "Frisk",
-        "Cursed Body"
+        "Frisk"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "225",
-    "base_happiness": "35",
-    "base_exp": "59",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "225",
+        "base_happiness": "35",
+        "base_exp": "59",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "44",
         "attack": "75",

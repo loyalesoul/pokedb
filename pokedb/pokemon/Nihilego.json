@@ -2,13 +2,15 @@
     "name": "Nihilego",
     "national_no": null,
     "type": [
-        "Poison",
-        "Rock"
+        "Rock",
+        "Poison"
     ],
     "species": "Parasite Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "55.5\u00a0kg (122.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Beast Boost"
+    ],
     "training": {
         "ev_yield": "3 Sp. Def",
         "catch_rate": "45",

@@ -1,6 +1,6 @@
 {
     "name": "Shuckle",
-    "national_no": "0213",
+    "national_no": null,
     "type": [
         "Bug",
         "Rock"
@@ -10,22 +10,25 @@
     "weight": "20.5\u00a0kg (45.2\u00a0lbs)",
     "abilities": [
         "Sturdy",
-        "Gluttony",
-        "Contrary"
+        "Gluttony"
     ],
-    "ev_yield": "1 Defense, 1 Sp. Def",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "177",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Defense, 1 Sp. Def",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "177",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "20",
         "attack": "10",

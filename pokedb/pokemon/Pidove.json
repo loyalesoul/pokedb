@@ -8,7 +8,10 @@
     "species": "Tiny Pigeon Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "2.1\u00a0kg (4.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Big Pecks",
+        "Super Luck"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "255",

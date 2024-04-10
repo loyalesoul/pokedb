@@ -8,7 +8,10 @@
     "species": "Sewing Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "2.5\u00a0kg (5.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Swarm",
+        "Chlorophyll"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "255",

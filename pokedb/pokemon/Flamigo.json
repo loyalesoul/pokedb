@@ -2,13 +2,16 @@
     "name": "Flamigo",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Flying"
+        "Flying",
+        "Fighting"
     ],
     "species": "Synchronize Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "37.0\u00a0kg (81.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Scrappy",
+        "Tangled Feet"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "100",

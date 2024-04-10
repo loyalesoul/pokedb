@@ -2,13 +2,16 @@
     "name": "Armarouge",
     "national_no": null,
     "type": [
-        "Psychic",
-        "Fire"
+        "Fire",
+        "Psychic"
     ],
     "species": "Fire Warrior Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "85.0\u00a0kg (187.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Flash Fire",
+        "Weak Armor"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "25",

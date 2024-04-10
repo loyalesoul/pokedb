@@ -2,13 +2,16 @@
     "name": "Smoliv",
     "national_no": null,
     "type": [
-        "Normal",
-        "Grass"
+        "Grass",
+        "Normal"
     ],
     "species": "Olive Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "6.5\u00a0kg (14.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Early Bird",
+        "Harvest"
+    ],
     "training": {
         "ev_yield": "1 Sp. Atk",
         "catch_rate": "255",

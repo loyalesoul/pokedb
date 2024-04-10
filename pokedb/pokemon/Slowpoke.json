@@ -1,40 +1,32 @@
 {
     "name": "Slowpoke",
-    "national_no": "0079",
-    "type": [
-        "Water",
-        "Psychic",
-        "Psychic"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Dopey Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "36.0\u00a0kg (79.4\u00a0lbs)",
     "abilities": [
         "Oblivious",
-        "Own Tempo",
-        "Regenerator",
-        "Gluttony",
-        "Own Tempo",
-        "Regenerator"
+        "Own Tempo"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "63",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Monster",
-        "Water 1",
-        "Monster",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "63",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "65",

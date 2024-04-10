@@ -1,13 +1,14 @@
 {
     "name": "Lillipup",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Puppy Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.1\u00a0kg (9.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Vital Spirit",
+        "Pickup"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "255",

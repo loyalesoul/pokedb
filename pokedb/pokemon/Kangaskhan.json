@@ -1,35 +1,31 @@
 {
     "name": "Kangaskhan",
-    "national_no": "0115",
-    "type": [
-        "Normal",
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Parent Pok\u00e9mon",
     "height": "2.2\u00a0m (7\u203203\u2033)",
     "weight": "80.0\u00a0kg (176.4\u00a0lbs)",
     "abilities": [
         "Early Bird",
-        "Scrappy",
-        "Inner Focus",
-        "Parental Bond"
+        "Scrappy"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "172",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Monster",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "172",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "105",
         "attack": "95",

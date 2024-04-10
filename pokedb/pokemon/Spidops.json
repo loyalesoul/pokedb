@@ -1,13 +1,14 @@
 {
     "name": "Spidops",
     "national_no": null,
-    "type": [
-        "Bug"
-    ],
+    "type": "Bug",
     "species": "Trap Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "16.5\u00a0kg (36.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Insomnia",
+        "Stakeout"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "120",

@@ -1,13 +1,14 @@
 {
     "name": "Haxorus",
     "national_no": null,
-    "type": [
-        "Dragon"
-    ],
+    "type": "Dragon",
     "species": "Axe Jaw Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "105.5\u00a0kg (232.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Rivalry",
+        "Mold Breaker"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",

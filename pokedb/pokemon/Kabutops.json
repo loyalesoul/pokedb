@@ -1,6 +1,6 @@
 {
     "name": "Kabutops",
-    "national_no": "0141",
+    "national_no": null,
     "type": [
         "Rock",
         "Water"
@@ -10,23 +10,26 @@
     "weight": "40.5\u00a0kg (89.3\u00a0lbs)",
     "abilities": [
         "Swift Swim",
-        "Battle Armor",
-        "Weak Armor"
+        "Battle Armor"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "173",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Water 1",
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "173",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "115",

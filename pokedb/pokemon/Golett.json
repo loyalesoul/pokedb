@@ -2,13 +2,16 @@
     "name": "Golett",
     "national_no": null,
     "type": [
-        "Ghost",
-        "Ground"
+        "Ground",
+        "Ghost"
     ],
     "species": "Automaton Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "92.0\u00a0kg (202.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Iron Fist",
+        "Klutz"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "190",

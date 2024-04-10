@@ -2,13 +2,16 @@
     "name": "Litleo",
     "national_no": null,
     "type": [
-        "Normal",
-        "Fire"
+        "Fire",
+        "Normal"
     ],
     "species": "Lion Cub Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "13.5\u00a0kg (29.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Rivalry",
+        "Unnerve"
+    ],
     "training": {
         "ev_yield": "1 Sp. Atk",
         "catch_rate": "220",

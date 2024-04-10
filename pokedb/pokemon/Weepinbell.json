@@ -1,6 +1,6 @@
 {
     "name": "Weepinbell",
-    "national_no": "0070",
+    "national_no": null,
     "type": [
         "Grass",
         "Poison"
@@ -12,19 +12,23 @@
         "Chlorophyll",
         "Gluttony"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "137",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "137",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "90",

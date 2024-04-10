@@ -1,9 +1,7 @@
 {
     "name": "Sableye",
-    "national_no": "0302",
+    "national_no": null,
     "type": [
-        "Dark",
-        "Ghost",
         "Dark",
         "Ghost"
     ],
@@ -12,26 +10,25 @@
     "weight": "11.0\u00a0kg (24.3\u00a0lbs)",
     "abilities": [
         "Keen Eye",
-        "Stall",
-        "Prankster",
-        "Magic Bounce"
+        "Stall"
     ],
-    "ev_yield": "1 Attack, 1 Defense",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "133",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Human-Like",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Attack, 1 Defense",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "133",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "75",

@@ -2,13 +2,15 @@
     "name": "Stakataka",
     "national_no": null,
     "type": [
-        "Steel",
-        "Rock"
+        "Rock",
+        "Steel"
     ],
     "species": "Rampart Pok\u00e9mon",
     "height": "5.5\u00a0m (18\u203201\u2033)",
     "weight": "820.0\u00a0kg (1807.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Beast Boost"
+    ],
     "training": {
         "ev_yield": "3 Defense",
         "catch_rate": "30",

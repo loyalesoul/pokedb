@@ -1,6 +1,6 @@
 {
     "name": "Butterfree",
-    "national_no": "0012",
+    "national_no": null,
     "type": [
         "Bug",
         "Flying"
@@ -12,19 +12,23 @@
         "Compound Eyes",
         "Tinted Lens"
     ],
-    "ev_yield": "2 Sp. Atk, 1 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "178",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk, 1 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "178",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "45",

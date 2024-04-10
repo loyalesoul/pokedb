@@ -1,36 +1,31 @@
 {
     "name": "Pinsir",
-    "national_no": "0127",
-    "type": [
-        "Bug",
-        "Bug",
-        "Flying"
-    ],
+    "national_no": null,
+    "type": "Bug",
     "species": "Stag Beetle Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "55.0\u00a0kg (121.3\u00a0lbs)",
     "abilities": [
         "Hyper Cutter",
-        "Mold Breaker",
-        "Moxie",
-        "Aerilate"
+        "Mold Breaker"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "175",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Bug",
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "175",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "125",

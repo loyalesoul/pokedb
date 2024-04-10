@@ -1,13 +1,14 @@
 {
     "name": "Floragato",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Grass Cat Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "12.2\u00a0kg (26.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overgrow",
+        "Protean"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "45",

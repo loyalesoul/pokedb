@@ -1,13 +1,14 @@
 {
     "name": "Heatmor",
     "national_no": null,
-    "type": [
-        "Fire"
-    ],
+    "type": "Fire",
     "species": "Anteater Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "58.0\u00a0kg (127.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Gluttony",
+        "Flash Fire"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "90",

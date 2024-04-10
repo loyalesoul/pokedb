@@ -1,13 +1,14 @@
 {
     "name": "Druddigon",
     "national_no": null,
-    "type": [
-        "Dragon"
-    ],
+    "type": "Dragon",
     "species": "Cave Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "139.0\u00a0kg (306.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Rough Skin",
+        "Sheer Force"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",

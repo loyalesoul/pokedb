@@ -1,6 +1,6 @@
 {
     "name": "Skarmory",
-    "national_no": "0227",
+    "national_no": null,
     "type": [
         "Steel",
         "Flying"
@@ -10,22 +10,25 @@
     "weight": "50.5\u00a0kg (111.3\u00a0lbs)",
     "abilities": [
         "Keen Eye",
-        "Sturdy",
-        "Weak Armor"
+        "Sturdy"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "25",
-    "base_happiness": "50",
-    "base_exp": "163",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "25",
+        "base_happiness": "50",
+        "base_exp": "163",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "80",

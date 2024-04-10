@@ -1,14 +1,11 @@
 {
     "name": "Zamazenta",
     "national_no": null,
-    "type": [
-        "Fighting",
-        "Steel"
-    ],
+    "type": "Fighting",
     "species": "Warrior Pok\u00e9mon",
     "height": "2.9\u00a0m (9\u203206\u2033)",
     "weight": "210.0\u00a0kg (463.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": "Dauntless Shield",
     "training": {
         "ev_yield": "3 Speed",
         "catch_rate": "10",

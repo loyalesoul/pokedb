@@ -1,9 +1,7 @@
 {
     "name": "Rayquaza",
-    "national_no": "0384",
+    "national_no": null,
     "type": [
-        "Dragon",
-        "Flying",
         "Dragon",
         "Flying"
     ],
@@ -14,17 +12,20 @@
         "Air Lock",
         "Delta Stream"
     ],
-    "ev_yield": "2 Attack, 1 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "0",
-    "base_exp": "340",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "training": {
+        "ev_yield": "2 Attack, 1 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "0",
+        "base_exp": "340",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "105",
         "attack": "150",

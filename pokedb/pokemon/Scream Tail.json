@@ -2,13 +2,15 @@
     "name": "Scream Tail",
     "national_no": null,
     "type": [
-        "Psychic",
-        "Fairy"
+        "Fairy",
+        "Psychic"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Protosynthesis"
+    ],
     "training": {
         "ev_yield": "3 HP",
         "catch_rate": "50",

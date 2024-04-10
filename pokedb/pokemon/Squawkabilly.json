@@ -1,14 +1,14 @@
 {
     "name": "Squawkabilly",
     "national_no": null,
-    "type": [
-        "Normal",
-        "Flying"
-    ],
+    "type": "Normal",
     "species": "Parrot Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "2.4\u00a0kg (5.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Intimidate",
+        "Hustle"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "190",

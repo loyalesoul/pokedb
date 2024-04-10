@@ -2,13 +2,16 @@
     "name": "Poltchageist",
     "national_no": null,
     "type": [
-        "Ghost",
-        "Grass"
+        "Grass",
+        "Ghost"
     ],
     "species": "Matcha Pok\u00e9mon",
     "height": "0.1\u00a0m (0\u203204\u2033)",
     "weight": "1.1\u00a0kg (2.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Hospitality",
+        "Heatproof"
+    ],
     "training": {
         "ev_yield": "1 Sp. Atk",
         "catch_rate": "120",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Amorphous",
-            "Mineral"
+            "Mineral",
+            "Amorphous"
         ],
         "gender_ratio": [],
         "egg_cycle": null

@@ -2,13 +2,16 @@
     "name": "Landorus",
     "national_no": null,
     "type": [
-        "Flying",
-        "Ground"
+        "Ground",
+        "Flying"
     ],
     "species": "Abundance Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "68.0\u00a0kg (149.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sand Force",
+        "Sheer Force"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "3",
@@ -21,8 +24,8 @@
             "Undiscovered"
         ],
         "gender_ratio": [
-            "100% male",
-            "0% female"
+            "0% female",
+            "100% male"
         ],
         "egg_cycle": "120 (30,584\u201330,840 steps)"
     },

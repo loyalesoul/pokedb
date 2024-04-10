@@ -1,6 +1,6 @@
 {
     "name": "Sealeo",
-    "national_no": "0364",
+    "national_no": null,
     "type": [
         "Ice",
         "Water"
@@ -10,23 +10,26 @@
     "weight": "87.6\u00a0kg (193.1\u00a0lbs)",
     "abilities": [
         "Thick Fat",
-        "Ice Body",
-        "Oblivious"
+        "Ice Body"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "144",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "144",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "60",

@@ -1,6 +1,6 @@
 {
     "name": "Ledyba",
-    "national_no": "0165",
+    "national_no": null,
     "type": [
         "Bug",
         "Flying"
@@ -10,22 +10,25 @@
     "weight": "10.8\u00a0kg (23.8\u00a0lbs)",
     "abilities": [
         "Swarm",
-        "Early Bird",
-        "Rattled"
+        "Early Bird"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "53",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "53",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "20",

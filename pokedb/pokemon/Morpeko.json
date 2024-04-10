@@ -2,13 +2,13 @@
     "name": "Morpeko",
     "national_no": null,
     "type": [
-        "Dark",
-        "Electric"
+        "Electric",
+        "Dark"
     ],
     "species": "Two-Sided Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.0\u00a0kg (6.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": "Hunger Switch",
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "180",

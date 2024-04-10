@@ -8,7 +8,10 @@
     "species": "Season Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "19.5\u00a0kg (43.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Chlorophyll",
+        "Sap Sipper"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "190",

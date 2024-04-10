@@ -1,6 +1,6 @@
 {
     "name": "Lanturn",
-    "national_no": "0171",
+    "national_no": null,
     "type": [
         "Water",
         "Electric"
@@ -10,22 +10,25 @@
     "weight": "22.5\u00a0kg (49.6\u00a0lbs)",
     "abilities": [
         "Volt Absorb",
-        "Illuminate",
-        "Water Absorb"
+        "Illuminate"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "161",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "161",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "125",
         "attack": "58",

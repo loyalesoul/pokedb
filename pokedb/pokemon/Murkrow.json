@@ -1,6 +1,6 @@
 {
     "name": "Murkrow",
-    "national_no": "0198",
+    "national_no": null,
     "type": [
         "Dark",
         "Flying"
@@ -10,22 +10,25 @@
     "weight": "2.1\u00a0kg (4.6\u00a0lbs)",
     "abilities": [
         "Insomnia",
-        "Super Luck",
-        "Prankster"
+        "Super Luck"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "30",
-    "base_happiness": "35",
-    "base_exp": "81",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "30",
+        "base_happiness": "35",
+        "base_exp": "81",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "85",

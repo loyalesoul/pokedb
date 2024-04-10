@@ -1,13 +1,14 @@
 {
     "name": "Gigalith",
     "national_no": null,
-    "type": [
-        "Rock"
-    ],
+    "type": "Rock",
     "species": "Compressed Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "260.0\u00a0kg (573.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sturdy",
+        "Sand Stream"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",

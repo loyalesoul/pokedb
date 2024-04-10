@@ -1,9 +1,7 @@
 {
     "name": "Hippopotas",
-    "national_no": "0449",
-    "type": [
-        "Ground"
-    ],
+    "national_no": null,
+    "type": "Ground",
     "species": "Hippo Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "49.5\u00a0kg (109.1\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Sand Stream",
         "Sand Force"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "140",
-    "base_happiness": "50",
-    "base_exp": "66",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "140",
+        "base_happiness": "50",
+        "base_exp": "66",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "68",
         "attack": "72",

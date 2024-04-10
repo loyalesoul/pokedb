@@ -1,37 +1,32 @@
 {
     "name": "Glalie",
-    "national_no": "0362",
-    "type": [
-        "Ice",
-        "Ice"
-    ],
+    "national_no": null,
+    "type": "Ice",
     "species": "Face Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "256.5\u00a0kg (565.5\u00a0lbs)",
     "abilities": [
         "Inner Focus",
-        "Ice Body",
-        "Moody",
-        "Refrigerate"
+        "Ice Body"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "168",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Mineral",
-        "Fairy",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "168",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "80",

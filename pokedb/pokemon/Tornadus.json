@@ -1,13 +1,14 @@
 {
     "name": "Tornadus",
     "national_no": null,
-    "type": [
-        "Flying"
-    ],
+    "type": "Flying",
     "species": "Cyclone Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "63.0\u00a0kg (138.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Prankster",
+        "Defiant"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "3",
@@ -20,8 +21,8 @@
             "Undiscovered"
         ],
         "gender_ratio": [
-            "100% male",
-            "0% female"
+            "0% female",
+            "100% male"
         ],
         "egg_cycle": "120 (30,584\u201330,840 steps)"
     },

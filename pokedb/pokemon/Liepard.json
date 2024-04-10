@@ -1,13 +1,14 @@
 {
     "name": "Liepard",
     "national_no": null,
-    "type": [
-        "Dark"
-    ],
+    "type": "Dark",
     "species": "Cruel Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "37.5\u00a0kg (82.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Limber",
+        "Unburden"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "90",

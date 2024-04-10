@@ -1,13 +1,13 @@
 {
     "name": "Silvally",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Synthetic Pok\u00e9mon",
     "height": "2.3\u00a0m (7\u203207\u2033)",
     "weight": "100.5\u00a0kg (221.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "RKS System"
+    ],
     "training": {
         "ev_yield": "3 HP",
         "catch_rate": "3",

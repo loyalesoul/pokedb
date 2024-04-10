@@ -8,7 +8,9 @@
     "species": "Deep Black Pok\u00e9mon",
     "height": "2.9\u00a0m (9\u203206\u2033)",
     "weight": "345.0\u00a0kg (760.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Teravolt"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "3",

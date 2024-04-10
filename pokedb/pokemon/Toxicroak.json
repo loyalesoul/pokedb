@@ -1,6 +1,6 @@
 {
     "name": "Toxicroak",
-    "national_no": "0454",
+    "national_no": null,
     "type": [
         "Poison",
         "Fighting"
@@ -10,22 +10,25 @@
     "weight": "44.4\u00a0kg (97.9\u00a0lbs)",
     "abilities": [
         "Anticipation",
-        "Dry Skin",
-        "Poison Touch"
+        "Dry Skin"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "172",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "172",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "83",
         "attack": "106",

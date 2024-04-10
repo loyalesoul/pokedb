@@ -1,31 +1,32 @@
 {
     "name": "Seadra",
-    "national_no": "0117",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Dragon Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "25.0\u00a0kg (55.1\u00a0lbs)",
     "abilities": [
         "Poison Point",
-        "Sniper",
-        "Damp"
+        "Sniper"
     ],
-    "ev_yield": "1 Defense, 1 Sp. Atk",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "154",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Dragon",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Defense, 1 Sp. Atk",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "154",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "65",

@@ -1,31 +1,32 @@
 {
     "name": "Milotic",
-    "national_no": "0350",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Tender Pok\u00e9mon",
     "height": "6.2\u00a0m (20\u203204\u2033)",
     "weight": "162.0\u00a0kg (357.1\u00a0lbs)",
     "abilities": [
         "Marvel Scale",
-        "Competitive",
-        "Cute Charm"
+        "Competitive"
     ],
-    "ev_yield": "2 Sp. Def",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "189",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Dragon",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "189",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "60",

@@ -1,10 +1,8 @@
 {
     "name": "Zapdos",
-    "national_no": "0145",
+    "national_no": null,
     "type": [
         "Electric",
-        "Flying",
-        "Fighting",
         "Flying"
     ],
     "species": "Electric Pok\u00e9mon",
@@ -12,20 +10,22 @@
     "weight": "52.6\u00a0kg (116.0\u00a0lbs)",
     "abilities": [
         "Pressure",
-        "Static",
-        "Defiant"
+        "Static"
     ],
-    "ev_yield": "3 Sp. Atk",
-    "catch_rate": "3",
-    "base_happiness": "35",
-    "base_exp": "290",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "80 (20,304\u201320,560 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "3",
+        "base_happiness": "35",
+        "base_exp": "290",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "80 (20,304\u201320,560 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "90",

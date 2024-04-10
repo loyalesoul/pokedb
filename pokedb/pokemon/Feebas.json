@@ -1,31 +1,32 @@
 {
     "name": "Feebas",
-    "national_no": "0349",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Fish Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "7.4\u00a0kg (16.3\u00a0lbs)",
     "abilities": [
         "Swift Swim",
-        "Oblivious",
-        "Adaptability"
+        "Oblivious"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "40",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Dragon",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "40",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "20",
         "attack": "15",

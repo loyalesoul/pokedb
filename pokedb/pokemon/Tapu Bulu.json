@@ -8,7 +8,10 @@
     "species": "Land Spirit Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "45.5\u00a0kg (100.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Grassy Surge",
+        "Telepathy"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "3",

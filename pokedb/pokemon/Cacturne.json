@@ -1,6 +1,6 @@
 {
     "name": "Cacturne",
-    "national_no": "0332",
+    "national_no": null,
     "type": [
         "Grass",
         "Dark"
@@ -12,20 +12,24 @@
         "Sand Veil",
         "Water Absorb"
     ],
-    "ev_yield": "1 Attack, 1 Sp. Atk",
-    "catch_rate": "60",
-    "base_happiness": "35",
-    "base_exp": "166",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack, 1 Sp. Atk",
+        "catch_rate": "60",
+        "base_happiness": "35",
+        "base_exp": "166",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "115",

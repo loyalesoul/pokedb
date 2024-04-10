@@ -1,29 +1,31 @@
 {
     "name": "Cherubi",
-    "national_no": "0420",
-    "type": [
-        "Grass"
-    ],
+    "national_no": null,
+    "type": "Grass",
     "species": "Cherry Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "3.3\u00a0kg (7.3\u00a0lbs)",
     "abilities": [
         "Chlorophyll"
     ],
-    "ev_yield": "1 Sp. Atk",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "55",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "55",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "35",

@@ -2,13 +2,15 @@
     "name": "Solgaleo",
     "national_no": null,
     "type": [
-        "Steel",
-        "Psychic"
+        "Psychic",
+        "Steel"
     ],
     "species": "Sunne Pok\u00e9mon",
     "height": "3.4\u00a0m (11\u203202\u2033)",
     "weight": "230.0\u00a0kg (507.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Full Metal Body"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",

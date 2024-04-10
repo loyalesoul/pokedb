@@ -1,13 +1,13 @@
 {
     "name": "Regieleki",
     "national_no": null,
-    "type": [
-        "Electric"
-    ],
+    "type": "Electric",
     "species": "Electron Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "145.0\u00a0kg (319.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Transistor"
+    ],
     "training": {
         "ev_yield": "3 Speed",
         "catch_rate": "3",

@@ -2,13 +2,15 @@
     "name": "Slither Wing",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Bug"
+        "Bug",
+        "Fighting"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "3.2\u00a0m (10\u203206\u2033)",
     "weight": "92.0\u00a0kg (202.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Protosynthesis"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "30",

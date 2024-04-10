@@ -1,13 +1,14 @@
 {
     "name": "Rolycoly",
     "national_no": null,
-    "type": [
-        "Rock"
-    ],
+    "type": "Rock",
     "species": "Coal Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "12.0\u00a0kg (26.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Steam Engine",
+        "Heatproof"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "255",

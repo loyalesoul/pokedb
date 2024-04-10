@@ -1,30 +1,31 @@
 {
     "name": "Finneon",
-    "national_no": "0456",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Wing Fish Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "7.0\u00a0kg (15.4\u00a0lbs)",
     "abilities": [
         "Swift Swim",
-        "Storm Drain",
-        "Water Veil"
+        "Storm Drain"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "66",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "66",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "49",
         "attack": "49",

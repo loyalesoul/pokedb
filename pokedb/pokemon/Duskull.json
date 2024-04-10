@@ -1,9 +1,7 @@
 {
     "name": "Duskull",
-    "national_no": "0355",
-    "type": [
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Ghost",
     "species": "Requiem Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "15.0\u00a0kg (33.1\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Levitate",
         "Frisk"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "190",
-    "base_happiness": "35",
-    "base_exp": "59",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "190",
+        "base_happiness": "35",
+        "base_exp": "59",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "20",
         "attack": "40",

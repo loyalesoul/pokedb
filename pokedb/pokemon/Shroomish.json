@@ -1,31 +1,32 @@
 {
     "name": "Shroomish",
-    "national_no": "0285",
-    "type": [
-        "Grass"
-    ],
+    "national_no": null,
+    "type": "Grass",
     "species": "Mushroom Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.5\u00a0kg (9.9\u00a0lbs)",
     "abilities": [
         "Effect Spore",
-        "Poison Heal",
-        "Quick Feet"
+        "Poison Heal"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "59",
-    "growth_rate": "Fluctuating",
-    "egg_groups": [
-        "Fairy",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "59",
+        "growth_rate": "Fluctuating"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "40",

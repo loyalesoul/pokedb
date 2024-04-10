@@ -1,13 +1,14 @@
 {
     "name": "Lickilicky",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Licking Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "140.0\u00a0kg (308.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Own Tempo",
+        "Oblivious"
+    ],
     "training": {
         "ev_yield": "3 HP",
         "catch_rate": "30",

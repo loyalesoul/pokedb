@@ -2,13 +2,16 @@
     "name": "Brambleghast",
     "national_no": null,
     "type": [
-        "Ghost",
-        "Grass"
+        "Grass",
+        "Ghost"
     ],
     "species": "Tumbleweed Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "6.0\u00a0kg (13.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Wind Rider",
+        "Infiltrator"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",

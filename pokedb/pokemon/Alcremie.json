@@ -1,13 +1,14 @@
 {
     "name": "Alcremie",
     "national_no": null,
-    "type": [
-        "Fairy"
-    ],
+    "type": "Fairy",
     "species": "Cream Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "0.5\u00a0kg (1.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sweet Veil",
+        "Aroma Veil"
+    ],
     "training": {
         "ev_yield": "2 Sp. Def",
         "catch_rate": "100",
@@ -21,8 +22,8 @@
             "Fairy"
         ],
         "gender_ratio": [
-            "100% female",
-            "0% male"
+            "0% male",
+            "100% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

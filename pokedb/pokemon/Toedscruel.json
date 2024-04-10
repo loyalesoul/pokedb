@@ -2,13 +2,15 @@
     "name": "Toedscruel",
     "national_no": null,
     "type": [
-        "Grass",
-        "Ground"
+        "Ground",
+        "Grass"
     ],
     "species": "Woodear Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "58.0\u00a0kg (127.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Mycelium Might"
+    ],
     "training": {
         "ev_yield": "2 Sp. Def",
         "catch_rate": "90",

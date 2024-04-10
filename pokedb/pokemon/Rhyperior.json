@@ -2,13 +2,16 @@
     "name": "Rhyperior",
     "national_no": null,
     "type": [
-        "Rock",
-        "Ground"
+        "Ground",
+        "Rock"
     ],
     "species": "Drill Pok\u00e9mon",
     "height": "2.4\u00a0m (7\u203210\u2033)",
     "weight": "282.8\u00a0kg (623.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Lightning Rod",
+        "Solid Rock"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "30",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Field",
-            "Monster"
+            "Monster",
+            "Field"
         ],
         "gender_ratio": [
             "50% male",

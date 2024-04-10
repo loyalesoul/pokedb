@@ -8,7 +8,10 @@
     "species": "Single-Cyl Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "35.0\u00a0kg (77.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overcoat",
+        "Slow Start"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "190",

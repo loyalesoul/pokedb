@@ -8,7 +8,7 @@
     "species": "Royal Sword Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "53.0\u00a0kg (116.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": "Stance Change",
     "training": {
         "ev_yield": "2 Defense, 1 Sp. Def",
         "catch_rate": "45",

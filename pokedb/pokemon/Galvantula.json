@@ -8,7 +8,10 @@
     "species": "EleSpider Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "14.3\u00a0kg (31.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Compound Eyes",
+        "Unnerve"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "75",

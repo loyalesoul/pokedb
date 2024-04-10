@@ -1,13 +1,14 @@
 {
     "name": "Pansage",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Grass Monkey Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "10.5\u00a0kg (23.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Gluttony",
+        "Overgrow"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "190",

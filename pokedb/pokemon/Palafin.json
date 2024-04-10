@@ -1,13 +1,11 @@
 {
     "name": "Palafin",
     "national_no": null,
-    "type": [
-        "Water"
-    ],
+    "type": "Water",
     "species": "Dolphin Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "60.2\u00a0kg (132.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": "Zero to Hero",
     "training": {
         "ev_yield": "2 HP",
         "catch_rate": "45",
@@ -17,8 +15,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Field",
-            "Water 2"
+            "Water 2",
+            "Field"
         ],
         "gender_ratio": [
             "50% male",

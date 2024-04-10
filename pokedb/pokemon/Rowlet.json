@@ -2,13 +2,16 @@
     "name": "Rowlet",
     "national_no": null,
     "type": [
-        "Flying",
-        "Grass"
+        "Grass",
+        "Flying"
     ],
     "species": "Grass Quill Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.5\u00a0kg (3.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overgrow",
+        "Long Reach"
+    ],
     "training": {
         "ev_yield": "1 HP",
         "catch_rate": "45",

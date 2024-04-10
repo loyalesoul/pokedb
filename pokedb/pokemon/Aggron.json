@@ -1,36 +1,31 @@
 {
     "name": "Aggron",
-    "national_no": "0306",
-    "type": [
-        "Steel",
-        "Rock",
-        "Steel"
-    ],
+    "national_no": null,
+    "type": "Steel",
     "species": "Iron Armor Pok\u00e9mon",
     "height": "2.1\u00a0m (6\u203211\u2033)",
     "weight": "360.0\u00a0kg (793.7\u00a0lbs)",
     "abilities": [
         "Sturdy",
-        "Rock Head",
-        "Heavy Metal",
-        "Filter"
+        "Rock Head"
     ],
-    "ev_yield": "3 Defense",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "239",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Monster",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "training": {
+        "ev_yield": "3 Defense",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "239",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "110",

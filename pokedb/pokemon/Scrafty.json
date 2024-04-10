@@ -2,13 +2,16 @@
     "name": "Scrafty",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Dark"
+        "Dark",
+        "Fighting"
     ],
     "species": "Hoodlum Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "30.0\u00a0kg (66.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Shed Skin",
+        "Moxie"
+    ],
     "training": {
         "ev_yield": "1 Defense, 1 Sp. Def",
         "catch_rate": "90",

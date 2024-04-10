@@ -1,6 +1,6 @@
 {
     "name": "Spiritomb",
-    "national_no": "0442",
+    "national_no": null,
     "type": [
         "Ghost",
         "Dark"
@@ -12,19 +12,23 @@
         "Pressure",
         "Infiltrator"
     ],
-    "ev_yield": "1 Defense, 1 Sp. Def",
-    "catch_rate": "100",
-    "base_happiness": "50",
-    "base_exp": "170",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "training": {
+        "ev_yield": "1 Defense, 1 Sp. Def",
+        "catch_rate": "100",
+        "base_happiness": "50",
+        "base_exp": "170",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "92",

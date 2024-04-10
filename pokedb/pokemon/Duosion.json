@@ -1,13 +1,14 @@
 {
     "name": "Duosion",
     "national_no": null,
-    "type": [
-        "Psychic"
-    ],
+    "type": "Psychic",
     "species": "Mitosis Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overcoat",
+        "Magic Guard"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "100",

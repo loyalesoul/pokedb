@@ -1,6 +1,6 @@
 {
     "name": "Swablu",
-    "national_no": "0333",
+    "national_no": null,
     "type": [
         "Normal",
         "Flying"
@@ -12,20 +12,24 @@
         "Natural Cure",
         "Cloud Nine"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "62",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Dragon",
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "62",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "40",

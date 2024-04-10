@@ -1,31 +1,32 @@
 {
     "name": "Nidorino",
-    "national_no": "0033",
-    "type": [
-        "Poison"
-    ],
+    "national_no": null,
+    "type": "Poison",
     "species": "Poison Pin Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "19.5\u00a0kg (43.0\u00a0lbs)",
     "abilities": [
         "Poison Point",
-        "Rivalry",
-        "Hustle"
+        "Rivalry"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "128",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "128",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Field"
+        ],
+        "gender_ratio": [
+            "0% female",
+            "100% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "61",
         "attack": "72",

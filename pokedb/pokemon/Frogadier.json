@@ -1,13 +1,14 @@
 {
     "name": "Frogadier",
     "national_no": null,
-    "type": [
-        "Water"
-    ],
+    "type": "Water",
     "species": "Bubble Frog Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "10.9\u00a0kg (24.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Torrent",
+        "Protean"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "45",

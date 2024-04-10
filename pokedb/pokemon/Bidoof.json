@@ -1,31 +1,32 @@
 {
     "name": "Bidoof",
-    "national_no": "0399",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Plump Mouse Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "20.0\u00a0kg (44.1\u00a0lbs)",
     "abilities": [
         "Simple",
-        "Unaware",
-        "Moody"
+        "Unaware"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "50",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "50",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "59",
         "attack": "45",

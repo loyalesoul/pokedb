@@ -2,13 +2,15 @@
     "name": "Ferroseed",
     "national_no": null,
     "type": [
-        "Steel",
-        "Grass"
+        "Grass",
+        "Steel"
     ],
     "species": "Thorn Seed Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "18.8\u00a0kg (41.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Iron Barbs"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "255",
@@ -18,8 +20,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Grass",
-            "Mineral"
+            "Mineral",
+            "Grass"
         ],
         "gender_ratio": [
             "50% male",

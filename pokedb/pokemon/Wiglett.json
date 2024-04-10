@@ -1,13 +1,14 @@
 {
     "name": "Wiglett",
     "national_no": null,
-    "type": [
-        "Water"
-    ],
+    "type": "Water",
     "species": "Garden Eel Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "1.8\u00a0kg (4.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Gooey",
+        "Rattled"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "255",

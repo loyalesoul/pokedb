@@ -1,27 +1,28 @@
 {
     "name": "Porygon2",
-    "national_no": "0233",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Virtual Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "32.5\u00a0kg (71.7\u00a0lbs)",
     "abilities": [
         "Trace",
-        "Download",
-        "Analytic"
+        "Download"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "180",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "180",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "85",
         "attack": "80",

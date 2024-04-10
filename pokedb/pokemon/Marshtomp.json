@@ -1,6 +1,6 @@
 {
     "name": "Marshtomp",
-    "national_no": "0259",
+    "national_no": null,
     "type": [
         "Water",
         "Ground"
@@ -12,20 +12,24 @@
         "Torrent",
         "Damp"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "142",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Monster",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "142",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "85",

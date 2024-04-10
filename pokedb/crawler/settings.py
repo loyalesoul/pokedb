@@ -53,6 +53,10 @@ ROBOTSTXT_OBEY = True
 # DOWNLOADER_MIDDLEWARES = {
 #    "crawler.middlewares.CrawlerDownloaderMiddleware": 543,
 # }
+DOWNLOADER_MIDDLEWARES = {
+    "scrapy.downloadermiddlewares.useragent.UserAgentMiddleware": None,
+    "scrapy_user_agents.middlewares.RandomUserAgentMiddleware": 400,
+}
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
@@ -91,3 +95,6 @@ ROBOTSTXT_OBEY = True
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+
+
+PROXY_POOL_ENABLED = True

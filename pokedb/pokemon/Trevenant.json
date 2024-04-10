@@ -8,7 +8,10 @@
     "species": "Elder Tree Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "71.0\u00a0kg (156.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Natural Cure",
+        "Frisk"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "60",

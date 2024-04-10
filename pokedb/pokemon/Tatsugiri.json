@@ -1,16 +1,13 @@
 {
     "name": "Tatsugiri",
     "national_no": null,
-    "type": [
-        "Water",
-        "Dragon"
-    ],
+    "type": "Dragon",
     "species": "Mimicry Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
     "abilities": [
-        "\u2014",
-        "\u2014"
+        "Commander",
+        "Storm Drain"
     ],
     "training": {
         "ev_yield": "2 Sp. Atk",

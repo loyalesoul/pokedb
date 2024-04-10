@@ -2,13 +2,16 @@
     "name": "Corviknight",
     "national_no": null,
     "type": [
-        "Steel",
-        "Flying"
+        "Flying",
+        "Steel"
     ],
     "species": "Raven Pok\u00e9mon",
     "height": "2.2\u00a0m (7\u203203\u2033)",
     "weight": "75.0\u00a0kg (165.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Pressure",
+        "Unnerve"
+    ],
     "training": {
         "ev_yield": "3 Defense",
         "catch_rate": "45",

@@ -1,31 +1,32 @@
 {
     "name": "Delcatty",
-    "national_no": "0301",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Prim Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "32.6\u00a0kg (71.9\u00a0lbs)",
     "abilities": [
         "Cute Charm",
-        "Normalize",
-        "Wonder Skin"
+        "Normalize"
     ],
-    "ev_yield": "1 HP, 1 Speed",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "140",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy",
-        "Field"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 HP, 1 Speed",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "140",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "65",

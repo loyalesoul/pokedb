@@ -2,13 +2,15 @@
     "name": "Toedscool",
     "national_no": null,
     "type": [
-        "Grass",
-        "Ground"
+        "Ground",
+        "Grass"
     ],
     "species": "Woodear Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "33.0\u00a0kg (72.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Mycelium Might"
+    ],
     "training": {
         "ev_yield": "1 Sp. Def",
         "catch_rate": "190",

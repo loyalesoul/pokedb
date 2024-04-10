@@ -1,31 +1,32 @@
 {
     "name": "Granbull",
-    "national_no": "0210",
-    "type": [
-        "Fairy"
-    ],
+    "national_no": null,
+    "type": "Fairy",
     "species": "Fairy Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "48.7\u00a0kg (107.4\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Quick Feet",
-        "Rattled"
+        "Quick Feet"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "158",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy",
-        "Field"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "158",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "120",

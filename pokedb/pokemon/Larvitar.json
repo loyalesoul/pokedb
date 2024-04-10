@@ -1,6 +1,6 @@
 {
     "name": "Larvitar",
-    "national_no": "0246",
+    "national_no": null,
     "type": [
         "Rock",
         "Ground"
@@ -12,19 +12,23 @@
         "Guts",
         "Sand Veil"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "60",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "60",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "64",

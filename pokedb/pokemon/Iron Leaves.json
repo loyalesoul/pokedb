@@ -8,7 +8,9 @@
     "species": "Paradox Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "125.0\u00a0kg (275.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Quark Drive"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "5",

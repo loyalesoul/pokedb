@@ -8,7 +8,9 @@
     "species": "Paradox Pok\u00e9mon",
     "height": "2.3\u00a0m (7\u203207\u2033)",
     "weight": "60.0\u00a0kg (132.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Protosynthesis"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "30",

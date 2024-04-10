@@ -1,6 +1,6 @@
 {
     "name": "Pidgey",
-    "national_no": "0016",
+    "national_no": null,
     "type": [
         "Normal",
         "Flying"
@@ -10,22 +10,25 @@
     "weight": "1.8\u00a0kg (4.0\u00a0lbs)",
     "abilities": [
         "Keen Eye",
-        "Tangled Feet",
-        "Big Pecks"
+        "Tangled Feet"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "50",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Flying"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "50",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "45",

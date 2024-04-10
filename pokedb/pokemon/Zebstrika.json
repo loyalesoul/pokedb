@@ -1,13 +1,14 @@
 {
     "name": "Zebstrika",
     "national_no": null,
-    "type": [
-        "Electric"
-    ],
+    "type": "Electric",
     "species": "Thunderbolt Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "79.5\u00a0kg (175.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Lightning Rod",
+        "Motor Drive"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "75",

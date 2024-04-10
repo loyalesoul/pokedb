@@ -8,7 +8,10 @@
     "species": "Fossil Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "175.0\u00a0kg (385.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Water Absorb",
+        "Ice Body"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "45",

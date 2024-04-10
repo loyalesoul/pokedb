@@ -2,13 +2,16 @@
     "name": "Hakamo-o",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Dragon"
+        "Dragon",
+        "Fighting"
     ],
     "species": "Scaly Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "47.0\u00a0kg (103.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Bulletproof",
+        "Soundproof"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "45",

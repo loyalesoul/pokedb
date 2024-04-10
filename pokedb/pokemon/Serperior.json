@@ -1,13 +1,14 @@
 {
     "name": "Serperior",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Regal Pok\u00e9mon",
     "height": "3.3\u00a0m (10\u203210\u2033)",
     "weight": "63.0\u00a0kg (138.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overgrow",
+        "Contrary"
+    ],
     "training": {
         "ev_yield": "3 Speed",
         "catch_rate": "45",

@@ -1,38 +1,31 @@
 {
     "name": "Marowak",
-    "national_no": "0105",
-    "type": [
-        "Ground",
-        "Fire",
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Ground",
     "species": "Bone Keeper Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "45.0\u00a0kg (99.2\u00a0lbs)",
     "abilities": [
         "Rock Head",
-        "Lightning Rod",
-        "Battle Armor",
-        "Cursed Body",
-        "Lightning Rod",
-        "Rock Head"
+        "Lightning Rod"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "149",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Monster",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "149",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "80",

@@ -1,13 +1,14 @@
 {
     "name": "Herdier",
     "national_no": null,
-    "type": [
-        "Normal"
-    ],
+    "type": "Normal",
     "species": "Loyal Dog Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "14.7\u00a0kg (32.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Intimidate",
+        "Sand Rush"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "120",

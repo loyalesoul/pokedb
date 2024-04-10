@@ -8,7 +8,10 @@
     "species": "Retainer Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "12.2\u00a0kg (26.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Toxic Chain",
+        "Frisk"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "3",
@@ -21,8 +24,8 @@
             "Undiscovered"
         ],
         "gender_ratio": [
-            "100% male",
-            "0% female"
+            "0% female",
+            "100% male"
         ],
         "egg_cycle": null
     },

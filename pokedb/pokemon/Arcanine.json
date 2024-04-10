@@ -1,38 +1,31 @@
 {
     "name": "Arcanine",
-    "national_no": "0059",
-    "type": [
-        "Fire",
-        "Fire",
-        "Rock"
-    ],
+    "national_no": null,
+    "type": "Fire",
     "species": "Legendary Pok\u00e9mon",
     "height": "1.9\u00a0m (6\u203203\u2033)",
     "weight": "155.0\u00a0kg (341.7\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Flash Fire",
-        "Justified",
-        "Intimidate",
-        "Flash Fire",
-        "Rock Head"
+        "Flash Fire"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "194",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "75% male",
-        "25% female",
-        "75% male",
-        "25% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "194",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "25% female",
+            "75% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "110",

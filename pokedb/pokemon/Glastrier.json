@@ -1,13 +1,13 @@
 {
     "name": "Glastrier",
     "national_no": null,
-    "type": [
-        "Ice"
-    ],
+    "type": "Ice",
     "species": "Wild Horse Pok\u00e9mon",
     "height": "2.2\u00a0m (7\u203203\u2033)",
     "weight": "800.0\u00a0kg (1763.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Chilling Neigh"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "3",

@@ -2,13 +2,15 @@
     "name": "Iron Jugulis",
     "national_no": null,
     "type": [
-        "Flying",
-        "Dark"
+        "Dark",
+        "Flying"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "1.3\u00a0m (4\u203203\u2033)",
     "weight": "111.0\u00a0kg (244.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Quark Drive"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "30",

@@ -8,7 +8,10 @@
     "species": "Big Horn Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "95.1\u00a0kg (209.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Intimidate",
+        "Frisk"
+    ],
     "training": {
         "ev_yield": "1 Attack, 1 Sp. Atk",
         "catch_rate": "45",

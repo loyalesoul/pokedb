@@ -2,13 +2,16 @@
     "name": "Flapple",
     "national_no": null,
     "type": [
-        "Dragon",
-        "Grass"
+        "Grass",
+        "Dragon"
     ],
     "species": "Apple Wing Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.0\u00a0kg (2.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Ripen",
+        "Gluttony"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Dragon",
-            "Grass"
+            "Grass",
+            "Dragon"
         ],
         "gender_ratio": [
             "50% male",

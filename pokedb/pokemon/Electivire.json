@@ -1,13 +1,14 @@
 {
     "name": "Electivire",
     "national_no": null,
-    "type": [
-        "Electric"
-    ],
+    "type": "Electric",
     "species": "Thunderbolt Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "138.6\u00a0kg (305.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Motor Drive",
+        "Vital Spirit"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "30",

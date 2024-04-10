@@ -1,13 +1,14 @@
 {
     "name": "Pincurchin",
     "national_no": null,
-    "type": [
-        "Electric"
-    ],
+    "type": "Electric",
     "species": "Sea Urchin Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "1.0\u00a0kg (2.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Lightning Rod",
+        "Electric Surge"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "75",

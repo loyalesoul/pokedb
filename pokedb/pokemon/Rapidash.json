@@ -1,38 +1,31 @@
 {
     "name": "Rapidash",
-    "national_no": "0078",
-    "type": [
-        "Fire",
-        "Psychic",
-        "Fairy"
-    ],
+    "national_no": null,
+    "type": "Fire",
     "species": "Fire Horse Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "95.0\u00a0kg (209.4\u00a0lbs)",
     "abilities": [
         "Run Away",
-        "Flash Fire",
-        "Flame Body",
-        "Run Away",
-        "Pastel Veil",
-        "Anticipation"
+        "Flash Fire"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "175",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "175",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "100",

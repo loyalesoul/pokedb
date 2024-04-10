@@ -1,9 +1,7 @@
 {
     "name": "Grovyle",
-    "national_no": "0253",
-    "type": [
-        "Grass"
-    ],
+    "national_no": null,
+    "type": "Grass",
     "species": "Wood Gecko Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "21.6\u00a0kg (47.6\u00a0lbs)",
@@ -11,20 +9,24 @@
         "Overgrow",
         "Unburden"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "142",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Dragon",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "142",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "65",

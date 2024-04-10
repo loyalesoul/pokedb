@@ -2,13 +2,16 @@
     "name": "Glimmet",
     "national_no": null,
     "type": [
-        "Poison",
-        "Rock"
+        "Rock",
+        "Poison"
     ],
     "species": "Ore Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Toxic Debris",
+        "Corrosion"
+    ],
     "training": {
         "ev_yield": "1 Sp. Atk",
         "catch_rate": "70",

@@ -8,7 +8,10 @@
     "species": "Bugle Beak Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "14.8\u00a0kg (32.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Keen Eye",
+        "Skill Link"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "120",

@@ -1,9 +1,7 @@
 {
     "name": "Houndoom",
-    "national_no": "0229",
+    "national_no": null,
     "type": [
-        "Dark",
-        "Fire",
         "Dark",
         "Fire"
     ],
@@ -12,26 +10,25 @@
     "weight": "35.0\u00a0kg (77.2\u00a0lbs)",
     "abilities": [
         "Early Bird",
-        "Flash Fire",
-        "Unnerve",
-        "Solar Power"
+        "Flash Fire"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "175",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "175",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "90",

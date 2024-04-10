@@ -1,6 +1,6 @@
 {
     "name": "Magcargo",
-    "national_no": "0219",
+    "national_no": null,
     "type": [
         "Fire",
         "Rock"
@@ -10,22 +10,25 @@
     "weight": "55.0\u00a0kg (121.3\u00a0lbs)",
     "abilities": [
         "Magma Armor",
-        "Flame Body",
-        "Weak Armor"
+        "Flame Body"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "151",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "151",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "50",

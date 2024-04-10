@@ -1,36 +1,31 @@
 {
     "name": "Typhlosion",
-    "national_no": "0157",
-    "type": [
-        "Fire",
-        "Fire",
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Fire",
     "species": "Volcano Pok\u00e9mon",
     "height": "1.7\u00a0m (5\u203207\u2033)",
     "weight": "79.5\u00a0kg (175.3\u00a0lbs)",
     "abilities": [
         "Blaze",
-        "Flash Fire",
-        "Blaze",
-        "Frisk"
+        "Flash Fire"
     ],
-    "ev_yield": "3 Sp. Atk",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "267",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "267",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "78",
         "attack": "84",

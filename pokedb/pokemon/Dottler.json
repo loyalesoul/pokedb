@@ -8,7 +8,10 @@
     "species": "Radome Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "19.5\u00a0kg (43.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Swarm",
+        "Compound Eyes"
+    ],
     "training": {
         "ev_yield": "2 Sp. Def",
         "catch_rate": "120",

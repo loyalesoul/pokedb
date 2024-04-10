@@ -1,6 +1,6 @@
 {
     "name": "Nuzleaf",
-    "national_no": "0274",
+    "national_no": null,
     "type": [
         "Grass",
         "Dark"
@@ -10,23 +10,26 @@
     "weight": "28.0\u00a0kg (61.7\u00a0lbs)",
     "abilities": [
         "Chlorophyll",
-        "Early Bird",
-        "Pickpocket"
+        "Early Bird"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "119",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "119",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "70",

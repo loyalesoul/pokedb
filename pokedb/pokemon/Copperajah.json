@@ -1,13 +1,14 @@
 {
     "name": "Copperajah",
     "national_no": null,
-    "type": [
-        "Steel"
-    ],
+    "type": "Steel",
     "species": "Copperderm Pok\u00e9mon",
     "height": "3.0\u00a0m (9\u203210\u2033)",
     "weight": "650.0\u00a0kg (1433.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sheer Force",
+        "Heavy Metal"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "90",
@@ -17,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Field",
-            "Mineral"
+            "Mineral",
+            "Field"
         ],
         "gender_ratio": [
             "50% male",

@@ -1,13 +1,14 @@
 {
     "name": "Florges",
     "national_no": null,
-    "type": [
-        "Fairy"
-    ],
+    "type": "Fairy",
     "species": "Garden Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "10.0\u00a0kg (22.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Flower Veil",
+        "Symbiosis"
+    ],
     "training": {
         "ev_yield": "3 Sp. Def",
         "catch_rate": "45",
@@ -20,8 +21,8 @@
             "Fairy"
         ],
         "gender_ratio": [
-            "100% female",
-            "0% male"
+            "0% male",
+            "100% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

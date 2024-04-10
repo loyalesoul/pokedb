@@ -2,13 +2,16 @@
     "name": "Tyrantrum",
     "national_no": null,
     "type": [
-        "Dragon",
-        "Rock"
+        "Rock",
+        "Dragon"
     ],
     "species": "Despot Pok\u00e9mon",
     "height": "2.5\u00a0m (8\u203202\u2033)",
     "weight": "270.0\u00a0kg (595.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Strong Jaw",
+        "Rock Head"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",

@@ -1,6 +1,6 @@
 {
     "name": "Houndour",
-    "national_no": "0228",
+    "national_no": null,
     "type": [
         "Dark",
         "Fire"
@@ -10,22 +10,25 @@
     "weight": "10.8\u00a0kg (23.8\u00a0lbs)",
     "abilities": [
         "Early Bird",
-        "Flash Fire",
-        "Unnerve"
+        "Flash Fire"
     ],
-    "ev_yield": "1 Sp. Atk",
-    "catch_rate": "120",
-    "base_happiness": "35",
-    "base_exp": "66",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "120",
+        "base_happiness": "35",
+        "base_exp": "66",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "60",

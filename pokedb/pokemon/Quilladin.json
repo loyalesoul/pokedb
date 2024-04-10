@@ -1,13 +1,14 @@
 {
     "name": "Quilladin",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Spiny Armor Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "29.0\u00a0kg (63.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overgrow",
+        "Bulletproof"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "45",

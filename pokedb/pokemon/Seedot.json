@@ -1,31 +1,32 @@
 {
     "name": "Seedot",
-    "national_no": "0273",
-    "type": [
-        "Grass"
-    ],
+    "national_no": null,
+    "type": "Grass",
     "species": "Acorn Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
     "abilities": [
         "Chlorophyll",
-        "Early Bird",
-        "Pickpocket"
+        "Early Bird"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "44",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "44",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "40",

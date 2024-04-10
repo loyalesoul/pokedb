@@ -1,9 +1,7 @@
 {
     "name": "Swampert",
-    "national_no": "0260",
+    "national_no": null,
     "type": [
-        "Water",
-        "Ground",
         "Water",
         "Ground"
     ],
@@ -12,27 +10,26 @@
     "weight": "81.9\u00a0kg (180.6\u00a0lbs)",
     "abilities": [
         "Torrent",
-        "Damp",
-        "Swift Swim"
+        "Damp"
     ],
-    "ev_yield": "3 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "241",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Monster",
-        "Water 1",
-        "Monster",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "241",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "110",

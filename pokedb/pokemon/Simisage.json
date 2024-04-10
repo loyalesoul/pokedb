@@ -1,13 +1,14 @@
 {
     "name": "Simisage",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Thorn Monkey Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "30.5\u00a0kg (67.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Gluttony",
+        "Overgrow"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "75",

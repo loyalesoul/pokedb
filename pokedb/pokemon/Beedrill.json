@@ -1,9 +1,7 @@
 {
     "name": "Beedrill",
-    "national_no": "0015",
+    "national_no": null,
     "type": [
-        "Bug",
-        "Poison",
         "Bug",
         "Poison"
     ],
@@ -12,25 +10,25 @@
     "weight": "29.5\u00a0kg (65.0\u00a0lbs)",
     "abilities": [
         "Swarm",
-        "Sniper",
-        "Adaptability"
+        "Sniper"
     ],
-    "ev_yield": "2 Attack, 1 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "178",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug",
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Attack, 1 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "178",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "90",

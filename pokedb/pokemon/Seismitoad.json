@@ -8,7 +8,10 @@
     "species": "Vibration Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "62.0\u00a0kg (136.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Swift Swim",
+        "Poison Touch"
+    ],
     "training": {
         "ev_yield": "3 HP",
         "catch_rate": "45",

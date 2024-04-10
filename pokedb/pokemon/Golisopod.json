@@ -2,13 +2,15 @@
     "name": "Golisopod",
     "national_no": null,
     "type": [
-        "Water",
-        "Bug"
+        "Bug",
+        "Water"
     ],
     "species": "Hard Scale Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "108.0\u00a0kg (238.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Emergency Exit"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "45",
@@ -18,8 +20,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Bug",
-            "Water 3"
+            "Water 3",
+            "Bug"
         ],
         "gender_ratio": [
             "50% male",

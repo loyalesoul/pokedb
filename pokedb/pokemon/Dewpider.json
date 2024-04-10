@@ -8,7 +8,10 @@
     "species": "Water Bubble Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "4.0\u00a0kg (8.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Water Bubble",
+        "Water Absorb"
+    ],
     "training": {
         "ev_yield": "1 Sp. Def",
         "catch_rate": "200",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Bug",
-            "Water 1"
+            "Water 1",
+            "Bug"
         ],
         "gender_ratio": [
             "50% male",

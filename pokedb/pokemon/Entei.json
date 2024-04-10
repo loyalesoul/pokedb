@@ -1,9 +1,7 @@
 {
     "name": "Entei",
-    "national_no": "0244",
-    "type": [
-        "Fire"
-    ],
+    "national_no": null,
+    "type": "Fire",
     "species": "Volcano Pok\u00e9mon",
     "height": "2.1\u00a0m (6\u203211\u2033)",
     "weight": "198.0\u00a0kg (436.5\u00a0lbs)",
@@ -11,16 +9,20 @@
         "Pressure",
         "Inner Focus"
     ],
-    "ev_yield": "1 HP, 2 Attack",
-    "catch_rate": "3",
-    "base_happiness": "35",
-    "base_exp": "261",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "80 (20,304\u201320,560 steps)",
+    "training": {
+        "ev_yield": "1 HP, 2 Attack",
+        "catch_rate": "3",
+        "base_happiness": "35",
+        "base_exp": "261",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "80 (20,304\u201320,560 steps)"
+    },
     "stats": {
         "hp": "115",
         "attack": "115",

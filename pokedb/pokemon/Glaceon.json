@@ -1,13 +1,14 @@
 {
     "name": "Glaceon",
     "national_no": null,
-    "type": [
-        "Ice"
-    ],
+    "type": "Ice",
     "species": "Fresh Snow Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "25.9\u00a0kg (57.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Snow Cloak",
+        "Ice Body"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "45",

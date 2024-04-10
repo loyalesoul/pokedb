@@ -1,6 +1,6 @@
 {
     "name": "Lairon",
-    "national_no": "0305",
+    "national_no": null,
     "type": [
         "Steel",
         "Rock"
@@ -10,22 +10,25 @@
     "weight": "120.0\u00a0kg (264.6\u00a0lbs)",
     "abilities": [
         "Sturdy",
-        "Rock Head",
-        "Heavy Metal"
+        "Rock Head"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "90",
-    "base_happiness": "35",
-    "base_exp": "151",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "90",
+        "base_happiness": "35",
+        "base_exp": "151",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "90",

@@ -1,6 +1,6 @@
 {
     "name": "Poliwrath",
-    "national_no": "0062",
+    "national_no": null,
     "type": [
         "Water",
         "Fighting"
@@ -10,22 +10,25 @@
     "weight": "54.0\u00a0kg (119.0\u00a0lbs)",
     "abilities": [
         "Water Absorb",
-        "Damp",
-        "Swift Swim"
+        "Damp"
     ],
-    "ev_yield": "3 Defense",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "230",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Defense",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "230",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "95",

@@ -2,13 +2,15 @@
     "name": "Gouging Fire",
     "national_no": null,
     "type": [
-        "Dragon",
-        "Fire"
+        "Fire",
+        "Dragon"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "3.5\u00a0m (11\u203206\u2033)",
     "weight": "590.0\u00a0kg (1300.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Protosynthesis"
+    ],
     "training": {
         "ev_yield": "3 Defense",
         "catch_rate": "10",

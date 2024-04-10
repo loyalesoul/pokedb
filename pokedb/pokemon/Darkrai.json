@@ -1,13 +1,13 @@
 {
     "name": "Darkrai",
     "national_no": null,
-    "type": [
-        "Dark"
-    ],
+    "type": "Dark",
     "species": "Pitch-Black Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "50.5\u00a0kg (111.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Bad Dreams"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk, 1 Speed",
         "catch_rate": "3",

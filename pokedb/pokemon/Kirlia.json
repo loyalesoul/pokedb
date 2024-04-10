@@ -1,6 +1,6 @@
 {
     "name": "Kirlia",
-    "national_no": "0281",
+    "national_no": null,
     "type": [
         "Psychic",
         "Fairy"
@@ -10,23 +10,26 @@
     "weight": "20.2\u00a0kg (44.5\u00a0lbs)",
     "abilities": [
         "Synchronize",
-        "Trace",
-        "Telepathy"
+        "Trace"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "120",
-    "base_happiness": "35",
-    "base_exp": "97",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Amorphous",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "120",
+        "base_happiness": "35",
+        "base_exp": "97",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous",
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "38",
         "attack": "35",

@@ -1,28 +1,30 @@
 {
     "name": "Silcoon",
-    "national_no": "0266",
-    "type": [
-        "Bug"
-    ],
+    "national_no": null,
+    "type": "Bug",
     "species": "Cocoon Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "10.0\u00a0kg (22.0\u00a0lbs)",
     "abilities": [
         "Shed Skin"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "72",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "72",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "35",

@@ -2,13 +2,16 @@
     "name": "Mareanie",
     "national_no": null,
     "type": [
-        "Water",
-        "Poison"
+        "Poison",
+        "Water"
     ],
     "species": "Brutal Star Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Merciless",
+        "Limber"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "190",

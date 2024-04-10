@@ -1,13 +1,14 @@
 {
     "name": "Passimian",
     "national_no": null,
-    "type": [
-        "Fighting"
-    ],
+    "type": "Fighting",
     "species": "Teamwork Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "82.8\u00a0kg (182.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Receiver",
+        "Defiant"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",

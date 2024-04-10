@@ -1,13 +1,14 @@
 {
     "name": "Jangmo-o",
     "national_no": null,
-    "type": [
-        "Dragon"
-    ],
+    "type": "Dragon",
     "species": "Scaly Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "29.7\u00a0kg (65.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Bulletproof",
+        "Soundproof"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "45",

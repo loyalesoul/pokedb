@@ -2,13 +2,16 @@
     "name": "Okidogi",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Poison"
+        "Poison",
+        "Fighting"
     ],
     "species": "Retainer Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "92.0\u00a0kg (202.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Toxic Chain",
+        "Guard Dog"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "3",
@@ -21,8 +24,8 @@
             "Undiscovered"
         ],
         "gender_ratio": [
-            "100% male",
-            "0% female"
+            "0% female",
+            "100% male"
         ],
         "egg_cycle": null
     },

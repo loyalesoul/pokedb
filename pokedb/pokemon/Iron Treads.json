@@ -2,13 +2,15 @@
     "name": "Iron Treads",
     "national_no": null,
     "type": [
-        "Steel",
-        "Ground"
+        "Ground",
+        "Steel"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "240.0\u00a0kg (529.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Quark Drive"
+    ],
     "training": {
         "ev_yield": "3 Defense",
         "catch_rate": "30",

@@ -1,9 +1,7 @@
 {
     "name": "Donphan",
-    "national_no": "0232",
-    "type": [
-        "Ground"
-    ],
+    "national_no": null,
+    "type": "Ground",
     "species": "Armor Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "120.0\u00a0kg (264.6\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Sturdy",
         "Sand Veil"
     ],
-    "ev_yield": "1 Attack, 1 Defense",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "175",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack, 1 Defense",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "175",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "90",
         "attack": "120",

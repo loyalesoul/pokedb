@@ -2,13 +2,16 @@
     "name": "Emboar",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Fire"
+        "Fire",
+        "Fighting"
     ],
     "species": "Mega Fire Pig Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "150.0\u00a0kg (330.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Blaze",
+        "Reckless"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",

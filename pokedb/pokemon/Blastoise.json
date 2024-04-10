@@ -1,36 +1,32 @@
 {
     "name": "Blastoise",
-    "national_no": "0009",
-    "type": [
-        "Water",
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Shellfish Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "85.5\u00a0kg (188.5\u00a0lbs)",
     "abilities": [
         "Torrent",
-        "Rain Dish",
-        "Mega Launcher"
+        "Rain Dish"
     ],
-    "ev_yield": "3 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "239",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Monster",
-        "Water 1",
-        "Monster",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "239",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "79",
         "attack": "83",

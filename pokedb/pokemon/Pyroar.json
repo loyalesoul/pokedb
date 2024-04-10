@@ -2,13 +2,16 @@
     "name": "Pyroar",
     "national_no": null,
     "type": [
-        "Normal",
-        "Fire"
+        "Fire",
+        "Normal"
     ],
     "species": "Royal Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "81.5\u00a0kg (179.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Rivalry",
+        "Unnerve"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "65",

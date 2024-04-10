@@ -1,13 +1,14 @@
 {
     "name": "Axew",
     "national_no": null,
-    "type": [
-        "Dragon"
-    ],
+    "type": "Dragon",
     "species": "Tusk Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "18.0\u00a0kg (39.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Rivalry",
+        "Mold Breaker"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "75",

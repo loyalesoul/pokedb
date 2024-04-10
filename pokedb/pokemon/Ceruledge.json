@@ -2,13 +2,16 @@
     "name": "Ceruledge",
     "national_no": null,
     "type": [
-        "Ghost",
-        "Fire"
+        "Fire",
+        "Ghost"
     ],
     "species": "Fire Blades Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "62.0\u00a0kg (136.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Flash Fire",
+        "Weak Armor"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "25",

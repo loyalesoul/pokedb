@@ -1,6 +1,6 @@
 {
     "name": "Crawdaunt",
-    "national_no": "0342",
+    "national_no": null,
     "type": [
         "Water",
         "Dark"
@@ -10,23 +10,26 @@
     "weight": "32.8\u00a0kg (72.3\u00a0lbs)",
     "abilities": [
         "Hyper Cutter",
-        "Shell Armor",
-        "Adaptability"
+        "Shell Armor"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "155",
-    "base_happiness": "50",
-    "base_exp": "164",
-    "growth_rate": "Fluctuating",
-    "egg_groups": [
-        "Water 1",
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "155",
+        "base_happiness": "50",
+        "base_exp": "164",
+        "growth_rate": "Fluctuating"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "63",
         "attack": "120",

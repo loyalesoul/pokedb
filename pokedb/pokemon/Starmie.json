@@ -1,6 +1,6 @@
 {
     "name": "Starmie",
-    "national_no": "0121",
+    "national_no": null,
     "type": [
         "Water",
         "Psychic"
@@ -10,19 +10,22 @@
     "weight": "80.0\u00a0kg (176.4\u00a0lbs)",
     "abilities": [
         "Illuminate",
-        "Natural Cure",
-        "Analytic"
+        "Natural Cure"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "182",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 3"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "182",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "75",

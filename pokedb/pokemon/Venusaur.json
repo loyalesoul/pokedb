@@ -1,9 +1,7 @@
 {
     "name": "Venusaur",
-    "national_no": "0003",
+    "national_no": null,
     "type": [
-        "Grass",
-        "Poison",
         "Grass",
         "Poison"
     ],
@@ -12,27 +10,26 @@
     "weight": "100.0\u00a0kg (220.5\u00a0lbs)",
     "abilities": [
         "Overgrow",
-        "Chlorophyll",
-        "Thick Fat"
+        "Chlorophyll"
     ],
-    "ev_yield": "2 Sp. Atk, 1 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "236",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass",
-        "Monster",
-        "Grass",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female",
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk, 1 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "236",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "82",

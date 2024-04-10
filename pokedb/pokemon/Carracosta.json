@@ -8,7 +8,10 @@
     "species": "Prototurtle Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "81.0\u00a0kg (178.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Solid Rock",
+        "Sturdy"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "45",

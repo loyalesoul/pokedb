@@ -1,13 +1,14 @@
 {
     "name": "Lycanroc",
     "national_no": null,
-    "type": [
-        "Rock"
-    ],
+    "type": "Rock",
     "species": "Wolf Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "25.0\u00a0kg (55.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Keen Eye",
+        "Sand Rush"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "90",

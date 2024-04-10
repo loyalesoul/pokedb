@@ -1,13 +1,14 @@
 {
     "name": "Hatenna",
     "national_no": null,
-    "type": [
-        "Psychic"
-    ],
+    "type": "Psychic",
     "species": "Calm Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "3.4\u00a0kg (7.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Healer",
+        "Anticipation"
+    ],
     "training": {
         "ev_yield": "1 Sp. Atk",
         "catch_rate": "235",
@@ -20,8 +21,8 @@
             "Fairy"
         ],
         "gender_ratio": [
-            "100% female",
-            "0% male"
+            "0% male",
+            "100% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

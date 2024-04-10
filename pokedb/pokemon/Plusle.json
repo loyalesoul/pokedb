@@ -1,9 +1,7 @@
 {
     "name": "Plusle",
-    "national_no": "0311",
-    "type": [
-        "Electric"
-    ],
+    "national_no": null,
+    "type": "Electric",
     "species": "Cheering Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "4.2\u00a0kg (9.3\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Plus",
         "Lightning Rod"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "200",
-    "base_happiness": "50",
-    "base_exp": "142",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "200",
+        "base_happiness": "50",
+        "base_exp": "142",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "50",

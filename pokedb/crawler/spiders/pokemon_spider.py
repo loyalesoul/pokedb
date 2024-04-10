@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 
 class PokemonSpider(scrapy.Spider):
     name = "pokemon"
-    start_urls = ["https://pokemondb.net/pokedex/Abomasnow"]
+    start_urls = ["https://pokemondb.net/pokedex/Bulbasaur"]
 
     def parse_pokedex_entries(self, response):
         entries = {}
@@ -124,15 +124,25 @@ class PokemonSpider(scrapy.Spider):
         data["national_no"] = selector_pokedex_data.css(
             "tr:nth-of-type(1) td::text"
         ).get()
-        data["type"] = list(
-            set(selector_pokedex_data.css("tr:nth-of-type(2) td a::text").getall())
-        )
+
+        # Don't get type of mega and regional
+        types = selector_pokedex_data.css("tr:nth-of-type(2) td a::text").getall()
+        if len(types) == 4:
+            data["type"] = types[:2]
+        elif len(types) == 2 and types[0] != types[1]:
+            data["type"] = types[:2]
+        else:
+            data["type"] = types[0]
+
         data["species"] = selector_pokedex_data.css("tr:nth-of-type(3) td::text").get()
         data["height"] = selector_pokedex_data.css("tr:nth-of-type(4) td::text").get()
         data["weight"] = selector_pokedex_data.css("tr:nth-of-type(5) td::text").get()
-        data["abilities"] = selector_pokedex_data.css(
-            "tr:nth-of-type(6) td::text"
-        ).getall()
+
+        abilities = selector_pokedex_data.css("tr:nth-of-type(6) a::text").getall()
+        if (len(abilities) >= 2) and (abilities[0] == abilities[1]):
+            data["abilities"] = abilities[0]
+        else:
+            data["abilities"] = abilities[:2]
 
         return data
 

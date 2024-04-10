@@ -8,7 +8,10 @@
     "species": "Torch Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "28.8\u00a0kg (63.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Flame Body",
+        "Swarm"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "45",

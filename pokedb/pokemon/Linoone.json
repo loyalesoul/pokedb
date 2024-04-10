@@ -1,38 +1,31 @@
 {
     "name": "Linoone",
-    "national_no": "0264",
-    "type": [
-        "Normal",
-        "Dark",
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Rushing Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "32.5\u00a0kg (71.7\u00a0lbs)",
     "abilities": [
         "Pickup",
-        "Gluttony",
-        "Quick Feet",
-        "Pickup",
-        "Gluttony",
-        "Quick Feet"
+        "Gluttony"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "90",
-    "base_happiness": "50",
-    "base_exp": "147",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "90",
+        "base_happiness": "50",
+        "base_exp": "147",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "78",
         "attack": "70",

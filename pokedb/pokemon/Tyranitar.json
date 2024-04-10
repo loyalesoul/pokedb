@@ -1,9 +1,7 @@
 {
     "name": "Tyranitar",
-    "national_no": "0248",
+    "national_no": null,
     "type": [
-        "Rock",
-        "Dark",
         "Rock",
         "Dark"
     ],
@@ -12,25 +10,25 @@
     "weight": "202.0\u00a0kg (445.3\u00a0lbs)",
     "abilities": [
         "Sand Stream",
-        "Unnerve",
-        "Sand Stream"
+        "Unnerve"
     ],
-    "ev_yield": "3 Attack",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "300",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Monster",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "3 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "300",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "134",

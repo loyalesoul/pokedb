@@ -1,13 +1,14 @@
 {
     "name": "Bellibolt",
     "national_no": null,
-    "type": [
-        "Electric"
-    ],
+    "type": "Electric",
     "species": "EleFrog Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "113.0\u00a0kg (249.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Electromorphosis",
+        "Static"
+    ],
     "training": {
         "ev_yield": "2 HP",
         "catch_rate": "50",

@@ -2,13 +2,16 @@
     "name": "Escavalier",
     "national_no": null,
     "type": [
-        "Steel",
-        "Bug"
+        "Bug",
+        "Steel"
     ],
     "species": "Cavalry Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "33.0\u00a0kg (72.8\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Swarm",
+        "Shell Armor"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "75",

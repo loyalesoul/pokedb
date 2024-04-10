@@ -1,31 +1,32 @@
 {
     "name": "Illumise",
-    "national_no": "0314",
-    "type": [
-        "Bug"
-    ],
+    "national_no": null,
+    "type": "Bug",
     "species": "Firefly Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "17.7\u00a0kg (39.0\u00a0lbs)",
     "abilities": [
         "Oblivious",
-        "Tinted Lens",
-        "Prankster"
+        "Tinted Lens"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "150",
-    "base_happiness": "50",
-    "base_exp": "151",
-    "growth_rate": "Fluctuating",
-    "egg_groups": [
-        "Bug",
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "150",
+        "base_happiness": "50",
+        "base_exp": "151",
+        "growth_rate": "Fluctuating"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like",
+            "Bug"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "47",

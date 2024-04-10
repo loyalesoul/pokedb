@@ -8,7 +8,10 @@
     "species": "Leaf-Wrapped Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "7.3\u00a0kg (16.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Leaf Guard",
+        "Chlorophyll"
+    ],
     "training": {
         "ev_yield": "2 Defense",
         "catch_rate": "120",

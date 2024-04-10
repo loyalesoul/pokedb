@@ -1,6 +1,6 @@
 {
     "name": "Togetic",
-    "national_no": "0176",
+    "national_no": null,
     "type": [
         "Fairy",
         "Flying"
@@ -10,23 +10,26 @@
     "weight": "3.2\u00a0kg (7.1\u00a0lbs)",
     "abilities": [
         "Hustle",
-        "Serene Grace",
-        "Super Luck"
+        "Serene Grace"
     ],
-    "ev_yield": "2 Sp. Def",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "142",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy",
-        "Flying"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Def",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "142",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Flying",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "40",

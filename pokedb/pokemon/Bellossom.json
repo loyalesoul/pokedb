@@ -1,9 +1,7 @@
 {
     "name": "Bellossom",
-    "national_no": "0182",
-    "type": [
-        "Grass"
-    ],
+    "national_no": null,
+    "type": "Grass",
     "species": "Flower Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "5.8\u00a0kg (12.8\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Chlorophyll",
         "Healer"
     ],
-    "ev_yield": "3 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "221",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "221",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "80",

@@ -18,6 +18,7 @@ pre-commit install
 
 # Install dependencies from requirements.txt
 pip install -r requirements.txt
+deactivate
 
 echo "Setup completed successfully."
 

@@ -2,13 +2,16 @@
     "name": "Cyclizar",
     "national_no": null,
     "type": [
-        "Normal",
-        "Dragon"
+        "Dragon",
+        "Normal"
     ],
     "species": "Mount Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "63.0\u00a0kg (138.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Shed Skin",
+        "Regenerator"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "190",

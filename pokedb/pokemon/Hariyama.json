@@ -1,30 +1,31 @@
 {
     "name": "Hariyama",
-    "national_no": "0297",
-    "type": [
-        "Fighting"
-    ],
+    "national_no": null,
+    "type": "Fighting",
     "species": "Arm Thrust Pok\u00e9mon",
     "height": "2.3\u00a0m (7\u203207\u2033)",
     "weight": "253.8\u00a0kg (559.5\u00a0lbs)",
     "abilities": [
         "Thick Fat",
-        "Guts",
-        "Sheer Force"
+        "Guts"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "200",
-    "base_happiness": "50",
-    "base_exp": "166",
-    "growth_rate": "Fluctuating",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "75% male",
-        "25% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "200",
+        "base_happiness": "50",
+        "base_exp": "166",
+        "growth_rate": "Fluctuating"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "25% female",
+            "75% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "144",
         "attack": "120",

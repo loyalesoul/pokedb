@@ -1,6 +1,6 @@
 {
     "name": "Lotad",
-    "national_no": "0270",
+    "national_no": null,
     "type": [
         "Water",
         "Grass"
@@ -10,23 +10,26 @@
     "weight": "2.6\u00a0kg (5.7\u00a0lbs)",
     "abilities": [
         "Swift Swim",
-        "Rain Dish",
-        "Own Tempo"
+        "Rain Dish"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "44",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Grass",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "44",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "30",

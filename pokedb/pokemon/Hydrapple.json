@@ -2,13 +2,16 @@
     "name": "Hydrapple",
     "national_no": null,
     "type": [
-        "Dragon",
-        "Grass"
+        "Grass",
+        "Dragon"
     ],
     "species": "\u2014",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "93.0\u00a0kg (205.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Supersweet Syrup",
+        "Regenerator"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "10",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Dragon",
-            "Grass"
+            "Grass",
+            "Dragon"
         ],
         "gender_ratio": [
             "50% male",

@@ -1,13 +1,14 @@
 {
     "name": "Espurr",
     "national_no": null,
-    "type": [
-        "Psychic"
-    ],
+    "type": "Psychic",
     "species": "Restraint Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.5\u00a0kg (7.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Keen Eye",
+        "Infiltrator"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "190",

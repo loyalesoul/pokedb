@@ -1,47 +1,35 @@
 {
     "name": "Castform",
-    "national_no": "0351",
+    "national_no": null,
     "type": [
         "Normal",
-        "Fire",
-        "Water",
-        "Ice"
+        "Fire"
     ],
     "species": "Weather Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "0.8\u00a0kg (1.8\u00a0lbs)",
     "abilities": [
         "Forecast",
-        "Forecast",
-        "Forecast",
         "Forecast"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "147",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous",
-        "Fairy",
-        "Amorphous",
-        "Fairy",
-        "Amorphous",
-        "Fairy",
-        "Amorphous",
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "147",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "70",

@@ -1,9 +1,7 @@
 {
     "name": "Cyndaquil",
-    "national_no": "0155",
-    "type": [
-        "Fire"
-    ],
+    "national_no": null,
+    "type": "Fire",
     "species": "Fire Mouse Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "7.9\u00a0kg (17.4\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Blaze",
         "Flash Fire"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "62",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "62",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "39",
         "attack": "52",

@@ -1,13 +1,14 @@
 {
     "name": "Pancham",
     "national_no": null,
-    "type": [
-        "Fighting"
-    ],
+    "type": "Fighting",
     "species": "Playful Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "8.0\u00a0kg (17.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Iron Fist",
+        "Mold Breaker"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "220",
@@ -17,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Field",
-            "Human-Like"
+            "Human-Like",
+            "Field"
         ],
         "gender_ratio": [
             "50% male",

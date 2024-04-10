@@ -2,13 +2,16 @@
     "name": "Ursaluna",
     "national_no": null,
     "type": [
-        "Normal",
-        "Ground"
+        "Ground",
+        "Normal"
     ],
     "species": "Peat Pok\u00e9mon",
     "height": "2.4\u00a0m (7\u203210\u2033)",
     "weight": "290.0\u00a0kg (639.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Guts",
+        "Bulletproof"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "20",
@@ -21,9 +24,9 @@
             "Field"
         ],
         "gender_ratio": [
-            "100% male",
-            "50% male",
             "0% female",
+            "50% male",
+            "100% male",
             "50% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"

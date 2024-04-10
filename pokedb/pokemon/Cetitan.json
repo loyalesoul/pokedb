@@ -1,13 +1,14 @@
 {
     "name": "Cetitan",
     "national_no": null,
-    "type": [
-        "Ice"
-    ],
+    "type": "Ice",
     "species": "Terra Whale Pok\u00e9mon",
     "height": "4.5\u00a0m (14\u203209\u2033)",
     "weight": "700.0\u00a0kg (1543.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Thick Fat",
+        "Slush Rush"
+    ],
     "training": {
         "ev_yield": "2 HP",
         "catch_rate": "50",

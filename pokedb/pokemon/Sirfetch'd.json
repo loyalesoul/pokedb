@@ -1,13 +1,14 @@
 {
     "name": "Sirfetch'd",
     "national_no": null,
-    "type": [
-        "Fighting"
-    ],
+    "type": "Fighting",
     "species": "Wild Duck Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "117.0\u00a0kg (257.9\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Steadfast",
+        "Scrappy"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "45",
@@ -17,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Field",
-            "Flying"
+            "Flying",
+            "Field"
         ],
         "gender_ratio": [
             "50% male",

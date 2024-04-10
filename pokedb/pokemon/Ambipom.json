@@ -1,30 +1,31 @@
 {
     "name": "Ambipom",
-    "national_no": "0424",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Long Tail Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "20.3\u00a0kg (44.8\u00a0lbs)",
     "abilities": [
         "Technician",
-        "Pickup",
-        "Skill Link"
+        "Pickup"
     ],
-    "ev_yield": "2 Speed",
-    "catch_rate": "45",
-    "base_happiness": "100",
-    "base_exp": "169",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Speed",
+        "catch_rate": "45",
+        "base_happiness": "100",
+        "base_exp": "169",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "75",
         "attack": "100",

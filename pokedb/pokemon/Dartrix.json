@@ -2,13 +2,16 @@
     "name": "Dartrix",
     "national_no": null,
     "type": [
-        "Flying",
-        "Grass"
+        "Grass",
+        "Flying"
     ],
     "species": "Blade Quill Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "16.0\u00a0kg (35.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Overgrow",
+        "Long Reach"
+    ],
     "training": {
         "ev_yield": "2 HP",
         "catch_rate": "45",

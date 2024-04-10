@@ -1,9 +1,7 @@
 {
     "name": "Flareon",
-    "national_no": "0136",
-    "type": [
-        "Fire"
-    ],
+    "national_no": null,
+    "type": "Fire",
     "species": "Flame Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "25.0\u00a0kg (55.1\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Flash Fire",
         "Guts"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "184",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "184",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "130",

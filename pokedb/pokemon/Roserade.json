@@ -1,6 +1,6 @@
 {
     "name": "Roserade",
-    "national_no": "0407",
+    "national_no": null,
     "type": [
         "Grass",
         "Poison"
@@ -10,23 +10,26 @@
     "weight": "14.5\u00a0kg (32.0\u00a0lbs)",
     "abilities": [
         "Natural Cure",
-        "Poison Point",
-        "Technician"
+        "Poison Point"
     ],
-    "ev_yield": "3 Sp. Atk",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "232",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Fairy",
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Atk",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "232",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass",
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "70",

@@ -8,7 +8,10 @@
     "species": "Sharp Claw Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "34.0\u00a0kg (75.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Pressure",
+        "Pickpocket"
+    ],
     "training": {
         "ev_yield": "1 Attack, 1 Speed",
         "catch_rate": "45",

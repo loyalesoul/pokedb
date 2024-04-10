@@ -1,9 +1,7 @@
 {
     "name": "Suicune",
-    "national_no": "0245",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Aurora Pok\u00e9mon",
     "height": "2.0\u00a0m (6\u203207\u2033)",
     "weight": "187.0\u00a0kg (412.3\u00a0lbs)",
@@ -11,16 +9,20 @@
         "Pressure",
         "Inner Focus"
     ],
-    "ev_yield": "1 Defense, 2 Sp. Def",
-    "catch_rate": "3",
-    "base_happiness": "35",
-    "base_exp": "261",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "80 (20,304\u201320,560 steps)",
+    "training": {
+        "ev_yield": "1 Defense, 2 Sp. Def",
+        "catch_rate": "3",
+        "base_happiness": "35",
+        "base_exp": "261",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "80 (20,304\u201320,560 steps)"
+    },
     "stats": {
         "hp": "100",
         "attack": "75",

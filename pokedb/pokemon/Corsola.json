@@ -1,39 +1,32 @@
 {
     "name": "Corsola",
-    "national_no": "0222",
-    "type": [
-        "Water",
-        "Rock",
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Coral Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "5.0\u00a0kg (11.0\u00a0lbs)",
     "abilities": [
         "Hustle",
-        "Natural Cure",
-        "Regenerator",
-        "Weak Armor",
-        "Cursed Body"
+        "Natural Cure"
     ],
-    "ev_yield": "1 Defense, 1 Sp. Def",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "144",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Water 1",
-        "Water 3",
-        "Water 1",
-        "Water 3"
-    ],
-    "gender_ratio": [
-        "25% male",
-        "75% female",
-        "25% male",
-        "75% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Defense, 1 Sp. Def",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "144",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 3",
+            "Water 1"
+        ],
+        "gender_ratio": [
+            "75% female",
+            "25% male"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "55",

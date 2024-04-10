@@ -2,13 +2,15 @@
     "name": "Lunala",
     "national_no": null,
     "type": [
-        "Ghost",
-        "Psychic"
+        "Psychic",
+        "Ghost"
     ],
     "species": "Moone Pok\u00e9mon",
     "height": "4.0\u00a0m (13\u203201\u2033)",
     "weight": "120.0\u00a0kg (264.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Shadow Shield"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "45",

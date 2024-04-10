@@ -2,13 +2,16 @@
     "name": "Togedemaru",
     "national_no": null,
     "type": [
-        "Steel",
-        "Electric"
+        "Electric",
+        "Steel"
     ],
     "species": "Roly-Poly Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.3\u00a0kg (7.3\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Iron Barbs",
+        "Lightning Rod"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "180",

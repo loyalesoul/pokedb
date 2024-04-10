@@ -1,30 +1,31 @@
 {
     "name": "Mightyena",
-    "national_no": "0262",
-    "type": [
-        "Dark"
-    ],
+    "national_no": null,
+    "type": "Dark",
     "species": "Bite Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "37.0\u00a0kg (81.6\u00a0lbs)",
     "abilities": [
         "Intimidate",
-        "Quick Feet",
-        "Moxie"
+        "Quick Feet"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "127",
-    "base_happiness": "50",
-    "base_exp": "147",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "127",
+        "base_happiness": "50",
+        "base_exp": "147",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "90",

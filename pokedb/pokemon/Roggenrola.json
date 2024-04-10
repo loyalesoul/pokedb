@@ -1,13 +1,14 @@
 {
     "name": "Roggenrola",
     "national_no": null,
-    "type": [
-        "Rock"
-    ],
+    "type": "Rock",
     "species": "Mantle Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "18.0\u00a0kg (39.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Sturdy",
+        "Weak Armor"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "255",

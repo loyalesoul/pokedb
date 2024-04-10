@@ -1,31 +1,32 @@
 {
     "name": "Psyduck",
-    "national_no": "0054",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Duck Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "19.6\u00a0kg (43.2\u00a0lbs)",
     "abilities": [
         "Damp",
-        "Cloud Nine",
-        "Swift Swim"
+        "Cloud Nine"
     ],
-    "ev_yield": "1 Sp. Atk",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "64",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Atk",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "64",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "52",

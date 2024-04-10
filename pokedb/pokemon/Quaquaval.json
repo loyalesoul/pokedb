@@ -8,7 +8,10 @@
     "species": "Dancer Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
     "weight": "61.9\u00a0kg (136.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Torrent",
+        "Moxie"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",

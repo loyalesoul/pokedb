@@ -8,7 +8,10 @@
     "species": "Wrestling Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
     "weight": "21.5\u00a0kg (47.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Limber",
+        "Unburden"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "100",

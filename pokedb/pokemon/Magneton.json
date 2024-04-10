@@ -1,6 +1,6 @@
 {
     "name": "Magneton",
-    "national_no": "0082",
+    "national_no": null,
     "type": [
         "Electric",
         "Steel"
@@ -10,19 +10,22 @@
     "weight": "60.0\u00a0kg (132.3\u00a0lbs)",
     "abilities": [
         "Magnet Pull",
-        "Sturdy",
-        "Analytic"
+        "Sturdy"
     ],
-    "ev_yield": "2 Sp. Atk",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "163",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Sp. Atk",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "163",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "50",
         "attack": "60",

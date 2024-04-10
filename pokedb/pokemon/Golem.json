@@ -1,39 +1,34 @@
 {
     "name": "Golem",
-    "national_no": "0076",
+    "national_no": null,
     "type": [
         "Rock",
-        "Ground",
-        "Rock",
-        "Electric"
+        "Ground"
     ],
     "species": "Megaton Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "300.0\u00a0kg (661.4\u00a0lbs)",
     "abilities": [
         "Rock Head",
-        "Sturdy",
-        "Sand Veil",
-        "Magnet Pull",
-        "Sturdy",
-        "Galvanize"
+        "Sturdy"
     ],
-    "ev_yield": "3 Defense",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "223",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Mineral",
-        "Mineral"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "3 Defense",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "223",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "120",

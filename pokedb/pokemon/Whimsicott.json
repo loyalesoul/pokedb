@@ -8,7 +8,10 @@
     "species": "Windveiled Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "6.6\u00a0kg (14.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Prankster",
+        "Infiltrator"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "75",

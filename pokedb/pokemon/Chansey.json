@@ -1,30 +1,31 @@
 {
     "name": "Chansey",
-    "national_no": "0113",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Egg Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "34.6\u00a0kg (76.3\u00a0lbs)",
     "abilities": [
         "Natural Cure",
-        "Serene Grace",
-        "Healer"
+        "Serene Grace"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "30",
-    "base_happiness": "140",
-    "base_exp": "395",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Fairy"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "30",
+        "base_happiness": "140",
+        "base_exp": "395",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Fairy"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "250",
         "attack": "5",

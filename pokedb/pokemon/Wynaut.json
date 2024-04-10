@@ -1,9 +1,7 @@
 {
     "name": "Wynaut",
-    "national_no": "0360",
-    "type": [
-        "Psychic"
-    ],
+    "national_no": null,
+    "type": "Psychic",
     "species": "Bright Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "14.0\u00a0kg (30.9\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Shadow Tag",
         "Telepathy"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "125",
-    "base_happiness": "50",
-    "base_exp": "52",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "125",
+        "base_happiness": "50",
+        "base_exp": "52",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "95",
         "attack": "23",

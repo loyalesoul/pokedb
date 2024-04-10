@@ -1,25 +1,27 @@
 {
     "name": "Unown",
-    "national_no": "0201",
-    "type": [
-        "Psychic"
-    ],
+    "national_no": null,
+    "type": "Psychic",
     "species": "Symbol Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
     "weight": "5.0\u00a0kg (11.0\u00a0lbs)",
     "abilities": [
         "Levitate"
     ],
-    "ev_yield": "1 Attack, 1 Sp. Atk",
-    "catch_rate": "225",
-    "base_happiness": "50",
-    "base_exp": "118",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "1 Attack, 1 Sp. Atk",
+        "catch_rate": "225",
+        "base_happiness": "50",
+        "base_exp": "118",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "48",
         "attack": "72",

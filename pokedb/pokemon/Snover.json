@@ -1,6 +1,6 @@
 {
     "name": "Snover",
-    "national_no": "0459",
+    "national_no": null,
     "type": [
         "Grass",
         "Ice"
@@ -12,20 +12,24 @@
         "Snow Warning",
         "Soundproof"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "120",
-    "base_happiness": "50",
-    "base_exp": "67",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Grass",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "120",
+        "base_happiness": "50",
+        "base_exp": "67",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "62",

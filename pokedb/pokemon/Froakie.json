@@ -1,13 +1,14 @@
 {
     "name": "Froakie",
     "national_no": null,
-    "type": [
-        "Water"
-    ],
+    "type": "Water",
     "species": "Bubble Frog Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "7.0\u00a0kg (15.4\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Torrent",
+        "Protean"
+    ],
     "training": {
         "ev_yield": "1 Speed",
         "catch_rate": "45",

@@ -1,6 +1,6 @@
 {
     "name": "Shedinja",
-    "national_no": "0292",
+    "national_no": null,
     "type": [
         "Bug",
         "Ghost"
@@ -11,16 +11,20 @@
     "abilities": [
         "Wonder Guard"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "83",
-    "growth_rate": "Erratic",
-    "egg_groups": [
-        "Mineral"
-    ],
-    "gender_ratio": [],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "83",
+        "growth_rate": "Erratic"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Mineral"
+        ],
+        "gender_ratio": [],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "1",
         "attack": "90",

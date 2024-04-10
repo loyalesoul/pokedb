@@ -8,7 +8,10 @@
     "species": "Bulk Up Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
     "weight": "61.0\u00a0kg (134.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Prankster",
+        "Frisk"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",
@@ -22,8 +25,8 @@
             "Fairy"
         ],
         "gender_ratio": [
-            "100% male",
-            "0% female"
+            "0% female",
+            "100% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

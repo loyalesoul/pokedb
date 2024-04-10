@@ -1,35 +1,31 @@
 {
     "name": "Latias",
-    "national_no": "0380",
+    "national_no": null,
     "type": [
-        "Dragon",
-        "Psychic",
         "Dragon",
         "Psychic"
     ],
     "species": "Eon Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "40.0\u00a0kg (88.2\u00a0lbs)",
-    "abilities": [
-        "Levitate",
-        "Levitate"
-    ],
-    "ev_yield": "3 Sp. Def",
-    "catch_rate": "3",
-    "base_happiness": "90",
-    "base_exp": "270",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Undiscovered",
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female",
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "120 (30,584\u201330,840 steps)",
+    "abilities": "Levitate",
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "3",
+        "base_happiness": "90",
+        "base_exp": "270",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "120 (30,584\u201330,840 steps)"
+    },
     "stats": {
         "hp": "80",
         "attack": "80",

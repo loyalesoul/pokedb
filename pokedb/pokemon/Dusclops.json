@@ -1,9 +1,7 @@
 {
     "name": "Dusclops",
-    "national_no": "0356",
-    "type": [
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Ghost",
     "species": "Beckon Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "30.6\u00a0kg (67.5\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Pressure",
         "Frisk"
     ],
-    "ev_yield": "1 Defense, 1 Sp. Def",
-    "catch_rate": "90",
-    "base_happiness": "35",
-    "base_exp": "159",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Defense, 1 Sp. Def",
+        "catch_rate": "90",
+        "base_happiness": "35",
+        "base_exp": "159",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "40",
         "attack": "70",

@@ -1,6 +1,6 @@
 {
     "name": "Dustox",
-    "national_no": "0269",
+    "national_no": null,
     "type": [
         "Bug",
         "Poison"
@@ -12,19 +12,23 @@
         "Shield Dust",
         "Compound Eyes"
     ],
-    "ev_yield": "3 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "173",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "3 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "173",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "50",

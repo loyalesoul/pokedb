@@ -1,31 +1,32 @@
 {
     "name": "Trapinch",
-    "national_no": "0328",
-    "type": [
-        "Ground"
-    ],
+    "national_no": null,
+    "type": "Ground",
     "species": "Ant Pit Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "15.0\u00a0kg (33.1\u00a0lbs)",
     "abilities": [
         "Hyper Cutter",
-        "Arena Trap",
-        "Sheer Force"
+        "Arena Trap"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "58",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Bug",
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "58",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "100",

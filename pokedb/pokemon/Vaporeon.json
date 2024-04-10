@@ -1,9 +1,7 @@
 {
     "name": "Vaporeon",
-    "national_no": "0134",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Bubble Jet Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "29.0\u00a0kg (63.9\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Water Absorb",
         "Hydration"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "184",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "87.5% male",
-        "12.5% female"
-    ],
-    "egg_cycle": "35 (8,739\u20138,995 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "184",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "87.5% male",
+            "12.5% female"
+        ],
+        "egg_cycle": "35 (8,739\u20138,995 steps)"
+    },
     "stats": {
         "hp": "130",
         "attack": "65",

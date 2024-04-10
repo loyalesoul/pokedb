@@ -8,7 +8,10 @@
     "species": "Rolling Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.5\u00a0kg (7.7\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Synchronize",
+        "Telepathy"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "45",

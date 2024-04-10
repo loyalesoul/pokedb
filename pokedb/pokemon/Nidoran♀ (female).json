@@ -1,31 +1,32 @@
 {
     "name": "Nidoran\u2640 (female)",
-    "national_no": "0029",
-    "type": [
-        "Poison"
-    ],
+    "national_no": null,
+    "type": "Poison",
     "species": "Poison Pin Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "7.0\u00a0kg (15.4\u00a0lbs)",
     "abilities": [
         "Poison Point",
-        "Rivalry",
-        "Hustle"
+        "Rivalry"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "235",
-    "base_happiness": "50",
-    "base_exp": "55",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Monster"
-    ],
-    "gender_ratio": [
-        "0% male",
-        "100% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "235",
+        "base_happiness": "50",
+        "base_exp": "55",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Monster",
+            "Field"
+        ],
+        "gender_ratio": [
+            "0% male",
+            "100% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "47",

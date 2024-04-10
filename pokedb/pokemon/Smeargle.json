@@ -1,30 +1,31 @@
 {
     "name": "Smeargle",
-    "national_no": "0235",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Painter Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
     "weight": "58.0\u00a0kg (127.9\u00a0lbs)",
     "abilities": [
         "Own Tempo",
-        "Technician",
-        "Moody"
+        "Technician"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "45",
-    "base_happiness": "50",
-    "base_exp": "88",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "45",
+        "base_happiness": "50",
+        "base_exp": "88",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "55",
         "attack": "20",

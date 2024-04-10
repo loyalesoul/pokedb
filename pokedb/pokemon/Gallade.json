@@ -2,13 +2,16 @@
     "name": "Gallade",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Psychic"
+        "Psychic",
+        "Fighting"
     ],
     "species": "Blade Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
     "weight": "52.0\u00a0kg (114.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Steadfast",
+        "Sharpness"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "45",
@@ -18,12 +21,12 @@
     },
     "breeding": {
         "egg_groups": [
-            "Human-Like",
-            "Amorphous"
+            "Amorphous",
+            "Human-Like"
         ],
         "gender_ratio": [
-            "100% male",
-            "0% female"
+            "0% female",
+            "100% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

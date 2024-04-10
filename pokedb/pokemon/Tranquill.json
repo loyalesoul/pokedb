@@ -8,7 +8,10 @@
     "species": "Wild Pigeon Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "15.0\u00a0kg (33.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Big Pecks",
+        "Super Luck"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "120",

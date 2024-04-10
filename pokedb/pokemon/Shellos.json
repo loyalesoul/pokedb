@@ -1,31 +1,32 @@
 {
     "name": "Shellos",
-    "national_no": "0422",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Sea Slug Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "6.3\u00a0kg (13.9\u00a0lbs)",
     "abilities": [
         "Sticky Hold",
-        "Storm Drain",
-        "Sand Force"
+        "Storm Drain"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "190",
-    "base_happiness": "50",
-    "base_exp": "65",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Amorphous",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "190",
+        "base_happiness": "50",
+        "base_exp": "65",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "76",
         "attack": "48",

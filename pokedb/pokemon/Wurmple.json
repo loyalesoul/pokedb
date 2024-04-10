@@ -1,9 +1,7 @@
 {
     "name": "Wurmple",
-    "national_no": "0265",
-    "type": [
-        "Bug"
-    ],
+    "national_no": null,
+    "type": "Bug",
     "species": "Worm Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
     "weight": "3.6\u00a0kg (7.9\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Shield Dust",
         "Run Away"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "56",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "15 (3,599\u20133,855 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "56",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "15 (3,599\u20133,855 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "45",

@@ -2,13 +2,16 @@
     "name": "Amoonguss",
     "national_no": null,
     "type": [
-        "Poison",
-        "Grass"
+        "Grass",
+        "Poison"
     ],
     "species": "Mushroom Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "10.5\u00a0kg (23.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Effect Spore",
+        "Regenerator"
+    ],
     "training": {
         "ev_yield": "2 HP",
         "catch_rate": "75",

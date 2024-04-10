@@ -1,13 +1,13 @@
 {
     "name": "Kubfu",
     "national_no": null,
-    "type": [
-        "Fighting"
-    ],
+    "type": "Fighting",
     "species": "Wushu Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "12.0\u00a0kg (26.5\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Inner Focus"
+    ],
     "training": {
         "ev_yield": "1 Attack",
         "catch_rate": "3",

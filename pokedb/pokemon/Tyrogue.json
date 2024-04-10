@@ -1,30 +1,31 @@
 {
     "name": "Tyrogue",
-    "national_no": "0236",
-    "type": [
-        "Fighting"
-    ],
+    "national_no": null,
+    "type": "Fighting",
     "species": "Scuffle Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "21.0\u00a0kg (46.3\u00a0lbs)",
     "abilities": [
         "Guts",
-        "Steadfast",
-        "Vital Spirit"
+        "Steadfast"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "75",
-    "base_happiness": "50",
-    "base_exp": "42",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Undiscovered"
-    ],
-    "gender_ratio": [
-        "100% male",
-        "0% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "75",
+        "base_happiness": "50",
+        "base_exp": "42",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Undiscovered"
+        ],
+        "gender_ratio": [
+            "0% female",
+            "100% male"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "35",
         "attack": "35",

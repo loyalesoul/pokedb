@@ -1,28 +1,30 @@
 {
     "name": "Misdreavus",
-    "national_no": "0200",
-    "type": [
-        "Ghost"
-    ],
+    "national_no": null,
+    "type": "Ghost",
     "species": "Screech Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "1.0\u00a0kg (2.2\u00a0lbs)",
     "abilities": [
         "Levitate"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "87",
-    "growth_rate": "Fast",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "87",
+        "growth_rate": "Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "60",

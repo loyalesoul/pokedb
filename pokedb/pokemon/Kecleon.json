@@ -1,9 +1,7 @@
 {
     "name": "Kecleon",
-    "national_no": "0352",
-    "type": [
-        "Normal"
-    ],
+    "national_no": null,
+    "type": "Normal",
     "species": "Color Swap Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "22.0\u00a0kg (48.5\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Color Change",
         "Protean"
     ],
-    "ev_yield": "1 Sp. Def",
-    "catch_rate": "200",
-    "base_happiness": "50",
-    "base_exp": "154",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Sp. Def",
+        "catch_rate": "200",
+        "base_happiness": "50",
+        "base_exp": "154",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "60",
         "attack": "90",

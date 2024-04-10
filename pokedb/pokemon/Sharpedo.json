@@ -1,9 +1,7 @@
 {
     "name": "Sharpedo",
-    "national_no": "0319",
+    "national_no": null,
     "type": [
-        "Water",
-        "Dark",
         "Water",
         "Dark"
     ],
@@ -12,25 +10,25 @@
     "weight": "88.8\u00a0kg (195.8\u00a0lbs)",
     "abilities": [
         "Rough Skin",
-        "Speed Boost",
-        "Strong Jaw"
+        "Speed Boost"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "60",
-    "base_happiness": "35",
-    "base_exp": "161",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Water 2",
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female",
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "60",
+        "base_happiness": "35",
+        "base_exp": "161",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "120",

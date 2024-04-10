@@ -2,13 +2,15 @@
     "name": "Raging Bolt",
     "national_no": null,
     "type": [
-        "Dragon",
-        "Electric"
+        "Electric",
+        "Dragon"
     ],
     "species": "Paradox Pok\u00e9mon",
     "height": "5.2\u00a0m (17\u203201\u2033)",
     "weight": "480.0\u00a0kg (1058.2\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Protosynthesis"
+    ],
     "training": {
         "ev_yield": "3 Sp. Atk",
         "catch_rate": "10",

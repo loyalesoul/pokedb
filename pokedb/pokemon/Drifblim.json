@@ -1,6 +1,6 @@
 {
     "name": "Drifblim",
-    "national_no": "0426",
+    "national_no": null,
     "type": [
         "Ghost",
         "Flying"
@@ -10,22 +10,25 @@
     "weight": "15.0\u00a0kg (33.1\u00a0lbs)",
     "abilities": [
         "Aftermath",
-        "Unburden",
-        "Flare Boost"
+        "Unburden"
     ],
-    "ev_yield": "2 HP",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "174",
-    "growth_rate": "Fluctuating",
-    "egg_groups": [
-        "Amorphous"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "30 (7,454\u20137,710 steps)",
+    "training": {
+        "ev_yield": "2 HP",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "174",
+        "growth_rate": "Fluctuating"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Amorphous"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "30 (7,454\u20137,710 steps)"
+    },
     "stats": {
         "hp": "150",
         "attack": "80",

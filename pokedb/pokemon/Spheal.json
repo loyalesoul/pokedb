@@ -1,6 +1,6 @@
 {
     "name": "Spheal",
-    "national_no": "0363",
+    "national_no": null,
     "type": [
         "Ice",
         "Water"
@@ -10,23 +10,26 @@
     "weight": "39.5\u00a0kg (87.1\u00a0lbs)",
     "abilities": [
         "Thick Fat",
-        "Ice Body",
-        "Oblivious"
+        "Ice Body"
     ],
-    "ev_yield": "1 HP",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "58",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Field",
-        "Water 1"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 HP",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "58",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 1",
+            "Field"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "70",
         "attack": "40",

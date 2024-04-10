@@ -8,7 +8,10 @@
     "species": "Ice Dragon Pok\u00e9mon",
     "height": "2.1\u00a0m (6\u203211\u2033)",
     "weight": "210.0\u00a0kg (463.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Thermal Exchange",
+        "Ice Body"
+    ],
     "training": {
         "ev_yield": "3 Attack",
         "catch_rate": "10",
@@ -18,8 +21,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Dragon",
-            "Mineral"
+            "Mineral",
+            "Dragon"
         ],
         "gender_ratio": [
             "50% male",

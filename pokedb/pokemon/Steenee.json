@@ -1,13 +1,14 @@
 {
     "name": "Steenee",
     "national_no": null,
-    "type": [
-        "Grass"
-    ],
+    "type": "Grass",
     "species": "Fruit Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
     "weight": "8.2\u00a0kg (18.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Leaf Guard",
+        "Oblivious"
+    ],
     "training": {
         "ev_yield": "2 Speed",
         "catch_rate": "120",
@@ -20,8 +21,8 @@
             "Grass"
         ],
         "gender_ratio": [
-            "100% female",
-            "0% male"
+            "0% male",
+            "100% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

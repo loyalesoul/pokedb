@@ -8,7 +8,10 @@
     "species": "Bite Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "115.5\u00a0kg (254.6\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Strong Jaw",
+        "Shell Armor"
+    ],
     "training": {
         "ev_yield": "2 Attack",
         "catch_rate": "75",

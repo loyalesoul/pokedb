@@ -1,9 +1,7 @@
 {
     "name": "Magikarp",
-    "national_no": "0129",
-    "type": [
-        "Water"
-    ],
+    "national_no": null,
+    "type": "Water",
     "species": "Fish Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
     "weight": "10.0\u00a0kg (22.0\u00a0lbs)",
@@ -11,20 +9,24 @@
         "Swift Swim",
         "Rattled"
     ],
-    "ev_yield": "1 Speed",
-    "catch_rate": "255",
-    "base_happiness": "50",
-    "base_exp": "40",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon",
-        "Water 2"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "5 (1,029\u20131,285 steps)",
+    "training": {
+        "ev_yield": "1 Speed",
+        "catch_rate": "255",
+        "base_happiness": "50",
+        "base_exp": "40",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Water 2",
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "5 (1,029\u20131,285 steps)"
+    },
     "stats": {
         "hp": "20",
         "attack": "10",

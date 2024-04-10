@@ -1,9 +1,7 @@
 {
     "name": "Bagon",
-    "national_no": "0371",
-    "type": [
-        "Dragon"
-    ],
+    "national_no": null,
+    "type": "Dragon",
     "species": "Rock Head Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",
     "weight": "42.1\u00a0kg (92.8\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Rock Head",
         "Sheer Force"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "60",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "60",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "45",
         "attack": "75",

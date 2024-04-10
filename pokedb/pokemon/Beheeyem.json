@@ -1,13 +1,14 @@
 {
     "name": "Beheeyem",
     "national_no": null,
-    "type": [
-        "Psychic"
-    ],
+    "type": "Psychic",
     "species": "Cerebral Pok\u00e9mon",
     "height": "1.0\u00a0m (3\u203203\u2033)",
     "weight": "34.5\u00a0kg (76.1\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Telepathy",
+        "Synchronize"
+    ],
     "training": {
         "ev_yield": "2 Sp. Atk",
         "catch_rate": "90",

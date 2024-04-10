@@ -1,6 +1,6 @@
 {
     "name": "Croagunk",
-    "national_no": "0453",
+    "national_no": null,
     "type": [
         "Poison",
         "Fighting"
@@ -10,22 +10,25 @@
     "weight": "23.0\u00a0kg (50.7\u00a0lbs)",
     "abilities": [
         "Anticipation",
-        "Dry Skin",
-        "Poison Touch"
+        "Dry Skin"
     ],
-    "ev_yield": "1 Attack",
-    "catch_rate": "140",
-    "base_happiness": "100",
-    "base_exp": "60",
-    "growth_rate": "Medium Fast",
-    "egg_groups": [
-        "Human-Like"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "10 (2,314\u20132,570 steps)",
+    "training": {
+        "ev_yield": "1 Attack",
+        "catch_rate": "140",
+        "base_happiness": "100",
+        "base_exp": "60",
+        "growth_rate": "Medium Fast"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Human-Like"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "10 (2,314\u20132,570 steps)"
+    },
     "stats": {
         "hp": "48",
         "attack": "61",

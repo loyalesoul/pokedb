@@ -1,6 +1,6 @@
 {
     "name": "Gligar",
-    "national_no": "0207",
+    "national_no": null,
     "type": [
         "Ground",
         "Flying"
@@ -10,22 +10,25 @@
     "weight": "64.8\u00a0kg (142.9\u00a0lbs)",
     "abilities": [
         "Hyper Cutter",
-        "Sand Veil",
-        "Immunity"
+        "Sand Veil"
     ],
-    "ev_yield": "1 Defense",
-    "catch_rate": "60",
-    "base_happiness": "50",
-    "base_exp": "86",
-    "growth_rate": "Medium Slow",
-    "egg_groups": [
-        "Bug"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "20 (4,884\u20135,140 steps)",
+    "training": {
+        "ev_yield": "1 Defense",
+        "catch_rate": "60",
+        "base_happiness": "50",
+        "base_exp": "86",
+        "growth_rate": "Medium Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Bug"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "20 (4,884\u20135,140 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "75",

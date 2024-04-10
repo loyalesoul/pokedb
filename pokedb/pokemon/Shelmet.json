@@ -1,13 +1,14 @@
 {
     "name": "Shelmet",
     "national_no": null,
-    "type": [
-        "Bug"
-    ],
+    "type": "Bug",
     "species": "Snail Pok\u00e9mon",
     "height": "0.4\u00a0m (1\u203204\u2033)",
     "weight": "7.7\u00a0kg (17.0\u00a0lbs)",
-    "abilities": [],
+    "abilities": [
+        "Hydration",
+        "Shell Armor"
+    ],
     "training": {
         "ev_yield": "1 Defense",
         "catch_rate": "200",

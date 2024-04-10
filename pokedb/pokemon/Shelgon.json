@@ -1,9 +1,7 @@
 {
     "name": "Shelgon",
-    "national_no": "0372",
-    "type": [
-        "Dragon"
-    ],
+    "national_no": null,
+    "type": "Dragon",
     "species": "Endurance Pok\u00e9mon",
     "height": "1.1\u00a0m (3\u203207\u2033)",
     "weight": "110.5\u00a0kg (243.6\u00a0lbs)",
@@ -11,19 +9,23 @@
         "Rock Head",
         "Overcoat"
     ],
-    "ev_yield": "2 Defense",
-    "catch_rate": "45",
-    "base_happiness": "35",
-    "base_exp": "147",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Dragon"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "40 (10,024\u201310,280 steps)",
+    "training": {
+        "ev_yield": "2 Defense",
+        "catch_rate": "45",
+        "base_happiness": "35",
+        "base_exp": "147",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Dragon"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "40 (10,024\u201310,280 steps)"
+    },
     "stats": {
         "hp": "65",
         "attack": "95",

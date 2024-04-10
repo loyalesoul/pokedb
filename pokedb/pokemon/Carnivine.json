@@ -1,28 +1,30 @@
 {
     "name": "Carnivine",
-    "national_no": "0455",
-    "type": [
-        "Grass"
-    ],
+    "national_no": null,
+    "type": "Grass",
     "species": "Bug Catcher Pok\u00e9mon",
     "height": "1.4\u00a0m (4\u203207\u2033)",
     "weight": "27.0\u00a0kg (59.5\u00a0lbs)",
     "abilities": [
         "Levitate"
     ],
-    "ev_yield": "2 Attack",
-    "catch_rate": "200",
-    "base_happiness": "50",
-    "base_exp": "159",
-    "growth_rate": "Slow",
-    "egg_groups": [
-        "Grass"
-    ],
-    "gender_ratio": [
-        "50% male",
-        "50% female"
-    ],
-    "egg_cycle": "25 (6,169\u20136,425 steps)",
+    "training": {
+        "ev_yield": "2 Attack",
+        "catch_rate": "200",
+        "base_happiness": "50",
+        "base_exp": "159",
+        "growth_rate": "Slow"
+    },
+    "breeding": {
+        "egg_groups": [
+            "Grass"
+        ],
+        "gender_ratio": [
+            "50% male",
+            "50% female"
+        ],
+        "egg_cycle": "25 (6,169\u20136,425 steps)"
+    },
     "stats": {
         "hp": "74",
         "attack": "100",
