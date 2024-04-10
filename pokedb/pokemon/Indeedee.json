@@ -2,8 +2,8 @@
     "name": "Indeedee",
     "national_no": null,
     "type": [
-        "Psychic",
-        "Normal"
+        "Normal",
+        "Psychic"
     ],
     "species": "Emotion Pok\u00e9mon",
     "height": "0.9\u00a0m (2\u203211\u2033)",
@@ -22,9 +22,9 @@
         ],
         "gender_ratio": [
             "100% male",
+            "100% female",
             "0% female",
-            "0% male",
-            "100% female"
+            "0% male"
         ],
         "egg_cycle": "40 (10,024\u201310,280 steps)"
     },

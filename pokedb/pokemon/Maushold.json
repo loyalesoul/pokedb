@@ -17,8 +17,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Fairy",
-            "Field"
+            "Field",
+            "Fairy"
         ],
         "gender_ratio": [],
         "egg_cycle": "10 (2,314\u20132,570 steps)"

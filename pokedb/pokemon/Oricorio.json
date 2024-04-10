@@ -3,10 +3,10 @@
     "national_no": null,
     "type": [
         "Flying",
-        "Ghost",
-        "Fire",
+        "Electric",
         "Psychic",
-        "Electric"
+        "Fire",
+        "Ghost"
     ],
     "species": "Dancing Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",

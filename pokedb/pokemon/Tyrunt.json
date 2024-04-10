@@ -2,8 +2,8 @@
     "name": "Tyrunt",
     "national_no": null,
     "type": [
-        "Rock",
-        "Dragon"
+        "Dragon",
+        "Rock"
     ],
     "species": "Royal Heir Pok\u00e9mon",
     "height": "0.8\u00a0m (2\u203207\u2033)",
@@ -22,8 +22,8 @@
             "Dragon"
         ],
         "gender_ratio": [
-            "12.5% female",
-            "87.5% male"
+            "87.5% male",
+            "12.5% female"
         ],
         "egg_cycle": "30 (7,454\u20137,710 steps)"
     },

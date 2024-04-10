@@ -17,8 +17,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Flying",
-            "Field"
+            "Field",
+            "Flying"
         ],
         "gender_ratio": [
             "50% male",

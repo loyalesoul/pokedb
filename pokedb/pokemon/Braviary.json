@@ -2,9 +2,9 @@
     "name": "Braviary",
     "national_no": null,
     "type": [
+        "Normal",
         "Flying",
-        "Psychic",
-        "Normal"
+        "Psychic"
     ],
     "species": "Valiant Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",

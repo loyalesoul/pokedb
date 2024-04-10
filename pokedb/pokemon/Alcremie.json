@@ -17,12 +17,12 @@
     },
     "breeding": {
         "egg_groups": [
-            "Fairy",
-            "Amorphous"
+            "Amorphous",
+            "Fairy"
         ],
         "gender_ratio": [
-            "0% male",
-            "100% female"
+            "100% female",
+            "0% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

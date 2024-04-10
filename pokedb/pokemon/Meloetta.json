@@ -2,9 +2,9 @@
     "name": "Meloetta",
     "national_no": null,
     "type": [
-        "Psychic",
         "Normal",
-        "Fighting"
+        "Fighting",
+        "Psychic"
     ],
     "species": "Melody Pok\u00e9mon",
     "height": "0.6\u00a0m (2\u203200\u2033)",

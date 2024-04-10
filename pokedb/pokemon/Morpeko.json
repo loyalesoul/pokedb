@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Fairy",
-            "Field"
+            "Field",
+            "Fairy"
         ],
         "gender_ratio": [
             "50% male",

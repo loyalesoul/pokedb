@@ -2,8 +2,8 @@
     "name": "Togekiss",
     "national_no": null,
     "type": [
-        "Fairy",
-        "Flying"
+        "Flying",
+        "Fairy"
     ],
     "species": "Jubilee Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
@@ -18,12 +18,12 @@
     },
     "breeding": {
         "egg_groups": [
-            "Fairy",
-            "Flying"
+            "Flying",
+            "Fairy"
         ],
         "gender_ratio": [
-            "12.5% female",
-            "87.5% male"
+            "87.5% male",
+            "12.5% female"
         ],
         "egg_cycle": "10 (2,314\u20132,570 steps)"
     },

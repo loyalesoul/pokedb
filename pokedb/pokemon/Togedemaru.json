@@ -2,8 +2,8 @@
     "name": "Togedemaru",
     "national_no": null,
     "type": [
-        "Electric",
-        "Steel"
+        "Steel",
+        "Electric"
     ],
     "species": "Roly-Poly Pok\u00e9mon",
     "height": "0.3\u00a0m (1\u203200\u2033)",
@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Fairy",
-            "Field"
+            "Field",
+            "Fairy"
         ],
         "gender_ratio": [
             "50% male",

@@ -2,9 +2,9 @@
     "name": "Stunfisk",
     "national_no": null,
     "type": [
+        "Steel",
         "Electric",
-        "Ground",
-        "Steel"
+        "Ground"
     ],
     "species": "Trap Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",

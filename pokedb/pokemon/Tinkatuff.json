@@ -2,8 +2,8 @@
     "name": "Tinkatuff",
     "national_no": null,
     "type": [
-        "Fairy",
-        "Steel"
+        "Steel",
+        "Fairy"
     ],
     "species": "Hammer Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
@@ -21,8 +21,8 @@
             "Fairy"
         ],
         "gender_ratio": [
-            "0% male",
-            "100% female"
+            "100% female",
+            "0% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

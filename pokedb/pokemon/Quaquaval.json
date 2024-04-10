@@ -2,8 +2,8 @@
     "name": "Quaquaval",
     "national_no": null,
     "type": [
-        "Fighting",
-        "Water"
+        "Water",
+        "Fighting"
     ],
     "species": "Dancer Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
@@ -22,8 +22,8 @@
             "Water 1"
         ],
         "gender_ratio": [
-            "12.5% female",
-            "87.5% male"
+            "87.5% male",
+            "12.5% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

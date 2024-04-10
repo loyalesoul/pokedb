@@ -2,8 +2,8 @@
     "name": "Skrelp",
     "national_no": null,
     "type": [
-        "Poison",
-        "Water"
+        "Water",
+        "Poison"
     ],
     "species": "Mock Kelp Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Dragon",
-            "Water 1"
+            "Water 1",
+            "Dragon"
         ],
         "gender_ratio": [
             "50% male",

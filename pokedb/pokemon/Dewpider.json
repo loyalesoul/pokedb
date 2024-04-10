@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Water 1",
-            "Bug"
+            "Bug",
+            "Water 1"
         ],
         "gender_ratio": [
             "50% male",

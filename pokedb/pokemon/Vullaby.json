@@ -2,8 +2,8 @@
     "name": "Vullaby",
     "national_no": null,
     "type": [
-        "Dark",
-        "Flying"
+        "Flying",
+        "Dark"
     ],
     "species": "Diapered Pok\u00e9mon",
     "height": "0.5\u00a0m (1\u203208\u2033)",
@@ -21,8 +21,8 @@
             "Flying"
         ],
         "gender_ratio": [
-            "0% male",
-            "100% female"
+            "100% female",
+            "0% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

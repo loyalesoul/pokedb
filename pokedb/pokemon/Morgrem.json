@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Fairy",
-            "Human-Like"
+            "Human-Like",
+            "Fairy"
         ],
         "gender_ratio": [
             "100% male",

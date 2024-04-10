@@ -2,8 +2,8 @@
     "name": "Enamorus",
     "national_no": null,
     "type": [
-        "Fairy",
-        "Flying"
+        "Flying",
+        "Fairy"
     ],
     "species": "Love-Hate Pok\u00e9mon",
     "height": "1.6\u00a0m (5\u203203\u2033)",
@@ -21,8 +21,8 @@
             "Undiscovered"
         ],
         "gender_ratio": [
-            "0% male",
-            "100% female"
+            "100% female",
+            "0% male"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

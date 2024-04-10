@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Monster",
-            "Field"
+            "Field",
+            "Monster"
         ],
         "gender_ratio": [
             "50% male",

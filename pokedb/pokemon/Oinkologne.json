@@ -21,9 +21,9 @@
         ],
         "gender_ratio": [
             "100% male",
+            "100% female",
             "0% female",
-            "0% male",
-            "100% female"
+            "0% male"
         ],
         "egg_cycle": "15 (3,599\u20133,855 steps)"
     },

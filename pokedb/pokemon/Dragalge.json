@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Dragon",
-            "Water 1"
+            "Water 1",
+            "Dragon"
         ],
         "gender_ratio": [
             "50% male",

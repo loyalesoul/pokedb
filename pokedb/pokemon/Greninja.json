@@ -2,8 +2,8 @@
     "name": "Greninja",
     "national_no": null,
     "type": [
-        "Dark",
-        "Water"
+        "Water",
+        "Dark"
     ],
     "species": "Ninja Pok\u00e9mon",
     "height": "1.5\u00a0m (4\u203211\u2033)",
@@ -18,14 +18,14 @@
     },
     "breeding": {
         "egg_groups": [
-            "Water 1",
-            "Undiscovered"
+            "Undiscovered",
+            "Water 1"
         ],
         "gender_ratio": [
-            "12.5% female",
-            "0% female",
+            "100% male",
             "87.5% male",
-            "100% male"
+            "0% female",
+            "12.5% female"
         ],
         "egg_cycle": "20 (4,884\u20135,140 steps)"
     },

@@ -2,8 +2,8 @@
     "name": "Cutiefly",
     "national_no": null,
     "type": [
-        "Fairy",
-        "Bug"
+        "Bug",
+        "Fairy"
     ],
     "species": "Bee Fly Pok\u00e9mon",
     "height": "0.1\u00a0m (0\u203204\u2033)",
@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Fairy",
-            "Bug"
+            "Bug",
+            "Fairy"
         ],
         "gender_ratio": [
             "50% male",

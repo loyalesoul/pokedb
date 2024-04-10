@@ -182,14 +182,30 @@ class PokemonSpider(scrapy.Spider):
     def parse_stats(self, response):
         stats = {}
         selector_stats = response.css(
-            'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody'
+            'h2:contains("Base stats") + div.resp-scroll table.vitals-table'
         )
 
-        stats["hp"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
-        stats["attack"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
-        stats["defense"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
-        stats["defense"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
-        stats["defense"] = selector_stats.css("tr:nth-child(1) td.cell-num::text").get()
+        stats["hp"] = selector_stats.css(
+            "tbody tr:nth-child(1) td.cell-num::text"
+        ).get()
+        stats["attack"] = selector_stats.css(
+            "tbody tr:nth-child(2) td.cell-num::text"
+        ).get()
+        stats["defense"] = selector_stats.css(
+            "tbody tr:nth-child(3) td.cell-num::text"
+        ).get()
+        stats["sp. atk"] = selector_stats.css(
+            "tbody tr:nth-child(4) td.cell-num::text"
+        ).get()
+        stats["sp. def"] = selector_stats.css(
+            "tbody tr:nth-child(5) td.cell-num::text"
+        ).get()
+        stats["speed"] = selector_stats.css(
+            "tbody tr:nth-child(6) td.cell-num::text"
+        ).get()
+        stats["total"] = selector_stats.css(
+            "tfoot tr:nth-child(1) td.cell-total::text"
+        ).get()
 
         return stats
 
@@ -199,29 +215,7 @@ class PokemonSpider(scrapy.Spider):
             **self.parse_pokedex_data(response),
             "training": self.parse_training(response),
             "breeding": self.parse_breeding(response),
-            "stats": {
-                "hp": response.css(
-                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(1) td.cell-num::text'
-                ).get(),
-                "attack": response.css(
-                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(2) td.cell-num::text'
-                ).get(),
-                "defense": response.css(
-                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(3) td.cell-num::text'
-                ).get(),
-                "sp. atk": response.css(
-                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(4) td.cell-num::text'
-                ).get(),
-                "sp. def": response.css(
-                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(5) td.cell-num::text'
-                ).get(),
-                "speed": response.css(
-                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tbody tr:nth-child(6) td.cell-num::text'
-                ).get(),
-                "total": response.css(
-                    'h2:contains("Base stats") + div.resp-scroll table.vitals-table tfoot tr:nth-child(1) td.cell-total::text'
-                ).get(),
-            },
+            "stats": self.parse_stats(response),
             "evolution_chain": response.css(
                 "div.infocard-list-evo a.ent-name::text"
             ).getall(),

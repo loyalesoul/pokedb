@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Mineral",
-            "Amorphous"
+            "Amorphous",
+            "Mineral"
         ],
         "gender_ratio": [
             "50% male",

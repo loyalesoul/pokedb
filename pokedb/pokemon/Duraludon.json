@@ -2,8 +2,8 @@
     "name": "Duraludon",
     "national_no": null,
     "type": [
-        "Dragon",
-        "Steel"
+        "Steel",
+        "Dragon"
     ],
     "species": "Alloy Pok\u00e9mon",
     "height": "1.8\u00a0m (5\u203211\u2033)",
@@ -18,8 +18,8 @@
     },
     "breeding": {
         "egg_groups": [
-            "Mineral",
-            "Dragon"
+            "Dragon",
+            "Mineral"
         ],
         "gender_ratio": [
             "50% male",

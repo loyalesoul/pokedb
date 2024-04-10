@@ -2,10 +2,10 @@
     "name": "Ogerpon",
     "national_no": null,
     "type": [
-        "Rock",
         "Water",
-        "Fire",
-        "Grass"
+        "Rock",
+        "Grass",
+        "Fire"
     ],
     "species": "Mask Pok\u00e9mon",
     "height": "1.2\u00a0m (3\u203211\u2033)",
@@ -23,8 +23,8 @@
             "Undiscovered"
         ],
         "gender_ratio": [
-            "0% male",
-            "100% female"
+            "100% female",
+            "0% male"
         ],
         "egg_cycle": null
     },

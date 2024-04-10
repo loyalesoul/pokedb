@@ -2,9 +2,9 @@
     "name": "Zorua",
     "national_no": null,
     "type": [
-        "Dark",
+        "Normal",
         "Ghost",
-        "Normal"
+        "Dark"
     ],
     "species": "Tricky Fox Pok\u00e9mon",
     "height": "0.7\u00a0m (2\u203204\u2033)",
@@ -22,8 +22,8 @@
             "Field"
         ],
         "gender_ratio": [
-            "12.5% female",
-            "87.5% male"
+            "87.5% male",
+            "12.5% female"
         ],
         "egg_cycle": "25 (6,169\u20136,425 steps)"
     },
