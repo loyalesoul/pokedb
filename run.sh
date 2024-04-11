@@ -1,3 +1,5 @@
 cd pokedb
-#python3 main.py
-scrapy crawl tequila
+while true; do
+    scrapy crawl tequila&
+    sleep 1
+done

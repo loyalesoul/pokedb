@@ -48,11 +48,6 @@ ROBOTSTXT_OBEY = False
 #    "crawler.middlewares.CrawlerSpiderMiddleware": 543,
 # }
 
-# Enable or disable downloader middlewares
-# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-# DOWNLOADER_MIDDLEWARES = {
-#    "crawler.middlewares.CrawlerDownloaderMiddleware": 543,
-# }
 DOWNLOADER_MIDDLEWARES = {
     "scrapy.downloadermiddlewares.useragent.UserAgentMiddleware": None,
     "scrapy_user_agents.middlewares.RandomUserAgentMiddleware": 400,
@@ -105,3 +100,9 @@ FILES_EXPIRES = 0  # Never expire, always download
 ITEM_PIPELINES = {
     "crawler.pipelines.MyImagesPipeline": 1,
 }
+
+RETRY_TIMES = 2  # Number of times to retry failed requests
+RETRY_HTTP_CODES = [500, 502, 503, 504, 522, 524]  # HTTP status codes to retry
+
+# Timeout settings
+DOWNLOAD_TIMEOUT = 3  # Timeout for requests in seconds

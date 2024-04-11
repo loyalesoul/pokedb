@@ -21,7 +21,6 @@ class CrawlerPipeline:
 
 class MyImagesPipeline(ImagesPipeline):
     def get_media_requests(self, item, info):
-        logging.info("DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD")
         try:
             logging.info(f"Processing {item['image_urls']} for {item}")
             for image_url in item["image_urls"]:
