@@ -31,7 +31,7 @@ ROBOTSTXT_OBEY = False
 # CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
-# COOKIES_ENABLED = False
+COOKIES_ENABLED = False
 
 # Disable Telnet Console (enabled by default)
 # TELNETCONSOLE_ENABLED = False
@@ -98,7 +98,8 @@ IMAGE_STORE = ".storage"
 FILES_EXPIRES = 0  # Never expire, always download
 FILES_URLS_FIELD = "artwork_urls"
 ITEM_PIPELINES = {
-    "crawler.pipelines.PokemonFilesPipeline": 1,
+    "crawler.pipelines.PokemonFilesPipeline": 2,
+    "crawler.pipelines.MongoPipeline": 1,
 }
 
 RETRY_TIMES = 2  # Number of times to retry failed requests
@@ -106,3 +107,6 @@ RETRY_HTTP_CODES = [500, 502, 503, 504, 522, 524]  # HTTP status codes to retry
 
 # Timeout settings
 DOWNLOAD_TIMEOUT = 3  # Timeout for requests in seconds
+
+MONGO_URI = "mongodb://192.168.16.6:27017/"
+MONGO_DATABASE = "pokedb"

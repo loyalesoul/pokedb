@@ -115,18 +115,18 @@ class PokemonSpider(scrapy.Spider):
 
         return languages
 
-    def parse_pokedex_data(self, response):
+    def parse_attributes(self, response):
         data = {}
-        selector_pokedex_data = response.css(
+        selector_attributes = response.css(
             'h2:contains("Pokédex data") + table.vitals-table tbody'
         )
 
-        data["national_no"] = selector_pokedex_data.css(
+        data["national_no"] = selector_attributes.css(
             "tr:nth-of-type(1) td::text"
         ).get()
 
         # Don't get type of mega and regional
-        types = selector_pokedex_data.css("tr:nth-of-type(2) td a::text").getall()
+        types = selector_attributes.css("tr:nth-of-type(2) td a::text").getall()
         if len(types) == 4:
             data["type"] = types[:2]
         elif len(types) == 2 and types[0] != types[1]:
@@ -134,11 +134,11 @@ class PokemonSpider(scrapy.Spider):
         else:
             data["type"] = types[0]
 
-        data["species"] = selector_pokedex_data.css("tr:nth-of-type(3) td::text").get()
-        data["height"] = selector_pokedex_data.css("tr:nth-of-type(4) td::text").get()
-        data["weight"] = selector_pokedex_data.css("tr:nth-of-type(5) td::text").get()
+        data["species"] = selector_attributes.css("tr:nth-of-type(3) td::text").get()
+        data["height"] = selector_attributes.css("tr:nth-of-type(4) td::text").get()
+        data["weight"] = selector_attributes.css("tr:nth-of-type(5) td::text").get()
 
-        abilities = selector_pokedex_data.css("tr:nth-of-type(6) a::text").getall()
+        abilities = selector_attributes.css("tr:nth-of-type(6) a::text").getall()
         if (len(abilities) >= 2) and (abilities[0] == abilities[1]):
             data["abilities"] = abilities[0]
         else:
@@ -226,27 +226,26 @@ class PokemonSpider(scrapy.Spider):
         url = response.css("div.sv-tabs-panel.active p a::attr(href)").get()
         return [url] if url else []
 
+    def parse_name(self, response):
+        return response.css("h1::text").get()
+
     def parse(self, response):
-        # pokemon = {
-        #     "name": response.css("h1::text").get(),
-        #     **self.parse_pokedex_data(response),
-        #     "training": self.parse_training(response),
-        #     "breeding": self.parse_breeding(response),
-        #     "stats": self.parse_stats(response),
-        #     "evolution_chain": self.parse_evolution_chain(response),
-        #     "pokedex_entries": self.parse_pokedex_entries(response),
-        #     "moves_levelup": self.parse_moves_levelup(response),
-        #     "moves_tm": self.parse_moves_tm(response),
-        #     "moves_egg": self.parse_moves_egg(response),
-        #     "location": self.parse_location(response),
-        #     "other_languages": self.parse_other_languages(response),
-        # }
-        # l = ItemLoader(item=PokemonItem(), response=response)
-        # l.add_css("stock", "p#stock")
         pkm = PokemonItem()
+
+        pkm["name"] = self.parse_name(response)
+        pkm["attributes"] = self.parse_attributes(response)
+        pkm["training"] = self.parse_training(response)
+        pkm["breeding"] = self.parse_breeding(response)
+        pkm["stats"] = self.parse_stats(response)
+        pkm["evolution_chain"] = self.parse_evolution_chain(response)
+        pkm["pokedex_entries"] = self.parse_pokedex_entries(response)
+        pkm["moves_levelup"] = self.parse_moves_levelup(response)
+        pkm["moves_tm"] = self.parse_moves_tm(response)
+        pkm["moves_egg"] = self.parse_moves_egg(response)
+        pkm["location"] = self.parse_location(response)
+        pkm["other_languages"] = self.parse_other_languages(response)
         pkm["artwork_urls"] = self.parse_artwork(response)
 
-        # Yield the data to Scrapy
         yield pkm
 
         # Follow the link to the next Pokemon's page

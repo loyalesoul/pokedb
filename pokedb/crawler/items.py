@@ -7,6 +7,17 @@ from scrapy import Field, Item
 
 
 class PokemonItem(Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
+    name = Field()
+    national_no = Field()
+    attributes = Field()
+    training = Field()
+    breeding = Field()
+    stats = Field()
+    evolution_chain = Field()
+    pokedex_entries = Field()
+    moves_levelup = Field()
+    moves_tm = Field()
+    moves_egg = Field()
+    location = Field()
+    other_languages = Field()
     artwork_urls = Field()

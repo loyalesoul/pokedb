@@ -2,3 +2,4 @@ python-dotenv
 scrapy
 scrapy-user-agents
 Pillow
+pymongo
