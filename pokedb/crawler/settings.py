@@ -98,8 +98,9 @@ IMAGE_STORE = ".storage"
 FILES_EXPIRES = 0  # Never expire, always download
 FILES_URLS_FIELD = "artwork_urls"
 ITEM_PIPELINES = {
+    "crawler.pipelines.PokemonURLsPipeline": 1,
     "crawler.pipelines.PokemonFilesPipeline": 2,
-    "crawler.pipelines.MongoPipeline": 1,
+    "crawler.pipelines.MongoPipeline": 3,
 }
 
 RETRY_TIMES = 2  # Number of times to retry failed requests
@@ -108,5 +109,5 @@ RETRY_HTTP_CODES = [500, 502, 503, 504, 522, 524]  # HTTP status codes to retry
 # Timeout settings
 DOWNLOAD_TIMEOUT = 3  # Timeout for requests in seconds
 
-MONGO_URI = "mongodb://192.168.16.6:27017/"
+MONGO_URI = "mongodb://localhost:27017/"
 MONGO_DATABASE = "pokedb"

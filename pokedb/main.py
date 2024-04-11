@@ -1,7 +1,8 @@
 import os
 import logging
 from datetime import datetime
-from module.module import Module
+from scrapy.crawler import CrawlerProcess
+from crawler.spiders.pokemon_spider import PokemonListSpider
 
 
 def setup_logging(logging_level=logging.DEBUG):
@@ -32,9 +33,10 @@ def setup_logging(logging_level=logging.DEBUG):
 def main():
     setup_logging()
 
-    m = Module()
-    m.do_stuff()
-    logging.info("Log in main")
+    process = CrawlerProcess()
+
+    process.crawl(PokemonListSpider)
+    process.start()
 
 
 if __name__ == "__main__":

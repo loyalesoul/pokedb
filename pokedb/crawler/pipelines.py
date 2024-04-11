@@ -21,6 +21,14 @@ class PokemonFilesPipeline(FilesPipeline):
         return "artworks/" + PurePosixPath(urlparse(request.url).path).name
 
 
+class PokemonURLsPipeline:
+    def process_item(self, item, spider):
+        if "pokemon_urls" not in spider.state:
+            spider.state["pokemon_urls"] = []
+        spider.state["pokemon_urls"].append(item["pokemon_url"])
+        return item
+
+
 class MongoPipeline:
     collection_name = "pokemon"
 

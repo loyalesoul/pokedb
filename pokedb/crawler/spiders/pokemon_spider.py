@@ -1,13 +1,48 @@
 import scrapy
 import logging
 from crawler.items import PokemonItem
+import tempfile
+import json
+import os
 
 logger = logging.getLogger(__name__)
 
 
+class PokemonListSpider(scrapy.Spider):
+    name = "pokemon_list"
+    allowed_domains = ["pokemondb.net"]
+    start_urls = ["https://pokemondb.net/pokedex/all"]
+
+    def __init__(self, *args, **kwargs):
+        super(PokemonListSpider, self).__init__(*args, **kwargs)
+        self.pokemon_urls = []
+
+    def parse(self, response):
+        pokemon_url = response.url
+        self.pokemon_urls.append(pokemon_url)
+        yield {
+            "pokemon_url": pokemon_url,
+        }
+
+    def closed(self, reason):
+        # After the spider is closed, write the parsed Pokémon URLs to a temporary file
+        with tempfile.NamedTemporaryFile(mode="w", delete=False) as temp_file:
+            json.dump(self.pokemon_urls, temp_file)
+            # temp_file_path = temp_file.name  # Store the temporary file path
+
+
 class PokemonSpider(scrapy.Spider):
     name = "pokemon"
-    start_urls = ["https://pokemondb.net/pokedex/Bulbasaur"]
+
+    def __init__(self, *args, **kwargs):
+        super(PokemonSpider, self).__init__(*args, **kwargs)
+
+        # Read URLs from the temporary file
+        with open(self.temp_file_path, "r") as temp_file:
+            self.start_urls = json.load(temp_file)
+
+        # Delete the temporary file
+        os.remove(self.temp_file_path)
 
     def parse_pokedex_entries(self, response):
         entries = {}
