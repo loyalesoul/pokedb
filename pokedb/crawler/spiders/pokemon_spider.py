@@ -1,6 +1,6 @@
 import scrapy
-import json
 import logging
+from crawler.items import PokemonItem
 
 logger = logging.getLogger(__name__)
 
@@ -219,30 +219,35 @@ class PokemonSpider(scrapy.Spider):
 
         return stats
 
-    def parse(self, response):
-        pokemon = {
-            "name": response.css("h1::text").get(),
-            **self.parse_pokedex_data(response),
-            "training": self.parse_training(response),
-            "breeding": self.parse_breeding(response),
-            "stats": self.parse_stats(response),
-            "evolution_chain": response.css(
-                "div.infocard-list-evo a.ent-name::text"
-            ).getall(),
-            "pokedex_entries": self.parse_pokedex_entries(response),
-            "moves_levelup": self.parse_moves_levelup(response),
-            "moves_tm": self.parse_moves_tm(response),
-            "moves_egg": self.parse_moves_egg(response),
-            "location": self.parse_location(response),
-            "other_languages": self.parse_other_languages(response),
-        }
+    def parse_evolution_chain(self, response):
+        return response.css("div.infocard-list-evo a.ent-name::text").getall()
 
-        # Save the data to a JSON file
-        with open(f'pokemon/{pokemon["name"]}.json', "w") as f:
-            json.dump(pokemon, f, indent=4)
+    def parse_artwork(self, response):
+        url = response.css("div.sv-tabs-panel.active p a::attr(href)").get()
+        return [url] if url else []
+
+    def parse(self, response):
+        # pokemon = {
+        #     "name": response.css("h1::text").get(),
+        #     **self.parse_pokedex_data(response),
+        #     "training": self.parse_training(response),
+        #     "breeding": self.parse_breeding(response),
+        #     "stats": self.parse_stats(response),
+        #     "evolution_chain": self.parse_evolution_chain(response),
+        #     "pokedex_entries": self.parse_pokedex_entries(response),
+        #     "moves_levelup": self.parse_moves_levelup(response),
+        #     "moves_tm": self.parse_moves_tm(response),
+        #     "moves_egg": self.parse_moves_egg(response),
+        #     "location": self.parse_location(response),
+        #     "other_languages": self.parse_other_languages(response),
+        # }
+        # l = ItemLoader(item=PokemonItem(), response=response)
+        # l.add_css("stock", "p#stock")
+        pkm = PokemonItem()
+        pkm["artwork_urls"] = self.parse_artwork(response)
 
         # Yield the data to Scrapy
-        yield pokemon
+        yield pkm
 
         # Follow the link to the next Pokemon's page
         next_page = response.css('a[rel="next"]::attr(href)').get()

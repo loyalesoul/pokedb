@@ -93,12 +93,12 @@ FEED_EXPORT_ENCODING = "utf-8"
 
 
 # settings.py
-FILES_STORE = "storage"
-IMAGE_STORE = "storage"
+FILES_STORE = ".storage"
+IMAGE_STORE = ".storage"
 FILES_EXPIRES = 0  # Never expire, always download
-
+FILES_URLS_FIELD = "artwork_urls"
 ITEM_PIPELINES = {
-    "crawler.pipelines.MyImagesPipeline": 1,
+    "crawler.pipelines.PokemonFilesPipeline": 1,
 }
 
 RETRY_TIMES = 2  # Number of times to retry failed requests
