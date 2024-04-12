@@ -20,11 +20,6 @@ class PokemonListSpider(scrapy.Spider):
             },
             priority="spider",
         )
-        settings.set(
-            "FILES_STORE",
-            ".storage",
-            priority="spider",
-        )
 
     def __init__(self, *args, **kwargs):
         super(PokemonListSpider, self).__init__(*args, **kwargs)
@@ -67,8 +62,8 @@ class PokemonSpider(scrapy.Spider):
         settings.set("FILES_URLS_FIELD", "artwork_urls", priority="spider")
 
     def start_requests(self):
-        # files_store = self.settings.get("FILES_STORE")
-        with open(".storage/pokemon_urls.txt", "r") as f:
+        files_store = self.settings.get("FILES_STORE")
+        with open(f"{files_store}/pokemon_urls.txt", "r") as f:
             urls = [url.strip() for url in f.readlines()]
 
         for url in urls:
@@ -289,7 +284,7 @@ class PokemonSpider(scrapy.Spider):
         return response.css("div.infocard-list-evo a.ent-name::text").getall()
 
     def parse_artwork(self, response):
-        url = response.css("div.sv-tabs-panel.active p a::attr(href)").get()
+        url = response.css("meta[property='og:image']::attr(content)").get()
         return [url] if url else []
 
     def parse_name(self, response):
