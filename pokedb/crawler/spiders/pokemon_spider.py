@@ -68,7 +68,7 @@ class PokemonSpider(scrapy.Spider):
 
     def start_requests(self):
         # files_store = self.settings.get("FILES_STORE")
-        with open("./storage/pokemon_urls.txt", "r") as f:
+        with open(".storage/pokemon_urls.txt", "r") as f:
             urls = [url.strip() for url in f.readlines()]
 
         for url in urls:
