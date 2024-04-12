@@ -8,7 +8,7 @@
 # from itemadapter import ItemAdapter
 
 from scrapy.pipelines.images import FilesPipeline
-from pathlib import PurePosixPath
+from pathlib import Path
 from urllib.parse import urlparse
 import pymongo
 from itemadapter import ItemAdapter
@@ -18,15 +18,27 @@ LOG_LEVEL = "INFO"
 
 class PokemonFilesPipeline(FilesPipeline):
     def file_path(self, request, response=None, info=None, *, item=None):
-        return "artworks/" + PurePosixPath(urlparse(request.url).path).name
+        return "artworks/" + Path(urlparse(request.url).path).name
 
 
 class PokemonURLsPipeline:
+    def __init__(self):
+        self.pokemon_urls = []
+
     def process_item(self, item, spider):
-        if "pokemon_urls" not in spider.state:
-            spider.state["pokemon_urls"] = []
-        spider.state["pokemon_urls"].append(item["pokemon_url"])
+        self.pokemon_urls.append(item["pokemon_url"])
         return item
+
+    def close_spider(self, spider):
+        # Save the list of URLs to a text file
+        files_store = spider.settings.get("FILES_STORE")
+        file_path = Path(files_store).joinpath("pokemon_urls.txt")
+
+        file_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with open(file_path, "w") as f:
+            for url in self.pokemon_urls:
+                f.write(url + "\n")
 
 
 class MongoPipeline:

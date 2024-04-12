@@ -1,9 +1,6 @@
 import scrapy
 import logging
 from crawler.items import PokemonItem
-import tempfile
-import json
-import os
 
 logger = logging.getLogger(__name__)
 
@@ -13,36 +10,64 @@ class PokemonListSpider(scrapy.Spider):
     allowed_domains = ["pokemondb.net"]
     start_urls = ["https://pokemondb.net/pokedex/all"]
 
+    @classmethod
+    def update_settings(cls, settings):
+        super().update_settings(settings)
+        settings.set(
+            "ITEM_PIPELINES",
+            {
+                "crawler.pipelines.PokemonURLsPipeline": 1,
+            },
+            priority="spider",
+        )
+
     def __init__(self, *args, **kwargs):
         super(PokemonListSpider, self).__init__(*args, **kwargs)
         self.pokemon_urls = []
 
     def parse(self, response):
-        pokemon_url = response.url
-        self.pokemon_urls.append(pokemon_url)
-        yield {
-            "pokemon_url": pokemon_url,
-        }
+        # Using XPath to extract the URLs
+        pokemon_urls = response.xpath('//td[@class="cell-name"]/a/@href').getall()
+        pokemon_urls = [response.urljoin(url) for url in pokemon_urls]
 
-    def closed(self, reason):
-        # After the spider is closed, write the parsed Pokémon URLs to a temporary file
-        with tempfile.NamedTemporaryFile(mode="w", delete=False) as temp_file:
-            json.dump(self.pokemon_urls, temp_file)
-            # temp_file_path = temp_file.name  # Store the temporary file path
+        # Remove duplicates
+        seen = set()
+        unique_urls = []
+        for pokemon_url in pokemon_urls:
+            if pokemon_url not in seen:
+                unique_urls.append(pokemon_url)
+                seen.add(pokemon_url)
+
+        for pokemon_url in unique_urls:
+            yield {
+                "pokemon_url": pokemon_url,
+            }
 
 
 class PokemonSpider(scrapy.Spider):
     name = "pokemon"
+    allowed_domains = ["pokemondb.net"]
 
-    def __init__(self, *args, **kwargs):
-        super(PokemonSpider, self).__init__(*args, **kwargs)
+    @classmethod
+    def update_settings(cls, settings):
+        super().update_settings(settings)
+        settings.set(
+            "ITEM_PIPELINES",
+            {
+                "crawler.pipelines.PokemonFilesPipeline": 2,
+                "crawler.pipelines.MongoPipeline": 3,
+            },
+            priority="spider",
+        )
+        settings.set("FILES_URLS_FIELD", "artwork_urls", priority="spider")
 
-        # Read URLs from the temporary file
-        with open(self.temp_file_path, "r") as temp_file:
-            self.start_urls = json.load(temp_file)
+    def start_requests(self):
+        files_store = self.settings.get("FILES_STORE")
+        with open(f"{files_store}/pokemon_urls.txt", "r") as f:
+            urls = [url.strip() for url in f.readlines()]
 
-        # Delete the temporary file
-        os.remove(self.temp_file_path)
+        for url in urls:
+            yield scrapy.Request(url=url, callback=self.parse)
 
     def parse_pokedex_entries(self, response):
         entries = {}
@@ -150,15 +175,16 @@ class PokemonSpider(scrapy.Spider):
 
         return languages
 
+    def parse_national_no(self, response):
+        return response.css(
+            'h2:contains("Pokédex data") + table.vitals-table tbody tr:nth-of-type(1) td::text'
+        ).get()
+
     def parse_attributes(self, response):
         data = {}
         selector_attributes = response.css(
             'h2:contains("Pokédex data") + table.vitals-table tbody'
         )
-
-        data["national_no"] = selector_attributes.css(
-            "tr:nth-of-type(1) td::text"
-        ).get()
 
         # Don't get type of mega and regional
         types = selector_attributes.css("tr:nth-of-type(2) td a::text").getall()
@@ -268,6 +294,7 @@ class PokemonSpider(scrapy.Spider):
         pkm = PokemonItem()
 
         pkm["name"] = self.parse_name(response)
+        pkm["national_no"] = self.parse_national_no(response)
         pkm["attributes"] = self.parse_attributes(response)
         pkm["training"] = self.parse_training(response)
         pkm["breeding"] = self.parse_breeding(response)
