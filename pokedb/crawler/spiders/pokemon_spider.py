@@ -309,8 +309,3 @@ class PokemonSpider(scrapy.Spider):
         pkm["artwork_urls"] = self.parse_artwork(response)
 
         yield pkm
-
-        # Follow the link to the next Pokemon's page
-        next_page = response.css('a[rel="next"]::attr(href)').get()
-        if next_page is not None:
-            yield response.follow(next_page, self.parse)
