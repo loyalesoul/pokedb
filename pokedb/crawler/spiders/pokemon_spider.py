@@ -177,7 +177,7 @@ class PokemonSpider(scrapy.Spider):
 
     def parse_national_no(self, response):
         return response.css(
-            'h2:contains("Pokédex data") + table.vitals-table tbody tr:nth-of-type(1) td::text'
+            'h2:contains("Pokédex data") + table.vitals-table tbody tr:nth-of-type(1) td strong::text'
         ).get()
 
     def parse_attributes(self, response):
