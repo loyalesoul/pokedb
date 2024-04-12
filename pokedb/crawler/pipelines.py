@@ -58,10 +58,16 @@ class MongoPipeline:
     def open_spider(self, spider):
         self.client = pymongo.MongoClient(self.mongo_uri)
         self.db = self.client[self.mongo_db]
+        self.db[self.collection_name].create_index("national_no", unique=True)
 
     def close_spider(self, spider):
         self.client.close()
 
     def process_item(self, item, spider):
-        self.db[self.collection_name].insert_one(ItemAdapter(item).asdict())
+        # Use update_one with upsert=True to perform an upsert operation
+        self.db[self.collection_name].update_one(
+            {"national_no": item["national_no"]},
+            {"$set": ItemAdapter(item).asdict()},
+            upsert=True,
+        )
         return item
