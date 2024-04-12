@@ -93,15 +93,17 @@ FEED_EXPORT_ENCODING = "utf-8"
 
 
 # settings.py
-FILES_STORE = ".storage"
+FILES_STORE = "s3://pokemon/"
 IMAGE_STORE = ".storage"
-FILES_EXPIRES = 0  # Never expire, always download
 
-RETRY_TIMES = 2  # Number of times to retry failed requests
-RETRY_HTTP_CODES = [500, 502, 503, 504, 522, 524]  # HTTP status codes to retry
+RETRY_TIMES = 3
 
 # Timeout settings
-DOWNLOAD_TIMEOUT = 3  # Timeout for requests in seconds
+DOWNLOAD_TIMEOUT = 5  # Timeout for requests in seconds
 
 MONGO_URI = "mongodb://localhost:27017/"
 MONGO_DATABASE = "pokedb"
+AWS_ENDPOINT_URL = "http://127.0.0.1:9000"
+IMAGES_STORE_S3_ACL = "public-read"
+AWS_ACCESS_KEY_ID = "minioadmin"
+AWS_SECRET_ACCESS_KEY = "minioadmin"
