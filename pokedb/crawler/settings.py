@@ -7,7 +7,8 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "googlebot"
+# BOT_NAME = "googlebot"
+
 
 SPIDER_MODULES = ["crawler.spiders"]
 NEWSPIDER_MODULE = "crawler.spiders"
@@ -30,9 +31,6 @@ CONCURRENT_REQUESTS = 32
 # CONCURRENT_REQUESTS_PER_DOMAIN = 16
 # CONCURRENT_REQUESTS_PER_IP = 16
 
-# Disable cookies (enabled by default)
-COOKIES_ENABLED = False
-
 # Disable Telnet Console (enabled by default)
 # TELNETCONSOLE_ENABLED = False
 
@@ -52,39 +50,6 @@ DOWNLOADER_MIDDLEWARES = {
     "scrapy.downloadermiddlewares.useragent.UserAgentMiddleware": None,
     "scrapy_user_agents.middlewares.RandomUserAgentMiddleware": 400,
 }
-
-# Enable or disable extensions
-# See https://docs.scrapy.org/en/latest/topics/extensions.html
-# EXTENSIONS = {
-#    "scrapy.extensions.telnet.TelnetConsole": None,
-# }
-
-# Configure item pipelines
-# See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-# ITEM_PIPELINES = {
-#    "crawler.pipelines.CrawlerPipeline": 300,
-# }
-
-# Enable and configure the AutoThrottle extension (disabled by default)
-# See https://docs.scrapy.org/en/latest/topics/autothrottle.html
-# AUTOTHROTTLE_ENABLED = True
-# The initial download delay
-# AUTOTHROTTLE_START_DELAY = 5
-# The maximum download delay to be set in case of high latencies
-# AUTOTHROTTLE_MAX_DELAY = 60
-# The average number of requests Scrapy should be sending in parallel to
-# each remote server
-# AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0
-# Enable showing throttling stats for every response received:
-# AUTOTHROTTLE_DEBUG = False
-
-# Enable and configure HTTP caching (disabled by default)
-# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
-# HTTPCACHE_ENABLED = True
-# HTTPCACHE_EXPIRATION_SECS = 0
-# HTTPCACHE_DIR = "httpcache"
-# HTTPCACHE_IGNORE_HTTP_CODES = []
-# HTTPCACHE_STORAGE = "scrapy.extensions.httpcache.FilesystemCacheStorage"
 
 # Set settings whose default value is deprecated to a future-proof value
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
@@ -107,3 +72,30 @@ AWS_ENDPOINT_URL = "http://127.0.0.1:9000"
 IMAGES_STORE_S3_ACL = "public-read"
 AWS_ACCESS_KEY_ID = "minioadmin"
 AWS_SECRET_ACCESS_KEY = "minioadmin"
+
+FEEDS = {"s3://pokemon/pokemon_list.json": {"format": "jsonlines"}}
+
+LOG_LEVEL = "DEBUG"
+COOKIES_ENABLED = False
+
+SPIDERMON_ENABLED = True
+
+EXTENSIONS = {
+    "spidermon.contrib.scrapy.extensions.Spidermon": 500,
+}
+
+SPIDERMON_MIN_ITEMS = 1025
+SPIDERMON_MAX_ITEM_VALIDATION_ERRORS = 1
+SPIDERMON_MAX_ERRORS = 1
+SPIDERMON_MAX_WARNINGS = 100
+SPIDERMON_MAX_DOWNLOADER_EXCEPTIONS = 10
+
+# SPIDERMON_VALIDATION_SCHEMAS = {
+#     PokemonItem: 'crawler/schemas/pokemon_item.json',
+# }
+
+SPIDERMON_ADD_FIELD_COVERAGE = True
+
+SPIDERMON_VALIDATION_ADD_ERRORS_TO_ITEMS = True
+
+SPIDERMON_DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1229277713974693928/TtUOOjUWh5t3EKhKmZ6Z89c5TXaZPrGOqd7hng2K3mkm9AmAffY_P9LtzL6J5C9Ty8sY"

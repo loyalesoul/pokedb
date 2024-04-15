@@ -33,10 +33,12 @@ def main():
     setup_logging()
 
     # Run PokemonListSpider
-    subprocess.run(["scrapy", "crawl", "pokemon_list"])
+    subprocess.run(
+        ["scrapy", "crawl", "pokemon_list", "-s", "LOG_FILE=pokemon_list.log"]
+    )
 
     # Run PokemonSpider after PokemonListSpider finishes
-    subprocess.run(["scrapy", "crawl", "pokemon"])
+    subprocess.run(["scrapy", "crawl", "pokemon", "-s", "LOG_FILE=pokemon.log"])
 
 
 if __name__ == "__main__":

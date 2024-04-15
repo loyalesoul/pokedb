@@ -21,26 +21,6 @@ class PokemonFilesPipeline(FilesPipeline):
         return "artworks/" + Path(urlparse(request.url).path).name
 
 
-class PokemonURLsPipeline:
-    def __init__(self):
-        self.pokemon_urls = []
-
-    def process_item(self, item, spider):
-        self.pokemon_urls.append(item["pokemon_url"])
-        return item
-
-    def close_spider(self, spider):
-        # Save the list of URLs to a text file
-        files_store = spider.settings.get("FILES_STORE")
-        file_path = Path(files_store).joinpath("pokemon_urls.txt")
-
-        file_path.parent.mkdir(parents=True, exist_ok=True)
-
-        with open(file_path, "w") as f:
-            for url in self.pokemon_urls:
-                f.write(url + "\n")
-
-
 class MongoPipeline:
     collection_name = "pokemon"
 

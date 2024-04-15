@@ -4,4 +4,6 @@ scrapy-user-agents
 Pillow
 pymongo
 minio
-botocore
+boto3
+spidermon
+jinja2

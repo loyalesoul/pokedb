@@ -1,6 +1,9 @@
 import scrapy
 import logging
-from crawler.items import PokemonItem
+from crawler.items import PokemonItem, PokemonList
+import boto3
+import json
+# from settings import AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY
 
 logger = logging.getLogger(__name__)
 
@@ -13,18 +16,6 @@ class PokemonListSpider(scrapy.Spider):
     @classmethod
     def update_settings(cls, settings):
         super().update_settings(settings)
-        settings.set(
-            "ITEM_PIPELINES",
-            {
-                "crawler.pipelines.PokemonURLsPipeline": 1,
-            },
-            priority="spider",
-        )
-        settings.set(
-            "FILES_STORE",
-            ".storage",
-            priority="spider",
-        )
 
     def __init__(self, *args, **kwargs):
         super(PokemonListSpider, self).__init__(*args, **kwargs)
@@ -32,21 +23,12 @@ class PokemonListSpider(scrapy.Spider):
 
     def parse(self, response):
         # Using XPath to extract the URLs
+        pokemon_list = PokemonList()
         pokemon_urls = response.xpath('//td[@class="cell-name"]/a/@href').getall()
         pokemon_urls = [response.urljoin(url) for url in pokemon_urls]
 
-        # Remove duplicates
-        seen = set()
-        unique_urls = []
-        for pokemon_url in pokemon_urls:
-            if pokemon_url not in seen:
-                unique_urls.append(pokemon_url)
-                seen.add(pokemon_url)
-
-        for pokemon_url in unique_urls:
-            yield {
-                "pokemon_url": pokemon_url,
-            }
+        pokemon_list["urls"] = pokemon_urls
+        yield pokemon_list
 
 
 class PokemonSpider(scrapy.Spider):
@@ -60,16 +42,32 @@ class PokemonSpider(scrapy.Spider):
             "ITEM_PIPELINES",
             {
                 "crawler.pipelines.PokemonFilesPipeline": 2,
-                "crawler.pipelines.MongoPipeline": 3,
+                "spidermon.contrib.scrapy.pipelines.ItemValidationPipeline": 3,
+                "crawler.pipelines.MongoPipeline": 4,
             },
             priority="spider",
         )
         settings.set("FILES_URLS_FIELD", "artwork_urls", priority="spider")
+        settings.set(
+            "SPIDERMON_SPIDER_CLOSE_MONITORS",
+            "crawler.monitors.CustomSpiderCloseMonitorSuite",
+            priority="spider",
+        )
 
     def start_requests(self):
-        # files_store = self.settings.get("FILES_STORE")
-        with open(".storage/pokemon_urls.txt", "r") as f:
-            urls = [url.strip() for url in f.readlines()]
+        s3 = boto3.client(
+            "s3",
+            endpoint_url="http://localhost:9000",
+            aws_access_key_id="minioadmin",
+            aws_secret_access_key="minioadmin",
+        )
+
+        bucket_name = "pokemon"
+        key = "pokemon_list.json"
+        obj = s3.get_object(Bucket=bucket_name, Key=key)
+        data = json.loads(obj["Body"].read())
+
+        urls = data.get("urls", [])
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -103,9 +101,9 @@ class PokemonSpider(scrapy.Spider):
             move = {}
             move["level"] = s.css("td:nth-of-type(1)::text").get()
             move["move"] = s.css("td.cell-name a.ent-name::text").get()
-            move["type"] = s.css("td.cell-icon a.type-icon::text").get()
+            move["type"] = s.css("td.cell-icon a.type-icon::text").get(default="")
             move["category"] = s.css("td.cell-icon img::attr(alt)").get()
-            move["power"] = s.css("td:nth-of-type(5)::text").get()
+            move["power"] = s.css("td:nth-of-type(5)::text").get(default="")
             move["accuracy"] = s.css("td:nth-of-type(6)::text").get()
 
             moves.append(move)
@@ -198,7 +196,7 @@ class PokemonSpider(scrapy.Spider):
         elif len(types) == 2 and types[0] != types[1]:
             data["type"] = types[:2]
         else:
-            data["type"] = types[0]
+            data["type"] = [types[0]]
 
         data["species"] = selector_attributes.css("tr:nth-of-type(3) td::text").get()
         data["height"] = selector_attributes.css("tr:nth-of-type(4) td::text").get()
@@ -206,7 +204,7 @@ class PokemonSpider(scrapy.Spider):
 
         abilities = selector_attributes.css("tr:nth-of-type(6) a::text").getall()
         if (len(abilities) >= 2) and (abilities[0] == abilities[1]):
-            data["abilities"] = abilities[0]
+            data["abilities"] = [abilities[0]]
         else:
             data["abilities"] = abilities[:2]
 
@@ -230,7 +228,7 @@ class PokemonSpider(scrapy.Spider):
         breeding["egg_cycle"] = (
             f"{egg_td_text.strip()} {egg_small_text.strip()}"
             if egg_td_text and egg_small_text
-            else None
+            else ""
         )
 
         return breeding

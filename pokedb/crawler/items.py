@@ -21,3 +21,8 @@ class PokemonItem(Item):
     location = Field()
     other_languages = Field()
     artwork_urls = Field()
+    _validation = Field()
+
+
+class PokemonList(Item):
+    urls = Field()

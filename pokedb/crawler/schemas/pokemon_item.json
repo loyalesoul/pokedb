@@ -1,0 +1,297 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Pokemon",
+    "type": "object",
+    "properties": {
+        "national_no": {
+            "type": "string"
+        },
+        "artwork_urls": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "format": "uri"
+            }
+        },
+        "attributes": {
+            "type": "object",
+            "properties": {
+                "type": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "species": {
+                    "type": "string"
+                },
+                "height": {
+                    "type": "string"
+                },
+                "weight": {
+                    "type": "string"
+                },
+                "abilities": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "type",
+                "species",
+                "height",
+                "weight",
+                "abilities"
+            ]
+        },
+        "breeding": {
+            "type": "object",
+            "properties": {
+                "egg_groups": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "gender_ratio": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "egg_cycle": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "egg_groups",
+                "gender_ratio",
+                "egg_cycle"
+            ]
+        },
+        "evolution_chain": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "location": {
+            "type": "object",
+            "additionalProperties": {
+                "type": "string"
+            }
+        },
+        "moves_egg": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "move": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "category": {
+                        "type": "string"
+                    },
+                    "power": {
+                        "type": "string"
+                    },
+                    "accuracy": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "move",
+                    "type",
+                    "category",
+                    "power",
+                    "accuracy"
+                ]
+            }
+        },
+        "moves_levelup": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "level": {
+                        "type": "string"
+                    },
+                    "move": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "category": {
+                        "type": "string"
+                    },
+                    "power": {
+                        "type": "string"
+                    },
+                    "accuracy": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "level",
+                    "move",
+                    "type",
+                    "category",
+                    "power",
+                    "accuracy"
+                ]
+            }
+        },
+        "moves_tm": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "tm": {
+                        "type": "string"
+                    },
+                    "move": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "category": {
+                        "type": "string"
+                    },
+                    "power": {
+                        "type": "string"
+                    },
+                    "accuracy": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "tm",
+                    "move",
+                    "type",
+                    "category",
+                    "power",
+                    "accuracy"
+                ]
+            }
+        },
+        "name": {
+            "type": "string"
+        },
+        "other_languages": {
+            "type": "object",
+            "properties": {
+                "English": {
+                    "type": "string"
+                },
+                "Japanese": {
+                    "type": "string"
+                },
+                "German": {
+                    "type": "string"
+                },
+                "French": {
+                    "type": "string"
+                },
+                "Italian": {
+                    "type": "string"
+                },
+                "Spanish": {
+                    "type": "string"
+                },
+                "Korean": {
+                    "type": "string"
+                },
+                "Chinese (Simplified)": {
+                    "type": "string"
+                },
+                "Chinese (Traditional)": {
+                    "type": "string"
+                }
+            }
+        },
+        "stats": {
+            "type": "object",
+            "properties": {
+                "hp": {
+                    "type": "string"
+                },
+                "attack": {
+                    "type": "string"
+                },
+                "defense": {
+                    "type": "string"
+                },
+                "sp. atk": {
+                    "type": "string"
+                },
+                "sp. def": {
+                    "type": "string"
+                },
+                "speed": {
+                    "type": "string"
+                },
+                "total": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "hp",
+                "attack",
+                "defense",
+                "sp. atk",
+                "sp. def",
+                "speed",
+                "total"
+            ]
+        },
+        "training": {
+            "type": "object",
+            "properties": {
+                "ev_yield": {
+                    "type": "string"
+                },
+                "catch_rate": {
+                    "type": "string"
+                },
+                "base_happiness": {
+                    "type": "string"
+                },
+                "base_exp": {
+                    "type": "string"
+                },
+                "growth_rate": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "ev_yield",
+                "catch_rate",
+                "base_happiness",
+                "base_exp",
+                "growth_rate"
+            ]
+        }
+    },
+    "required": [
+        "national_no",
+        "artwork_urls",
+        "attributes",
+        "breeding",
+        "evolution_chain",
+        "location",
+        "moves_egg",
+        "moves_levelup",
+        "moves_tm",
+        "name",
+        "other_languages",
+        "stats",
+        "training"
+    ]
+}
